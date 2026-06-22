@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="200" rx="0" fill="#1B5FA6"/><rect x="60" y="58" width="84" height="84" rx="20" fill="#FFD23F"/><text x="102" y="120" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="56" fill="#15497F" text-anchor="middle">3</text><text x="176" y="86" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="32" fill="#BBD2EA" text-anchor="start">거슬러 직진 금지 · 해안선과 나란히 옆으로</text><text x="176" y="150" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="54" fill="#FFFFFF" text-anchor="start">이안류 탈출법</text>
+<rect x="60" y="270" width="960" height="450" rx="0" fill="#2E86C1"/>
+<rect x="60" y="650" width="960" height="70" rx="0" fill="#EAD9A0"/>
+<polygon points="330,650 360,290 400,290 430,650" fill="#15497F"/>
+<circle cx="380" cy="490" r="26" fill="#ffffff"/>
+<line x1="380" y1="500" x2="380" y2="640" stroke="#E23B3B" stroke-width="13"/>
+<polygon points="358,628 402,628 380,668" fill="#E23B3B"/>
+<text x="230" y="580" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="30" fill="#FFD0D0" text-anchor="middle">거슬러 직진</text>
+<text x="230" y="618" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="28" fill="#FFD0D0" text-anchor="middle">(위험)</text>
+<line x1="380" y1="490" x2="630" y2="490" stroke="#FFD23F" stroke-width="13"/>
+<polygon points="618,470 618,510 658,490" fill="#FFD23F"/>
+<line x1="630" y1="490" x2="720" y2="650" stroke="#FFD23F" stroke-width="13"/>
+<text x="680" y="446" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="32" fill="#FFD23F" text-anchor="middle">옆으로 탈출</text>
+<rect x="60" y="770" width="960" height="118" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="126" cy="829" r="30" fill="#1B5FA6"/>
+<text x="126" y="843" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="190" y="843" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="36" fill="#1A2733" text-anchor="start">당황하지 말고 침착하게</text>
+<rect x="60" y="902" width="960" height="118" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="126" cy="961" r="30" fill="#1B5FA6"/>
+<text x="126" y="975" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="190" y="975" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="36" fill="#1A2733" text-anchor="start">거슬러(해안 직진) 헤엄치지 않기</text>
+<rect x="60" y="1034" width="960" height="118" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="126" cy="1093" r="30" fill="#1B5FA6"/>
+<text x="126" y="1107" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="190" y="1107" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="36" fill="#1A2733" text-anchor="start">해안선과 나란히 옆으로 빠져나오기</text>
+<rect x="60" y="1166" width="960" height="118" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="126" cy="1225" r="30" fill="#1B5FA6"/>
+<text x="126" y="1239" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="190" y="1239" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="36" fill="#1A2733" text-anchor="start">수영 미숙자는 뜨는 자세로 버티며 구조 요청</text>
+<rect x="0" y="1286" width="1080" height="64" rx="0" fill="#E8EEF5"/><text x="60" y="1326" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="normal" font-size="26" fill="#5B6B7C" text-anchor="start">출처: 해양수산부·기상청</text>
+</svg>

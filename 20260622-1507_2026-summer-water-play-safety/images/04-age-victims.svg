@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="200" rx="0" fill="#1B5FA6"/><rect x="60" y="58" width="84" height="84" rx="20" fill="#FFD23F"/><text x="102" y="120" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="56" fill="#15497F" text-anchor="middle">1</text><text x="176" y="86" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="32" fill="#BBD2EA" text-anchor="start">익수 응급환자 연령 분석</text><text x="176" y="150" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="54" fill="#FFFFFF" text-anchor="start">환자 10명 중 7명이 어린이·고령층</text>
+<rect x="60" y="290" width="960" height="128" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="368" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="40" fill="#1A2733" text-anchor="start">익수로 응급실 찾은 환자</text>
+<text x="980" y="368" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="46" fill="#1B5FA6" text-anchor="end">523명</text>
+<rect x="60" y="442" width="960" height="128" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="442" width="12" height="128" rx="0" fill="#E23B3B"/>
+<text x="100" y="520" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="40" fill="#1A2733" text-anchor="start">그중 사망</text>
+<text x="980" y="520" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="46" fill="#E23B3B" text-anchor="end">150명 (28.7%)</text>
+<rect x="60" y="594" width="960" height="128" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="672" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="40" fill="#1A2733" text-anchor="start">9세 이하 어린이</text>
+<text x="980" y="672" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="46" fill="#1B5FA6" text-anchor="end">29.6%</text>
+<rect x="60" y="746" width="960" height="128" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="824" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="40" fill="#1A2733" text-anchor="start">70세 이상</text>
+<text x="980" y="824" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="46" fill="#1B5FA6" text-anchor="end">27.3%</text>
+<rect x="60" y="898" width="960" height="128" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="898" width="12" height="128" rx="0" fill="#E23B3B"/>
+<text x="100" y="976" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="40" fill="#1A2733" text-anchor="start">사망자 중 70세 이상</text>
+<text x="980" y="976" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="46" fill="#E23B3B" text-anchor="end">51.7% (74명)</text>
+<rect x="0" y="1286" width="1080" height="64" rx="0" fill="#E8EEF5"/><text x="60" y="1326" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="normal" font-size="26" fill="#5B6B7C" text-anchor="start">출처: 질병관리청 응급실손상감시 2020~2024</text>
+</svg>

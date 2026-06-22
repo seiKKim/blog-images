@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="200" rx="0" fill="#1B5FA6"/><rect x="60" y="58" width="84" height="84" rx="20" fill="#FFD23F"/><text x="102" y="120" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="56" fill="#15497F" text-anchor="middle">4</text><text x="176" y="86" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="32" fill="#BBD2EA" text-anchor="start">반응확인 → 119/AED → 가슴압박</text><text x="176" y="150" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="54" fill="#FFFFFF" text-anchor="start">성인 심폐소생술(CPR)</text>
+<rect x="60" y="270" width="960" height="140.0" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="126" cy="340.0" r="32" fill="#1B5FA6"/>
+<text x="126" y="354.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="190" y="332.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="38" fill="#1A2733" text-anchor="start">반응 확인</text>
+<text x="190" y="378.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">양어깨 두드리며 의식·호흡 확인</text>
+<rect x="60" y="426.0" width="960" height="140.0" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="126" cy="496.0" r="32" fill="#1B5FA6"/>
+<text x="126" y="510.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="190" y="488.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="38" fill="#1A2733" text-anchor="start">119 신고 + AED</text>
+<text x="190" y="534.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">주변 사람 지목해 신고·AED 요청</text>
+<rect x="60" y="582.0" width="960" height="140.0" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="126" cy="652.0" r="32" fill="#1B5FA6"/>
+<text x="126" y="666.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="190" y="644.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="38" fill="#1A2733" text-anchor="start">압박 위치</text>
+<text x="190" y="690.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">가슴뼈 아래쪽 중앙, 두 손 겹치기</text>
+<rect x="60" y="738.0" width="960" height="140.0" rx="18" fill="#FFF3D6" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="126" cy="808.0" r="32" fill="#E23B3B"/>
+<text x="126" y="822.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="190" y="800.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="38" fill="#1A2733" text-anchor="start">가슴압박</text>
+<text x="190" y="846.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="normal" font-size="30" fill="#15497F" text-anchor="start">분당 100~120회 · 약 5cm 깊이 · 30회</text>
+<rect x="60" y="894.0" width="960" height="140.0" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="126" cy="964.0" r="32" fill="#1B5FA6"/>
+<text x="126" y="978.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="190" y="956.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="38" fill="#1A2733" text-anchor="start">인공호흡(가능 시)</text>
+<text x="190" y="1002.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">코 막고 약 1초간 2회 불어넣기</text>
+<rect x="60" y="1050.0" width="960" height="140.0" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="126" cy="1120.0" r="32" fill="#1B5FA6"/>
+<text x="126" y="1134.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">6</text>
+<text x="190" y="1112.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="38" fill="#1A2733" text-anchor="start">반복</text>
+<text x="190" y="1158.0" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">압박 30회+호흡 2회, 구급대 도착까지</text>
+<rect x="0" y="1286" width="1080" height="64" rx="0" fill="#E8EEF5"/><text x="60" y="1326" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="normal" font-size="26" fill="#5B6B7C" text-anchor="start">출처: 소방청·중앙응급의료센터</text>
+</svg>

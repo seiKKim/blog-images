@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect x="0" y="0" width="1080" height="1080" rx="0" fill="#1B5FA6"/>
+<circle cx="980" cy="170" r="300" fill="#ffffff" opacity="0.09"/>
+<circle cx="90" cy="1010" r="230" fill="#ffffff" opacity="0.06"/>
+<rect x="0" y="900" width="1080" height="180" rx="0" fill="#15497F"/>
+<rect x="80" y="96" width="224" height="72" rx="36" fill="#FFD23F"/>
+<text x="192" y="142" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="34" fill="#1A1A1A" text-anchor="middle">여름 안전정보</text>
+<rect x="80" y="210" width="480" height="90" rx="45" fill="#E23B3B"/>
+<text x="320" y="270" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="36" fill="#FFFFFF" text-anchor="middle">사망자 32명 전원 미착용</text>
+<text x="80" y="400" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="62" fill="#E8EEF5" text-anchor="start">2026 여름 물놀이</text>
+<text x="80" y="560" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="150" fill="#FFFFFF" text-anchor="start">안전수칙</text>
+<text x="80" y="745" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="150" fill="#FFD23F" text-anchor="start">총정리</text>
+<rect x="80" y="848" width="920" height="114" rx="22" fill="#ffffff"/><rect x="80" y="848" width="920" height="114" rx="22" fill="#ffffff" opacity="0.16"/>
+<text x="540" y="920" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">계곡 · 해수욕장 이안류 · 익수 예방</text>
+<text x="80" y="1030" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="38" fill="#FFD23F" text-anchor="start">수심 낮아도 구명조끼는 필수!</text>
+</svg>

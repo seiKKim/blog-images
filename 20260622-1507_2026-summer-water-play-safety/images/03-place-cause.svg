@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="200" rx="0" fill="#1B5FA6"/><rect x="60" y="58" width="84" height="84" rx="20" fill="#FFD23F"/><text x="102" y="120" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="56" fill="#15497F" text-anchor="middle">1</text><text x="176" y="86" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="32" fill="#BBD2EA" text-anchor="start">장소별 · 원인별 사망자 비중</text><text x="176" y="150" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="54" fill="#FFFFFF" text-anchor="start">하천·계곡이 가장 위험</text>
+<text x="60" y="268" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="38" fill="#1B5FA6" text-anchor="start">장소별 비중</text>
+<text x="60" y="350" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="34" fill="#1A2733" text-anchor="start">하천·강</text>
+<rect x="320" y="320" width="520" height="44" rx="14" fill="#E2EAF3"/>
+<rect x="320" y="320" width="182" height="44" rx="14" fill="#E23B3B"/>
+<text x="1020" y="350" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="32" fill="#E23B3B" text-anchor="end">35% (39명)</text>
+<text x="60" y="428" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="34" fill="#1A2733" text-anchor="start">계곡</text>
+<rect x="320" y="398" width="520" height="44" rx="14" fill="#E2EAF3"/>
+<rect x="320" y="398" width="156" height="44" rx="14" fill="#E23B3B"/>
+<text x="1020" y="428" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="32" fill="#E23B3B" text-anchor="end">30% (33명)</text>
+<text x="60" y="506" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="34" fill="#1A2733" text-anchor="start">해수욕장</text>
+<rect x="320" y="476" width="520" height="44" rx="14" fill="#E2EAF3"/>
+<rect x="320" y="476" width="114" height="44" rx="14" fill="#1B5FA6"/>
+<text x="1020" y="506" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="32" fill="#1B5FA6" text-anchor="end">22% (25명)</text>
+<text x="60" y="584" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="34" fill="#1A2733" text-anchor="start">바닷가·갯벌</text>
+<rect x="320" y="554" width="520" height="44" rx="14" fill="#E2EAF3"/>
+<rect x="320" y="554" width="67" height="44" rx="14" fill="#9DBCDD"/>
+<text x="1020" y="584" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="32" fill="#9DBCDD" text-anchor="end">13% (15명)</text>
+<text x="60" y="670" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="38" fill="#1B5FA6" text-anchor="start">원인별 비중</text>
+<text x="60" y="752" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="34" fill="#1A2733" text-anchor="start">안전부주의</text>
+<rect x="360" y="722" width="480" height="44" rx="14" fill="#E2EAF3"/>
+<rect x="360" y="722" width="177" height="44" rx="14" fill="#E23B3B"/>
+<text x="1020" y="752" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="34" fill="#E23B3B" text-anchor="end">37%</text>
+<text x="60" y="830" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="34" fill="#1A2733" text-anchor="start">수영미숙</text>
+<rect x="360" y="800" width="480" height="44" rx="14" fill="#E2EAF3"/>
+<rect x="360" y="800" width="163" height="44" rx="14" fill="#1B5FA6"/>
+<text x="1020" y="830" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="34" fill="#1B5FA6" text-anchor="end">34%</text>
+<text x="60" y="908" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="34" fill="#1A2733" text-anchor="start">음주수영</text>
+<rect x="360" y="878" width="480" height="44" rx="14" fill="#E2EAF3"/>
+<rect x="360" y="878" width="81" height="44" rx="14" fill="#E8722C"/>
+<text x="1020" y="908" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="34" fill="#E8722C" text-anchor="end">17%</text>
+<text x="60" y="986" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="34" fill="#1A2733" text-anchor="start">높은 파도·급류</text>
+<rect x="360" y="956" width="480" height="44" rx="14" fill="#E2EAF3"/>
+<rect x="360" y="956" width="33" height="44" rx="14" fill="#9DBCDD"/>
+<text x="1020" y="986" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="34" fill="#9DBCDD" text-anchor="end">7%</text>
+<rect x="60" y="1054" width="960" height="150" rx="20" fill="#FFF3D6"/>
+<text x="96" y="1149" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold" font-size="37" fill="#15497F" text-anchor="start">구명조끼·금주만 했어도 막을 수 있던 사고</text>
+<rect x="0" y="1286" width="1080" height="64" rx="0" fill="#E8EEF5"/><text x="60" y="1326" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="normal" font-size="26" fill="#5B6B7C" text-anchor="start">출처: 행정안전부 2020~2024</text>
+</svg>
