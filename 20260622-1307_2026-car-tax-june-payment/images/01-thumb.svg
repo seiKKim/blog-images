@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#1F8A53"/>
+<circle cx="950" cy="170" r="250" fill="#2E9C63"/>
+<circle cx="130" cy="990" r="200" fill="#28945C"/>
+<rect x="80" y="86" rx="27" ry="27" width="172" height="54" fill="#FFD23F"/><text x="166" y="124" font-family="Noto Sans CJK KR" font-weight="bold" font-size="27" fill="#1A1A1A" text-anchor="middle">세금/환급</text>
+<text x="80" y="268" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#E8EEF5" text-anchor="start">2026 자동차세 정기분</text>
+<text x="80" y="440" font-family="Noto Sans CJK KR" font-weight="900" font-size="132" fill="#FFFFFF" text-anchor="start">납부기한</text>
+<text x="80" y="598" font-family="Noto Sans CJK KR" font-weight="900" font-size="150" fill="#FFD23F" text-anchor="start">7월 3일(금)</text>
+<text x="80" y="748" font-family="Noto Sans CJK KR" font-weight="900" font-size="96" fill="#FFFFFF" text-anchor="start">까지 연장</text>
+<rect x="80" y="812" rx="22" width="920" height="132" fill="#28945C"/>
+<text x="112" y="892" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#FFFFFF" text-anchor="start">6/30 → 7/3  ·  가산금 걱정 없이</text>
+<rect x="740" y="250" rx="24" width="230" height="230" fill="#FFFFFF"/>
+<rect x="740" y="250" width="230" height="64" fill="#16663C"/>
+<text x="855" y="294" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#FFFFFF" text-anchor="middle">JULY</text>
+<text x="855" y="440" font-family="Noto Sans CJK KR" font-weight="900" font-size="120" fill="#1F8A53" text-anchor="middle">3</text>
+<text x="80" y="1018" font-family="Noto Sans CJK KR" font-weight="normal" font-size="32" fill="#E8EEF5" text-anchor="start">blog.naver.com/trip_chocho</text>
+</svg>

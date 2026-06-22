@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="200" fill="#1F8A53"/><rect x="60" y="32" rx="27" ry="27" width="172" height="54" fill="#FFD23F"/><text x="146" y="70" font-family="Noto Sans CJK KR" font-weight="bold" font-size="27" fill="#1A1A1A" text-anchor="middle">세금/환급</text><text x="60" y="160" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#FFFFFF" text-anchor="start">자동차세 납부 방법 7가지</text>
+<rect x="60" y="250" width="960" height="130" rx="16" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="130" cy="315" r="40" fill="#1F8A53"/>
+<text x="130" y="330" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="200" y="308" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1A1A1A" text-anchor="start">위택스</text>
+<text x="200" y="358" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">wetax.go.kr · 앱 스마트위택스</text>
+<rect x="60" y="398" width="960" height="130" rx="16" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="130" cy="463" r="40" fill="#1F8A53"/>
+<text x="130" y="478" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="200" y="456" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1A1A1A" text-anchor="start">서울 ETAX/STAX</text>
+<text x="200" y="506" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">etax.seoul.go.kr · 앱 STAX</text>
+<rect x="60" y="546" width="960" height="130" rx="16" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="130" cy="611" r="40" fill="#1F8A53"/>
+<text x="130" y="626" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="200" y="604" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1A1A1A" text-anchor="start">인터넷지로</text>
+<text x="200" y="654" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">온라인 납부</text>
+<rect x="60" y="694" width="960" height="130" rx="16" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="130" cy="759" r="40" fill="#1F8A53"/>
+<text x="130" y="774" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="200" y="752" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1A1A1A" text-anchor="start">ARS 전화</text>
+<text x="200" y="802" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">고지서·지자체 번호 확인</text>
+<rect x="60" y="842" width="960" height="130" rx="16" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="130" cy="907" r="40" fill="#1F8A53"/>
+<text x="130" y="922" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="200" y="900" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1A1A1A" text-anchor="start">은행 CD/ATM · 가상계좌</text>
+<text x="200" y="950" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">계좌이체 입금</text>
+<rect x="60" y="990" width="960" height="130" rx="16" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="130" cy="1055" r="40" fill="#1F8A53"/>
+<text x="130" y="1070" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#FFFFFF" text-anchor="middle">6</text>
+<text x="200" y="1048" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1A1A1A" text-anchor="start">방문 납부</text>
+<text x="200" y="1098" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">주민센터·은행 창구(고지서 지참)</text>
+<rect x="60" y="1138" width="960" height="130" rx="16" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="130" cy="1203" r="40" fill="#1F8A53"/>
+<text x="130" y="1218" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#FFFFFF" text-anchor="middle">7</text>
+<text x="200" y="1196" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1A1A1A" text-anchor="start">간편결제 앱</text>
+<text x="200" y="1246" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">카카오·네이버·토스·페이코</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/><text x="60" y="1320" font-family="Noto Sans CJK KR" font-weight="normal" font-size="28" fill="#5B6B7C" text-anchor="start">출처: 위택스(wetax.go.kr) · 행정안전부 · draft 본문 기준</text>
+</svg>

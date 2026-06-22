@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="200" fill="#1F8A53"/><rect x="60" y="32" rx="27" ry="27" width="172" height="54" fill="#FFD23F"/><text x="146" y="70" font-family="Noto Sans CJK KR" font-weight="bold" font-size="27" fill="#1A1A1A" text-anchor="middle">세금/환급</text><text x="60" y="160" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#FFFFFF" text-anchor="start">연납 시기별 실질 할인율</text>
+<text x="60" y="255" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1F8A53" text-anchor="start">신청이 늦을수록 할인폭이 줄어듭니다</text>
+<rect x="130" y="420" width="150" height="560" rx="12" fill="#1F8A53"/>
+<text x="205.0" y="390.0" font-family="Noto Sans CJK KR" font-weight="900" font-size="36" fill="#1A1A1A" text-anchor="middle">4.58%</text>
+<text x="205.0" y="1038" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1A1A1A" text-anchor="middle">1월</text>
+<text x="205.0" y="1088" font-family="Noto Sans CJK KR" font-weight="normal" font-size="26" fill="#5B6B7C" text-anchor="middle">2~12월</text>
+<rect x="370" y="520" width="150" height="460" rx="12" fill="#1F8A53"/>
+<text x="445.0" y="490.2620087336245" font-family="Noto Sans CJK KR" font-weight="900" font-size="36" fill="#1A1A1A" text-anchor="middle">3.76%</text>
+<text x="445.0" y="1038" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1A1A1A" text-anchor="middle">3월</text>
+<text x="445.0" y="1088" font-family="Noto Sans CJK KR" font-weight="normal" font-size="26" fill="#5B6B7C" text-anchor="middle">4~12월</text>
+<rect x="610" y="673" width="150" height="307" rx="12" fill="#1F8A53"/>
+<text x="685.0" y="643.1004366812228" font-family="Noto Sans CJK KR" font-weight="900" font-size="36" fill="#1A1A1A" text-anchor="middle">2.51%</text>
+<text x="685.0" y="1038" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1A1A1A" text-anchor="middle">6월</text>
+<text x="685.0" y="1088" font-family="Noto Sans CJK KR" font-weight="normal" font-size="26" fill="#5B6B7C" text-anchor="middle">7~12월</text>
+<rect x="850" y="827" width="150" height="153" rx="12" fill="#E3556E"/>
+<text x="925.0" y="797.1615720524018" font-family="Noto Sans CJK KR" font-weight="900" font-size="36" fill="#1A1A1A" text-anchor="middle">1.25%</text>
+<text x="925.0" y="1038" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1A1A1A" text-anchor="middle">9월</text>
+<text x="925.0" y="1088" font-family="Noto Sans CJK KR" font-weight="normal" font-size="26" fill="#5B6B7C" text-anchor="middle">10~12월</text>
+<line x1="100" y1="980" x2="1000" y2="980" stroke="#D6E0EC" stroke-width="3"/>
+<rect x="60" y="1110" width="960" height="130" rx="16" fill="#EBF7F0" stroke="#1F8A53" stroke-width="3"/>
+<text x="100" y="1168" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#1A1A1A" text-anchor="start">다음 신청: 9월(16~30일) · 할인폭 최대는 2027년 1월</text>
+<text x="100" y="1215" font-family="Noto Sans CJK KR" font-weight="normal" font-size="28" fill="#5B6B7C" text-anchor="start">※ 적용 이자율은 매년 시행령에 따라 변동 가능</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/><text x="60" y="1320" font-family="Noto Sans CJK KR" font-weight="normal" font-size="28" fill="#5B6B7C" text-anchor="start">출처: 지방세법 시행령 · 행정안전부 · draft 본문 기준</text>
+</svg>

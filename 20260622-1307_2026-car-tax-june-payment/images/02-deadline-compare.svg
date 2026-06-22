@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="200" fill="#1F8A53"/><rect x="60" y="32" rx="27" ry="27" width="172" height="54" fill="#FFD23F"/><text x="146" y="70" font-family="Noto Sans CJK KR" font-weight="bold" font-size="27" fill="#1A1A1A" text-anchor="middle">세금/환급</text><text x="60" y="160" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#FFFFFF" text-anchor="start">납부기한 한눈에</text>
+<rect x="60" y="280" width="960" height="150" rx="16" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="370" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1A1A1A" text-anchor="start">통상 납부기간</text>
+<text x="980" y="372" font-family="Noto Sans CJK KR" font-weight="900" font-size="48" fill="#1A1A1A" text-anchor="end">6/16 ~ 6/30</text>
+<rect x="60" y="458" width="960" height="150" rx="16" fill="#EBF7F0" stroke="#1F8A53" stroke-width="4"/>
+<text x="100" y="548" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1A1A1A" text-anchor="start">2026년 연장 기한</text>
+<text x="980" y="550" font-family="Noto Sans CJK KR" font-weight="900" font-size="48" fill="#1F8A53" text-anchor="end">7월 3일(금)까지</text>
+<rect x="60" y="636" width="960" height="150" rx="16" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="726" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1A1A1A" text-anchor="start">과세대상</text>
+<text x="980" y="728" font-family="Noto Sans CJK KR" font-weight="900" font-size="48" fill="#1A1A1A" text-anchor="end">6/1 기준 차량 소유자</text>
+<rect x="60" y="814" width="960" height="150" rx="16" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="904" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1A1A1A" text-anchor="start">해당 과세기간</text>
+<text x="980" y="906" font-family="Noto Sans CJK KR" font-weight="900" font-size="48" fill="#1A1A1A" text-anchor="end">1~6월분</text>
+<rect x="60" y="1002" width="960" height="150" rx="16" fill="#1F8A53"/>
+<text x="540" y="1064" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">6월 30일 지나도 가산금 없음</text>
+<text x="540" y="1120" font-family="Noto Sans CJK KR" font-weight="normal" font-size="38" fill="#E8EEF5" text-anchor="middle">7월 3일 안에만 내면 OK</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/><text x="60" y="1320" font-family="Noto Sans CJK KR" font-weight="normal" font-size="28" fill="#5B6B7C" text-anchor="start">출처: 위택스(wetax.go.kr) · 행정안전부 · draft 본문 기준</text>
+</svg>

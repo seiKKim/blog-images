@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="200" fill="#1F8A53"/><rect x="60" y="32" rx="27" ry="27" width="172" height="54" fill="#FFD23F"/><text x="146" y="70" font-family="Noto Sans CJK KR" font-weight="bold" font-size="27" fill="#1A1A1A" text-anchor="middle">세금/환급</text><text x="60" y="160" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#FFFFFF" text-anchor="start">카드 납부 수수료</text>
+<rect x="60" y="260" width="960" height="280" rx="20" fill="#1F8A53"/>
+<text x="540" y="375" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#E8EEF5" text-anchor="middle">지방세(자동차세)</text>
+<text x="540" y="495" font-family="Noto Sans CJK KR" font-weight="900" font-size="76" fill="#FFD23F" text-anchor="middle">카드 수수료 0원</text>
+<text x="60" y="635" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1A1A1A" text-anchor="start">세금 종류별 카드 수수료</text>
+<rect x="60" y="680" width="960" height="90" rx="12" fill="#16663C"/>
+<text x="270" y="738" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#FFFFFF" text-anchor="middle">구분</text>
+<text x="630" y="738" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#FFFFFF" text-anchor="middle">신용카드</text>
+<text x="900" y="738" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#FFFFFF" text-anchor="middle">체크카드</text>
+<rect x="60" y="782" width="960" height="110" rx="12" fill="#EBF7F0" stroke="#D6E0EC" stroke-width="2"/>
+<text x="270" y="850" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1A1A1A" text-anchor="middle">지방세</text>
+<text x="630" y="850" font-family="Noto Sans CJK KR" font-weight="900" font-size="38" fill="#1F8A53" text-anchor="middle">없음</text>
+<text x="900" y="850" font-family="Noto Sans CJK KR" font-weight="900" font-size="38" fill="#1F8A53" text-anchor="middle">없음</text>
+<rect x="60" y="902" width="960" height="110" rx="12" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<text x="270" y="970" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1A1A1A" text-anchor="middle">국세(참고)</text>
+<text x="630" y="970" font-family="Noto Sans CJK KR" font-weight="900" font-size="38" fill="#1A1A1A" text-anchor="middle">0.8%</text>
+<text x="900" y="970" font-family="Noto Sans CJK KR" font-weight="900" font-size="38" fill="#1A1A1A" text-anchor="middle">0.5%</text>
+<rect x="60" y="1040" width="960" height="190" rx="16" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="1108" font-family="Noto Sans CJK KR" font-weight="bold" font-size="33" fill="#1A1A1A" text-anchor="start">무이자 할부는 카드사별 상이 (6·10·12개월 등)</text>
+<text x="100" y="1168" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">결제 전 자동차세 포함 여부 확인 · 포인트 적립 제외 일반적</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/><text x="60" y="1320" font-family="Noto Sans CJK KR" font-weight="normal" font-size="28" fill="#5B6B7C" text-anchor="start">출처: 위택스(wetax.go.kr) · 행정안전부 · draft 본문 기준</text>
+</svg>
