@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">세대원 수별 연간 총 지원금액</text>
+  <text x="60" y="170" font-family="Noto Sans CJK KR" font-size="36" fill="#E8EEF5">2026년 · 여름·겨울 구분 없이 사용</text>
+
+  <!-- 막대그래프: 최대값 701,300 기준 (막대 영역 폭 760px) -->
+  <!-- 1인 295,200 -> 320px -->
+  <text x="60" y="375" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">1인 세대</text>
+  <rect x="60" y="400" width="320" height="90" rx="12" fill="#7FA8D0"/>
+  <text x="400" y="462" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1B5FA6">295,200원</text>
+
+  <!-- 2인 407,500 -> 442px -->
+  <text x="60" y="585" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">2인 세대</text>
+  <rect x="60" y="610" width="442" height="90" rx="12" fill="#4E86C0"/>
+  <text x="522" y="672" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1B5FA6">407,500원</text>
+
+  <!-- 3인 532,700 -> 577px -->
+  <text x="60" y="795" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">3인 세대</text>
+  <rect x="60" y="820" width="577" height="90" rx="12" fill="#2D6DB0"/>
+  <text x="657" y="882" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1B5FA6">532,700원</text>
+
+  <!-- 4인 이상 701,300 -> 760px -->
+  <text x="60" y="1005" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">4인 이상 세대</text>
+  <rect x="60" y="1030" width="760" height="90" rx="12" fill="#1B5FA6"/>
+  <text x="60" y="1092" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#FFD23F">701,300원</text>
+
+  <rect x="60" y="1170" width="960" height="80" rx="16" fill="#FFF6DA" stroke="#FFD23F"/>
+  <text x="90" y="1222" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#9A6B00">※ 월 지급액이 아닌 연간 총액 기준</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 에너지바우처 공식사이트(energyv.or.kr)</text>
+</svg>

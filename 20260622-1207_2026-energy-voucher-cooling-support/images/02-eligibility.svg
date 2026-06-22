@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">지원 대상 — 두 기준 모두 충족</text>
+
+  <!-- 소득기준 카드 -->
+  <rect x="60" y="250" width="960" height="360" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="250" width="960" height="80" rx="20" fill="#E8EEF5"/>
+  <text x="100" y="305" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1B5FA6">① 소득기준 (자격요건)</text>
+  <text x="100" y="395" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1a1a1a">국민기초생활보장법 수급자</text>
+  <text x="100" y="470" font-family="Noto Sans CJK KR" font-size="38" fill="#333333">생계급여 · 의료급여</text>
+  <text x="100" y="540" font-family="Noto Sans CJK KR" font-size="38" fill="#333333">주거급여 · 교육급여 수급자</text>
+
+  <!-- 세대원 특성기준 카드 -->
+  <rect x="60" y="650" width="960" height="560" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="650" width="960" height="80" rx="20" fill="#E8EEF5"/>
+  <text x="100" y="705" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1B5FA6">② 세대원 특성기준 (1명 이상)</text>
+  <text x="100" y="790" font-family="Noto Sans CJK KR" font-size="38" fill="#333333">· 노인(만 65세 이상)   · 영유아</text>
+  <text x="100" y="855" font-family="Noto Sans CJK KR" font-size="38" fill="#333333">· 장애인(등록)   · 임산부</text>
+  <text x="100" y="920" font-family="Noto Sans CJK KR" font-size="38" fill="#333333">· 중증·희귀·중증난치질환자</text>
+  <text x="100" y="985" font-family="Noto Sans CJK KR" font-size="38" fill="#333333">· 한부모가족   · 소년소녀가정</text>
+  <rect x="100" y="1030" width="700" height="120" rx="16" fill="#FFF6DA" stroke="#FFD23F"/>
+  <text x="130" y="1085" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#9A6B00">· 다자녀세대</text>
+  <text x="130" y="1130" font-family="Noto Sans CJK KR" font-size="30" fill="#9A6B00">2026년 신규·확대 대상</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 에너지바우처 공식사이트(energyv.or.kr)</text>
+</svg>

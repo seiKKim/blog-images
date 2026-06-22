@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">신청 기간 · 사용 기간 일정</text>
+
+  <!-- 신청기간 블록 -->
+  <rect x="60" y="270" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="270" width="14" height="200" rx="7" fill="#FFD23F"/>
+  <text x="110" y="345" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1B5FA6">신청 기간</text>
+  <text x="110" y="430" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#1a1a1a">2026.6.15 ~ 2026.12.31</text>
+
+  <!-- 사용(지원) 기간 블록 -->
+  <rect x="60" y="510" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="510" width="14" height="200" rx="7" fill="#1B5FA6"/>
+  <text x="110" y="585" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1B5FA6">사용(지원) 기간</text>
+  <text x="110" y="670" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#1a1a1a">2026.7.1 ~ 2027.5.31</text>
+
+  <!-- 하절기/동절기 -->
+  <rect x="60" y="760" width="465" height="290" rx="20" fill="#FFF1E9" stroke="#E8722C"/>
+  <text x="90" y="835" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#E8722C">하절기(여름)</text>
+  <text x="90" y="910" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1a1a1a">7.1 ~ 9.30</text>
+  <text x="90" y="985" font-family="Noto Sans CJK KR" font-size="34" fill="#555555">냉방비(전기요금)</text>
+
+  <rect x="555" y="760" width="465" height="290" rx="20" fill="#EAF1FA" stroke="#1B5FA6"/>
+  <text x="585" y="835" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1B5FA6">동절기(겨울)</text>
+  <text x="585" y="910" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1a1a1a">10.1 ~ 2027.5.31</text>
+  <text x="585" y="985" font-family="Noto Sans CJK KR" font-size="34" fill="#555555">난방비</text>
+
+  <rect x="60" y="1090" width="960" height="120" rx="16" fill="#FFF6DA" stroke="#FFD23F"/>
+  <text x="90" y="1145" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#9A6B00">여름 냉방비는 6.15 신청 시작 후</text>
+  <text x="90" y="1190" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#9A6B00">가급적 일찍 신청하는 것이 유리</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 에너지바우처 공식사이트(energyv.or.kr)</text>
+</svg>

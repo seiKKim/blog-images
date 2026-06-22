@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">여름·겨울 사용 방식 비교</text>
+
+  <!-- 여름 카드 -->
+  <rect x="60" y="270" width="960" height="380" rx="20" fill="#FFF1E9" stroke="#E8722C"/>
+  <rect x="60" y="270" width="960" height="90" rx="20" fill="#E8722C"/>
+  <text x="100" y="332" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#ffffff">하절기(여름) 바우처</text>
+  <text x="100" y="430" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">요금차감 방식</text>
+  <text x="100" y="500" font-family="Noto Sans CJK KR" font-size="38" fill="#444444">주로 전기요금에 적용</text>
+  <text x="100" y="565" font-family="Noto Sans CJK KR" font-size="34" fill="#666666">요금고지서 지참해 읍·면·동 신청 →</text>
+  <text x="100" y="615" font-family="Noto Sans CJK KR" font-size="34" fill="#666666">다음 달부터 자동 차감</text>
+
+  <!-- 겨울 카드 -->
+  <rect x="60" y="690" width="960" height="450" rx="20" fill="#EAF1FA" stroke="#1B5FA6"/>
+  <rect x="60" y="690" width="960" height="90" rx="20" fill="#1B5FA6"/>
+  <text x="100" y="752" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#ffffff">동절기(겨울) 바우처</text>
+  <text x="100" y="850" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">① 요금차감</text>
+  <text x="130" y="910" font-family="Noto Sans CJK KR" font-size="36" fill="#444444">전기 · 도시가스 · 지역난방 중 선택</text>
+  <text x="100" y="985" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">② 국민행복카드</text>
+  <text x="130" y="1045" font-family="Noto Sans CJK KR" font-size="36" fill="#444444">등유 · LPG · 연탄 직접 구입</text>
+  <text x="130" y="1100" font-family="Noto Sans CJK KR" font-size="32" fill="#888888">※ 은행 창구·공과금수납기 사용 불가</text>
+
+  <rect x="60" y="1170" width="960" height="80" rx="16" fill="#FFF6DA" stroke="#FFD23F"/>
+  <text x="90" y="1222" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#9A6B00">잔액조회: energyv.or.kr · 콜센터 1600-3190</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 에너지바우처 공식사이트(energyv.or.kr)</text>
+</svg>
