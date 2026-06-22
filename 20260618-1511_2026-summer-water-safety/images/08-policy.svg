@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" ry="0" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="210" rx="0" ry="0" fill="#E0556E"/>
+<rect x="60" y="46" width="258.0" height="56" rx="28.0" ry="28.0" fill="#FFD23F"/><text x="189.0" y="84.5" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">여름안전·시즌</text>
+<text x="60" y="150" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="start">2026 정부 수상 안전관리 대책</text>
+<rect x="60" y="270" width="960" height="176" rx="18" ry="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="270" width="12" height="176" rx="0" ry="0" fill="#E0556E"/>
+<text x="104" y="372.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a" text-anchor="start">특별대책 기간</text>
+<text x="996" y="374.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#B23850" text-anchor="end">6월 12일~8월 17일</text>
+<rect x="60" y="466" width="960" height="176" rx="18" ry="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="466" width="12" height="176" rx="0" ry="0" fill="#E0556E"/>
+<text x="104" y="568.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a" text-anchor="start">안전요원 배치</text>
+<text x="996" y="570.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#B23850" text-anchor="end">총 5,731명 이상</text>
+<rect x="60" y="662" width="960" height="176" rx="18" ry="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="662" width="12" height="176" rx="0" ry="0" fill="#E0556E"/>
+<text x="104" y="764.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a" text-anchor="start">(전년 5,392명 대비)</text>
+<text x="996" y="766.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#B23850" text-anchor="end">339명 증가</text>
+<rect x="60" y="858" width="960" height="176" rx="18" ry="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="858" width="12" height="176" rx="0" ry="0" fill="#E0556E"/>
+<text x="104" y="960.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a" text-anchor="start">구명조끼 무료 대여소</text>
+<text x="996" y="962.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#B23850" text-anchor="end">123→552개소 이상</text>
+<rect x="60" y="1054" width="960" height="176" rx="18" ry="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="1054" width="12" height="176" rx="0" ry="0" fill="#E0556E"/>
+<text x="104" y="1156.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a" text-anchor="start">국립공원</text>
+<text x="996" y="1158.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#B23850" text-anchor="end">안전요원 6월 조기 배치</text>
+<rect x="0" y="1270" width="1080" height="80" rx="0" ry="0" fill="#E8EEF5"/><text x="60" y="1318" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 행정안전부 · 해양수산부 (2026 수상 안전관리 대책)</text>
+</svg>

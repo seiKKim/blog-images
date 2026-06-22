@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#E8722C"/>
+  <circle cx="950" cy="180" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.06"/>
+  <rect x="80" y="90" rx="34" ry="34" width="220" height="68" fill="#FFD23F"/>
+  <text x="190" y="136" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="80" y="320" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#FDEBDD">에어컨, 청소만 해도</text>
+  <text x="80" y="400" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#FDEBDD">전기요금이 줄어요</text>
+  <text x="80" y="560" font-family="Noto Sans CJK KR" font-weight="bold" font-size="120" fill="#ffffff">필터 방치하면</text>
+  <text x="80" y="710" font-family="Noto Sans CJK KR" font-weight="bold" font-size="150" fill="#FFD23F">소비전력 3~5%↑</text>
+  <rect x="80" y="800" rx="20" ry="20" width="920" height="120" fill="#B8480F"/>
+  <text x="540" y="876" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">필터 청소는 2주에 1번 · 송풍 30분 건조</text>
+  <text x="80" y="1010" font-family="Noto Sans CJK KR" font-weight="normal" font-size="34" fill="#FDEBDD" opacity="0.9">출처: 한국에너지공단 · 2026 여름</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EF"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">쉰내 없애는 세탁법</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="280" width="960" height="180" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="350" font-size="46" font-weight="bold" fill="#E8722C">60도 온수 + 산소계 표백제</text>
+    <text x="100" y="412" font-size="38" fill="#444">과탄산나트륨 계열, 피지·세균 제거 ↑</text>
+    <rect x="60" y="480" width="960" height="180" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="550" font-size="46" font-weight="bold" fill="#E8722C">냄새 밴 수건은 담갔다 재세탁</text>
+    <text x="100" y="612" font-size="38" fill="#444">표백제 푼 온수에 일정 시간</text>
+    <rect x="60" y="680" width="960" height="180" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="750" font-size="46" font-weight="bold" fill="#E8722C">세탁기 내부 청소 (월 1회)</text>
+    <text x="100" y="812" font-size="38" fill="#444">세탁조·거름망 곰팡이 제거</text>
+    <rect x="60" y="880" width="960" height="180" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="950" font-size="46" font-weight="bold" fill="#E8722C">섬유유연제 과다 사용 자제</text>
+    <text x="100" y="1012" font-size="38" fill="#444">잔여막이 오염 제거 방해</text>
+  </g>
+  <rect x="60" y="1090" width="960" height="120" rx="16" fill="#FCEADD"/>
+  <text x="100" y="1165" font-family="Noto Sans CJK KR" font-size="40" font-weight="bold" fill="#9A4F1E">⚠ 고온 세탁 전 의류 라벨 온도 확인</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0DECF"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#8A6A52">출처: 경향신문 · 하이닥</text>
+</svg>

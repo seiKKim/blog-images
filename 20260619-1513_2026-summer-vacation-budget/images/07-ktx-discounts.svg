@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" fill="#FFF5F7"/>
+<rect x="0" y="0" width="1080" height="200" rx="0" fill="#E0556E"/>
+<rect x="60" y="46" width="238.39999999999998" height="60" rx="30.0" fill="#FFD23F"/><text x="179.2" y="87.52" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#1A1A1A" text-anchor="middle">KTX 할인</text>
+<text x="60" y="178" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#FFFFFF" text-anchor="start">여름엔 KTX 상시 할인제도</text>
+<rect x="60" y="280" width="960" height="90" rx="16" fill="#B83C56"/>
+<text x="95" y="337" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#FFFFFF" text-anchor="start">할인 제도</text>
+<text x="560" y="337" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#FFFFFF" text-anchor="middle">대상</text>
+<text x="985" y="337" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#FFD23F" text-anchor="end">할인율</text>
+<rect x="60" y="390" width="960" height="150" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="95" y="479.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1A1A1A" text-anchor="start">힘내라 청춘</text>
+<text x="560" y="476.0" font-family="Noto Sans CJK KR" font-weight="normal" font-size="32" fill="#5B6B7C" text-anchor="middle">만 25~33세</text>
+<text x="985" y="479.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#B83C56" text-anchor="end">최대 40%</text>
+<rect x="60" y="558" width="960" height="150" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="95" y="647.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1A1A1A" text-anchor="start">KTX 청소년 드림</text>
+<text x="560" y="644.0" font-family="Noto Sans CJK KR" font-weight="normal" font-size="32" fill="#5B6B7C" text-anchor="middle">만 24세 이하</text>
+<text x="985" y="647.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#B83C56" text-anchor="end">10~30%</text>
+<rect x="60" y="726" width="960" height="150" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="95" y="815.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1A1A1A" text-anchor="start">맘편한 코레일</text>
+<text x="560" y="812.0" font-family="Noto Sans CJK KR" font-weight="normal" font-size="32" fill="#5B6B7C" text-anchor="middle">임산부 +동반 1인</text>
+<text x="985" y="815.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#B83C56" text-anchor="end">일반실 40%</text>
+<rect x="60" y="894" width="960" height="150" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="95" y="983.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1A1A1A" text-anchor="start">다자녀 행복</text>
+<text x="560" y="980.0" font-family="Noto Sans CJK KR" font-weight="normal" font-size="32" fill="#5B6B7C" text-anchor="middle">자녀 2명 이상</text>
+<text x="985" y="983.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#B83C56" text-anchor="end">30% (세자녀 50%)</text>
+<rect x="60" y="1072" width="960" height="120" rx="18" fill="#FFF0D6"/>
+<text x="90" y="1129" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#B83C56" text-anchor="start">'여행가는 달' 봄편(4/1~5/31)은 종료</text>
+<text x="90" y="1174" font-family="Noto Sans CJK KR" font-weight="normal" font-size="32" fill="#5B6B7C" text-anchor="start">여름엔 위 상시 할인제도를 활용</text>
+<rect x="0" y="1280" width="1080" height="70" rx="0" fill="#E8EEF5"/><text x="60" y="1320" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 코레일 공식 약관(letskorail.com)</text>
+</svg>

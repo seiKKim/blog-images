@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#2B2F36"/>
+  <rect width="1080" height="200" fill="#E23B3B"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">일산화탄소(CO) 중독 주의</text>
+  <text x="540" y="370" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="middle">밀폐 텐트 속 화로,</text>
+  <text x="540" y="500" font-family="Noto Sans CJK KR" font-weight="bold" font-size="150" fill="#FFD23F" text-anchor="middle">45초면</text>
+  <text x="540" y="640" font-family="Noto Sans CJK KR" font-weight="bold" font-size="90" fill="#ffffff" text-anchor="middle">위험농도 500ppm</text>
+  <g font-family="Noto Sans CJK KR" font-size="46" fill="#ffffff">
+    <rect x="80" y="740" width="920" height="120" rx="16" fill="#3A3F47"/>
+    <text x="120" y="815" font-weight="bold">① 밀폐 공간에서 숯·난로 사용 금지</text>
+    <rect x="80" y="880" width="920" height="120" rx="16" fill="#3A3F47"/>
+    <text x="120" y="955" font-weight="bold">② 휴대용 CO 경보기는 텐트 천장에</text>
+    <rect x="80" y="1020" width="920" height="120" rx="16" fill="#3A3F47"/>
+    <text x="120" y="1095" font-weight="bold">③ 사용 시 수시로 환기하기</text>
+  </g>
+  <text x="540" y="1230" font-family="Noto Sans CJK KR" font-size="38" fill="#C9CDD2" text-anchor="middle">무색·무취 — 자각 못 한 채 위험</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#22262C"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#9aa0a6">출처: 소방청 실험</text>
+</svg>

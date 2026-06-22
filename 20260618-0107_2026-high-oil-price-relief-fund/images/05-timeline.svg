@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="160" fill="#1B5FA6"/>
+  <text x="60" y="100" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">신청 일정 한눈에</text>
+  <!-- timeline base -->
+  <line x1="120" y1="330" x2="960" y2="330" stroke="#C4D2E2" stroke-width="6"/>
+  <!-- 1차 -->
+  <circle cx="260" cy="330" r="20" fill="#5E97CC"/>
+  <text x="260" y="270" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1B5FA6" text-anchor="middle">1차</text>
+  <text x="260" y="395" font-family="Noto Sans CJK KR" font-size="32" fill="#1a1a1a" text-anchor="middle">취약계층</text>
+  <text x="260" y="435" font-family="Noto Sans CJK KR" font-size="30" fill="#5B6B7C" text-anchor="middle">4.27~5.8</text>
+  <!-- 2차 -->
+  <circle cx="540" cy="330" r="24" fill="#1B5FA6"/>
+  <text x="540" y="270" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1B5FA6" text-anchor="middle">2차 (전체)</text>
+  <text x="540" y="395" font-family="Noto Sans CJK KR" font-size="32" fill="#1a1a1a" text-anchor="middle">국민 70%</text>
+  <text x="540" y="435" font-family="Noto Sans CJK KR" font-size="30" fill="#5B6B7C" text-anchor="middle">5.18~7.3</text>
+  <!-- 이의신청 -->
+  <circle cx="820" cy="330" r="20" fill="#E23B3B"/>
+  <text x="820" y="270" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#E23B3B" text-anchor="middle">이의신청</text>
+  <text x="820" y="395" font-family="Noto Sans CJK KR" font-size="32" fill="#1a1a1a" text-anchor="middle">~7.17</text>
+  <!-- emphasis box -->
+  <rect x="120" y="520" width="840" height="130" rx="20" fill="#FFF7DB" stroke="#FFD23F" stroke-width="3"/>
+  <text x="540" y="585" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#8a6d00" text-anchor="middle">신청 마감은 7월 3일!</text>
+  <text x="540" y="630" font-family="Noto Sans CJK KR" font-size="34" fill="#8a6d00" text-anchor="middle">7월 17일은 '이의신청' 마감 — 헷갈리지 마세요</text>
+</svg>

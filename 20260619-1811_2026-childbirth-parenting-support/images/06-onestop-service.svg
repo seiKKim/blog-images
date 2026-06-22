@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/><rect width="1080" height="200" fill="#1B5FA6"/>
+<text x="60" y="100" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">행복출산 원스톱서비스</text>
+<text x="60" y="160" font-family="Noto Sans CJK KR" font-size="34" fill="#E8EEF5">출생신고와 동시에 한 번에 통합 신청</text>
+<rect x="60" y="270" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="90" y="295" width="60" height="60" rx="30" fill="#1B5FA6"/>
+<text x="120" y="340" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">1</text>
+<text x="190" y="342" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">첫만남이용권</text>
+<rect x="60" y="392" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="90" y="417" width="60" height="60" rx="30" fill="#1B5FA6"/>
+<text x="120" y="462" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">2</text>
+<text x="190" y="464" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">부모급여</text>
+<rect x="60" y="514" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="90" y="539" width="60" height="60" rx="30" fill="#1B5FA6"/>
+<text x="120" y="584" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">3</text>
+<text x="190" y="586" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">아동수당</text>
+<rect x="60" y="636" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="90" y="661" width="60" height="60" rx="30" fill="#1B5FA6"/>
+<text x="120" y="706" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">4</text>
+<text x="190" y="708" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">양육수당</text>
+<rect x="60" y="758" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="90" y="783" width="60" height="60" rx="30" fill="#1B5FA6"/>
+<text x="120" y="828" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">5</text>
+<text x="190" y="830" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">출산가구 전기료 경감</text>
+<rect x="60" y="880" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="90" y="905" width="60" height="60" rx="30" fill="#1B5FA6"/>
+<text x="120" y="950" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">6</text>
+<text x="190" y="952" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">다자녀 공공요금 할인</text>
+<rect x="60" y="1002" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="90" y="1027" width="60" height="60" rx="30" fill="#1B5FA6"/>
+<text x="120" y="1072" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">7</text>
+<text x="190" y="1074" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">다자녀 KTX·SRT 할인</text>
+<rect x="60" y="1128" width="960" height="130" rx="16" fill="#EAF2FB" stroke="#C7DBF0" stroke-width="2"/>
+<text x="100" y="1186" font-family="Noto Sans CJK KR" font-size="34" fill="#283C5A">신청: 정부24 온라인 또는 주소지 주민센터 방문</text>
+<text x="100" y="1234" font-family="Noto Sans CJK KR" font-size="34" fill="#283C5A">자격: 출산자 본인 또는 배우자 (대리인은 방문만)</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1320" font-family="Noto Sans CJK KR" font-size="30" fill="#5B6B7C">출처: 정부24·정책브리핑(korea.kr)</text></svg>

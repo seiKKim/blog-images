@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1180" viewBox="0 0 1080 1180">
+<rect x="0" y="0" width="1080" height="230" fill="#243B6B"/>
+<rect x="60" y="36" width="168" height="60" rx="30" ry="30" fill="#FFD23F"/>
+<text x="143.8" y="77.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="30" fill="#1A1A1A" text-anchor="middle">금융/재테크</text>
+<text x="60" y="168" font-family="Noto Sans CJK KR" font-weight="800" font-size="54" fill="#FFFFFF" text-anchor="start">도약계좌 → 미래적금 갈아타기</text>
+<text x="60" y="209" font-family="Noto Sans CJK KR" font-weight="500" font-size="29" fill="#E8EEF5" text-anchor="start">2026년 6월 최초 가입기간에 한해 허용</text>
+<rect x="60" y="280" width="960" height="160" rx="22" ry="22" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="150" cy="360.0" r="56" fill="#1F8A53"/>
+<text x="150" y="378.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="52" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="250" y="375.0" font-family="Noto Sans CJK KR" font-weight="700" font-size="42" fill="#1A1A1A" text-anchor="start">청년미래적금 먼저 가입신청</text>
+<text x="540" y="474" font-family="Noto Sans CJK KR" font-weight="800" font-size="34" fill="#9FB2D0" text-anchor="middle">▼</text>
+<rect x="60" y="504" width="960" height="160" rx="22" ry="22" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="150" cy="584.0" r="56" fill="#243B6B"/>
+<text x="150" y="602.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="52" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="250" y="599.0" font-family="Noto Sans CJK KR" font-weight="700" font-size="42" fill="#1A1A1A" text-anchor="start">승인 · 계좌개설 완료</text>
+<text x="540" y="698" font-family="Noto Sans CJK KR" font-weight="800" font-size="34" fill="#9FB2D0" text-anchor="middle">▼</text>
+<rect x="60" y="728" width="960" height="160" rx="22" ry="22" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="150" cy="808.0" r="56" fill="#C98A1E"/>
+<text x="150" y="826.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="52" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="250" y="823.0" font-family="Noto Sans CJK KR" font-weight="700" font-size="42" fill="#1A1A1A" text-anchor="start">그 다음 청년도약계좌 특별중도해지</text>
+<rect x="60" y="958" width="960" height="150" rx="20" ry="20" fill="#FFF3E0" stroke="#F0C36B" stroke-width="2"/>
+<text x="100" y="1026" font-family="Noto Sans CJK KR" font-weight="800" font-size="36" fill="#C98A1E" text-anchor="start">핵심</text>
+<text x="240" y="1026" font-family="Noto Sans CJK KR" font-weight="700" font-size="34" fill="#1A1A1A" text-anchor="start">반드시 미래적금 먼저 → 도약계좌 나중 해지</text>
+<text x="100" y="1080" font-family="Noto Sans CJK KR" font-weight="600" font-size="32" fill="#5B6B7C" text-anchor="start">순서대로면 기존 기여금·비과세 그대로 유지</text>
+<rect x="0" y="1100" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1148" font-family="Noto Sans CJK KR" font-weight="500" font-size="28" fill="#5B6B7C" text-anchor="start">출처: 정책 안내 정리 · 가입 은행 확인 권장</text>
+</svg>

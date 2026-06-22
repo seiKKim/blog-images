@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Noto Sans CJK KR">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-weight="bold" font-size="58" fill="#ffffff">신청 자격 체크리스트</text>
+  <text x="60" y="166" font-weight="bold" font-size="36" fill="#E8EEF5">국토부 본사업 기준</text>
+  <rect x="888" y="78" rx="22" width="132" height="44" fill="#FFD23F"/>
+  <text x="954" y="107" font-weight="bold" font-size="22" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <!-- item rows, rh=168, content height 144 -->
+    <g>
+      <rect x="60" y="260" width="960" height="144" rx="18" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+      <rect x="100" y="297" width="70" height="70" rx="14" fill="#1B5FA6"/>
+      <polyline points="118,334 130,348 154,316" fill="none" stroke="#fff" stroke-width="8"/>
+      <text x="204" y="320" font-weight="bold" font-size="36" fill="#124275">나이</text>
+      <text x="204" y="362" font-size="27" fill="#1a1a1a">신청일 기준 만 19~34세 (1991~2007년생)</text>
+    </g>
+    <g>
+      <rect x="60" y="428" width="960" height="144" rx="18" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+      <rect x="100" y="465" width="70" height="70" rx="14" fill="#1B5FA6"/>
+      <polyline points="118,502 130,516 154,484" fill="none" stroke="#fff" stroke-width="8"/>
+      <text x="204" y="488" font-weight="bold" font-size="36" fill="#124275">무주택</text>
+      <text x="204" y="530" font-size="27" fill="#1a1a1a">주택을 소유하지 않은 무주택자</text>
+    </g>
+    <g>
+      <rect x="60" y="596" width="960" height="144" rx="18" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+      <rect x="100" y="633" width="70" height="70" rx="14" fill="#1B5FA6"/>
+      <polyline points="118,670 130,684 154,652" fill="none" stroke="#fff" stroke-width="8"/>
+      <text x="204" y="656" font-weight="bold" font-size="36" fill="#124275">독립거주</text>
+      <text x="204" y="698" font-size="27" fill="#1a1a1a">부모와 별도로 거주 + 주소지 전입</text>
+    </g>
+    <g>
+      <rect x="60" y="764" width="960" height="144" rx="18" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+      <rect x="100" y="801" width="70" height="70" rx="14" fill="#1B5FA6"/>
+      <polyline points="118,838 130,852 154,820" fill="none" stroke="#fff" stroke-width="8"/>
+      <text x="204" y="824" font-weight="bold" font-size="36" fill="#124275">소득</text>
+      <text x="204" y="866" font-size="27" fill="#1a1a1a">청년가구 중위 60% · 원가구 중위 100% 이하</text>
+    </g>
+    <g>
+      <rect x="60" y="932" width="960" height="144" rx="18" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+      <rect x="100" y="969" width="70" height="70" rx="14" fill="#1B5FA6"/>
+      <polyline points="118,1006 130,1020 154,988" fill="none" stroke="#fff" stroke-width="8"/>
+      <text x="204" y="992" font-weight="bold" font-size="36" fill="#124275">재산</text>
+      <text x="204" y="1034" font-size="27" fill="#1a1a1a">청년 1억 2,200만 · 원가구 4억 7,000만 이하</text>
+    </g>
+  </g>
+
+  <rect x="60" y="1100" width="960" height="150" rx="16" fill="#E8EEF5"/>
+  <text x="90" y="1142" font-weight="bold" font-size="30" fill="#124275">보증금·월세 상한(거주요건)은</text>
+  <text x="90" y="1182" font-weight="bold" font-size="30" fill="#124275">2024.4.12부터 폐지 (국토부 사업)</text>
+  <text x="90" y="1224" font-size="27" fill="#5B6B7C">본인 해당 여부는 복지로 자가진단으로 확인</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1318" font-size="26" fill="#5B6B7C">출처: 본문 정리 · 부모(원가구) 기준도 함께 충족 필요</text>
+</svg>

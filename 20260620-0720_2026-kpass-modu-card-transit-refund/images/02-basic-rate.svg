@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1180" viewBox="0 0 1080 1180">
+  <rect width="1080" height="1180" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="118" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">K-패스 기본형 환급률</text>
+  <text x="60" y="168" font-family="Noto Sans CJK KR" font-size="34" fill="#E8EEF5">월 15회 이상 이용 시 · 유형별</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="352" font-size="48" font-weight="bold" fill="#1a1a1a">일반</text>
+    <text x="1000" y="352" font-size="56" font-weight="bold" fill="#1B5FA6" text-anchor="end">20%</text>
+
+    <rect x="60" y="420" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="502" font-size="48" font-weight="bold" fill="#1a1a1a">청년 (19~34세)</text>
+    <text x="1000" y="502" font-size="56" font-weight="bold" fill="#1B5FA6" text-anchor="end">30%</text>
+
+    <rect x="60" y="570" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="640" font-size="48" font-weight="bold" fill="#1a1a1a">어르신 (65세 이상)</text>
+    <text x="100" y="688" font-size="30" fill="#E0556E">2026년 신설 · +10%p</text>
+    <text x="1000" y="652" font-size="56" font-weight="bold" fill="#1B5FA6" text-anchor="end">30%</text>
+
+    <rect x="60" y="720" width="960" height="130" rx="16" fill="#FFF6D6" stroke="#FFD23F"/>
+    <text x="100" y="802" font-size="48" font-weight="bold" fill="#1a1a1a">저소득층</text>
+    <text x="1000" y="802" font-size="56" font-weight="bold" fill="#1B5FA6" text-anchor="end">최대 53.3%</text>
+  </g>
+
+  <rect x="0" y="1100" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1152" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 정책브리핑(korea.kr) · 국토부 대광위</text>
+</svg>

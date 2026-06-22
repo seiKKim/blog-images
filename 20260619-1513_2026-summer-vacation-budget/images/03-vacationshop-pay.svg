@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect x="0" y="0" width="1080" height="720" rx="0" fill="#FFF5F7"/>
+<rect x="0" y="0" width="1080" height="170" rx="0" fill="#E0556E"/>
+<rect x="60" y="28" width="215.6" height="56" rx="28.0" fill="#FFD23F"/><text x="167.8" y="66.08" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#1A1A1A" text-anchor="middle">휴가샵 사용</text>
+<text x="60" y="145" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#FFFFFF" text-anchor="start">적립 포인트로 여름 숙박 결제하기</text>
+<rect x="60" y="200" width="480" height="440" rx="28" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<rect x="60" y="200" width="480" height="80" rx="28" fill="#F7E2E8"/>
+<rect x="60" y="258" width="480" height="22" rx="0" fill="#F7E2E8"/>
+<text x="84" y="250" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#B83C56" text-anchor="start">휴가샵 · 국내여행 전용몰</text>
+<rect x="90" y="312" width="420" height="158" rx="18" fill="#FFF5F7" stroke="#F2C6D0" stroke-width="2"/>
+<rect x="110" y="332" width="110" height="110" rx="14" fill="#F2C6D0"/>
+<text x="165" y="400" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#B83C56" text-anchor="middle">숙박</text>
+<text x="245" y="372" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1A1A1A" text-anchor="start">강원 ○○ 리조트 2박</text>
+<text x="245" y="422" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#5B6B7C" text-anchor="start">포인트 결제 가능</text>
+<rect x="90" y="505" width="420" height="95" rx="18" fill="#E0556E"/>
+<text x="300" y="565" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">적립 포인트로 결제</text>
+<text x="590" y="250" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#B83C56" text-anchor="start">이렇게 씁니다</text>
+<rect x="590" y="290" width="430" height="80" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="616" y="326" font-family="Noto Sans CJK KR" font-weight="bold" font-size="26" fill="#E0556E" text-anchor="start">사용처</text>
+<text x="616" y="358" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1A1A1A" text-anchor="start">숙박·교통·레저·입장권 등</text>
+<rect x="590" y="384" width="430" height="80" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="616" y="420" font-family="Noto Sans CJK KR" font-weight="bold" font-size="26" fill="#E0556E" text-anchor="start">현금 인출</text>
+<text x="616" y="452" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1A1A1A" text-anchor="start">불가 (상품 구매만)</text>
+<rect x="590" y="478" width="430" height="80" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="616" y="514" font-family="Noto Sans CJK KR" font-weight="bold" font-size="26" fill="#E0556E" text-anchor="start">사용 기한</text>
+<text x="616" y="546" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1A1A1A" text-anchor="start">2026년 12월 31일까지</text>
+<rect x="590" y="572" width="430" height="80" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="616" y="608" font-family="Noto Sans CJK KR" font-weight="bold" font-size="26" fill="#E0556E" text-anchor="start">미사용 시</text>
+<text x="616" y="640" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1A1A1A" text-anchor="start">정부지원금 제외분 환불</text>
+<rect x="0" y="650" width="1080" height="70" rx="0" fill="#E8EEF5"/><text x="60" y="690" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 휴가샵 안내(vacation.visitkorea.or.kr)</text>
+</svg>

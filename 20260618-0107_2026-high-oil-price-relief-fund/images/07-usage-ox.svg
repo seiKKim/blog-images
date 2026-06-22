@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#1B5FA6"/>
+  <text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">어디에 쓸 수 있나요?</text>
+  <!-- 사용 가능 -->
+  <rect x="60" y="240" width="960" height="430" rx="24" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+  <circle cx="130" cy="320" r="42" fill="#1F8A53"/>
+  <text x="130" y="338" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#fff" text-anchor="middle">O</text>
+  <text x="200" y="338" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#1F8A53">사용 가능</text>
+  <text x="110" y="440" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a">· 매출 30억 원 이하 동네 소상공인 매장</text>
+  <text x="110" y="510" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a">· 지역사랑상품권 지역 내 가맹점</text>
+  <text x="110" y="580" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a">· 전통시장, 식당, 약국, 학원 등</text>
+  <!-- 사용 불가 -->
+  <rect x="60" y="710" width="960" height="470" rx="24" fill="#ffffff" stroke="#E23B3B" stroke-width="3"/>
+  <circle cx="130" cy="790" r="42" fill="#E23B3B"/>
+  <text x="130" y="808" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#fff" text-anchor="middle">X</text>
+  <text x="200" y="808" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#E23B3B">사용 불가</text>
+  <text x="110" y="910" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a">· 온라인 전자상거래(쇼핑몰)</text>
+  <text x="110" y="980" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a">· 대형마트·백화점·외국계 매장</text>
+  <text x="110" y="1050" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a">· 조세·공공요금·보험</text>
+  <text x="110" y="1120" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a">· 유흥·사행업종</text>
+  <!-- footer -->
+  <rect x="60" y="1230" width="960" height="80" rx="16" fill="#FFF7DB" stroke="#FFD23F" stroke-width="2"/>
+  <text x="540" y="1282" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#8a6d00" text-anchor="middle">사용 마감: 2026년 8월 31일 24시 (이후 소멸)</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect width="1080" height="720" fill="#F4F7FB"/>
+<rect width="1080" height="170" fill="#243B6B"/>
+<text x="60" y="105" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="start">무엇이 바뀌었나</text>
+<rect x="820" y="56" rx="29" width="200" height="58" fill="#FFD23F"/>
+<text x="920" y="95" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">2025.9.1 시행</text>
+<rect x="60" y="230" width="450" height="310" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="285" y="305" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#5B6B7C" text-anchor="middle">변경 전</text>
+<text x="285" y="425" font-family="Noto Sans CJK KR" font-weight="bold" font-size="76" fill="#1a1a1a" text-anchor="middle">5,000만원</text>
+<text x="285" y="495" font-family="Noto Sans CJK KR" font-weight="normal" font-size="34" fill="#5B6B7C" text-anchor="middle">(2001년 이후)</text>
+<text x="540" y="415" font-family="Noto Sans CJK KR" font-weight="bold" font-size="90" fill="#FFD23F" text-anchor="middle">→</text>
+<rect x="570" y="230" width="450" height="310" rx="24" fill="#243B6B"/>
+<text x="795" y="305" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#E8EEF5" text-anchor="middle">변경 후</text>
+<text x="795" y="430" font-family="Noto Sans CJK KR" font-weight="bold" font-size="88" fill="#FFD23F" text-anchor="middle">1억원</text>
+<text x="795" y="495" font-family="Noto Sans CJK KR" font-weight="normal" font-size="34" fill="#E8EEF5" text-anchor="middle">(2배 상향)</text>
+<text x="60" y="620" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="start">적용 단위는 그대로: 1인당 · 금융회사별 각각 보호</text>
+<rect x="0" y="660" width="1080" height="60" fill="#E8EEF5"/>
+<text x="60" y="698" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 예금보험공사 · 예금자보호법 시행령(2025.9.1 시행)</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#1B5FA6"/>
+  <text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">상황별 요약</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="240" width="960" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="305" font-weight="bold" font-size="40" fill="#1a1a1a">수도권 일반 가구</text>
+    <text x="100" y="358" font-size="34" fill="#5B6B7C">신청 7월 3일까지</text>
+    <text x="990" y="335" font-weight="bold" font-size="54" fill="#1B5FA6" text-anchor="end">10만 원</text>
+
+    <rect x="60" y="410" width="960" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="475" font-weight="bold" font-size="40" fill="#1a1a1a">비수도권 일반 가구</text>
+    <text x="100" y="528" font-size="34" fill="#5B6B7C">인구감소지역이면 20만~25만 원</text>
+    <text x="990" y="505" font-weight="bold" font-size="54" fill="#1B5FA6" text-anchor="end">15만 원</text>
+
+    <rect x="60" y="580" width="960" height="150" rx="20" fill="#ffffff" stroke="#FFD23F" stroke-width="3"/>
+    <text x="100" y="645" font-weight="bold" font-size="40" fill="#1a1a1a">기초생활수급자</text>
+    <text x="100" y="698" font-size="34" fill="#5B6B7C">비수도권 기준, 1차 대상</text>
+    <text x="990" y="675" font-weight="bold" font-size="54" fill="#C68A00" text-anchor="end">최대 60만 원</text>
+
+    <rect x="60" y="750" width="960" height="150" rx="20" fill="#ffffff" stroke="#FFD23F" stroke-width="3"/>
+    <text x="100" y="815" font-weight="bold" font-size="40" fill="#1a1a1a">차상위·한부모가족</text>
+    <text x="100" y="868" font-size="34" fill="#5B6B7C">비수도권 기준, 1차 대상</text>
+    <text x="990" y="845" font-weight="bold" font-size="54" fill="#C68A00" text-anchor="end">최대 50만 원</text>
+
+    <rect x="60" y="920" width="960" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="985" font-weight="bold" font-size="40" fill="#1a1a1a">맞벌이 가구</text>
+    <text x="100" y="1038" font-size="34" fill="#5B6B7C">가구원 수 +1명 기준으로 판정</text>
+    <text x="990" y="1015" font-weight="bold" font-size="40" fill="#1B5FA6" text-anchor="end">기준 확인</text>
+  </g>
+  <rect x="60" y="1140" width="960" height="150" rx="20" fill="#1B5FA6"/>
+  <text x="540" y="1205" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#fff" text-anchor="middle">신청 ~7/3 · 사용 ~8/31</text>
+  <text x="540" y="1258" font-family="Noto Sans CJK KR" font-size="34" fill="#CFE0F2" text-anchor="middle">문의 1670-2626 · 카드사 앱에서 대상 조회</text>
+</svg>

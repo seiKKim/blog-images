@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect width="1080" height="720" fill="#1B5FA6"/>
+<rect x="60" y="60" rx="32" width="248" height="64" fill="#FFD23F"/>
+<text x="184" y="103" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">신청 기한 체크</text>
+<text x="60" y="216" font-family="Noto Sans CJK KR" font-weight="bold" font-size="64" fill="#ffffff">출생일 포함 60일 이내 신청</text>
+<text x="60" y="272" font-family="Noto Sans CJK KR" font-size="36" fill="#E8EEF5">기한 내 신청해야 출생월부터 소급 수령</text>
+<rect x="60" y="340" width="960" height="90" rx="16" fill="#ffffff"/>
+<rect x="85" y="362" width="46" height="46" rx="10" fill="#1B5FA6"/>
+<text x="108" y="398" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#FFD23F" text-anchor="middle">✓</text>
+<text x="160" y="398" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1a1a1a">부모급여 — 60일 이내 신청 시 출생월부터 소급</text>
+<rect x="60" y="448" width="960" height="90" rx="16" fill="#ffffff"/>
+<rect x="85" y="470" width="46" height="46" rx="10" fill="#1B5FA6"/>
+<text x="108" y="506" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#FFD23F" text-anchor="middle">✓</text>
+<text x="160" y="506" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1a1a1a">아동수당 — 60일 이내 신청 시 출생월부터 소급</text>
+<rect x="60" y="556" width="960" height="90" rx="16" fill="#ffffff"/>
+<rect x="85" y="578" width="46" height="46" rx="10" fill="#1B5FA6"/>
+<text x="108" y="614" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#FFD23F" text-anchor="middle">✓</text>
+<text x="160" y="614" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1a1a1a">첫만남이용권 — 출생신고 후 통합 신청</text>
+<text x="60" y="700" font-family="Noto Sans CJK KR" font-size="28" fill="#E8EEF5">blog.naver.com/trip_chocho</text></svg>

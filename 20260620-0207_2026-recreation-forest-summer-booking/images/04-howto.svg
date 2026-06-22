@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F1F3"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">숲나들e 예약 4단계</text>
+  <text x="60" y="170" font-family="Noto Sans CJK KR" font-size="36" fill="#FCE3E8">foresttrip.go.kr · 모바일 앱</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="280" width="960" height="180" rx="20" fill="#ffffff" stroke="#E6C7CF"/>
+    <circle cx="160" cy="370" r="48" fill="#E0556E"/>
+    <text x="160" y="388" font-size="50" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="250" y="355" font-size="46" font-weight="bold" fill="#1a1a1a">회원가입 + 본인 인증</text>
+    <text x="250" y="410" font-size="36" fill="#5B6B7C">인증 완료해야 예약 기능 활성화</text>
+
+    <rect x="60" y="490" width="960" height="180" rx="20" fill="#ffffff" stroke="#E6C7CF"/>
+    <circle cx="160" cy="580" r="48" fill="#E0556E"/>
+    <text x="160" y="598" font-size="50" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="250" y="565" font-size="46" font-weight="bold" fill="#1a1a1a">조건 선택</text>
+    <text x="250" y="620" font-size="36" fill="#5B6B7C">지역·날짜·인원·숙박/야영 조회</text>
+
+    <rect x="60" y="700" width="960" height="180" rx="20" fill="#ffffff" stroke="#E6C7CF"/>
+    <circle cx="160" cy="790" r="48" fill="#E0556E"/>
+    <text x="160" y="808" font-size="50" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="250" y="775" font-size="46" font-weight="bold" fill="#1a1a1a">객실·사이트 선택</text>
+    <text x="250" y="830" font-size="36" fill="#5B6B7C">원하는 날짜·객실(야영 사이트) 지정</text>
+
+    <rect x="60" y="910" width="960" height="180" rx="20" fill="#ffffff" stroke="#E6C7CF"/>
+    <circle cx="160" cy="1000" r="48" fill="#E0556E"/>
+    <text x="160" y="1018" font-size="50" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="250" y="985" font-size="46" font-weight="bold" fill="#1a1a1a">약관 동의 → 결제</text>
+    <text x="250" y="1040" font-size="36" fill="#5B6B7C">자동입력 방지 문구 입력 후 결제</text>
+  </g>
+
+  <rect x="60" y="1130" width="960" height="90" rx="16" fill="#FFF6D6"/>
+  <text x="100" y="1188" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#8A6D00">TIP. 앱 설치 시 취소표 알림으로 선착순 유리</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EADBE0"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#7A6670">출처: 숲나들e(foresttrip.go.kr) 이용 안내</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="100" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">신청 방법 4단계</text>
+  <text x="60" y="162" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#E8EEF5">위택스 · 이택스 · ARS</text>
+  <g font-family="Noto Sans CJK KR">
+    <!-- step1 -->
+    <rect x="60" y="260" width="960" height="190" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="139" cy="355" r="44" fill="#1F8A53"/>
+    <text x="139" y="372" font-weight="900" font-size="54" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="230" y="343" font-weight="bold" font-size="46" fill="#1a1a1a">신청 기간 확인</text>
+    <text x="230" y="403" font-size="34" fill="#5B6B7C">6/16 ~ 6/30 안에</text>
+    <text x="540" y="486" font-weight="bold" font-size="28" fill="#1F8A53" text-anchor="middle">▼</text>
+    <!-- step2 -->
+    <rect x="60" y="474" width="960" height="190" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="139" cy="569" r="44" fill="#1F8A53"/>
+    <text x="139" y="586" font-weight="900" font-size="54" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="230" y="557" font-weight="bold" font-size="46" fill="#1a1a1a">접속 또는 전화</text>
+    <text x="230" y="617" font-size="34" fill="#5B6B7C">위택스·이택스 또는 ARS</text>
+    <text x="540" y="700" font-weight="bold" font-size="28" fill="#1F8A53" text-anchor="middle">▼</text>
+    <!-- step3 -->
+    <rect x="60" y="688" width="960" height="190" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="139" cy="783" r="44" fill="#1F8A53"/>
+    <text x="139" y="800" font-weight="900" font-size="54" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="230" y="771" font-weight="bold" font-size="46" fill="#1a1a1a">차량·할인세액 확인</text>
+    <text x="230" y="831" font-size="34" fill="#5B6B7C">연납 신청 메뉴에서</text>
+    <text x="540" y="914" font-weight="bold" font-size="28" fill="#1F8A53" text-anchor="middle">▼</text>
+    <!-- step4 -->
+    <rect x="60" y="902" width="960" height="190" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="139" cy="997" r="44" fill="#1F8A53"/>
+    <text x="139" y="1014" font-weight="900" font-size="54" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="230" y="985" font-weight="bold" font-size="46" fill="#1a1a1a">납부</text>
+    <text x="230" y="1045" font-size="34" fill="#5B6B7C">카드·계좌이체 등</text>
+  </g>
+  <rect x="60" y="1132" width="960" height="160" rx="20" fill="#E7F2EC" stroke="#1F8A53" stroke-width="2"/>
+  <text x="90" y="1198" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#1a1a1a">서울 외 위택스 wetax.go.kr · ARS 1422-11</text>
+  <text x="90" y="1258" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#1a1a1a">서울 이택스 etax.seoul.go.kr · ARS 1599-3900</text>
+  <rect x="0" y="1284" width="1080" height="66" fill="#E8EEF5"/>
+  <text x="60" y="1325" font-family="Noto Sans CJK KR" font-size="28" fill="#5B6B7C">출처: 위택스·서울이택스 안내 기준</text>
+</svg>

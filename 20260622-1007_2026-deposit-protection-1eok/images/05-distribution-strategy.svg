@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="200" fill="#243B6B"/>
+<text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="start">안전 분산 전략 5가지</text>
+<text x="60" y="170" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#FFD23F" text-anchor="start">한도 올라도 한 곳에 몰아두지 않기</text>
+<rect x="60" y="250" width="960" height="195" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="140" cy="345" r="45" fill="#243B6B"/>
+<text x="140" y="363" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#FFD23F" text-anchor="middle">1</text>
+<text x="220" y="338" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="start">금융회사별 분리 예치</text>
+<text x="220" y="395" font-family="Noto Sans CJK KR" font-weight="normal" font-size="32" fill="#5B6B7C" text-anchor="start">1억원 초과분은 서로 다른 금융회사로 (본·지점은 합산)</text>
+<rect x="60" y="463" width="960" height="195" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="140" cy="558" r="45" fill="#243B6B"/>
+<text x="140" y="576" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#FFD23F" text-anchor="middle">2</text>
+<text x="220" y="551" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="start">부부·가족 명의 분산</text>
+<text x="220" y="608" font-family="Noto Sans CJK KR" font-weight="normal" font-size="32" fill="#5B6B7C" text-anchor="start">1인당 1억원 → 부부 합산 최대 2억원 (세무는 별도 확인)</text>
+<rect x="60" y="676" width="960" height="195" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="140" cy="771" r="45" fill="#243B6B"/>
+<text x="140" y="789" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#FFD23F" text-anchor="middle">3</text>
+<text x="220" y="764" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="start">권역 다양화</text>
+<text x="220" y="821" font-family="Noto Sans CJK KR" font-weight="normal" font-size="32" fill="#5B6B7C" text-anchor="start">은행 + 저축은행 + 상호금융, 보호와 금리 함께 노리기</text>
+<rect x="60" y="889" width="960" height="195" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="140" cy="984" r="45" fill="#243B6B"/>
+<text x="140" y="1002" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#FFD23F" text-anchor="middle">4</text>
+<text x="220" y="977" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="start">우체국 활용</text>
+<text x="220" y="1034" font-family="Noto Sans CJK KR" font-weight="normal" font-size="32" fill="#5B6B7C" text-anchor="start">한도 없이 국가 전액 보장, 초고액·초안전 선호 시</text>
+<rect x="60" y="1102" width="960" height="195" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="140" cy="1197" r="45" fill="#243B6B"/>
+<text x="140" y="1215" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#FFD23F" text-anchor="middle">5</text>
+<text x="220" y="1190" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="start">보호 대상 상품 위주</text>
+<text x="220" y="1247" font-family="Noto Sans CJK KR" font-weight="normal" font-size="32" fill="#5B6B7C" text-anchor="start">예·적금 등 원금보장형으로 구성 (펀드·CMA 제외)</text>
+<rect x="0" y="1290" width="1080" height="60" fill="#E8EEF5"/>
+<text x="60" y="1328" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">핵심: 금융회사별 1억원씩 · 이자까지 여유 두고 분산</text>
+</svg>

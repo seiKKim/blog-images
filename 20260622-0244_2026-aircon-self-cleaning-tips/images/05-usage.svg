@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF4EC"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <rect x="60" y="56" rx="26" ry="26" width="180" height="60" fill="#FFD23F"/>
+  <text x="150" y="98" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="270" y="128" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">전기요금 아끼는 법</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="960" height="160" rx="18" fill="#ffffff" stroke="#F0CBA8"/>
+    <text x="100" y="345" font-size="42" font-weight="bold" fill="#1a1a1a">냉방온도 26℃ 이상</text>
+    <text x="1000" y="345" font-size="42" font-weight="bold" fill="#E8722C" text-anchor="end">1℃당 7%↑</text>
+    <text x="100" y="400" font-size="32" fill="#7a7a7a">온도만 올려도 가장 쉬운 절약</text>
+
+    <rect x="60" y="450" width="960" height="160" rx="18" fill="#ffffff" stroke="#F0CBA8"/>
+    <text x="100" y="525" font-size="42" font-weight="bold" fill="#1a1a1a">선풍기 병행 사용</text>
+    <text x="1000" y="525" font-size="42" font-weight="bold" fill="#E8722C" text-anchor="end">'강' 운전 효과</text>
+    <text x="100" y="580" font-size="32" fill="#7a7a7a">에어컨 방향으로 함께 틀기</text>
+
+    <rect x="60" y="630" width="960" height="160" rx="18" fill="#ffffff" stroke="#F0CBA8"/>
+    <text x="100" y="705" font-size="42" font-weight="bold" fill="#1a1a1a">낮 외출 시 커튼 차단</text>
+    <text x="1000" y="705" font-size="42" font-weight="bold" fill="#E8722C" text-anchor="end">냉방부하↓</text>
+    <text x="100" y="760" font-size="32" fill="#7a7a7a">햇빛 차단으로 실내온도 상승 억제</text>
+
+    <rect x="60" y="810" width="960" height="160" rx="18" fill="#ffffff" stroke="#F0CBA8"/>
+    <text x="100" y="885" font-size="42" font-weight="bold" fill="#1a1a1a">1등급 에어컨 사용</text>
+    <text x="1000" y="885" font-size="42" font-weight="bold" fill="#E8722C" text-anchor="end">연 130kWh 절전</text>
+    <text x="100" y="940" font-size="32" fill="#7a7a7a">3등급 제품 대비</text>
+
+    <rect x="60" y="990" width="960" height="170" rx="18" fill="#FFF6E6" stroke="#FFD23F"/>
+    <text x="100" y="1065" font-size="42" font-weight="bold" fill="#1a1a1a">선풍기로 대체(4시간·20일)</text>
+    <text x="1000" y="1065" font-size="44" font-weight="bold" fill="#E8722C" text-anchor="end">월 14,640원↓</text>
+    <text x="100" y="1120" font-size="32" fill="#8a5a36">15평형 기준 · 월 120kWh 절감</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F4DCC8"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#8a5a36">출처: 한국에너지공단 절약노하우(에어컨)</text>
+</svg>

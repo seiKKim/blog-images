@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1F8A53"/>
+  <text x="60" y="92" font-family="Noto Sans CJK KR" font-weight="bold" font-size="54" fill="#ffffff">자동차세 연납 신청은 연 4회</text>
+  <text x="60" y="222" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#5B6B7C">매월 16일 ~ 말일까지 신청 가능</text>
+  <!-- 4개월 카드: 1월/3월/9월(흰) 6월(그린 강조) -->
+  <g font-family="Noto Sans CJK KR" text-anchor="middle">
+    <!-- 1월 -->
+    <rect x="60" y="280" width="216" height="300" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="168" y="350" font-weight="900" font-size="50" fill="#1F8A53">1월</text>
+    <text x="168" y="440" font-weight="bold" font-size="30" fill="#5B6B7C">신청기간</text>
+    <text x="168" y="500" font-weight="bold" font-size="36" fill="#1a1a1a">16~31일</text>
+    <!-- 3월 -->
+    <rect x="306" y="280" width="216" height="300" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="414" y="350" font-weight="900" font-size="50" fill="#1F8A53">3월</text>
+    <text x="414" y="440" font-weight="bold" font-size="30" fill="#5B6B7C">신청기간</text>
+    <text x="414" y="500" font-weight="bold" font-size="36" fill="#1a1a1a">16~31일</text>
+    <!-- 6월 강조 -->
+    <rect x="552" y="280" width="216" height="300" rx="20" fill="#1F8A53"/>
+    <text x="660" y="350" font-weight="900" font-size="50" fill="#FFD23F">6월</text>
+    <text x="660" y="440" font-weight="bold" font-size="30" fill="#E8EEF5">신청기간</text>
+    <text x="660" y="500" font-weight="bold" font-size="36" fill="#ffffff">16~30일</text>
+    <text x="660" y="548" font-weight="bold" font-size="26" fill="#FFD23F">이번 글 주제</text>
+    <!-- 9월 -->
+    <rect x="798" y="280" width="216" height="300" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="906" y="350" font-weight="900" font-size="50" fill="#1F8A53">9월</text>
+    <text x="906" y="440" font-weight="bold" font-size="30" fill="#5B6B7C">신청기간</text>
+    <text x="906" y="500" font-weight="bold" font-size="36" fill="#1a1a1a">16~30일</text>
+  </g>
+  <rect x="0" y="654" width="1080" height="66" fill="#E8EEF5"/>
+  <text x="60" y="695" font-family="Noto Sans CJK KR" font-size="28" fill="#5B6B7C">출처: 행정안전부·위택스 안내 기준 (공제율 5% 가정)</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" ry="0" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="210" rx="0" ry="0" fill="#E0556E"/>
+<rect x="60" y="46" width="258.0" height="56" rx="28.0" ry="28.0" fill="#FFD23F"/><text x="189.0" y="84.5" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">여름안전·시즌</text>
+<text x="60" y="150" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="start">올바른 입수 순서</text>
+<text x="64" y="262" font-family="Noto Sans CJK KR" font-weight="normal" font-size="36" fill="#5B6B7C" text-anchor="start">입수 전 최소 10분 준비운동(스트레칭)부터</text>
+<rect x="60" y="336" width="960" height="178" rx="22" ry="22" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="142" cy="431" r="50" fill="#E0556E"/>
+<text x="142" y="451" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="middle">1</text>
+<text x="240" y="414" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#B23850" text-anchor="start">다리</text>
+<text x="240" y="478" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="start">심장에서 먼 곳부터 물 적시기</text>
+<rect x="60" y="534" width="960" height="178" rx="22" ry="22" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="142" cy="629" r="50" fill="#E0556E"/>
+<text x="142" y="649" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="middle">2</text>
+<text x="240" y="612" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#B23850" text-anchor="start">팔</text>
+<text x="240" y="676" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="start">천천히 위로 올라오며</text>
+<rect x="60" y="732" width="960" height="178" rx="22" ry="22" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="142" cy="827" r="50" fill="#E0556E"/>
+<text x="142" y="847" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="middle">3</text>
+<text x="240" y="810" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#B23850" text-anchor="start">얼굴</text>
+<text x="240" y="874" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="start">찬물에 적응시키고</text>
+<rect x="60" y="930" width="960" height="178" rx="22" ry="22" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="142" cy="1025" r="50" fill="#E0556E"/>
+<text x="142" y="1045" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="middle">4</text>
+<text x="240" y="1008" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#B23850" text-anchor="start">가슴</text>
+<text x="240" y="1072" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="start">마지막에 천천히 입수</text>
+<rect x="60" y="1138" width="960" height="120" rx="18" ry="18" fill="#fcecf0"/>
+<text x="90" y="1212" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#B23850" text-anchor="start">※ 심장에서 먼 곳부터 적셔 심장마비를 예방하세요</text>
+<rect x="0" y="1270" width="1080" height="80" rx="0" ry="0" fill="#E8EEF5"/><text x="60" y="1318" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 행정안전부 등 공공기관 표준 물놀이 안전수칙</text>
+</svg>

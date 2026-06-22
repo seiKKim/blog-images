@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" ry="0" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="210" rx="0" ry="0" fill="#E0556E"/>
+<rect x="60" y="46" width="258.0" height="56" rx="28.0" ry="28.0" fill="#FFD23F"/><text x="189.0" y="84.5" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">여름안전·시즌</text>
+<text x="60" y="150" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="start">어린이 동반 가족 안전수칙</text>
+<text x="64" y="262" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#B23850" text-anchor="start">가장 중요한 건 &#x27;팔이 닿는 거리&#x27;</text>
+<rect x="60" y="330" width="960" height="300" rx="24" ry="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="240" cy="480.0" r="58" fill="#E0556E"/>
+<ellipse cx="240" cy="480.0" rx="38" ry="24" fill="none" stroke="#ffffff" stroke-width="7"/>
+<circle cx="240" cy="480.0" r="14" fill="#ffffff"/>
+<text x="240" y="576.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">보호자 감시</text>
+<line x1="330" y1="480.0" x2="760" y2="480.0" stroke="#B23850" stroke-width="8"/>
+<text x="545" y="454.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#B23850" text-anchor="middle">팔이 닿는 거리</text>
+<circle cx="840" cy="480.0" r="58" fill="#e8eef5"/>
+<polygon points="804,433.0 876,433.0 883,527.0 797,527.0" fill="#E0556E"/>
+<rect x="836" y="433.0" width="8" height="94" rx="0" ry="0" fill="#e8eef5"/>
+<text x="840" y="576.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">구명조끼 착용</text>
+<rect x="60" y="670" width="960" height="108" rx="16" ry="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="116" cy="724" r="24" fill="#E0556E"/>
+<polyline points="104,725 114,736 130,712" fill="none" stroke="#ffffff" stroke-width="8"/>
+<text x="168" y="736" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="start">항상 팔이 닿는 거리에서 보호자가 직접 감시</text>
+<rect x="60" y="794" width="960" height="108" rx="16" ry="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="116" cy="848" r="24" fill="#E0556E"/>
+<polyline points="104,849 114,860 130,836" fill="none" stroke="#ffffff" stroke-width="8"/>
+<text x="168" y="860" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="start">어린이는 순간적으로 짧은 시간에 익사할 수 있음</text>
+<rect x="60" y="918" width="960" height="108" rx="16" ry="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="116" cy="972" r="24" fill="#E0556E"/>
+<polyline points="104,973 114,984 130,960" fill="none" stroke="#ffffff" stroke-width="8"/>
+<text x="168" y="984" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="start">준비운동 후 구명조끼를 착용시키기</text>
+<rect x="60" y="1042" width="960" height="108" rx="16" ry="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="116" cy="1096" r="24" fill="#E0556E"/>
+<polyline points="104,1097 114,1108 130,1084" fill="none" stroke="#ffffff" stroke-width="8"/>
+<text x="168" y="1108" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="start">안전구역을 벗어나지 않도록 안내 따르기</text>
+<rect x="0" y="1270" width="1080" height="80" rx="0" ry="0" fill="#E8EEF5"/><text x="60" y="1318" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 행정안전부 등 공공기관 어린이 물놀이 안전수칙</text>
+</svg>

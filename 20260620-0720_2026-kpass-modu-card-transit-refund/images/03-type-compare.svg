@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="860" viewBox="0 0 1080 860">
+  <rect width="1080" height="860" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#1B5FA6"/>
+  <text x="60" y="112" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">일반형 vs 플러스형</text>
+
+  <!-- 일반형 -->
+  <rect x="60" y="240" width="455" height="500" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="240" width="455" height="96" rx="20" fill="#1B5FA6"/>
+  <rect x="60" y="300" width="455" height="36" fill="#1B5FA6"/>
+  <text x="287" y="304" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">일반형</text>
+  <text x="287" y="430" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="middle">1회 총요금</text>
+  <text x="287" y="492" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#1B5FA6" text-anchor="middle">3,000원 미만</text>
+  <text x="287" y="560" font-family="Noto Sans CJK KR" font-size="38" fill="#5B6B7C" text-anchor="middle">수단에만 적용</text>
+  <text x="287" y="650" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a" text-anchor="middle">시내·마을버스</text>
+  <text x="287" y="702" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a" text-anchor="middle">지하철 등</text>
+
+  <!-- 플러스형 -->
+  <rect x="565" y="240" width="455" height="500" rx="20" fill="#ffffff" stroke="#FFD23F" stroke-width="3"/>
+  <rect x="565" y="240" width="455" height="96" rx="20" fill="#E8722C"/>
+  <rect x="565" y="300" width="455" height="36" fill="#E8722C"/>
+  <text x="792" y="304" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">플러스형</text>
+  <text x="792" y="430" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="middle">모든</text>
+  <text x="792" y="492" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#E8722C" text-anchor="middle">대중교통수단</text>
+  <text x="792" y="560" font-family="Noto Sans CJK KR" font-size="38" fill="#5B6B7C" text-anchor="middle">전부 적용</text>
+  <text x="792" y="650" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a" text-anchor="middle">신분당선 · GTX</text>
+  <text x="792" y="702" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a" text-anchor="middle">포함</text>
+
+  <rect x="0" y="800" width="1080" height="60" fill="#E8EEF5"/>
+  <text x="60" y="840" font-family="Noto Sans CJK KR" font-size="30" fill="#5B6B7C">출처: 정책브리핑(korea.kr) · 국토부 대광위</text>
+</svg>

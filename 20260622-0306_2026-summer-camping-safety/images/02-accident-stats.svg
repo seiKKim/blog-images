@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F2F4"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">캠핑 안전사고, 무엇이 많나</text>
+  <g font-family="Noto Sans CJK KR" font-size="44" fill="#1a1a1a">
+    <rect x="60" y="270" width="960" height="150" rx="16" fill="#ffffff" stroke="#E6D2D8"/>
+    <text x="100" y="350" font-weight="bold">화상 (피해 1위)</text>
+    <text x="1000" y="350" font-weight="bold" fill="#E0556E" text-anchor="end">30.0%</text>
+    <rect x="60" y="440" width="960" height="150" rx="16" fill="#ffffff" stroke="#E6D2D8"/>
+    <text x="100" y="520" font-weight="bold">열상·찢어짐 (2위)</text>
+    <text x="1000" y="520" font-weight="bold" fill="#E0556E" text-anchor="end">29.2%</text>
+    <rect x="60" y="610" width="960" height="150" rx="16" fill="#ffffff" stroke="#E6D2D8"/>
+    <text x="100" y="690" font-weight="bold">가열용품 사고</text>
+    <text x="1000" y="690" font-weight="bold" fill="#E0556E" text-anchor="end">32.0%</text>
+    <rect x="60" y="780" width="960" height="150" rx="16" fill="#FFF0F3" stroke="#E6D2D8"/>
+    <text x="100" y="860" font-weight="bold">피해자 중 13세 미만 어린이</text>
+    <text x="1000" y="860" font-weight="bold" fill="#E0556E" text-anchor="end">61.2%</text>
+  </g>
+  <text x="60" y="1030" font-family="Noto Sans CJK KR" font-size="40" fill="#5B4A50">최근 5년(2020~2024) 캠핑장 안전사고 409건 분석</text>
+  <text x="60" y="1095" font-family="Noto Sans CJK KR" font-size="40" fill="#5B4A50">→ 화상·열상이 절반 이상(59.2%)</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE2E6"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#6B5860">출처: 한국소비자원(CISS)</text>
+</svg>

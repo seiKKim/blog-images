@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="170" fill="#1B5FA6"/>
+  <text x="60" y="110" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">지원품목 11종 · 효율기준</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <!-- header -->
+    <rect x="60" y="200" width="960" height="74" fill="#243B6B"/>
+    <text x="95" y="250" font-size="36" font-weight="bold" fill="#ffffff">품목</text>
+    <text x="720" y="250" font-size="36" font-weight="bold" fill="#ffffff" text-anchor="end">효율등급</text>
+    <text x="990" y="250" font-size="36" font-weight="bold" fill="#ffffff" text-anchor="end">기준시행일</text>
+  </g>
+
+  <g font-family="Noto Sans CJK KR" font-size="34" fill="#1a1a1a">
+    <!-- rows -->
+    <rect x="60" y="274" width="960" height="68" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="318">냉장고</text><text x="720" y="318" text-anchor="end" fill="#1B5FA6" font-weight="bold">1등급</text><text x="990" y="318" text-anchor="end">21.10.01</text>
+    <rect x="60" y="342" width="960" height="68" fill="#F4F7FB" stroke="#D6E0EC"/>
+    <text x="95" y="386">김치냉장고</text><text x="720" y="386" text-anchor="end" fill="#1B5FA6" font-weight="bold">1등급</text><text x="990" y="386" text-anchor="end">23.05.01</text>
+    <rect x="60" y="410" width="960" height="68" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="454">에어컨(벽걸이)</text><text x="720" y="454" text-anchor="end" fill="#1B5FA6" font-weight="bold">1등급</text><text x="990" y="454" text-anchor="end">21.10.01</text>
+    <rect x="60" y="478" width="960" height="68" fill="#F4F7FB" stroke="#D6E0EC"/>
+    <text x="95" y="522">에어컨(그 외)</text><text x="720" y="522" text-anchor="end" fill="#1B5FA6" font-weight="bold">1~3등급</text><text x="990" y="522" text-anchor="end">21.10.01</text>
+    <rect x="60" y="546" width="960" height="68" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="590">세탁기(일반)</text><text x="720" y="590" text-anchor="end" fill="#1B5FA6" font-weight="bold">1~2등급</text><text x="990" y="590" text-anchor="end">22.11.01</text>
+    <rect x="60" y="614" width="960" height="68" fill="#F4F7FB" stroke="#D6E0EC"/>
+    <text x="95" y="658">세탁기(드럼)</text><text x="720" y="658" text-anchor="end" fill="#1B5FA6" font-weight="bold">1등급</text><text x="990" y="658" text-anchor="end">22.11.01</text>
+    <rect x="60" y="682" width="960" height="68" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="726">전기밥솥</text><text x="720" y="726" text-anchor="end" fill="#1B5FA6" font-weight="bold">1등급</text><text x="990" y="726" text-anchor="end">18.04.01</text>
+    <rect x="60" y="750" width="960" height="68" fill="#F4F7FB" stroke="#D6E0EC"/>
+    <text x="95" y="794">진공청소기(유선)</text><text x="720" y="794" text-anchor="end" fill="#1B5FA6" font-weight="bold">1~3등급</text><text x="990" y="794" text-anchor="end">19.01.01</text>
+    <rect x="60" y="818" width="960" height="68" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="862">공기청정기</text><text x="720" y="862" text-anchor="end" fill="#1B5FA6" font-weight="bold">1등급</text><text x="990" y="862" text-anchor="end">18.01.01</text>
+    <rect x="60" y="886" width="960" height="68" fill="#F4F7FB" stroke="#D6E0EC"/>
+    <text x="95" y="930">TV</text><text x="720" y="930" text-anchor="end" fill="#1B5FA6" font-weight="bold">1등급</text><text x="990" y="930" text-anchor="end">22.01.01</text>
+    <rect x="60" y="954" width="960" height="68" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="998">제습기</text><text x="720" y="998" text-anchor="end" fill="#1B5FA6" font-weight="bold">1등급</text><text x="990" y="998" text-anchor="end">24.07.01</text>
+    <rect x="60" y="1022" width="960" height="68" fill="#F4F7FB" stroke="#D6E0EC"/>
+    <text x="95" y="1066">의류건조기</text><text x="720" y="1066" text-anchor="end" fill="#1B5FA6" font-weight="bold">1등급</text><text x="990" y="1066" text-anchor="end">20.03.01</text>
+    <rect x="60" y="1090" width="960" height="68" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="1134">식기세척기</text><text x="720" y="1134" text-anchor="end" fill="#1B5FA6" font-weight="bold">1등급</text><text x="990" y="1134" text-anchor="end">25.01.01</text>
+  </g>
+
+  <text x="60" y="1200" font-family="Noto Sans CJK KR" font-size="32" fill="#E23B3B">※ 제외: 시스템에어컨·이동식에어컨·냉동고·냉온수기·냉난방기 등</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 한전 고효율 가전 지원사업 지원품목 안내</text>
+</svg>

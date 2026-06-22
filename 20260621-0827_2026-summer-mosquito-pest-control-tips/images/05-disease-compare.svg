@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <rect x="60" y="58" rx="28" ry="28" width="160" height="58" fill="#FFD23F"/>
+  <text x="140" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="178" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">일본뇌염 vs 뎅기열</text>
+
+  <!-- 두 컬럼 헤더 -->
+  <g font-family="Malgun Gothic">
+    <rect x="60" y="270" width="460" height="120" rx="20" fill="#243B6B"/>
+    <text x="290" y="328" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">일본뇌염</text>
+    <text x="290" y="372" font-size="30" fill="#FFD23F" text-anchor="middle">🌙 밤 활동</text>
+
+    <rect x="560" y="270" width="460" height="120" rx="20" fill="#1F8A53"/>
+    <text x="790" y="328" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">뎅기열</text>
+    <text x="790" y="372" font-size="30" fill="#FFD23F" text-anchor="middle">☀ 주로 낮 활동</text>
+  </g>
+
+  <!-- 비교 행 -->
+  <g font-family="Malgun Gothic" font-size="33" fill="#2a2a2a">
+    <!-- 매개모기 -->
+    <text x="60" y="448" font-weight="bold" font-size="30" fill="#9a5a1a">매개 모기</text>
+    <rect x="60" y="466" width="460" height="110" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <rect x="560" y="466" width="460" height="110" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="90" y="512" font-weight="bold">Culex</text>
+    <text x="90" y="552" font-size="29" fill="#5a5a5a">빨간집모기류·논 등</text>
+    <text x="590" y="512" font-weight="bold">Aedes</text>
+    <text x="590" y="552" font-size="29" fill="#5a5a5a">흰줄숲모기 등</text>
+
+    <!-- 규모 -->
+    <text x="60" y="624" font-weight="bold" font-size="30" fill="#9a5a1a">규모 (전 세계)</text>
+    <rect x="60" y="642" width="460" height="140" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <rect x="560" y="642" width="460" height="140" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="90" y="692" font-size="29" fill="#5a5a5a">연간 추정 발병</text>
+    <text x="90" y="736" font-weight="bold" font-size="40" fill="#243B6B">약 10만 명</text>
+    <text x="90" y="772" font-size="27" fill="#5a5a5a">사망 약 2.5만 명</text>
+    <text x="590" y="692" font-size="29" fill="#5a5a5a">2024년 사상 최다</text>
+    <text x="590" y="736" font-weight="bold" font-size="36" fill="#1F8A53">1,460만 건+</text>
+    <text x="590" y="772" font-size="27" fill="#5a5a5a">사망 1.2만 건+</text>
+
+    <!-- 중증/증상 -->
+    <text x="60" y="830" font-weight="bold" font-size="30" fill="#9a5a1a">중증도·증상</text>
+    <rect x="60" y="848" width="460" height="150" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <rect x="560" y="848" width="460" height="150" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="90" y="898" font-size="29" fill="#5a5a5a">뇌염 발현 시</text>
+    <text x="90" y="940" font-weight="bold" font-size="34" fill="#243B6B">치명률 약 30%</text>
+    <text x="90" y="980" font-size="27" fill="#5a5a5a">생존자 20~30% 신경손상</text>
+    <text x="590" y="898" font-size="29" fill="#5a5a5a">대부분 1~2주 회복</text>
+    <text x="590" y="940" font-weight="bold" font-size="32" fill="#1F8A53">고열·두통</text>
+    <text x="590" y="980" font-size="27" fill="#5a5a5a">근육관절통·발진</text>
+
+    <!-- 예방 -->
+    <text x="60" y="1046" font-weight="bold" font-size="30" fill="#9a5a1a">예방</text>
+    <rect x="60" y="1064" width="460" height="140" rx="16" fill="#FFF6EC" stroke="#EAD8C6"/>
+    <rect x="560" y="1064" width="460" height="140" rx="16" fill="#FFF6EC" stroke="#EAD8C6"/>
+    <text x="90" y="1116" font-weight="bold" font-size="34" fill="#1a1a1a">백신 존재</text>
+    <text x="90" y="1158" font-size="28" fill="#5a5a5a">모기 물림 예방 병행</text>
+    <text x="90" y="1192" font-size="27" fill="#9a3a3a">치료제 없음</text>
+    <text x="590" y="1116" font-weight="bold" font-size="32" fill="#1a1a1a">기피제·모기장</text>
+    <text x="590" y="1158" font-size="28" fill="#5a5a5a">고인 물 제거</text>
+    <text x="590" y="1192" font-size="27" fill="#9a3a3a">특이 치료제 없음</text>
+  </g>
+
+  <rect x="0" y="1262" width="1080" height="88" fill="#EDE0D2"/>
+  <text x="60" y="1318" font-family="Malgun Gothic" font-size="30" fill="#7a5a3a">출처: WHO·CDC / 국내 최신 수치는 질병관리청 확인</text>
+</svg>

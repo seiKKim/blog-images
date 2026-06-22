@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F7F1F3"/>
+  <rect width="1080" height="160" fill="#E0556E"/>
+  <text x="60" y="100" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">취소·환불 주의사항</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="210" width="960" height="110" rx="16" fill="#ffffff" stroke="#E6C7CF"/>
+    <text x="100" y="278" font-size="40" font-weight="bold" fill="#1a1a1a">취소 수수료·기한</text>
+    <text x="1000" y="278" font-size="40" font-weight="bold" fill="#E0556E" text-anchor="end">휴양림별 상이</text>
+
+    <rect x="60" y="340" width="960" height="110" rx="16" fill="#ffffff" stroke="#E6C7CF"/>
+    <text x="100" y="408" font-size="40" font-weight="bold" fill="#1a1a1a">환불 처리</text>
+    <text x="1000" y="408" font-size="40" font-weight="bold" fill="#E0556E" text-anchor="end">3일 이내(공휴일 제외)</text>
+  </g>
+
+  <rect x="60" y="480" width="960" height="150" rx="20" fill="#FCE3E8"/>
+  <text x="100" y="545" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#B23A52">당첨자 결제 마감(6/24 18시) 넘기면</text>
+  <text x="100" y="600" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">환불이 아니라 당첨 자체가 자동 취소</text>
+
+  <rect x="0" y="660" width="1080" height="60" fill="#EADBE0"/>
+  <text x="60" y="700" font-family="Noto Sans CJK KR" font-size="30" fill="#7A6670">출처: 숲나들e 예약·환불 안내 (예약 시 규정 확인)</text>
+</svg>

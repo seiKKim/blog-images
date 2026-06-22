@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#1B5FA6"/>
+<circle cx="950" cy="180" r="260" fill="#fff" opacity="0.08"/>
+<circle cx="120" cy="980" r="200" fill="#fff" opacity="0.06"/>
+<rect x="80" y="86" rx="29" width="220" height="58" fill="#FFD23F"/>
+<text x="190" y="124" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+<text x="80" y="248" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#E8EEF5" text-anchor="start">2026 에너지바우처 여름 냉방비</text>
+<text x="80" y="392" font-family="Noto Sans CJK KR" font-weight="bold" font-size="86" fill="#ffffff" text-anchor="start">1인 29만 원 ~</text>
+<text x="80" y="512" font-family="Noto Sans CJK KR" font-weight="bold" font-size="130" fill="#FFD23F" text-anchor="start">4인 70만 원</text>
+<text x="80" y="622" font-family="Noto Sans CJK KR" font-weight="bold" font-size="96" fill="#ffffff" text-anchor="start">여름 냉방비 지원</text>
+<rect x="80" y="700" rx="24" width="920" height="230" fill="#0D345F"/>
+<text x="112" y="776" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="start">신청  2026.6.15 ~ 12.31</text>
+<text x="112" y="845" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#E8EEF5" text-anchor="start">여름 사용  7/1 ~ 9/30 · 전기요금 자동차감</text>
+<text x="112" y="905" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#FFD23F" text-anchor="start">계절상한 폐지 → 연간 총액 자유 사용</text>
+<text x="80" y="1024" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#E8EEF5" text-anchor="start">blog.naver.com/trip_chocho</text>
+</svg>

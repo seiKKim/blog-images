@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="210" fill="#243B6B"/>
+<rect x="0" y="210" width="1080" height="10" fill="#FFD23F"/>
+<text x="60" y="135" font-family="Noto Sans CJK KR" font-weight="bold" font-size="66" fill="#ffffff">상황별 추천</text>
+<rect x="60" y="300" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="391" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">단기·유연하게</text>
+<text x="1000" y="391" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#243B6B" text-anchor="end">3년물</text>
+<rect x="60" y="472" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="563" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">절세·안정</text>
+<text x="1000" y="563" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#243B6B" text-anchor="end">5년물</text>
+<rect x="60" y="644" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="735" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">장기 고수익</text>
+<text x="1000" y="735" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#243B6B" text-anchor="end">10·20년물</text>
+<rect x="60" y="816" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="907" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">연금 세제까지</text>
+<text x="1000" y="907" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#243B6B" text-anchor="end">IRP 편입</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1320" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 기획재정부 국채시장</text>
+</svg>

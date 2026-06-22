@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1500" viewBox="0 0 1080 1500">
+  <rect width="1080" height="1500" fill="#F7EEF1"/>
+  <rect width="1080" height="190" fill="#E0556E"/>
+  <text x="60" y="120" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">복날 보양식 영양 한눈에</text>
+  <g font-family="Noto Sans CJK KR">
+    <!-- row template: title left, desc right -->
+    <rect x="60" y="240" width="960" height="170" rx="18" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="92" y="320" font-size="46" font-weight="bold" fill="#C03255">삼계탕</text>
+    <text x="92" y="380" font-size="34" fill="#444">닭 단백질 풍부·저지방, 인삼·대추로 기력 회복</text>
+
+    <rect x="60" y="428" width="960" height="170" rx="18" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="92" y="508" font-size="46" font-weight="bold" fill="#C03255">닭백숙·닭곰탕</text>
+    <text x="92" y="568" font-size="34" fill="#444">삼계탕과 같은 닭 기반, 부담을 줄인 변형 메뉴</text>
+
+    <rect x="60" y="616" width="960" height="170" rx="18" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="92" y="696" font-size="46" font-weight="bold" fill="#C03255">추어탕</text>
+    <text x="92" y="756" font-size="34" fill="#444">필수 아미노산·칼슘 풍부, 위장 보호·소화에 도움</text>
+
+    <rect x="60" y="804" width="960" height="170" rx="18" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="92" y="884" font-size="46" font-weight="bold" fill="#C03255">장어구이</text>
+    <text x="92" y="944" font-size="34" fill="#444">단백질·비타민A 풍부, 오메가3로 혈관 건강에 도움</text>
+
+    <rect x="60" y="992" width="960" height="170" rx="18" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="92" y="1072" font-size="46" font-weight="bold" fill="#C03255">전복</text>
+    <text x="92" y="1132" font-size="34" fill="#444">타우린 풍부, 여름 피로 해소·신진대사 회복에 도움</text>
+
+    <rect x="60" y="1180" width="960" height="170" rx="18" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="92" y="1260" font-size="46" font-weight="bold" fill="#C03255">콩국수</text>
+    <text x="92" y="1320" font-size="34" fill="#444">시원한 여름 별미, 뜨거운 보양식이 부담스러울 때 대안</text>
+  </g>
+  <rect x="0" y="1420" width="1080" height="80" fill="#EADBE0"/>
+  <text x="60" y="1472" font-family="Noto Sans CJK KR" font-size="32" fill="#7C5B66">※ 효능은 일반 영양 정보 기준</text>
+</svg>

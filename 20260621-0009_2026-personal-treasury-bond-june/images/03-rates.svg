@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="210" fill="#243B6B"/>
+<rect x="0" y="210" width="1080" height="10" fill="#FFD23F"/>
+<text x="60" y="135" font-family="Noto Sans CJK KR" font-weight="bold" font-size="66" fill="#ffffff">6월 발행물 수익률</text>
+<rect x="60" y="300" width="960" height="110" rx="14" fill="#243B6B"/>
+<text x="230" y="372" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">종목</text>
+<text x="520" y="372" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">가산금리</text>
+<text x="850" y="372" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">연평균*</text>
+<rect x="60" y="430" width="960" height="140" rx="14" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="230" y="516" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">3년물</text>
+<text x="520" y="516" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">0%</text>
+<text x="850" y="516" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#243B6B" text-anchor="middle">3.6~3.7%</text>
+<rect x="60" y="588" width="960" height="140" rx="14" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="230" y="674" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">5년물</text>
+<text x="520" y="674" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">0.1%</text>
+<text x="850" y="674" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#243B6B" text-anchor="middle">4.4%</text>
+<rect x="60" y="746" width="960" height="140" rx="14" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="230" y="832" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">10년물</text>
+<text x="520" y="832" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">0.5%</text>
+<text x="850" y="832" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#243B6B" text-anchor="middle">6.0%</text>
+<rect x="60" y="904" width="960" height="140" rx="14" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="230" y="990" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">20년물</text>
+<text x="520" y="990" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">0.8%</text>
+<text x="850" y="990" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#243B6B" text-anchor="middle">8.1%</text>
+<text x="60" y="1112" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#5B6B7C">* 만기보유·세전 기준 / 가산금리는 표면금리에 가산</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1320" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 이투데이(2026-06-10)</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="200" fill="#1B5FA6"/>
+<text x="60" y="120" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">어린이집 이용 시 부모급여 차액</text>
+<text x="100" y="270" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1B5FA6">구분 (기본보육 단가)</text>
+<text x="1020" y="270" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1B5FA6" text-anchor="end">현금 차액</text>
+<rect x="60" y="330" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="421" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">0세반 (보육료 584,000원)</text>
+<text x="1000" y="421" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#1B5FA6" text-anchor="end">차액 416,000원</text>
+<rect x="60" y="504" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="595" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">1세반 (보육료 515,000원)</text>
+<text x="1000" y="595" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#78828C" text-anchor="end">차액 없음</text>
+<rect x="60" y="688" width="960" height="150" rx="16" fill="#EAF2FB" stroke="#C7DBF0" stroke-width="2"/>
+<text x="100" y="751" font-family="Noto Sans CJK KR" font-size="34" fill="#283C5A">2026년 2월 지급분부터 적용 · 차액은 익월 지급</text>
+<text x="100" y="801" font-family="Noto Sans CJK KR" font-size="34" fill="#283C5A">보육료 바우처로 지급, 초과분만 현금 추가</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1320" font-family="Noto Sans CJK KR" font-size="30" fill="#5B6B7C">출처: 아이사랑(childcare.go.kr)</text>
+</svg>

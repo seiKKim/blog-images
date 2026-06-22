@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" font-family="Noto Sans CJK KR">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-weight="bold" font-size="60" fill="#ffffff">신청 방법</text>
+  <text x="60" y="166" font-weight="bold" font-size="36" fill="#E8EEF5">복지로에서 청년 본인이 직접</text>
+  <rect x="888" y="78" rx="22" width="132" height="44" fill="#FFD23F"/>
+  <text x="954" y="107" font-weight="bold" font-size="22" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <!-- browser mockup -->
+  <rect x="90" y="260" width="900" height="280" rx="22" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+  <path d="M90 282 a22 22 0 0 1 22 -22 h856 a22 22 0 0 1 22 22 v48 h-900 z" fill="#ECF0F5"/>
+  <circle cx="123" cy="295" r="11" fill="#E26262"/>
+  <circle cx="161" cy="295" r="11" fill="#FFC850"/>
+  <circle cx="199" cy="295" r="11" fill="#6EBE78"/>
+  <rect x="240" y="282" width="710" height="36" rx="18" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="265" y="307" font-size="26" fill="#5B6B7C">www.bokjiro.go.kr</text>
+  <rect x="130" y="380" width="600" height="90" rx="16" fill="#F4F7FB" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="160" y="437" font-weight="bold" font-size="36" fill="#1a1a1a">청년월세 특별지원</text>
+  <rect x="810" y="380" width="140" height="90" rx="16" fill="#1B5FA6"/>
+  <text x="880" y="438" font-weight="bold" font-size="36" fill="#fff" text-anchor="middle">검색</text>
+
+  <!-- two route cards -->
+  <rect x="90" y="600" width="430" height="250" rx="20" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+  <path d="M90 620 a20 20 0 0 1 20 -20 h390 a20 20 0 0 1 20 20 v50 h-430 z" fill="#1B5FA6"/>
+  <text x="305" y="648" font-weight="bold" font-size="36" fill="#fff" text-anchor="middle">온라인</text>
+  <text x="305" y="730" font-size="29" fill="#1a1a1a" text-anchor="middle">복지로 누리집에서</text>
+  <text x="305" y="776" font-size="29" fill="#1a1a1a" text-anchor="middle">청년 본인이 직접 신청</text>
+
+  <rect x="560" y="600" width="430" height="250" rx="20" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+  <path d="M560 620 a20 20 0 0 1 20 -20 h390 a20 20 0 0 1 20 20 v50 h-430 z" fill="#1B5FA6"/>
+  <text x="775" y="648" font-weight="bold" font-size="36" fill="#fff" text-anchor="middle">오프라인</text>
+  <text x="775" y="730" font-size="29" fill="#1a1a1a" text-anchor="middle">관할 행정복지센터 방문</text>
+  <text x="775" y="776" font-size="29" fill="#1a1a1a" text-anchor="middle">(대리 신청 가능)</text>
+
+  <rect x="90" y="890" width="900" height="80" rx="16" fill="#E8EEF5"/>
+  <text x="540" y="940" font-weight="bold" font-size="29" fill="#124275" text-anchor="middle">심사 약 2~3주 · 먼저 자가진단/모의계산 권장</text>
+
+  <rect x="0" y="1000" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1048" font-size="26" fill="#5B6B7C">출처: 본문 정리 · bokjiro.go.kr</text>
+</svg>

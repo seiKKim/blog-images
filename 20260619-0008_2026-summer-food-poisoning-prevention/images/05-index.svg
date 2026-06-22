@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EE"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <rect x="60" y="60" rx="26" ry="26" width="150" height="56" fill="#FFD23F"/>
+  <text x="135" y="99" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="170" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">식중독지수 4단계</text>
+
+  <g font-family="Noto Sans CJK KR" font-size="44" fill="#1a1a1a">
+    <rect x="60" y="270" width="960" height="120" rx="16" fill="#ffffff" stroke="#F0C9A8"/>
+    <circle cx="120" cy="330" r="26" fill="#E23B3B"/>
+    <text x="180" y="344" font-weight="bold">위험</text>
+    <text x="1000" y="344" font-weight="bold" fill="#E23B3B" text-anchor="end">지수 86 이상</text>
+
+    <rect x="60" y="410" width="960" height="120" rx="16" fill="#ffffff" stroke="#F0C9A8"/>
+    <circle cx="120" cy="470" r="26" fill="#F08C2C"/>
+    <text x="180" y="484" font-weight="bold">경고</text>
+    <text x="1000" y="484" font-weight="bold" fill="#E8722C" text-anchor="end">71 ~ 86</text>
+
+    <rect x="60" y="550" width="960" height="120" rx="16" fill="#ffffff" stroke="#F0C9A8"/>
+    <circle cx="120" cy="610" r="26" fill="#F4C430"/>
+    <text x="180" y="624" font-weight="bold">주의</text>
+    <text x="1000" y="624" font-weight="bold" fill="#B98A00" text-anchor="end">55 ~ 71</text>
+
+    <rect x="60" y="690" width="960" height="120" rx="16" fill="#ffffff" stroke="#F0C9A8"/>
+    <circle cx="120" cy="750" r="26" fill="#5BB85B"/>
+    <text x="180" y="764" font-weight="bold">관심</text>
+    <text x="1000" y="764" font-weight="bold" fill="#2E8B2E" text-anchor="end">55 미만</text>
+  </g>
+
+  <rect x="60" y="850" width="960" height="150" rx="16" fill="#FFE9D4" stroke="#F0C9A8"/>
+  <text x="540" y="918" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#C8551A" text-anchor="middle">우리 동네 단계 확인</text>
+  <text x="540" y="970" font-family="Noto Sans CJK KR" font-size="36" fill="#7A5A44" text-anchor="middle">식중독 예측지도 poisonmap.mfds.go.kr</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0DECF"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#7A5A44">출처: 기상청 날씨누리·식약처 식중독 예측지도</text>
+</svg>

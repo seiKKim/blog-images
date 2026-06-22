@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1200" viewBox="0 0 1080 1200">
+<rect x="0" y="0" width="1080" height="230" fill="#243B6B"/>
+<rect x="60" y="36" width="168" height="60" rx="30" ry="30" fill="#FFD23F"/>
+<text x="143.8" y="77.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="30" fill="#1A1A1A" text-anchor="middle">금융/재테크</text>
+<text x="60" y="168" font-family="Noto Sans CJK KR" font-weight="800" font-size="54" fill="#FFFFFF" text-anchor="start">청년도약계좌 가입 대상·한도</text>
+<text x="60" y="209" font-family="Noto Sans CJK KR" font-weight="500" font-size="29" fill="#E8EEF5" text-anchor="start">기존 가입자 조건 점검용</text>
+<rect x="60" y="270" width="960" height="116" rx="18" ry="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="270" width="300" height="116" rx="18" ry="18" fill="#EEF3FA"/>
+<text x="95" y="341.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="40" fill="#243B6B" text-anchor="start">나이</text>
+<text x="400" y="341.0" font-family="Noto Sans CJK KR" font-weight="700" font-size="40" fill="#1A1A1A" text-anchor="start">가입일 기준 만 19~34세</text>
+<rect x="60" y="400" width="960" height="116" rx="18" ry="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<text x="400" y="471.0" font-family="Noto Sans CJK KR" font-weight="500" font-size="40" fill="#5B6B7C" text-anchor="start">(병역기간 최대 6년 제외)</text>
+<rect x="60" y="530" width="960" height="116" rx="18" ry="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="530" width="300" height="116" rx="18" ry="18" fill="#EEF3FA"/>
+<text x="95" y="601.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="40" fill="#243B6B" text-anchor="start">개인소득</text>
+<text x="400" y="601.0" font-family="Noto Sans CJK KR" font-weight="700" font-size="40" fill="#1A1A1A" text-anchor="start">총급여 7,500만원 이하</text>
+<rect x="60" y="660" width="960" height="116" rx="18" ry="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="660" width="300" height="116" rx="18" ry="18" fill="#EEF3FA"/>
+<text x="95" y="731.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="40" fill="#243B6B" text-anchor="start">가구소득</text>
+<text x="400" y="731.0" font-family="Noto Sans CJK KR" font-weight="700" font-size="40" fill="#1A1A1A" text-anchor="start">기준 중위소득 250% 이하</text>
+<rect x="60" y="790" width="960" height="116" rx="18" ry="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="790" width="300" height="116" rx="18" ry="18" fill="#EEF3FA"/>
+<text x="95" y="861.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="40" fill="#243B6B" text-anchor="start">월 납입한도</text>
+<text x="400" y="861.0" font-family="Noto Sans CJK KR" font-weight="700" font-size="40" fill="#1A1A1A" text-anchor="start">최대 70만원 (1천원 단위)</text>
+<rect x="60" y="920" width="960" height="116" rx="18" ry="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="920" width="300" height="116" rx="18" ry="18" fill="#EEF3FA"/>
+<text x="95" y="991.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="40" fill="#243B6B" text-anchor="start">만기</text>
+<text x="400" y="991.0" font-family="Noto Sans CJK KR" font-weight="700" font-size="40" fill="#1A1A1A" text-anchor="start">5년 (60개월)</text>
+<rect x="0" y="1120" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1168" font-family="Noto Sans CJK KR" font-weight="500" font-size="28" fill="#5B6B7C" text-anchor="start">출처: 정책 안내 정리 (가구소득 250%는 2024.3.12~ 완화 기준)</text>
+</svg>

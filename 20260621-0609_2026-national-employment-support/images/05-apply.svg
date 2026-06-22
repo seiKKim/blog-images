@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="60" y="60" rx="26" ry="26" width="160" height="56" fill="#FFD23F"/>
+  <text x="140" y="99" font-family="'Noto Sans KR','Malgun Gothic'" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="175" font-family="'Noto Sans KR','Malgun Gothic'" font-weight="bold" font-size="62" fill="#ffffff">신청 방법과 절차</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic'">
+    <!-- 신청 경로 박스 -->
+    <rect x="60" y="250" width="960" height="270" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="320" font-weight="bold" font-size="40" fill="#1B5FA6">신청 경로</text>
+    <text x="90" y="385" font-weight="bold" font-size="34" fill="#1a1a1a">온라인  고용24 (www.work24.go.kr)</text>
+    <text x="90" y="435" font-weight="bold" font-size="34" fill="#1a1a1a">오프라인  거주지 관할 고용센터 방문</text>
+    <text x="90" y="485" font-weight="bold" font-size="34" fill="#1a1a1a">전화  고객상담센터 국번 없이 1350</text>
+    <rect x="770" y="455" width="220" height="56" rx="28" fill="#FFD23F"/>
+    <text x="880" y="494" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">상시 신청</text>
+
+    <!-- 절차 6단계 -->
+    <text x="90" y="600" font-weight="bold" font-size="40" fill="#1B5FA6">진행 절차</text>
+
+    <!-- step rows -->
+    <g>
+      <circle cx="120" cy="668" r="34" fill="#1B5FA6"/>
+      <text x="120" y="681" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">1</text>
+      <text x="180" y="681" font-weight="bold" font-size="36" fill="#1a1a1a">구직등록 (워크넷/고용24)</text>
+    </g>
+    <g>
+      <circle cx="120" cy="758" r="34" fill="#1B5FA6"/>
+      <text x="120" y="771" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">2</text>
+      <text x="180" y="771" font-weight="bold" font-size="36" fill="#1a1a1a">동영상 교육 수강 (1·2회차)</text>
+    </g>
+    <g>
+      <circle cx="120" cy="848" r="34" fill="#1B5FA6"/>
+      <text x="120" y="861" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">3</text>
+      <text x="180" y="861" font-weight="bold" font-size="36" fill="#1a1a1a">취업지원 신청서 작성·제출</text>
+    </g>
+    <g>
+      <circle cx="120" cy="938" r="34" fill="#1B5FA6"/>
+      <text x="120" y="951" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">4</text>
+      <text x="180" y="938" font-weight="bold" font-size="36" fill="#1a1a1a">수급자격 조사·결정</text>
+      <text x="180" y="978" font-weight="bold" font-size="29" fill="#E23B3B">신청일로부터 약 1개월 내 서면 통지</text>
+    </g>
+    <g>
+      <circle cx="120" cy="1048" r="34" fill="#1B5FA6"/>
+      <text x="120" y="1061" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">5</text>
+      <text x="180" y="1061" font-weight="bold" font-size="36" fill="#1a1a1a">취업활동계획(IAP) 수립</text>
+    </g>
+    <g>
+      <circle cx="120" cy="1138" r="34" fill="#FFD23F"/>
+      <text x="120" y="1151" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">6</text>
+      <text x="180" y="1138" font-weight="bold" font-size="36" fill="#1a1a1a">구직활동 이행</text>
+      <text x="180" y="1178" font-weight="bold" font-size="32" fill="#1B5FA6">→ 구직촉진수당 지급</text>
+    </g>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1320" font-family="'Noto Sans KR','Malgun Gothic'" font-size="32" fill="#5B6B7C">출처: 고용노동부 · 고용24(work24.go.kr)</text>
+</svg>

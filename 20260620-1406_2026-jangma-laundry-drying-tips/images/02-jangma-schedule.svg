@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EF"/>
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <rect x="60" y="55" rx="30" ry="30" width="200" height="60" fill="#FFD23F"/>
+  <text x="160" y="97" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="180" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">2026 장마 시작 시기 (참고치)</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="290" width="960" height="150" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="383" font-size="50" font-weight="bold" fill="#1a1a1a">제주</text>
+    <text x="1000" y="383" font-size="50" font-weight="bold" fill="#E8722C" text-anchor="end">6월 19~21일</text>
+    <rect x="60" y="460" width="960" height="150" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="553" font-size="50" font-weight="bold" fill="#1a1a1a">남부지방</text>
+    <text x="1000" y="553" font-size="50" font-weight="bold" fill="#E8722C" text-anchor="end">6월 23~25일</text>
+    <rect x="60" y="630" width="960" height="150" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="723" font-size="50" font-weight="bold" fill="#1a1a1a">중부·수도권</text>
+    <text x="1000" y="723" font-size="50" font-weight="bold" fill="#E8722C" text-anchor="end">6월 25~27일</text>
+  </g>
+  <rect x="60" y="840" width="960" height="230" rx="16" fill="#FCEADD"/>
+  <text x="100" y="915" font-family="Noto Sans CJK KR" font-size="44" font-weight="bold" fill="#9A4F1E">약 한 달간 지속 전망</text>
+  <text x="100" y="980" font-family="Noto Sans CJK KR" font-size="40" fill="#7A4A2A">남부·중부 거의 동시 진입 가능성</text>
+  <text x="100" y="1035" font-family="Noto Sans CJK KR" font-size="40" fill="#7A4A2A">→ 곧 실내건조 시즌 시작</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0DECF"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#8A6A52">기상청 공식 예보 아님 · 통계 기반 참고치</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect x="0" y="0" width="1080" height="230" fill="#243B6B"/>
+<rect x="60" y="36" width="168" height="60" rx="30" ry="30" fill="#FFD23F"/>
+<text x="143.8" y="77.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="30" fill="#1A1A1A" text-anchor="middle">금융/재테크</text>
+<text x="60" y="168" font-family="Noto Sans CJK KR" font-weight="800" font-size="54" fill="#FFFFFF" text-anchor="start">2026년 청년도약계좌 현재 상태</text>
+<text x="60" y="209" font-family="Noto Sans CJK KR" font-weight="500" font-size="29" fill="#E8EEF5" text-anchor="start">신규 종료 · 기존 유지 · 후속 상품 전환</text>
+<rect x="50.0" y="280" width="300" height="640" rx="24" ry="24" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="50.0" y="280" width="300" height="14" rx="7" ry="7" fill="#D24B4B"/>
+<text x="200.0" y="402" font-family="Noto Sans CJK KR" font-weight="700" font-size="38" fill="#1A1A1A" text-anchor="middle">신규 가입</text>
+<circle cx="200.0" cy="580" r="105" fill="#D24B4B"/>
+<text x="200.0" y="602" font-family="Noto Sans CJK KR" font-weight="800" font-size="64" fill="#FFFFFF" text-anchor="middle">불가</text>
+<text x="200.0" y="780" font-family="Noto Sans CJK KR" font-weight="600" font-size="30" fill="#5B6B7C" text-anchor="middle">2025.12.31 종료</text>
+<rect x="390.0" y="280" width="300" height="640" rx="24" ry="24" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="390.0" y="280" width="300" height="14" rx="7" ry="7" fill="#243B6B"/>
+<text x="540.0" y="402" font-family="Noto Sans CJK KR" font-weight="700" font-size="38" fill="#1A1A1A" text-anchor="middle">기존 가입자</text>
+<circle cx="540.0" cy="580" r="105" fill="#243B6B"/>
+<text x="540.0" y="602" font-family="Noto Sans CJK KR" font-weight="800" font-size="64" fill="#FFFFFF" text-anchor="middle">유지</text>
+<text x="540.0" y="780" font-family="Noto Sans CJK KR" font-weight="600" font-size="30" fill="#5B6B7C" text-anchor="middle">5년(60개월) 만기까지</text>
+<rect x="730.0" y="280" width="300" height="640" rx="24" ry="24" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="730.0" y="280" width="300" height="14" rx="7" ry="7" fill="#1F8A53"/>
+<text x="880.0" y="402" font-family="Noto Sans CJK KR" font-weight="700" font-size="38" fill="#1A1A1A" text-anchor="middle">새로 시작</text>
+<circle cx="880.0" cy="580" r="105" fill="#1F8A53"/>
+<text x="880.0" y="602" font-family="Noto Sans CJK KR" font-weight="800" font-size="64" fill="#FFFFFF" text-anchor="middle">전환</text>
+<text x="880.0" y="780" font-family="Noto Sans CJK KR" font-weight="600" font-size="30" fill="#5B6B7C" text-anchor="middle">청년미래적금으로 안내</text>
+<line x1="354.0" y1="600.0" x2="370.0" y2="600.0" stroke="#9FB2D0" stroke-width="8" stroke-linecap="round"/>
+<polygon points="382.0,600.0 364.0,587.0 364.0,613.0" fill="#9FB2D0"/>
+<line x1="694.0" y1="600.0" x2="710.0" y2="600.0" stroke="#9FB2D0" stroke-width="8" stroke-linecap="round"/>
+<polygon points="722.0,600.0 704.0,587.0 704.0,613.0" fill="#9FB2D0"/>
+<rect x="0" y="1000" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1048" font-family="Noto Sans CJK KR" font-weight="500" font-size="28" fill="#5B6B7C" text-anchor="start">출처: 정책 안내 정리 (서민금융진흥원 등)</text>
+</svg>

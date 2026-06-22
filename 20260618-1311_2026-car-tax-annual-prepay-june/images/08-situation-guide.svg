@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="170" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">상황별 연납 추천</text>
+  <g font-family="Noto Sans CJK KR">
+    <!-- case1 -->
+    <rect x="60" y="240" width="960" height="240" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="240" width="14" height="240" fill="#1F8A53"/>
+    <text x="110" y="318" font-weight="bold" font-size="38" fill="#5B6B7C">할인폭 최대로 받고 싶다면</text>
+    <text x="110" y="386" font-weight="900" font-size="46" fill="#1F8A53">가장 유리한 1월 (약 4.58%)</text>
+    <text x="110" y="446" font-size="34" fill="#1a1a1a">이미 지났다면 6월이 현실적 대안</text>
+    <!-- case2 -->
+    <rect x="60" y="506" width="960" height="240" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="506" width="14" height="240" fill="#1F8A53"/>
+    <text x="110" y="584" font-weight="bold" font-size="38" fill="#5B6B7C">1월을 놓쳤다면</text>
+    <text x="110" y="652" font-weight="900" font-size="46" fill="#1F8A53">6월 (6/16~30, 약 2.51%)</text>
+    <text x="110" y="712" font-size="34" fill="#1a1a1a">하반기분 연납으로 챙기기</text>
+    <!-- case3 -->
+    <rect x="60" y="772" width="960" height="240" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="772" width="14" height="240" fill="#1F8A53"/>
+    <text x="110" y="850" font-weight="bold" font-size="38" fill="#5B6B7C">중도 매도·폐차 가능성 있다면</text>
+    <text x="110" y="918" font-weight="900" font-size="46" fill="#1F8A53">연납해도 잔여분은 환급</text>
+    <text x="110" y="978" font-size="34" fill="#1a1a1a">부담 덜고 신청 가능</text>
+  </g>
+  <rect x="0" y="1014" width="1080" height="66" fill="#E8EEF5"/>
+  <text x="60" y="1055" font-family="Noto Sans CJK KR" font-size="28" fill="#5B6B7C">공제율 5% 가정 · 출처: 행정안전부·위택스 안내 기준</text>
+</svg>

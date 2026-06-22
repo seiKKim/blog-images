@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" font-family="Noto Sans CJK KR">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-weight="bold" font-size="56" fill="#ffffff">월 20만 원 × 24개월</text>
+  <text x="60" y="166" font-weight="bold" font-size="42" fill="#FFD23F">쌓이면 총 480만 원</text>
+  <rect x="888" y="78" rx="22" width="132" height="44" fill="#FFD23F"/>
+  <text x="954" y="107" font-weight="bold" font-size="22" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <!-- bars: base_y=760, heights = 430*val/480 -->
+  <rect x="130" y="652.5" width="150" height="107.5" rx="14" fill="#1B5FA6"/>
+  <text x="205" y="616" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">120만 원</text>
+  <text x="205" y="804" font-size="32" fill="#5B6B7C" text-anchor="middle">6개월</text>
+
+  <rect x="350" y="545" width="150" height="215" rx="14" fill="#1B5FA6"/>
+  <text x="425" y="509" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">240만 원</text>
+  <text x="425" y="804" font-size="32" fill="#5B6B7C" text-anchor="middle">12개월</text>
+
+  <rect x="570" y="437.5" width="150" height="322.5" rx="14" fill="#1B5FA6"/>
+  <text x="645" y="401" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">360만 원</text>
+  <text x="645" y="804" font-size="32" fill="#5B6B7C" text-anchor="middle">18개월</text>
+
+  <rect x="790" y="330" width="150" height="430" rx="14" fill="#FFD23F"/>
+  <text x="865" y="294" font-weight="bold" font-size="34" fill="#124275" text-anchor="middle">480만 원</text>
+  <text x="865" y="804" font-size="32" fill="#5B6B7C" text-anchor="middle">24개월</text>
+
+  <line x1="100" y1="760" x2="970" y2="760" stroke="#D6E0EC" stroke-width="3"/>
+
+  <rect x="60" y="860" width="960" height="120" rx="18" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="90" y="918" font-weight="bold" font-size="34" fill="#124275">총 한도 총 최대 480만 원 (생애 1회)</text>
+  <text x="90" y="958" font-size="28" fill="#5B6B7C">실제 납부 월세 항목만 (보증금·관리비 제외)</text>
+
+  <rect x="0" y="1000" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1048" font-size="26" fill="#5B6B7C">출처: 본문 정리 · 개월수는 신청 전 복지로 확인</text>
+</svg>

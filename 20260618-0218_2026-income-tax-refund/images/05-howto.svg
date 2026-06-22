@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">환급금 조회 3단계</text>
+
+  <text x="60" y="290" font-family="Noto Sans CJK KR" font-size="40" fill="#5B6B7C">홈택스(PC) · 손택스(앱) 동일 경로</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="330" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="130" cy="390" r="36" fill="#1F8A53"/>
+    <text x="130" y="405" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="200" y="405" font-size="46" font-weight="bold" fill="#1a1a1a">조회 / 발급</text>
+
+    <rect x="60" y="475" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="130" cy="535" r="36" fill="#1F8A53"/>
+    <text x="130" y="550" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="200" y="550" font-size="46" font-weight="bold" fill="#1a1a1a">국세환급</text>
+
+    <rect x="60" y="620" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="130" cy="680" r="36" fill="#1F8A53"/>
+    <text x="130" y="695" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="200" y="695" font-size="46" font-weight="bold" fill="#1a1a1a">국세환급금 찾기</text>
+  </g>
+
+  <rect x="60" y="790" width="960" height="120" rx="16" fill="#FFF6D6" stroke="#FFD23F" stroke-width="3"/>
+  <text x="540" y="845" font-family="Noto Sans CJK KR" font-size="42" font-weight="bold" fill="#1a1a1a" text-anchor="middle">전화 ARS 1544-9944</text>
+  <text x="540" y="892" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C" text-anchor="middle">진행·결정 내역은 '환급금 상세조회'에서</text>
+
+  <rect x="0" y="1000" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1052" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 국세청 홈택스·손택스 안내</text>
+</svg>

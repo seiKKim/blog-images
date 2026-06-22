@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect x="0" y="0" width="1080" height="1080" fill="#243B6B"/>
+<circle cx="950" cy="180" r="260" fill="#2E4A82"/>
+<circle cx="120" cy="980" r="200" fill="#2E4A82"/>
+<rect x="64" y="80" width="168" height="60" rx="30" ry="30" fill="#FFD23F"/>
+<text x="147.8" y="121.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="30" fill="#1A1A1A" text-anchor="middle">금융/재테크</text>
+<text x="64" y="244" font-family="Noto Sans CJK KR" font-weight="700" font-size="46" fill="#E8EEF5" text-anchor="start">2026년 청년도약계좌 어떻게 됐나?</text>
+<text x="64" y="366" font-family="Noto Sans CJK KR" font-weight="800" font-size="110" fill="#FFFFFF" text-anchor="start">신규 가입</text>
+<text x="64" y="478" font-family="Noto Sans CJK KR" font-weight="800" font-size="96" fill="#FFD23F" text-anchor="start">2025.12.31 종료</text>
+<rect x="64" y="560" width="430" height="150" rx="24" ry="24" fill="#1A2C52"/>
+<text x="279" y="624" font-family="Noto Sans CJK KR" font-weight="700" font-size="38" fill="#E8EEF5" text-anchor="middle">청년도약계좌</text>
+<text x="279" y="679" font-family="Noto Sans CJK KR" font-weight="800" font-size="40" fill="#FFFFFF" text-anchor="middle">기존자 5년 유지</text>
+<line x1="520" y1="635" x2="592" y2="635" stroke="#FFD23F" stroke-width="14" stroke-linecap="round"/>
+<polygon points="600,635 578,614 578,656" fill="#FFD23F"/>
+<rect x="626" y="560" width="390" height="150" rx="24" ry="24" fill="#FFD23F"/>
+<text x="821" y="624" font-family="Noto Sans CJK KR" font-weight="700" font-size="36" fill="#1A2C52" text-anchor="middle">신규는</text>
+<text x="821" y="679" font-family="Noto Sans CJK KR" font-weight="800" font-size="44" fill="#1A2C52" text-anchor="middle">청년미래적금</text>
+<rect x="64" y="770" width="952" height="130" rx="20" ry="20" fill="#33508C"/>
+<text x="96" y="852" font-family="Noto Sans CJK KR" font-weight="800" font-size="44" fill="#FFFFFF" text-anchor="start">청년미래적금 첫 신청  2026.6.22 ~ 7.3</text>
+<text x="64" y="962" font-family="Noto Sans CJK KR" font-weight="600" font-size="34" fill="#E8EEF5" text-anchor="start">만 19~34세 · 월 70만원 · 5년 만기 · 정부기여금</text>
+<text x="64" y="1027" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#9FB2D0" text-anchor="start">blog.naver.com/trip_chocho</text>
+</svg>

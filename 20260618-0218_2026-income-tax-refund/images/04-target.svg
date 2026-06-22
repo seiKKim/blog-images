@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">환급은 왜 생길까?</text>
+
+  <!-- 도식 -->
+  <rect x="80" y="300" width="380" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="270" y="378" font-family="Noto Sans CJK KR" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">미리 낸 세금</text>
+  <text x="270" y="425" font-family="Noto Sans CJK KR" font-size="30" fill="#5B6B7C" text-anchor="middle">원천징수·중간예납</text>
+
+  <text x="540" y="395" font-family="Noto Sans CJK KR" font-size="90" font-weight="bold" fill="#1F8A53" text-anchor="middle">&gt;</text>
+
+  <rect x="620" y="300" width="380" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="810" y="378" font-family="Noto Sans CJK KR" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">확정 세액</text>
+  <text x="810" y="425" font-family="Noto Sans CJK KR" font-size="30" fill="#5B6B7C" text-anchor="middle">최종 계산된 세금</text>
+
+  <rect x="80" y="510" width="920" height="110" rx="16" fill="#1F8A53"/>
+  <text x="540" y="582" font-family="Noto Sans CJK KR" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">차액만큼 환급!</text>
+
+  <text x="80" y="730" font-family="Noto Sans CJK KR" font-size="40" font-weight="bold" fill="#1a1a1a">대표 환급 대상</text>
+  <text x="80" y="798" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a">· 3.3% 원천징수 프리랜서·인적용역</text>
+  <text x="80" y="858" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a">· 중간예납 &gt; 확정세액 사업자</text>
+  <text x="80" y="918" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a">· 공제·감면으로 세액이 줄어든 경우</text>
+
+  <rect x="0" y="1000" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1052" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">정확한 환급 여부는 신고 결과·홈택스 조회로 확인</text>
+</svg>

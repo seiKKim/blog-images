@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Noto Sans CJK KR">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <text x="60" y="108" font-weight="bold" font-size="54" fill="#fff">음식 보관 온도 가이드</text>
+  <text x="60" y="160" font-size="30" fill="#E8EEF5">5℃~60℃ 위험 온도 구간(Danger Zone)을 피하라</text>
+  <rect x="120" y="290" width="150" height="139" fill="#1F8A53"/><rect x="120" y="429" width="150" height="400" fill="#E23B3B"/><rect x="120" y="829" width="150" height="231" fill="#3D7DCA"/>
+  <line x1="108" y1="429" x2="790" y2="429" stroke="#1a1a1a" stroke-width="2"/>
+  <line x1="108" y1="829" x2="790" y2="829" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="294" y="441" font-size="34" font-weight="bold" fill="#1a1a1a">60℃</text>
+  <text x="294" y="841" font-size="34" font-weight="bold" fill="#1a1a1a">5℃</text>
+  <rect x="440" y="284" width="560" height="150" rx="16" fill="#fff" stroke="#D6E0EC"/><rect x="440" y="284" width="14" height="150" rx="7" fill="#1F8A53"/><text x="484" y="350" font-size="38" font-weight="bold" fill="#1a1a1a">60℃ 이상 유지</text><text x="484" y="402" font-size="26" fill="#5B6B7C">따뜻한 음식은 식지 않게</text><rect x="440" y="554" width="560" height="150" rx="16" fill="#fff" stroke="#D6E0EC"/><rect x="440" y="554" width="14" height="150" rx="7" fill="#E23B3B"/><text x="484" y="620" font-size="38" font-weight="bold" fill="#1a1a1a">위험 온도 구간</text><text x="484" y="672" font-size="26" fill="#5B6B7C">미생물 증식 가장 활발 — 피할 것</text><rect x="440" y="870" width="560" height="150" rx="16" fill="#fff" stroke="#D6E0EC"/><rect x="440" y="870" width="14" height="150" rx="7" fill="#3D7DCA"/><text x="484" y="936" font-size="38" font-weight="bold" fill="#1a1a1a">5℃ 이하 유지</text><text x="484" y="988" font-size="26" fill="#5B6B7C">차가운 음식은 빠르게 식혀 보관</text>
+  <rect x="60" y="1120" width="960" height="135" rx="16" fill="#FFF4F4" stroke="#E23B3B" stroke-width="2"/>
+  <text x="90" y="1178" font-size="36" font-weight="bold" fill="#1a1a1a">냉장 5℃ 이하 · 냉동 -18℃ 이하</text>
+  <text x="90" y="1232" font-size="28" fill="#5B6B7C">조리 음식 2시간 이내 섭취 (폭염기 1시간 이내) · 야외 아이스박스 10℃ 이하</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1320" font-size="28" fill="#5B6B7C">출처: 식품의약품안전처 식중독 예방 보관 기준</text>
+</svg>

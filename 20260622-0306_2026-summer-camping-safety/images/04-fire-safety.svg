@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F2F4"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">화재·화상 막는 기본 수칙</text>
+  <g font-family="Noto Sans CJK KR" fill="#1a1a1a">
+    <rect x="60" y="270" width="960" height="180" rx="20" fill="#ffffff" stroke="#E6D2D8"/>
+    <circle cx="150" cy="360" r="44" fill="#E0556E"/><text x="150" y="378" font-size="50" font-weight="bold" fill="#fff" text-anchor="middle">1</text>
+    <text x="230" y="378" font-size="50" font-weight="bold">소화기·소화 수단 꼭 비치</text>
+    <rect x="60" y="470" width="960" height="180" rx="20" fill="#ffffff" stroke="#E6D2D8"/>
+    <circle cx="150" cy="560" r="44" fill="#E0556E"/><text x="150" y="578" font-size="50" font-weight="bold" fill="#fff" text-anchor="middle">2</text>
+    <text x="230" y="560" font-size="46" font-weight="bold">휴대용 가스레인지는</text>
+    <text x="230" y="618" font-size="46" font-weight="bold">화구보다 작은 조리기구</text>
+    <rect x="60" y="670" width="960" height="180" rx="20" fill="#ffffff" stroke="#E6D2D8"/>
+    <circle cx="150" cy="760" r="44" fill="#E0556E"/><text x="150" y="778" font-size="50" font-weight="bold" fill="#fff" text-anchor="middle">3</text>
+    <text x="230" y="778" font-size="46" font-weight="bold">화로·버너는 텐트와 이격(3m+)</text>
+    <rect x="60" y="870" width="960" height="180" rx="20" fill="#FFF0F3" stroke="#E6D2D8"/>
+    <circle cx="150" cy="960" r="44" fill="#E0556E"/><text x="150" y="978" font-size="50" font-weight="bold" fill="#fff" text-anchor="middle">4</text>
+    <text x="230" y="978" font-size="46" font-weight="bold">자리 뜰 땐 잔불 완전 소화</text>
+  </g>
+  <text x="60" y="1150" font-family="Noto Sans CJK KR" font-size="38" fill="#5B4A50">캠핑장 화재 원인의 58%가 불씨 방치·조리 부주의</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE2E6"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#6B5860">출처: 소방청·정책브리핑</text>
+</svg>

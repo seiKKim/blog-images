@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1180" viewBox="0 0 1080 1180">
+  <rect width="1080" height="1180" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <text x="60" y="110" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">모두의 카드 기준금액</text>
+  <text x="60" y="170" font-family="Noto Sans CJK KR" font-size="36" fill="#FFD23F">수도권 기준 · 초과분 전액 환급</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <!-- 헤더 행 -->
+    <rect x="60" y="270" width="540" height="110" fill="#243B6B"/>
+    <rect x="600" y="270" width="210" height="110" fill="#243B6B"/>
+    <rect x="810" y="270" width="210" height="110" fill="#243B6B"/>
+    <text x="100" y="338" font-size="38" font-weight="bold" fill="#ffffff">유형</text>
+    <text x="705" y="338" font-size="38" font-weight="bold" fill="#ffffff" text-anchor="middle">일반형</text>
+    <text x="915" y="338" font-size="38" font-weight="bold" fill="#ffffff" text-anchor="middle">플러스형</text>
+
+    <!-- 행1 -->
+    <rect x="60" y="380" width="540" height="180" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="600" y="380" width="210" height="180" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="810" y="380" width="210" height="180" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="488" font-size="40" font-weight="bold" fill="#1a1a1a">일반 국민</text>
+    <text x="705" y="488" font-size="42" font-weight="bold" fill="#1B5FA6" text-anchor="middle">62,000원</text>
+    <text x="915" y="488" font-size="42" font-weight="bold" fill="#1B5FA6" text-anchor="middle">100,000원</text>
+
+    <!-- 행2 -->
+    <rect x="60" y="560" width="540" height="220" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="600" y="560" width="210" height="220" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="810" y="560" width="210" height="220" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="650" font-size="38" font-weight="bold" fill="#1a1a1a">청년·어르신</text>
+    <text x="100" y="702" font-size="34" fill="#5B6B7C">다자녀(2자녀)</text>
+    <text x="705" y="688" font-size="42" font-weight="bold" fill="#1B5FA6" text-anchor="middle">55,000원</text>
+    <text x="915" y="688" font-size="42" font-weight="bold" fill="#1B5FA6" text-anchor="middle">90,000원</text>
+
+    <!-- 행3 -->
+    <rect x="60" y="780" width="540" height="220" fill="#FFF6D6" stroke="#FFD23F"/>
+    <rect x="600" y="780" width="210" height="220" fill="#FFF6D6" stroke="#FFD23F"/>
+    <rect x="810" y="780" width="210" height="220" fill="#FFF6D6" stroke="#FFD23F"/>
+    <text x="100" y="870" font-size="38" font-weight="bold" fill="#1a1a1a">저소득·다자녀</text>
+    <text x="100" y="922" font-size="34" fill="#5B6B7C">(3자녀 이상)</text>
+    <text x="705" y="908" font-size="42" font-weight="bold" fill="#1B5FA6" text-anchor="middle">45,000원</text>
+    <text x="915" y="908" font-size="42" font-weight="bold" fill="#1B5FA6" text-anchor="middle">80,000원</text>
+  </g>
+
+  <text x="60" y="1058" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">※ 지방은 기준금액이 다르게(차등) 적용됩니다.</text>
+  <rect x="0" y="1100" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1152" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 정책브리핑(korea.kr) · 국토부 대광위</text>
+</svg>

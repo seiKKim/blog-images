@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#2B2F36"/>
+  <circle cx="950" cy="170" r="260" fill="#E23B3B" opacity="0.16"/>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.05"/>
+  <rect x="80" y="86" rx="34" ry="34" width="250" height="68" fill="#E23B3B"/>
+  <text x="205" y="132" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">오늘의 이슈</text>
+  <text x="80" y="290" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#E8EEF5">2027년 최저임금 심의 막바지</text>
+  <text x="80" y="430" font-family="Noto Sans CJK KR" font-weight="bold" font-size="74" fill="#ffffff">노동계</text>
+  <text x="430" y="430" font-family="Noto Sans CJK KR" font-weight="bold" font-size="120" fill="#FFD23F">1만2천원</text>
+  <text x="80" y="560" font-family="Noto Sans CJK KR" font-weight="bold" font-size="74" fill="#ffffff">경영계</text>
+  <text x="430" y="560" font-family="Noto Sans CJK KR" font-weight="bold" font-size="120" fill="#E23B3B">동결 기조</text>
+  <rect x="80" y="660" rx="20" ry="20" width="920" height="150" fill="#ffffff" opacity="0.10"/>
+  <text x="110" y="725" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#ffffff">언제 결정? · 무엇이 쟁점?</text>
+  <text x="110" y="785" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#FFD23F">7월 초 결정 · 2027년 1월 적용</text>
+  <text x="80" y="900" font-family="Noto Sans CJK KR" font-weight="normal" font-size="40" fill="#9AA6B2">※ 2026.6.22 기준 · 확정 금액은 추후 발표</text>
+  <text x="80" y="1010" font-family="Noto Sans CJK KR" font-weight="normal" font-size="34" fill="#E8EEF5" opacity="0.85">디블리의 하루 한 잔</text>
+</svg>

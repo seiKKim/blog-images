@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Noto Sans CJK KR">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <text x="60" y="108" font-weight="bold" font-size="54" fill="#fff">삼계탕 안전 조리 순서</text>
+  <text x="60" y="160" font-size="30" fill="#E8EEF5">캄필로박터 예방 — 생닭은 가장 마지막에</text>
+  <rect x="60" y="280" width="960" height="170" rx="18" fill="#fff" stroke="#D6E0EC"/><circle cx="140" cy="365" r="50" fill="#3D7DCA"/><text x="140" y="382" font-size="48" font-weight="bold" fill="#fff" text-anchor="middle">1</text><text x="230" y="356" font-size="42" font-weight="bold" fill="#1a1a1a">곡류 준비</text><text x="230" y="412" font-size="28" fill="#5B6B7C">찹쌀·잡곡 먼저 손질</text><rect x="60" y="488" width="960" height="170" rx="18" fill="#fff" stroke="#D6E0EC"/><circle cx="140" cy="573" r="50" fill="#1F8A53"/><text x="140" y="590" font-size="48" font-weight="bold" fill="#fff" text-anchor="middle">2</text><text x="230" y="564" font-size="42" font-weight="bold" fill="#1a1a1a">채소류 준비</text><text x="230" y="620" font-size="28" fill="#5B6B7C">마늘·대파 등 채소 손질</text><rect x="60" y="696" width="960" height="170" rx="18" fill="#fff" stroke="#D6E0EC"/><circle cx="140" cy="781" r="50" fill="#E23B3B"/><text x="140" y="798" font-size="48" font-weight="bold" fill="#fff" text-anchor="middle">3</text><text x="230" y="772" font-size="42" font-weight="bold" fill="#1a1a1a">생닭 준비</text><text x="230" y="828" font-size="28" fill="#5B6B7C">마지막에 손질 (오염 최소화)</text>
+  <rect x="60" y="914" width="960" height="200" rx="20" fill="#E23B3B"/>
+  <text x="540" y="1006" font-size="44" font-weight="bold" fill="#fff" text-anchor="middle">속까지 완전 가열</text>
+  <text x="540" y="1094" font-size="78" font-weight="bold" fill="#FFD23F" text-anchor="middle">75℃에서 1분 이상</text>
+  <text x="60" y="1194" font-size="32" font-weight="bold" fill="#1a1a1a">생닭을 다룬 칼·도마는 반드시 구분 사용</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1320" font-size="28" fill="#5B6B7C">출처: 식품의약품안전처 캄필로박터 예방 안내</text>
+</svg>

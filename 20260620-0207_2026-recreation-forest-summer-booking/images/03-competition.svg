@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F1F3"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">올여름 경쟁률 TOP</text>
+  <text x="60" y="170" font-family="Noto Sans CJK KR" font-size="36" fill="#FCE3E8">신청 13만 7,691건 · 평균 5.91대 1</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="960" height="150" rx="16" fill="#ffffff" stroke="#E6C7CF"/>
+    <text x="100" y="335" font-size="38" font-weight="bold" fill="#1a1a1a">최고 경쟁률 객실</text>
+    <text x="100" y="390" font-size="34" fill="#5B6B7C">경북 문경 대야산 숲속의 집 601호</text>
+    <text x="1000" y="360" font-size="64" font-weight="bold" fill="#E0556E" text-anchor="end">92.96:1</text>
+
+    <rect x="60" y="440" width="960" height="150" rx="16" fill="#ffffff" stroke="#E6C7CF"/>
+    <text x="100" y="505" font-size="38" font-weight="bold" fill="#1a1a1a">야영시설 최고</text>
+    <text x="100" y="560" font-size="34" fill="#5B6B7C">강원 인제 방태산 캐빈(4인실)</text>
+    <text x="1000" y="530" font-size="64" font-weight="bold" fill="#E0556E" text-anchor="end">11.7:1</text>
+
+    <rect x="60" y="610" width="960" height="150" rx="16" fill="#ffffff" stroke="#E6C7CF"/>
+    <text x="100" y="675" font-size="38" font-weight="bold" fill="#1a1a1a">휴양림 전체 1위</text>
+    <text x="100" y="730" font-size="34" fill="#5B6B7C">강원 고성 진부령 (6/11 신규 개장)</text>
+    <text x="1000" y="700" font-size="64" font-weight="bold" fill="#E0556E" text-anchor="end">24.81:1</text>
+
+    <rect x="60" y="780" width="960" height="150" rx="16" fill="#ffffff" stroke="#E6C7CF"/>
+    <text x="100" y="845" font-size="38" font-weight="bold" fill="#1a1a1a">휴양림 전체 2위</text>
+    <text x="100" y="900" font-size="34" fill="#5B6B7C">인천 중구 무의도</text>
+    <text x="1000" y="870" font-size="64" font-weight="bold" fill="#E0556E" text-anchor="end">13.57:1</text>
+  </g>
+
+  <rect x="60" y="990" width="960" height="210" rx="20" fill="#FCE3E8"/>
+  <text x="100" y="1065" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#B23A52">선착순 공략 팁</text>
+  <text x="100" y="1130" font-family="Noto Sans CJK KR" font-size="38" fill="#5B6B7C">인기 명당은 경쟁 치열 →</text>
+  <text x="100" y="1180" font-family="Noto Sans CJK KR" font-size="38" fill="#5B6B7C">평일·비인기 휴양림도 함께 검토</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EADBE0"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#7A6670">출처: 산림청 발표(2026.6.18) · Businesskorea</text>
+</svg>

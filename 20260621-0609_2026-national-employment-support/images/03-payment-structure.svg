@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="60" y="60" rx="26" ry="26" width="160" height="56" fill="#FFD23F"/>
+  <text x="140" y="99" font-family="'Noto Sans KR','Malgun Gothic'" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="175" font-family="'Noto Sans KR','Malgun Gothic'" font-weight="bold" font-size="62" fill="#ffffff">구직촉진수당 지급 구조</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic'">
+    <!-- 기본 금액 박스 -->
+    <rect x="90" y="270" width="900" height="190" rx="20" fill="#1B5FA6"/>
+    <text x="140" y="345" font-weight="bold" font-size="44" fill="#ffffff">기본 금액</text>
+    <text x="950" y="395" font-weight="bold" font-size="86" fill="#FFD23F" text-anchor="end">월 60만원</text>
+    <text x="140" y="425" font-weight="normal" font-size="30" fill="#E8EEF5">2026.1.1.부터 50만원 → 60만원 인상</text>
+
+    <!-- 플러스 -->
+    <text x="540" y="525" font-weight="bold" font-size="70" fill="#1B5FA6" text-anchor="middle">+</text>
+
+    <!-- 부양가족 추가 박스 -->
+    <rect x="90" y="555" width="900" height="230" rx="20" fill="#ffffff" stroke="#1B5FA6" stroke-width="3"/>
+    <text x="140" y="625" font-weight="bold" font-size="44" fill="#1a1a1a">부양가족 추가</text>
+    <text x="950" y="625" font-weight="bold" font-size="48" fill="#1B5FA6" text-anchor="end">1인당 월 10만원</text>
+    <text x="140" y="690" font-weight="normal" font-size="30" fill="#5B6B7C">미성년자(18세 이하)·고령자(70세 이상)·중증장애인</text>
+    <text x="140" y="745" font-weight="bold" font-size="38" fill="#1a1a1a">최대 4명</text>
+    <text x="950" y="745" font-weight="bold" font-size="42" fill="#E23B3B" text-anchor="end">최대 월 40만원</text>
+
+    <!-- 등호 -->
+    <text x="540" y="855" font-weight="bold" font-size="60" fill="#1B5FA6" text-anchor="middle">=</text>
+
+    <!-- 합계 박스 -->
+    <rect x="90" y="885" width="900" height="200" rx="20" fill="#FFD23F"/>
+    <text x="140" y="965" font-weight="bold" font-size="46" fill="#1a1a1a">월 최대 수령액</text>
+    <text x="950" y="1010" font-weight="bold" font-size="100" fill="#1B5FA6" text-anchor="end">월 100만원</text>
+
+    <!-- 기간 안내 -->
+    <rect x="90" y="1115" width="430" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="305" y="1170" font-weight="bold" font-size="32" fill="#5B6B7C" text-anchor="middle">지급 기간</text>
+    <text x="305" y="1218" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">6개월 매월</text>
+    <rect x="560" y="1115" width="430" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="775" y="1170" font-weight="bold" font-size="32" fill="#5B6B7C" text-anchor="middle">연장</text>
+    <text x="775" y="1218" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">최대 1년까지</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1320" font-family="'Noto Sans KR','Malgun Gothic'" font-size="32" fill="#5B6B7C">출처: 고용노동부 · 신청 시점 기준 재확인 권장</text>
+</svg>

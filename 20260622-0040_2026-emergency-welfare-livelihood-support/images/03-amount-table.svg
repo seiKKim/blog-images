@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">생계지원 월 지급액 (2026)</text>
+  <g font-family="Noto Sans CJK KR" font-size="48" fill="#1a1a1a">
+    <rect x="60" y="270" width="960" height="110" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="338" font-weight="bold">1인</text>
+    <text x="1000" y="338" font-weight="bold" fill="#1B5FA6" text-anchor="end">783,000원</text>
+    <rect x="60" y="392" width="960" height="110" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="460" font-weight="bold">2인</text>
+    <text x="1000" y="460" font-weight="bold" fill="#1B5FA6" text-anchor="end">1,286,600원</text>
+    <rect x="60" y="514" width="960" height="110" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="582" font-weight="bold">3인</text>
+    <text x="1000" y="582" font-weight="bold" fill="#1B5FA6" text-anchor="end">1,644,000원</text>
+    <rect x="60" y="636" width="960" height="110" rx="14" fill="#FFF6D6" stroke="#FFD23F" stroke-width="3"/>
+    <text x="100" y="704" font-weight="bold">4인</text>
+    <text x="1000" y="704" font-weight="bold" fill="#1B5FA6" text-anchor="end">1,994,600원</text>
+    <rect x="60" y="758" width="960" height="110" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="826" font-weight="bold">5인</text>
+    <text x="1000" y="826" font-weight="bold" fill="#1B5FA6" text-anchor="end">2,324,400원</text>
+    <rect x="60" y="880" width="960" height="110" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="948" font-weight="bold">6인</text>
+    <text x="1000" y="948" font-weight="bold" fill="#1B5FA6" text-anchor="end">2,636,700원</text>
+  </g>
+  <text x="60" y="1080" font-family="Noto Sans CJK KR" font-size="42" fill="#1a1a1a" font-weight="bold">최대 6회(약 6개월) 현금 지급</text>
+  <text x="60" y="1140" font-family="Noto Sans CJK KR" font-size="38" fill="#5B6B7C">7인 이상: 1인당 286,900원 추가</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 보건복지부 2026 긴급복지지원사업 안내 · 복지로</text>
+</svg>

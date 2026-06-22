@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="60" y="60" rx="28" ry="28" width="190" height="58" fill="#FFD23F"/>
+  <text x="155" y="100" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="172" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">지원 대상 9개 유형</text>
+
+  <!-- 15% block -->
+  <rect x="60" y="260" width="960" height="420" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="260" width="960" height="96" rx="20" fill="#E8EEF5"/>
+  <rect x="60" y="320" width="960" height="36" fill="#E8EEF5"/>
+  <text x="100" y="324" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#1B5FA6">구매비용 15% 지원</text>
+  <text x="980" y="324" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#5B6B7C" text-anchor="end">3개 유형</text>
+  <text x="100" y="440" font-family="Noto Sans CJK KR" font-size="46" fill="#1a1a1a">· 다자녀 가구</text>
+  <text x="100" y="520" font-family="Noto Sans CJK KR" font-size="46" fill="#1a1a1a">· 대가족 가구</text>
+  <text x="100" y="600" font-family="Noto Sans CJK KR" font-size="46" fill="#1a1a1a">· 출산 가구</text>
+
+  <!-- 30% block -->
+  <rect x="60" y="720" width="960" height="540" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="720" width="960" height="96" rx="20" fill="#1B5FA6"/>
+  <rect x="60" y="780" width="960" height="36" fill="#1B5FA6"/>
+  <text x="100" y="784" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#ffffff">구매비용 30% 지원</text>
+  <text x="980" y="784" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#FFD23F" text-anchor="end">6개 유형</text>
+  <text x="100" y="895" font-family="Noto Sans CJK KR" font-size="44" fill="#1a1a1a">· 장애인(중증)   · 국가유공자</text>
+  <text x="100" y="975" font-family="Noto Sans CJK KR" font-size="44" fill="#1a1a1a">· 기초생활수급자   · 차상위계층</text>
+  <text x="100" y="1055" font-family="Noto Sans CJK KR" font-size="44" fill="#1a1a1a">· 사회복지시설</text>
+  <text x="100" y="1135" font-family="Noto Sans CJK KR" font-size="44" fill="#1a1a1a">· 생명유지장치 사용가구</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 한전 에너지마켓플레이스(en-ter.co.kr)</text>
+</svg>

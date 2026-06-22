@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="190" fill="#243B6B"/>
+  <text x="60" y="120" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">2년 이상 금리 비교</text>
+  <!-- bar 1 -->
+  <text x="260" y="320" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#5B6B7C" text-anchor="middle">주택청약종합저축</text>
+  <rect x="160" y="360" width="200" height="430" fill="#9AB0CC"/>
+  <text x="260" y="450" font-family="Noto Sans CJK KR" font-weight="bold" font-size="64" fill="#ffffff" text-anchor="middle">3.1%</text>
+  <!-- bar 2 -->
+  <text x="780" y="320" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#243B6B" text-anchor="middle">청년 주택드림</text>
+  <rect x="680" y="180" width="200" height="610" fill="#243B6B"/>
+  <text x="780" y="290" font-family="Noto Sans CJK KR" font-weight="bold" font-size="76" fill="#FFD23F" text-anchor="middle">4.5%</text>
+  <!-- baseline -->
+  <rect x="120" y="790" width="840" height="6" fill="#243B6B"/>
+  <text x="540" y="900" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#1a1a1a" text-anchor="middle">일반 청약저축보다 1.4%p 높음</text>
+  <text x="540" y="965" font-family="Noto Sans CJK KR" font-size="36" fill="#5B6B7C" text-anchor="middle">세금공제 전·단리 / 변동금리 · 원금 5천만원 한도</text>
+  <text x="60" y="1050" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 주택도시기금(상품기준일 2026.1.1)</text>
+</svg>

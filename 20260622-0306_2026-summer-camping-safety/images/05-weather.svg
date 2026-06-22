@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F2F4"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">2026 여름 날씨 대비</text>
+  <rect x="60" y="270" width="455" height="300" rx="20" fill="#ffffff" stroke="#E6D2D8"/>
+  <text x="287" y="370" font-family="Noto Sans CJK KR" font-size="44" fill="#1a1a1a" text-anchor="middle">평년보다 더울 확률</text>
+  <text x="287" y="490" font-family="Noto Sans CJK KR" font-weight="bold" font-size="120" fill="#E0556E" text-anchor="middle">70%</text>
+  <rect x="565" y="270" width="455" height="300" rx="20" fill="#ffffff" stroke="#E6D2D8"/>
+  <text x="792" y="370" font-family="Noto Sans CJK KR" font-size="44" fill="#1a1a1a" text-anchor="middle">집중호우(폭우)</text>
+  <text x="792" y="490" font-family="Noto Sans CJK KR" font-weight="bold" font-size="84" fill="#E0556E" text-anchor="middle">더 잦음</text>
+  <text x="60" y="690" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#1a1a1a">장마 시작(예측)</text>
+  <g font-family="Noto Sans CJK KR" font-size="46" fill="#1a1a1a">
+    <rect x="60" y="730" width="960" height="120" rx="16" fill="#ffffff" stroke="#E6D2D8"/>
+    <text x="100" y="805" font-weight="bold">제주</text><text x="1000" y="805" font-weight="bold" fill="#E0556E" text-anchor="end">6월 19일 전후</text>
+    <rect x="60" y="860" width="960" height="120" rx="16" fill="#ffffff" stroke="#E6D2D8"/>
+    <text x="100" y="935" font-weight="bold">남부</text><text x="1000" y="935" font-weight="bold" fill="#E0556E" text-anchor="end">6월 23일 전후</text>
+    <rect x="60" y="990" width="960" height="120" rx="16" fill="#ffffff" stroke="#E6D2D8"/>
+    <text x="100" y="1065" font-weight="bold">중부</text><text x="1000" y="1065" font-weight="bold" fill="#E0556E" text-anchor="end">6월 25일 전후</text>
+  </g>
+  <text x="60" y="1185" font-family="Noto Sans CJK KR" font-size="36" fill="#5B4A50">계곡·하천변 저지대는 집중호우 시 고립 위험 — 회피</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE2E6"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#6B5860">출처: 기상청 전망(예측치, 변동 가능)</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">2026 종합소득세 신고 일정</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="300" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="375" font-size="46" font-weight="bold" fill="#1a1a1a">정기신고</text>
+    <text x="1000" y="375" font-size="48" font-weight="bold" fill="#1F8A53" text-anchor="end">5/1 ~ 6/1</text>
+    <text x="100" y="440" font-size="34" fill="#5B6B7C">법정기한 5/31(일) → 6/1(월)로 연장</text>
+
+    <rect x="60" y="520" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="595" font-size="46" font-weight="bold" fill="#1a1a1a">성실신고확인대상자</text>
+    <text x="1000" y="595" font-size="48" font-weight="bold" fill="#1F8A53" text-anchor="end">~ 6/30</text>
+    <text x="100" y="660" font-size="34" fill="#5B6B7C">세무대리인 확인서 첨부</text>
+  </g>
+
+  <text x="60" y="800" font-family="Noto Sans CJK KR" font-size="40" fill="#1a1a1a">언제 신고했는지가</text>
+  <text x="60" y="858" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1F8A53">환급 시기를 가르는 첫 단추</text>
+
+  <rect x="0" y="1000" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1052" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 국세청 신고 안내 기준 (2026)</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="160" fill="#1B5FA6"/>
+  <rect x="60" y="46" rx="24" ry="24" width="150" height="52" fill="#FFD23F"/>
+  <text x="135" y="83" font-family="'Noto Sans KR','Malgun Gothic'" font-weight="bold" font-size="28" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="138" font-family="'Noto Sans KR','Malgun Gothic'" font-weight="bold" font-size="54" fill="#ffffff">2026년 구직촉진수당 인상</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic'">
+    <!-- 기준선 -->
+    <line x1="120" y1="600" x2="980" y2="600" stroke="#D6E0EC" stroke-width="3"/>
+
+    <!-- 2025 막대 (50만, 높이 비례) -->
+    <rect x="240" y="350" width="200" height="250" rx="10" fill="#A9C2DD"/>
+    <text x="340" y="320" font-family="'Noto Sans KR','Malgun Gothic'" font-weight="bold" font-size="50" fill="#5B6B7C" text-anchor="middle">50만원</text>
+    <text x="340" y="650" font-family="'Noto Sans KR','Malgun Gothic'" font-weight="bold" font-size="34" fill="#5B6B7C" text-anchor="middle">기존 (~2025)</text>
+
+    <!-- 2026 막대 (60만, 더 높게) -->
+    <rect x="640" y="300" width="200" height="300" rx="10" fill="#1B5FA6"/>
+    <text x="740" y="270" font-family="'Noto Sans KR','Malgun Gothic'" font-weight="bold" font-size="62" fill="#1B5FA6" text-anchor="middle">60만원</text>
+    <text x="740" y="650" font-family="'Noto Sans KR','Malgun Gothic'" font-weight="bold" font-size="34" fill="#1B5FA6" text-anchor="middle">2026 (1.1. 시행)</text>
+
+    <!-- 인상 표시 -->
+    <rect x="455" y="380" width="170" height="80" rx="40" fill="#E23B3B"/>
+    <text x="540" y="434" font-family="'Noto Sans KR','Malgun Gothic'" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">+10만원</text>
+  </g>
+
+  <text x="60" y="700" font-family="'Noto Sans KR','Malgun Gothic'" font-size="28" fill="#5B6B7C">출처: 고용노동부 · I유형 구직촉진수당 기본 금액 기준</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect x="0" y="0" width="1080" height="720" rx="0" fill="#FFF5F7"/>
+<rect x="0" y="0" width="1080" height="170" rx="0" fill="#E0556E"/>
+<rect x="60" y="28" width="215.6" height="56" rx="28.0" fill="#FFD23F"/><text x="167.8" y="66.08" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#1A1A1A" text-anchor="middle">휴가지원사업</text>
+<text x="60" y="145" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#FFFFFF" text-anchor="start">휴가샵 40만 원, 이렇게 만들어집니다</text>
+<rect x="60" y="240" width="250" height="230" rx="22" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<rect x="60" y="240" width="250" height="72" rx="22" fill="#E0556E"/>
+<rect x="60" y="290" width="250" height="22" rx="0" fill="#E0556E"/>
+<text x="185.0" y="290" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#FFFFFF" text-anchor="middle">근로자</text>
+<text x="185.0" y="390" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#1A1A1A" text-anchor="middle">20만 원</text>
+<text x="185.0" y="440" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#5B6B7C" text-anchor="middle">분담 50%</text>
+<text x="322.0" y="375.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="64" fill="#E0556E" text-anchor="middle">+</text>
+<rect x="334" y="240" width="250" height="230" rx="22" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<rect x="334" y="240" width="250" height="72" rx="22" fill="#7A8AA8"/>
+<rect x="334" y="290" width="250" height="22" rx="0" fill="#7A8AA8"/>
+<text x="459.0" y="290" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#FFFFFF" text-anchor="middle">기업</text>
+<text x="459.0" y="390" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#1A1A1A" text-anchor="middle">10만 원</text>
+<text x="459.0" y="440" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#5B6B7C" text-anchor="middle">분담 25%</text>
+<text x="596.0" y="375.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="64" fill="#E0556E" text-anchor="middle">+</text>
+<rect x="608" y="240" width="250" height="230" rx="22" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<rect x="608" y="240" width="250" height="72" rx="22" fill="#7A8AA8"/>
+<rect x="608" y="290" width="250" height="22" rx="0" fill="#7A8AA8"/>
+<text x="733.0" y="290" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#FFFFFF" text-anchor="middle">정부</text>
+<text x="733.0" y="390" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#1A1A1A" text-anchor="middle">10만 원</text>
+<text x="733.0" y="440" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#5B6B7C" text-anchor="middle">분담 25%</text>
+<text x="870.0" y="375.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="64" fill="#E0556E" text-anchor="middle">=</text>
+<rect x="888" y="240" width="132" height="230" rx="22" fill="#E0556E"/>
+<text x="954.0" y="330" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#FFE3EA" text-anchor="middle">총 적립</text>
+<text x="954.0" y="405" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#FFD23F" text-anchor="middle">40만 원</text>
+<text x="60" y="552" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1A1A1A" text-anchor="start">내 돈 20만 원으로 두 배인 40만 원 여행 적립금 완성</text>
+<text x="60" y="607" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">※ 5년차 이상 중기업은 기업 15·정부 5만 원 (합계 40만 원 동일)</text>
+<rect x="0" y="650" width="1080" height="70" rx="0" fill="#E8EEF5"/><text x="60" y="690" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 근로자 휴가지원사업 누리집(vacation.visitkorea.or.kr)</text>
+</svg>

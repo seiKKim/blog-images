@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF4EC"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <rect x="60" y="56" rx="26" ry="26" width="180" height="60" fill="#FFD23F"/>
+  <text x="150" y="98" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="270" y="128" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">필터 청소 효과</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="960" height="200" rx="18" fill="#ffffff" stroke="#F0CBA8"/>
+    <text x="100" y="345" font-size="44" font-weight="bold" fill="#1a1a1a">필터 미청소 시</text>
+    <text x="1000" y="345" font-size="48" font-weight="bold" fill="#E8722C" text-anchor="end">소비전력 3~5%↑</text>
+    <text x="100" y="425" font-size="34" fill="#7a7a7a">청소만 해도 그만큼 절감돼요</text>
+
+    <rect x="60" y="500" width="960" height="200" rx="18" fill="#ffffff" stroke="#F0CBA8"/>
+    <text x="100" y="575" font-size="44" font-weight="bold" fill="#1a1a1a">월 1~2회 청소 vs 미청소</text>
+    <text x="1000" y="575" font-size="48" font-weight="bold" fill="#E8722C" text-anchor="end">월 10.7kWh 차이</text>
+    <text x="100" y="655" font-size="34" fill="#7a7a7a">한 달 전력 소비량이 달라집니다</text>
+
+    <rect x="60" y="730" width="960" height="200" rx="18" fill="#ffffff" stroke="#F0CBA8"/>
+    <text x="100" y="805" font-size="44" font-weight="bold" fill="#1a1a1a">권장 청소 주기</text>
+    <text x="1000" y="805" font-size="48" font-weight="bold" fill="#E8722C" text-anchor="end">2주에 1번</text>
+    <text x="100" y="885" font-size="34" fill="#7a7a7a">중성세제로 가볍게 세척 후 건조</text>
+
+    <rect x="60" y="960" width="960" height="200" rx="18" fill="#ffffff" stroke="#F0CBA8"/>
+    <text x="100" y="1035" font-size="44" font-weight="bold" fill="#1a1a1a">냉방온도 1℃ 낮출 때</text>
+    <text x="1000" y="1035" font-size="48" font-weight="bold" fill="#E8722C" text-anchor="end">전력 약 7%↑</text>
+    <text x="100" y="1115" font-size="34" fill="#7a7a7a">26℃ 이상 설정이 유리해요</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F4DCC8"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#8a5a36">출처: 한국에너지공단 절약노하우(에어컨)</text>
+</svg>

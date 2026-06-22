@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1150" viewBox="0 0 1080 1150">
+  <rect width="1080" height="1150" fill="#F7EEF1"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="62" fill="#ffffff">2026년 삼복 날짜</text>
+  <!-- header row -->
+  <g font-family="Noto Sans CJK KR" font-weight="bold">
+    <rect x="60" y="260" width="300" height="110" rx="14" fill="#E0556E"/>
+    <rect x="372" y="260" width="420" height="110" rx="14" fill="#E0556E"/>
+    <rect x="804" y="260" width="216" height="110" rx="14" fill="#E0556E"/>
+    <text x="210" y="328" font-size="44" fill="#ffffff" text-anchor="middle">구분</text>
+    <text x="582" y="328" font-size="44" fill="#ffffff" text-anchor="middle">날짜</text>
+    <text x="912" y="328" font-size="44" fill="#ffffff" text-anchor="middle">요일</text>
+    <!-- rows -->
+    <rect x="60" y="384" width="300" height="120" rx="14" fill="#ffffff" stroke="#E7C4CE"/>
+    <rect x="372" y="384" width="420" height="120" rx="14" fill="#ffffff" stroke="#E7C4CE"/>
+    <rect x="804" y="384" width="216" height="120" rx="14" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="210" y="460" font-size="48" fill="#1a1a1a" text-anchor="middle">초복</text>
+    <text x="582" y="460" font-size="50" fill="#C03255" text-anchor="middle">7월 15일</text>
+    <text x="912" y="460" font-size="46" fill="#1a1a1a" text-anchor="middle">수</text>
+
+    <rect x="60" y="518" width="300" height="120" rx="14" fill="#ffffff" stroke="#E7C4CE"/>
+    <rect x="372" y="518" width="420" height="120" rx="14" fill="#ffffff" stroke="#E7C4CE"/>
+    <rect x="804" y="518" width="216" height="120" rx="14" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="210" y="594" font-size="48" fill="#1a1a1a" text-anchor="middle">중복</text>
+    <text x="582" y="594" font-size="50" fill="#C03255" text-anchor="middle">7월 25일</text>
+    <text x="912" y="594" font-size="46" fill="#1a1a1a" text-anchor="middle">토</text>
+
+    <rect x="60" y="652" width="300" height="120" rx="14" fill="#ffffff" stroke="#E7C4CE"/>
+    <rect x="372" y="652" width="420" height="120" rx="14" fill="#ffffff" stroke="#E7C4CE"/>
+    <rect x="804" y="652" width="216" height="120" rx="14" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="210" y="728" font-size="48" fill="#1a1a1a" text-anchor="middle">말복</text>
+    <text x="582" y="728" font-size="50" fill="#C03255" text-anchor="middle">8월 14일</text>
+    <text x="912" y="728" font-size="46" fill="#1a1a1a" text-anchor="middle">금</text>
+  </g>
+  <rect x="60" y="820" width="960" height="150" rx="18" fill="#FFF4D6"/>
+  <text x="90" y="888" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#B5781A">📌 복날은 '경일(庚日)' 기준</text>
+  <text x="90" y="942" font-family="Noto Sans CJK KR" font-size="36" fill="#7A5A23">하지 후 셋째 경일=초복, 넷째=중복, 입추 후 첫 경일=말복</text>
+  <rect x="0" y="1070" width="1080" height="80" fill="#EADBE0"/>
+  <text x="60" y="1122" font-family="Noto Sans CJK KR" font-size="32" fill="#7C5B66">출처: 삼복 날짜 복수 출처 교차확인 (2026)</text>
+</svg>

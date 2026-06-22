@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720" font-family="Noto Sans CJK KR">
+  <rect width="1080" height="720" fill="#2B2F36"/>
+  <circle cx="940" cy="120" r="200" fill="#fff" opacity="0.06"/>
+  <rect x="60" y="56" width="218" height="58" rx="29" fill="#E23B3B"/>
+  <text x="169" y="95" font-size="30" font-weight="bold" fill="#fff" text-anchor="middle">오늘의 이슈</text>
+  <text x="60" y="198" font-size="56" font-weight="bold" fill="#fff">2026년 여름 기상 전망</text>
+  <text x="60" y="250" font-size="30" fill="#E8EEF5">고온다습 + 잦은 국지성 호우 → 식중독 위험 ↑</text>
+  <rect x="60" y="320" width="315" height="200" rx="18" fill="#3A3F47"/><rect x="60" y="320" width="315" height="14" fill="#E23B3B"/><text x="217.5" y="410" font-size="32" font-weight="bold" fill="#fff" text-anchor="middle">6~8월 평균기온</text><text x="217.5" y="470" font-size="30" font-weight="bold" fill="#FFD23F" text-anchor="middle">평년보다 높음</text><rect x="397" y="320" width="315" height="200" rx="18" fill="#3A3F47"/><rect x="397" y="320" width="315" height="14" fill="#E23B3B"/><text x="554.5" y="410" font-size="32" font-weight="bold" fill="#fff" text-anchor="middle">6~7월 강수량</text><text x="554.5" y="470" font-size="30" font-weight="bold" fill="#FFD23F" text-anchor="middle">평년보다 많을 가능성</text><rect x="734" y="320" width="315" height="200" rx="18" fill="#3A3F47"/><rect x="734" y="320" width="315" height="14" fill="#E23B3B"/><text x="891.5" y="410" font-size="32" font-weight="bold" fill="#fff" text-anchor="middle">폭염·열대야</text><text x="891.5" y="470" font-size="30" font-weight="bold" fill="#FFD23F" text-anchor="middle">증가 전망</text>
+  <text x="60" y="612" font-size="30" fill="#E8EEF5">세균 증식 가속 · 식재료 변질·교차오염 위험 — 예방 수칙 더 꼼꼼히</text>
+  <text x="60" y="680" font-size="26" fill="#9AA7B4">※ 장마 시작일·강수량 일부는 기상청 공식 발표로 재확인 권장</text>
+</svg>

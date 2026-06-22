@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect x="0" y="0" width="1080" height="720" rx="0" ry="0" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="150" rx="0" ry="0" fill="#E0556E"/>
+<rect x="60" y="42" width="240.0" height="52" rx="26.0" ry="26.0" fill="#FFD23F"/><text x="180.0" y="77.8" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#1a1a1a" text-anchor="middle">여름안전·시즌</text>
+<text x="60" y="118" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="start">구명조끼 무료 대여소, 크게 늘었어요</text>
+<rect x="120" y="260" width="360" height="280" rx="24" ry="24" fill="#ffffff"/>
+<text x="300" y="322" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#5B6B7C" text-anchor="middle">지난해</text>
+<text x="300" y="445" font-family="Noto Sans CJK KR" font-weight="bold" font-size="110" fill="#5B6B7C" text-anchor="middle">123</text>
+<text x="300" y="512" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#5B6B7C" text-anchor="middle">개소</text>
+<rect x="600" y="260" width="360" height="280" rx="24" ry="24" fill="#E0556E"/>
+<text x="780" y="322" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">2026년</text>
+<text x="780" y="445" font-family="Noto Sans CJK KR" font-weight="bold" font-size="110" fill="#ffffff" text-anchor="middle">552</text>
+<text x="780" y="512" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#ffffff" text-anchor="middle">개소 이상</text>
+<line x1="495" y1="400" x2="595" y2="400" stroke="#B23850" stroke-width="14"/>
+<polygon points="585,378 615,400 585,422" fill="#B23850"/>
+<text x="540" y="622" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">챙기지 못했다면 가까운 대여소에서 빌려 쓰세요</text>
+<rect x="0" y="654" width="1080" height="66" rx="0" ry="0" fill="#E8EEF5"/>
+<text x="60" y="696" font-family="Noto Sans CJK KR" font-weight="normal" font-size="28" fill="#5B6B7C" text-anchor="start">출처: 행정안전부 (2026 수상 안전관리 대책)</text>
+</svg>

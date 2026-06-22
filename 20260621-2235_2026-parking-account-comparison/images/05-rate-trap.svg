@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#F4F7FB"/>
+<rect width="1080" height="170" fill="#243B6B"/>
+<rect x="60" y="52" rx="32" width="250" height="64" fill="#FFD23F"/>
+<text x="185" y="96" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#1a1a1a" text-anchor="middle">주의 포인트</text>
+<text x="330" y="106" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#fff">우대금리 함정</text>
+<text x="60" y="240" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1a1a1a">광고 최고금리 ≠ 내가 받는 금리</text>
+<rect x="60" y="290" rx="20" width="960" height="220" fill="#fff" stroke="#D6E0EC" stroke-width="3"/>
+<text x="95" y="335" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">광고 최고금리 (조건 다 충족 시)</text>
+<text x="95" y="408" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">기본 0.1%</text>
+<text x="430" y="408" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#243B6B">+ 우대 최고 3.9%P</text>
+<text x="985" y="412" font-family="Noto Sans CJK KR" font-size="28" fill="#5B6B7C" text-anchor="end">최고</text>
+<text x="540" y="566" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">조건 못 채우면</text>
+<rect x="60" y="600" rx="20" width="960" height="150" fill="#FFD23F"/>
+<text x="95" y="697" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a">기본금리 0.1%로 추락</text>
+<text x="985" y="688" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="end">실제 수령</text>
+<text x="60" y="830" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#243B6B">놓치기 쉬운 3가지</text>
+<text x="60" y="892" font-family="Noto Sans CJK KR" font-size="28" fill="#1a1a1a">! 우대조건(급여이체·카드·자동이체) 미충족 시 기본금리</text>
+<text x="60" y="952" font-family="Noto Sans CJK KR" font-size="28" fill="#1a1a1a">! 고금리 한도 작음 — 초과분은 낮은 금리 (예: 1억 3% / 초과 1%)</text>
+<text x="60" y="1012" font-family="Noto Sans CJK KR" font-size="28" fill="#1a1a1a">! 잔액 구간 한정 (예: 200만원 이하 금액에만 우대)</text>
+</svg>

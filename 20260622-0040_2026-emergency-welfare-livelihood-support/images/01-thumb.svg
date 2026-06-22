@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1B5FA6"/>
+  <circle cx="950" cy="180" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.06"/>
+  <rect x="80" y="88" rx="34" ry="34" width="230" height="68" fill="#FFD23F"/>
+  <text x="195" y="134" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="80" y="300" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#E8EEF5">갑작스러운 위기, 먼저 지원받으세요</text>
+  <text x="80" y="430" font-family="Noto Sans CJK KR" font-weight="bold" font-size="64" fill="#ffffff">긴급복지 생계비</text>
+  <text x="80" y="585" font-family="Noto Sans CJK KR" font-weight="bold" font-size="150" fill="#FFD23F">月 199만원</text>
+  <text x="80" y="665" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">4인 가구 · 최대 6회</text>
+  <rect x="80" y="720" rx="20" ry="20" width="920" height="150" fill="#ffffff" opacity="0.14"/>
+  <text x="110" y="785" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#ffffff">선지원 후확인 · 129 전화 한 통</text>
+  <text x="110" y="845" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#FFD23F">실직·폐업·질병 위기 가구</text>
+  <text x="80" y="960" font-family="Noto Sans CJK KR" font-weight="normal" font-size="36" fill="#E8EEF5">※ 2026년 기준 · 신청 전 129 확인</text>
+  <text x="80" y="1020" font-family="Noto Sans CJK KR" font-weight="normal" font-size="32" fill="#E8EEF5" opacity="0.85">디블리의 하루 한 잔</text>
+</svg>

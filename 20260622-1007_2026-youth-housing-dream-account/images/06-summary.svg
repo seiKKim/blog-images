@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">상황별 추천 정리</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="290" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="370" font-size="44" font-weight="bold" fill="#1a1a1a">높은 금리로 목돈 모으기</text>
+    <text x="100" y="445" font-size="50" font-weight="bold" fill="#243B6B">→ 2년 이상 유지, 연 4.5%</text>
+
+    <rect x="60" y="520" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="600" font-size="44" font-weight="bold" fill="#1a1a1a">연말정산 소득공제</text>
+    <text x="100" y="675" font-size="50" font-weight="bold" fill="#243B6B">→ 연 300만원, 최대 120만원</text>
+
+    <rect x="60" y="750" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="830" font-size="44" font-weight="bold" fill="#1a1a1a">내 집 마련 대출까지</text>
+    <text x="100" y="905" font-size="50" font-weight="bold" fill="#243B6B">→ 연 2.2% 주택드림 대출</text>
+  </g>
+  <text x="60" y="1050" font-family="Noto Sans CJK KR" font-size="38" fill="#5B6B7C">※ 금리 변동·소득기준은 본인 조건 확인 필수</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">blog.naver.com/trip_chocho</text>
+</svg>

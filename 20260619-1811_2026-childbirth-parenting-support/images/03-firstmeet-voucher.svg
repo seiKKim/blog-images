@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="200" fill="#1B5FA6"/>
+<text x="60" y="120" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">첫만남이용권 지원 금액</text>
+<text x="100" y="270" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1B5FA6">출생 순위</text>
+<text x="1020" y="270" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1B5FA6" text-anchor="end">지원 금액</text>
+<rect x="60" y="330" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="421" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">첫째아</text>
+<text x="1000" y="421" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#1B5FA6" text-anchor="end">200만 원</text>
+<rect x="60" y="504" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="595" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">둘째아 이상</text>
+<text x="1000" y="595" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#1B5FA6" text-anchor="end">300만 원</text>
+<rect x="60" y="688" width="960" height="150" rx="16" fill="#EAF2FB" stroke="#C7DBF0" stroke-width="2"/>
+<text x="100" y="751" font-family="Noto Sans CJK KR" font-size="34" fill="#283C5A">국민행복카드 바우처(포인트) 지급</text>
+<text x="100" y="801" font-family="Noto Sans CJK KR" font-size="34" fill="#283C5A">사용 기한: 생년월일로부터 2년 이내 (2024.1.1 이후 출생)</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1320" font-family="Noto Sans CJK KR" font-size="30" fill="#5B6B7C">출처: 보건복지부·아이사랑(childcare.go.kr)</text>
+</svg>

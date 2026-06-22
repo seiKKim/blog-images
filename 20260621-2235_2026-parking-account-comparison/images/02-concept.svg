@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect width="1080" height="720" fill="#F4F7FB"/>
+<rect width="1080" height="150" fill="#243B6B"/>
+<rect x="60" y="44" rx="31" width="300" height="62" fill="#FFD23F"/>
+<text x="210" y="86" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#1a1a1a" text-anchor="middle">파킹통장이란?</text>
+<text x="60" y="258" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#1a1a1a">주차하듯 맡겨두면</text>
+<text x="60" y="328" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#243B6B">매일 이자가 쌓이는 통장</text>
+<rect x="60" y="380" rx="24" width="460" height="220" fill="#fff" stroke="#D6E0EC" stroke-width="3"/>
+<text x="90" y="445" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#5B6B7C">예시</text>
+<text x="90" y="500" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1a1a1a">1,200만원 · 연 3%</text>
+<text x="90" y="556" font-family="Noto Sans CJK KR" font-size="36" fill="#1a1a1a">하루 약</text>
+<text x="260" y="570" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#243B6B">986원</text>
+<rect x="560" y="380" rx="24" width="460" height="220" fill="#fff" stroke="#D6E0EC" stroke-width="3"/>
+<text x="590" y="445" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#5B6B7C">핵심 특징</text>
+<text x="622" y="491" font-family="Noto Sans CJK KR" font-size="28" fill="#1a1a1a">• 입출금 자유 (하루만 맡겨도 이자)</text>
+<text x="622" y="539" font-family="Noto Sans CJK KR" font-size="28" fill="#1a1a1a">• 이자는 일(日) 단위 계산</text>
+<text x="622" y="587" font-family="Noto Sans CJK KR" font-size="28" fill="#1a1a1a">• 지급주기: 매일 / 월1회 / 분기1회</text>
+<rect x="0" y="650" width="1080" height="70" fill="#E8EEF5"/><text x="60" y="690" font-family="Noto Sans CJK KR" font-size="26" fill="#5B6B7C">출처: 은행연합회 소비자포털·각 은행 공시 (2026.6 조사 시점) / 정리: 본 블로그</text></svg>

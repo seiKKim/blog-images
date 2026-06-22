@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="200" width="1080" height="8" fill="#E23B3B"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">2026년 최저임금 (현재 기준)</text>
+  <g font-family="Noto Sans CJK KR" font-size="46" fill="#1a1a1a">
+    <rect x="60" y="300" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="392" font-weight="bold">시급</text>
+    <text x="1000" y="392" font-weight="bold" fill="#E23B3B" text-anchor="end" font-size="58">10,320원</text>
+
+    <rect x="60" y="470" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="548" font-weight="bold">월급(209시간)</text>
+    <text x="1000" y="548" font-weight="bold" fill="#2B2F36" text-anchor="end" font-size="54">2,156,880원</text>
+    <text x="100" y="600" font-size="34" fill="#5B6B7C">주휴수당 포함 기준</text>
+
+    <rect x="60" y="640" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="732" font-weight="bold">인상률(전년比)</text>
+    <text x="1000" y="732" font-weight="bold" fill="#2B2F36" text-anchor="end" font-size="54">+2.9% (290원)</text>
+
+    <rect x="60" y="810" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="902" font-weight="bold">2025년 시급</text>
+    <text x="1000" y="902" font-weight="bold" fill="#2B2F36" text-anchor="end" font-size="54">10,030원</text>
+  </g>
+  <text x="60" y="1080" font-family="Noto Sans CJK KR" font-size="40" fill="#5B6B7C">새 금액은 이 기준점에서 인상폭을 정합니다.</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 고용노동부 · 최저임금위원회</text>
+</svg>

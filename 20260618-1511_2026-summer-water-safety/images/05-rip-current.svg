@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" ry="0" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="210" rx="0" ry="0" fill="#E0556E"/>
+<rect x="60" y="46" width="258.0" height="56" rx="28.0" ry="28.0" fill="#FFD23F"/><text x="189.0" y="84.5" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">여름안전·시즌</text>
+<text x="60" y="150" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="start">해수욕장 이안류 대처법</text>
+<text x="64" y="262" font-family="Noto Sans CJK KR" font-weight="normal" font-size="34" fill="#5B6B7C" text-anchor="start">이안류=바닷물이 바다 쪽으로 빠르게 빠지는 현상</text>
+<rect x="60" y="310" width="960" height="430" rx="0" ry="0" fill="#60a0cd"/>
+<rect x="60" y="650" width="960" height="90" rx="0" ry="0" fill="#eedeb4"/>
+<text x="80" y="354" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#ffffff" text-anchor="start">바다</text>
+<text x="80" y="700" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#785f28" text-anchor="start">백사장(해변)</text>
+<rect x="500.0" y="350" width="80" height="300" rx="0" ry="0" fill="#4678a5"/>
+<line x1="540.0" y1="630" x2="540.0" y2="390" stroke="#ffffff" stroke-width="10"/>
+<polygon points="518.0,415 540.0,370 562.0,415" fill="#ffffff"/>
+<text x="540.0" y="570" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#ffffff" text-anchor="middle">이안류</text>
+<circle cx="540.0" cy="620" r="16" fill="#FFD23F"/>
+<line x1="540.0" y1="620" x2="710.0" y2="490" stroke="#FFD23F" stroke-width="12"/>
+<polygon points="690.0,502 725.0,480 705.0,525" fill="#FFD23F"/>
+<text x="750.0" y="520" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="start">45도</text>
+<rect x="60" y="780" width="960" height="88" rx="14" ry="14" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="96" y="836" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="start">1. 구명조끼를 착용하고</text>
+<rect x="60" y="884" width="960" height="88" rx="14" ry="14" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="96" y="940" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="start">2. 안전요원의 구조를 기다리며</text>
+<rect x="60" y="988" width="960" height="88" rx="14" ry="14" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="96" y="1044" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="start">3. 해수 흐름에 45도 방향으로 헤엄쳐 탈출</text>
+<rect x="60" y="1092" width="960" height="88" rx="14" ry="14" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="96" y="1148" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="start">4. 부유물을 붙잡거나 함께 뭉쳐 구조 대기</text>
+<rect x="0" y="1270" width="1080" height="80" rx="0" ry="0" fill="#E8EEF5"/><text x="60" y="1318" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 해양수산부 국립해양조사원 (이안류 안전정보)</text>
+</svg>

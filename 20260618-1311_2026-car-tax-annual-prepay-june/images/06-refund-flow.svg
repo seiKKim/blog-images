@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1F8A53"/>
+  <text x="60" y="92" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#ffffff">연납 후 매도·폐차하면? 환급됩니다</text>
+  <g font-family="Noto Sans CJK KR" text-anchor="middle">
+    <rect x="50" y="240" width="280" height="240" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="190" y="345" font-weight="900" font-size="42" fill="#1F8A53">연납 납부</text>
+    <text x="190" y="408" font-size="28" fill="#5B6B7C">하반기분 미리 납부</text>
+    <text x="400" y="378" font-weight="bold" font-size="54" fill="#1F8A53">→</text>
+    <rect x="400" y="240" width="280" height="240" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="540" y="345" font-weight="900" font-size="42" fill="#1F8A53">양도·폐차</text>
+    <text x="540" y="408" font-size="28" fill="#5B6B7C">명의이전 또는 말소</text>
+    <text x="750" y="378" font-weight="bold" font-size="54" fill="#1F8A53">→</text>
+    <rect x="750" y="240" width="280" height="240" rx="20" fill="#1F8A53"/>
+    <text x="890" y="345" font-weight="900" font-size="42" fill="#FFD23F">잔여분 환급</text>
+    <text x="890" y="408" font-size="28" fill="#E8EEF5">대체로 자동 환급</text>
+  </g>
+  <text x="540" y="570" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#5B6B7C" text-anchor="middle">잔여기간 세액은 일할 정산 후 환급 (시점·금액은 지자체에 따라)</text>
+  <rect x="0" y="654" width="1080" height="66" fill="#E8EEF5"/>
+  <text x="60" y="695" font-family="Noto Sans CJK KR" font-size="28" fill="#5B6B7C">출처: 행정안전부·지자체 안내 기준 · 정확한 금액은 관할 지자체 문의</text>
+</svg>

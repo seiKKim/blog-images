@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="200" fill="#243B6B"/>
+<rect x="0" y="200" width="1080" height="8" fill="#FFD23F"/>
+<rect x="60" y="46" rx="30" ry="30" width="190" height="60" fill="#FFD23F"/>
+<text x="155.0" y="88" font-family="Noto Sans CJK KR" font-weight="800" font-size="34" fill="#1a1a1a" text-anchor="middle">금융/재테크</text>
+<text x="60" y="165" font-family="Noto Sans CJK KR" font-weight="800" font-size="58" fill="#ffffff" text-anchor="start">소득공제로 절세하기</text>
+<text x="60" y="290" font-family="Noto Sans CJK KR" font-weight="600" font-size="36" fill="#5B6B7C" text-anchor="start">연 납입액 한도</text>
+<text x="60" y="390" font-family="Noto Sans CJK KR" font-weight="900" font-size="96" fill="#1A2B50" text-anchor="start">300만원</text>
+<text x="470" y="390" font-family="Noto Sans CJK KR" font-weight="800" font-size="70" fill="#1a1a1a" text-anchor="start">×</text>
+<text x="560" y="290" font-family="Noto Sans CJK KR" font-weight="600" font-size="36" fill="#5B6B7C" text-anchor="start">공제율</text>
+<text x="560" y="390" font-family="Noto Sans CJK KR" font-weight="900" font-size="96" fill="#1A2B50" text-anchor="start">40%</text>
+<line x1="60" y1="430" x2="1020" y2="430" stroke="#D6E0EC" stroke-width="3"/>
+<rect x="60" y="460" rx="20" ry="20" width="960" height="180" fill="#243B6B"/>
+<text x="540" y="532" font-family="Noto Sans CJK KR" font-weight="700" font-size="38" fill="#E8EEF5" text-anchor="middle">최대 소득공제</text>
+<text x="540" y="628" font-family="Noto Sans CJK KR" font-weight="900" font-size="96" fill="#FFD23F" text-anchor="middle">120만원</text>
+<text x="60" y="740" font-family="Noto Sans CJK KR" font-weight="800" font-size="40" fill="#243B6B" text-anchor="start">공제 요건</text>
+<rect x="60" y="770" rx="16" ry="16" width="960" height="130" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="90" y="826" font-family="Noto Sans CJK KR" font-weight="800" font-size="34" fill="#243B6B" text-anchor="start">대상자</text>
+<text x="90" y="876" font-family="Noto Sans CJK KR" font-weight="600" font-size="32" fill="#1a1a1a" text-anchor="start">무주택 세대주·배우자, 총급여 7천만원 이하 근로자</text>
+<rect x="60" y="920" rx="16" ry="16" width="960" height="130" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="90" y="976" font-family="Noto Sans CJK KR" font-weight="800" font-size="34" fill="#243B6B" text-anchor="start">무주택 요건</text>
+<text x="90" y="1026" font-family="Noto Sans CJK KR" font-weight="600" font-size="32" fill="#1a1a1a" text-anchor="start">2015.1.1 이후 납입분부터 무주택 세대주 필수</text>
+<rect x="60" y="1070" rx="16" ry="16" width="960" height="130" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="90" y="1126" font-family="Noto Sans CJK KR" font-weight="800" font-size="34" fill="#243B6B" text-anchor="start">신청 방법</text>
+<text x="90" y="1176" font-family="Noto Sans CJK KR" font-weight="600" font-size="32" fill="#1a1a1a" text-anchor="start">가입 은행에 무주택확인서 제출 (최초 1회)</text>
+<rect x="0" y="1280" width="1080" height="70" fill="#E8EEF5"/>
+<text x="60" y="1328" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 국세청 안내(2025년 기준)</text>
+<text x="1020" y="1326" font-family="Noto Sans CJK KR" font-weight="500" font-size="28" fill="#5B6B7C" text-anchor="end">blog.naver.com/trip_chocho</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="160" fill="#1B5FA6"/>
+  <text x="60" y="100" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">지급 수단 3가지 (택1)</text>
+  <g font-family="Noto Sans CJK KR" text-anchor="middle">
+    <!-- card 1 -->
+    <rect x="60" y="240" width="300" height="380" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="120" y="300" width="180" height="120" rx="16" fill="#1B5FA6"/>
+    <rect x="120" y="338" width="180" height="26" fill="#143F70"/>
+    <text x="210" y="500" font-weight="bold" font-size="40" fill="#1a1a1a">신용·체크</text>
+    <text x="210" y="548" font-weight="bold" font-size="40" fill="#1a1a1a">카드</text>
+    <text x="210" y="600" font-size="28" fill="#5B6B7C">포인트 충전 결제</text>
+    <!-- card 2 -->
+    <rect x="390" y="240" width="300" height="380" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="540" cy="360" r="62" fill="#1F8A53"/>
+    <text x="540" y="378" font-weight="bold" font-size="56" fill="#fff">₩</text>
+    <text x="540" y="500" font-weight="bold" font-size="40" fill="#1a1a1a">지역사랑</text>
+    <text x="540" y="548" font-weight="bold" font-size="40" fill="#1a1a1a">상품권</text>
+    <text x="540" y="600" font-size="28" fill="#5B6B7C">지역 가맹점 사용</text>
+    <!-- card 3 -->
+    <rect x="720" y="240" width="300" height="380" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="780" y="300" width="180" height="120" rx="16" fill="#E8722C"/>
+    <circle cx="930" cy="360" r="22" fill="#FFD23F"/>
+    <text x="870" y="500" font-weight="bold" font-size="40" fill="#1a1a1a">선불카드</text>
+    <text x="870" y="600" font-size="28" fill="#5B6B7C">충전형 카드 지급</text>
+  </g>
+  <text x="540" y="685" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C" text-anchor="middle">온라인(카드사·상품권 앱) · 오프라인(주민센터·은행) 신청</text>
+</svg>

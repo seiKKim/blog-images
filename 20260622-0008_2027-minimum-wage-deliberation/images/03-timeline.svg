@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="200" width="1080" height="8" fill="#E23B3B"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">2027 최저임금 결정 일정</text>
+  <g font-family="Noto Sans CJK KR" fill="#1a1a1a">
+    <circle cx="120" cy="350" r="20" fill="#E23B3B"/>
+    <text x="180" y="345" font-size="52" font-weight="bold">6월 29일</text>
+    <text x="180" y="405" font-size="40" fill="#5B6B7C">의결안 제출 시한</text>
+
+    <circle cx="120" cy="560" r="20" fill="#E23B3B"/>
+    <text x="180" y="555" font-size="52" font-weight="bold">7월 초 (통상)</text>
+    <text x="180" y="615" font-size="40" fill="#5B6B7C">노·사·공익위원 표결로 최종 결정</text>
+
+    <circle cx="120" cy="770" r="20" fill="#E23B3B"/>
+    <text x="180" y="765" font-size="52" font-weight="bold">8월 5일까지</text>
+    <text x="180" y="825" font-size="40" fill="#5B6B7C">고용노동부 장관 고시</text>
+
+    <circle cx="120" cy="980" r="20" fill="#E23B3B"/>
+    <text x="180" y="975" font-size="52" font-weight="bold">2027년 1월 1일</text>
+    <text x="180" y="1035" font-size="40" fill="#5B6B7C">실제 적용 시작</text>
+
+    <line x1="120" y1="370" x2="120" y2="540" stroke="#C2CCD6" stroke-width="4"/>
+    <line x1="120" y1="580" x2="120" y2="750" stroke="#C2CCD6" stroke-width="4"/>
+    <line x1="120" y1="790" x2="120" y2="960" stroke="#C2CCD6" stroke-width="4"/>
+  </g>
+  <text x="60" y="1140" font-family="Noto Sans CJK KR" font-size="40" fill="#5B6B7C">지금은 결정 직전 막바지 단계입니다.</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 최저임금위원회 · 서울신문</text>
+</svg>

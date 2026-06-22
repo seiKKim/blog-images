@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#243B6B"/>
+<circle cx="960" cy="180" r="260" fill="#ffffff" opacity="0.10"/>
+<circle cx="110" cy="970" r="210" fill="#ffffff" opacity="0.08"/>
+<rect x="80" y="84" rx="32" width="300" height="64" fill="#FFD23F"/>
+<text x="230" y="128" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#1a1a1a" text-anchor="middle">금융 · 재테크</text>
+<text x="80" y="330" font-family="Noto Sans CJK KR" font-weight="bold" font-size="54" fill="#E8EEF5">광고 최고금리, 다 못 받는 이유</text>
+<text x="80" y="468" font-family="Noto Sans CJK KR" font-weight="bold" font-size="118" fill="#ffffff">2026 고금리</text>
+<text x="80" y="598" font-family="Noto Sans CJK KR" font-weight="bold" font-size="118" fill="#FFD23F">파킹통장 비교</text>
+<text x="80" y="690" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#E8EEF5">인터넷·시중·저축은행</text>
+<text x="80" y="775" font-family="Noto Sans CJK KR" font-weight="bold" font-size="82" fill="#ffffff">연 1.6% ~ 3%대</text>
+<rect x="80" y="838" rx="20" width="920" height="124" fill="#ffffff" opacity="0.16"/>
+<text x="110" y="900" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#ffffff">우대조건·한도 함정 · 예금자보호 1억원</text>
+<text x="110" y="948" font-family="Noto Sans CJK KR" font-size="34" fill="#E8EEF5">비상금·단기자금 운용 전략까지</text>
+<text x="80" y="1024" font-family="Noto Sans CJK KR" font-size="30" fill="#E8EEF5">blog.naver.com/trip_chocho</text>
+</svg>

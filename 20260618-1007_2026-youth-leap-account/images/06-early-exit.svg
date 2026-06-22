@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1200" viewBox="0 0 1080 1200">
+<rect x="0" y="0" width="1080" height="230" fill="#243B6B"/>
+<rect x="60" y="36" width="168" height="60" rx="30" ry="30" fill="#FFD23F"/>
+<text x="143.8" y="77.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="30" fill="#1A1A1A" text-anchor="middle">금융/재테크</text>
+<text x="60" y="168" font-family="Noto Sans CJK KR" font-weight="800" font-size="54" fill="#FFFFFF" text-anchor="start">중도해지 구간별 혜택 비교</text>
+<text x="60" y="209" font-family="Noto Sans CJK KR" font-weight="500" font-size="29" fill="#E8EEF5" text-anchor="start">같은 해지라도 결과가 크게 달라집니다</text>
+<rect x="60" y="270" width="960" height="270" rx="20" ry="20" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="270" width="18" height="270" rx="9" ry="9" fill="#D24B4B"/>
+<text x="110" y="344" font-family="Noto Sans CJK KR" font-weight="800" font-size="44" fill="#D24B4B" text-anchor="start">일반 중도해지</text>
+<text x="110" y="413" font-family="Noto Sans CJK KR" font-weight="600" font-size="33" fill="#1A1A1A" text-anchor="start">· 정부기여금 미지급</text>
+<text x="110" y="461" font-family="Noto Sans CJK KR" font-weight="600" font-size="33" fill="#1A1A1A" text-anchor="start">· 이자 비과세도 못 받을 수 있음</text>
+<text x="110" y="509" font-family="Noto Sans CJK KR" font-weight="600" font-size="33" fill="#1A1A1A" text-anchor="start">· → 불이익</text>
+<rect x="60" y="570" width="960" height="270" rx="20" ry="20" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="570" width="18" height="270" rx="9" ry="9" fill="#C98A1E"/>
+<text x="110" y="644" font-family="Noto Sans CJK KR" font-weight="800" font-size="44" fill="#C98A1E" text-anchor="start">3년 이상 유지 후 해지</text>
+<text x="110" y="713" font-family="Noto Sans CJK KR" font-weight="600" font-size="33" fill="#1A1A1A" text-anchor="start">· 비과세 적용</text>
+<text x="110" y="761" font-family="Noto Sans CJK KR" font-weight="600" font-size="33" fill="#1A1A1A" text-anchor="start">· 정부기여금 60% (최대 월 1.44만원)</text>
+<text x="110" y="809" font-family="Noto Sans CJK KR" font-weight="600" font-size="33" fill="#1A1A1A" text-anchor="start">· 일반적금 환산 연 최대 7.64%</text>
+<rect x="60" y="870" width="960" height="270" rx="20" ry="20" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="870" width="18" height="270" rx="9" ry="9" fill="#1F8A53"/>
+<text x="110" y="944" font-family="Noto Sans CJK KR" font-weight="800" font-size="44" fill="#1F8A53" text-anchor="start">특별중도해지</text>
+<text x="110" y="1013" font-family="Noto Sans CJK KR" font-weight="600" font-size="33" fill="#1A1A1A" text-anchor="start">· 사망·해외이주·퇴직·폐업 등</text>
+<text x="110" y="1061" font-family="Noto Sans CJK KR" font-weight="600" font-size="33" fill="#1A1A1A" text-anchor="start">· 생애최초 주택구입 포함</text>
+<text x="110" y="1109" font-family="Noto Sans CJK KR" font-weight="600" font-size="33" fill="#1A1A1A" text-anchor="start">· 3년 미만도 기여금·비과세 유지</text>
+<rect x="0" y="1120" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1168" font-family="Noto Sans CJK KR" font-weight="500" font-size="28" fill="#5B6B7C" text-anchor="start">출처: 정책 안내 정리 (부분인출 등 시행 여부는 공식 확인)</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="210" fill="#243B6B"/>
+<rect x="0" y="210" width="1080" height="10" fill="#FFD23F"/>
+<text x="60" y="135" font-family="Noto Sans CJK KR" font-weight="bold" font-size="66" fill="#ffffff">청약 방법</text>
+<rect x="60" y="300" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="120" cy="375" r="34" fill="#243B6B"/>
+<text x="120" y="390" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">1</text>
+<text x="185" y="391" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">취급 증권사 MTS·영업점에서 신청</text>
+<rect x="60" y="472" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="120" cy="547" r="34" fill="#243B6B"/>
+<text x="120" y="562" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">2</text>
+<text x="185" y="563" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">평일 09~16시, 약 5영업일</text>
+<rect x="60" y="644" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="120" cy="719" r="34" fill="#243B6B"/>
+<text x="120" y="734" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">3</text>
+<text x="185" y="735" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">종료 다음 영업일 배정 확인</text>
+<text x="60" y="866" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#C0392B">6월 청약 종료(~6/16) · 다음 달은 전월 말일 공표</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1320" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 기획재정부 국채시장</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F1F3"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">여름 성수기 핵심 일정</text>
+
+  <!-- step 1 -->
+  <circle cx="130" cy="350" r="40" fill="#E0556E"/>
+  <text x="130" y="365" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">1</text>
+  <rect x="200" y="290" width="820" height="120" rx="16" fill="#ffffff" stroke="#E6C7CF"/>
+  <text x="230" y="345" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">추첨 결과 발표</text>
+  <text x="230" y="392" font-family="Noto Sans CJK KR" font-size="36" fill="#5B6B7C">6월 18일 · 숲나들e에서 확인</text>
+
+  <!-- step 2 -->
+  <circle cx="130" cy="560" r="40" fill="#E0556E"/>
+  <text x="130" y="575" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">2</text>
+  <rect x="200" y="500" width="820" height="120" rx="16" fill="#ffffff" stroke="#E6C7CF"/>
+  <text x="230" y="555" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">당첨자 결제 마감</text>
+  <text x="230" y="602" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#E0556E">~ 6월 24일(수) 18시 (미결제 시 자동 취소)</text>
+
+  <!-- step 3 -->
+  <circle cx="130" cy="770" r="40" fill="#E0556E"/>
+  <text x="130" y="785" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">3</text>
+  <rect x="200" y="710" width="820" height="120" rx="16" fill="#ffffff" stroke="#E6C7CF"/>
+  <text x="230" y="765" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">선착순 예약 전환</text>
+  <text x="230" y="812" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#E0556E">6월 25일(목) 10시 ~ (미결제·취소분)</text>
+
+  <rect x="60" y="900" width="960" height="320" rx="20" fill="#FCE3E8"/>
+  <text x="100" y="975" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#B23A52">성수기 운영기간</text>
+  <text x="100" y="1050" font-family="Noto Sans CJK KR" font-weight="bold" font-size="72" fill="#1a1a1a">7월 15일 ~ 8월 24일</text>
+  <text x="100" y="1130" font-family="Noto Sans CJK KR" font-size="40" fill="#5B6B7C">추첨 신청(6/9~6/16)은 이미 마감</text>
+  <text x="100" y="1185" font-family="Noto Sans CJK KR" font-size="40" fill="#5B6B7C">지금은 결제·선착순 단계</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EADBE0"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#7A6670">출처: 산림청 국립자연휴양림관리소 발표(2026.6.18)</text>
+</svg>

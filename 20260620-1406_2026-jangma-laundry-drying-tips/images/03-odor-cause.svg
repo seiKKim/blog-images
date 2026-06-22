@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#FFF6EF"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">빨래 쉰내, 왜 날까?</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="960" height="160" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="335" font-size="44" font-weight="bold" fill="#E8722C">① 원인균: 모락셀라균</text>
+    <text x="100" y="392" font-size="38" fill="#444">옷에 남은 땀·피지를 분해</text>
+    <rect x="60" y="450" width="960" height="160" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="515" font-size="44" font-weight="bold" fill="#E8722C">② 4M3H 냄새물질 생성</text>
+    <text x="100" y="572" font-size="38" fill="#444">"젖은 걸레 같은 악취" 유발</text>
+    <rect x="60" y="630" width="960" height="160" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="695" font-size="44" font-weight="bold" fill="#E8722C">③ 햇볕에도 잘 안 죽음</text>
+    <text x="100" y="752" font-size="38" fill="#444">자외선 내성 → 바싹 말려도 쉰내</text>
+  </g>
+  <rect x="60" y="820" width="960" height="150" rx="16" fill="#FCEADD"/>
+  <text x="100" y="890" font-family="Noto Sans CJK KR" font-size="40" font-weight="bold" fill="#9A4F1E">진짜 핵심 = 섬유 속 피지·세제 찌꺼기</text>
+  <text x="100" y="940" font-family="Noto Sans CJK KR" font-size="36" fill="#7A4A2A">오염물이 균의 먹이 → 다시 증식</text>
+  <text x="60" y="1040" font-family="Noto Sans CJK KR" font-size="30" fill="#8A6A52">출처: 경향신문(카오 2011 ASM 논문 인용)</text>
+</svg>

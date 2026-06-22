@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1F8A53"/>
+  <text x="60" y="92" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#ffffff">연납 공제율 변천</text>
+  <text x="640" y="92" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#E8EEF5">단계적 축소</text>
+  <!-- 타임라인 line_y=360, x0=140 x1=940 -->
+  <rect x="140" y="358" width="800" height="4" fill="#D6E0EC"/>
+  <g font-family="Noto Sans CJK KR" text-anchor="middle">
+    <!-- 2022 10% -->
+    <circle cx="140" cy="360" r="18" fill="#8FC6A8"/>
+    <text x="140" y="445" font-weight="900" font-size="40" fill="#1a1a1a">2022</text>
+    <rect x="60" y="230" width="160" height="80" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="140" y="284" font-weight="900" font-size="38" fill="#1F8A53">10%</text>
+    <!-- 2023 7% -->
+    <circle cx="407" cy="360" r="18" fill="#8FC6A8"/>
+    <text x="407" y="445" font-weight="900" font-size="40" fill="#1a1a1a">2023</text>
+    <rect x="327" y="230" width="160" height="80" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="407" y="284" font-weight="900" font-size="38" fill="#1F8A53">7%</text>
+    <!-- 2024 5% -->
+    <circle cx="673" cy="360" r="18" fill="#8FC6A8"/>
+    <text x="673" y="445" font-weight="900" font-size="40" fill="#1a1a1a">2024</text>
+    <rect x="593" y="230" width="160" height="80" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="673" y="284" font-weight="900" font-size="38" fill="#1F8A53">5%</text>
+    <!-- 2025 5% 유지 강조 -->
+    <circle cx="940" cy="360" r="18" fill="#1F8A53"/>
+    <text x="940" y="445" font-weight="900" font-size="40" fill="#1a1a1a">2025</text>
+    <rect x="860" y="230" width="160" height="80" rx="16" fill="#1F8A53"/>
+    <text x="940" y="284" font-weight="900" font-size="34" fill="#ffffff">5% 유지</text>
+  </g>
+  <text x="540" y="570" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#5B6B7C" text-anchor="middle">2026년 공제율은 미확정 — 위택스·행안부 공지로 최종 확인</text>
+  <rect x="0" y="654" width="1080" height="66" fill="#E8EEF5"/>
+  <text x="60" y="695" font-family="Noto Sans CJK KR" font-size="28" fill="#5B6B7C">출처: 행정안전부 지방세법 시행령 개정 안내 (2022~2025)</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1150" viewBox="0 0 1080 1150">
+  <rect width="1080" height="1150" fill="#F7EEF1"/>
+  <rect width="1080" height="190" fill="#E0556E"/>
+  <text x="60" y="120" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">여름철 식중독 예방 6대 수칙</text>
+  <g font-family="Noto Sans CJK KR" font-weight="bold">
+    <!-- 3x2 grid -->
+    <rect x="60" y="250" width="300" height="240" rx="20" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="210" y="350" font-size="60" fill="#E0556E" text-anchor="middle">①</text>
+    <text x="210" y="430" font-size="42" fill="#333" text-anchor="middle">손씻기</text>
+    <rect x="390" y="250" width="300" height="240" rx="20" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="540" y="350" font-size="60" fill="#E0556E" text-anchor="middle">②</text>
+    <text x="540" y="430" font-size="42" fill="#333" text-anchor="middle">익혀먹기</text>
+    <rect x="720" y="250" width="300" height="240" rx="20" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="870" y="350" font-size="60" fill="#E0556E" text-anchor="middle">③</text>
+    <text x="870" y="430" font-size="42" fill="#333" text-anchor="middle">끓여먹기</text>
+
+    <rect x="60" y="520" width="300" height="240" rx="20" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="210" y="620" font-size="60" fill="#E0556E" text-anchor="middle">④</text>
+    <text x="210" y="700" font-size="42" fill="#333" text-anchor="middle">도구 구분</text>
+    <rect x="390" y="520" width="300" height="240" rx="20" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="540" y="620" font-size="60" fill="#E0556E" text-anchor="middle">⑤</text>
+    <text x="540" y="700" font-size="42" fill="#333" text-anchor="middle">세척·소독</text>
+    <rect x="720" y="520" width="300" height="240" rx="20" fill="#ffffff" stroke="#E7C4CE"/>
+    <text x="870" y="620" font-size="60" fill="#E0556E" text-anchor="middle">⑥</text>
+    <text x="870" y="700" font-size="42" fill="#333" text-anchor="middle">적정 보관</text>
+  </g>
+  <rect x="60" y="800" width="960" height="200" rx="18" fill="#FFF4D6"/>
+  <text x="90" y="868" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#B5781A">손은 비누로 30초 이상 · 충분히 익히기</text>
+  <text x="90" y="930" font-family="Noto Sans CJK KR" font-size="36" fill="#7A5A23">냉장 5℃ 이하 · 냉동 -18℃ 이하 보관</text>
+  <rect x="0" y="1070" width="1080" height="80" fill="#EADBE0"/>
+  <text x="60" y="1122" font-family="Noto Sans CJK KR" font-size="32" fill="#7C5B66">출처: 식품의약품안전처 · 서울시 (2026)</text>
+</svg>

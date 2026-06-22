@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="160" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">신청 3단계</text>
+  <text x="1020" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#FFD23F" text-anchor="end">~6/30 마감</text>
+  <g font-family="Noto Sans CJK KR">
+    <circle cx="130" cy="290" r="48" fill="#1B5FA6"/>
+    <text x="130" y="308" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="210" y="280" font-size="44" font-weight="bold" fill="#1a1a1a">누리집 회원가입</text>
+    <text x="210" y="330" font-size="34" fill="#5B6B7C">youthculturepass.or.kr</text>
+    <circle cx="130" cy="420" r="48" fill="#1B5FA6"/>
+    <text x="130" y="438" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="210" y="410" font-size="44" font-weight="bold" fill="#1a1a1a">본인 인증</text>
+    <text x="210" y="460" font-size="34" fill="#5B6B7C">앱·누리집에서 인증</text>
+    <circle cx="130" cy="550" r="48" fill="#1B5FA6"/>
+    <text x="130" y="568" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="210" y="540" font-size="44" font-weight="bold" fill="#1a1a1a">예매처 1곳 선택 후 신청</text>
+    <text x="210" y="590" font-size="34" fill="#5B6B7C">선택한 1곳에서만 사용</text>
+  </g>
+</svg>

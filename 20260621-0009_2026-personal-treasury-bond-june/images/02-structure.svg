@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="210" fill="#243B6B"/>
+<rect x="0" y="210" width="1080" height="10" fill="#FFD23F"/>
+<text x="60" y="135" font-family="Noto Sans CJK KR" font-weight="bold" font-size="66" fill="#ffffff">개인투자용 국채란?</text>
+<rect x="60" y="300" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="391" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">저축성 국채</text>
+<text x="1000" y="391" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#243B6B" text-anchor="end">개인 전용</text>
+<rect x="60" y="472" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="563" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">이자</text>
+<text x="1000" y="563" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#243B6B" text-anchor="end">표면+가산금리 연복리</text>
+<rect x="60" y="644" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="735" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">세제</text>
+<text x="1000" y="735" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#243B6B" text-anchor="end">매입 2억까지 분리과세</text>
+<rect x="60" y="816" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="907" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">중도환매</text>
+<text x="1000" y="907" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#243B6B" text-anchor="end">발행 1년 후 가능</text>
+<rect x="60" y="988" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="1079" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">매입한도</text>
+<text x="1000" y="1079" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#243B6B" text-anchor="end">연 1인당 2억</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1320" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 기획재정부 국채시장(ktb.moef.go.kr)</text>
+</svg>

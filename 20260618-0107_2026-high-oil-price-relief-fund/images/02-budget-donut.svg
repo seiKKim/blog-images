@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="170" fill="#1B5FA6"/>
+  <text x="60" y="108" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">2026 전쟁 추경 26.2조 원</text>
+  <g transform="translate(540,600)">
+    <circle r="250" fill="none" stroke="#D6E0EC" stroke-width="92"/>
+    <circle r="250" fill="none" stroke="#FFD23F" stroke-width="92"
+            stroke-dasharray="287.4 1283.4" transform="rotate(-90)"/>
+    <text x="0" y="-20" font-family="Noto Sans CJK KR" font-size="44" fill="#5B6B7C" text-anchor="middle">고유가 피해지원금</text>
+    <text x="0" y="78" font-family="Noto Sans CJK KR" font-weight="bold" font-size="112" fill="#1B5FA6" text-anchor="middle">4.8조 원</text>
+  </g>
+  <rect x="120" y="940" width="44" height="44" rx="8" fill="#FFD23F"/>
+  <text x="180" y="975" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1a1a1a">고유가 피해지원금 4.8조 (전체의 약 18%)</text>
+</svg>

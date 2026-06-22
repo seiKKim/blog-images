@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EF"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">빨래 빨리 말리는 5단계</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="960" height="160" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="335" font-size="44" font-weight="bold" fill="#E8722C">① 마른 수건으로 물기 더 빼기</text>
+    <text x="100" y="392" font-size="36" fill="#444">젖은 옷과 함께 말아 꾹 누르기</text>
+    <rect x="60" y="450" width="960" height="160" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="515" font-size="44" font-weight="bold" fill="#E8722C">② 옷 사이 간격 넉넉히</text>
+    <text x="100" y="572" font-size="36" fill="#444">겹치면 공기 막혀 더 느려짐</text>
+    <rect x="60" y="630" width="960" height="160" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="695" font-size="44" font-weight="bold" fill="#E8722C">③ 제습기 (약 2~3배 빨리)</text>
+    <text x="100" y="752" font-size="36" fill="#444">문 닫고 가동, 조건에 따라 차이</text>
+    <rect x="60" y="810" width="960" height="160" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="875" font-size="44" font-weight="bold" fill="#E8722C">④ 선풍기 아래→위, 중간 세기</text>
+    <text x="100" y="932" font-size="36" fill="#444">수분이 위로 올라가며 증발</text>
+    <rect x="60" y="990" width="960" height="160" rx="16" fill="#ffffff" stroke="#F0D9C7"/>
+    <text x="100" y="1055" font-size="44" font-weight="bold" fill="#E8722C">⑤ 신문지 깔기 · 흐린 날 다리미</text>
+    <text x="100" y="1112" font-size="36" fill="#444">바닥 습기 흡수, 열로 세균 감소</text>
+  </g>
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0DECF"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#8A6A52">출처: 경향신문·GQ코리아·생활정보 종합</text>
+</svg>

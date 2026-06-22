@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect x="0" y="0" width="1080" height="720" rx="0" fill="#FFF5F7"/>
+<rect x="0" y="0" width="1080" height="170" rx="0" fill="#E0556E"/>
+<rect x="60" y="28" width="189.0" height="56" rx="28.0" fill="#FFD23F"/><text x="154.5" y="66.08" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#1A1A1A" text-anchor="middle">관광주민증</text>
+<text x="60" y="145" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#FFFFFF" text-anchor="start">약 1분 무료 발급 · 여름 내내 할인 패스</text>
+<rect x="80" y="200" width="390" height="440" rx="30" fill="#FFF5F7" stroke="#F2C6D0" stroke-width="3"/>
+<text x="275" y="262" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#B83C56" text-anchor="middle">대한민국 구석구석</text>
+<rect x="120" y="300" width="310" height="180" rx="22" fill="#E0556E"/>
+<text x="145" y="357" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#FFE3EA" text-anchor="start">디지털 관광주민증</text>
+<text x="145" y="417" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#FFFFFF" text-anchor="start">○○군 주민증</text>
+<text x="145" y="462" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#FFD23F" text-anchor="start">발급 완료</text>
+<rect x="120" y="520" width="310" height="80" rx="18" fill="#FFD23F"/>
+<text x="275" y="572" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1A1A1A" text-anchor="middle">발급받기</text>
+<text x="520" y="250" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#B83C56" text-anchor="start">주요 혜택</text>
+<rect x="520" y="300" width="500" height="88" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="546" y="356" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#E0556E" text-anchor="start">유료 관광지 입장</text>
+<text x="994" y="356" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#B83C56" text-anchor="end">최대 50% 할인</text>
+<rect x="520" y="402" width="500" height="88" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="546" y="458" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#E0556E" text-anchor="start">케이블카·루지 등</text>
+<text x="994" y="458" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#B83C56" text-anchor="end">할인 적용</text>
+<rect x="520" y="504" width="500" height="88" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="546" y="560" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#E0556E" text-anchor="start">식음료·기념품</text>
+<text x="994" y="560" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#B83C56" text-anchor="end">5~10% 할인</text>
+<text x="520" y="620" font-family="Noto Sans CJK KR" font-weight="normal" font-size="28" fill="#5B6B7C" text-anchor="start">참여 지역 약 40~50여 곳 (앱에서 확인)</text>
+<rect x="0" y="650" width="1080" height="70" rx="0" fill="#E8EEF5"/><text x="60" y="690" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 대한민국 구석구석(앱)</text>
+</svg>

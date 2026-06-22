@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <rect x="60" y="58" rx="28" ry="28" width="160" height="58" fill="#FFD23F"/>
+  <text x="140" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="178" font-family="Malgun Gothic" font-weight="bold" font-size="54" fill="#ffffff">집안 해충 잡는 IPM 원칙</text>
+
+  <text x="60" y="294" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#7a4a23">날파리·바퀴벌레·개미에 공통 적용</text>
+
+  <g font-family="Malgun Gothic">
+    <!-- 원칙 1 -->
+    <rect x="60" y="344" width="960" height="270" rx="22" fill="#ffffff" stroke="#EAD8C6"/>
+    <circle cx="150" cy="430" r="48" fill="#E8722C"/>
+    <text x="150" y="448" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="232" y="448" font-weight="bold" font-size="46" fill="#1a1a1a">예방이 먼저</text>
+    <text x="92" y="528" font-size="36" fill="#5a5a5a">먹이·물·은신처를 제거하고</text>
+    <text x="92" y="578" font-size="36" fill="#5a5a5a">출입 경로(틈·문틈)를 차단</text>
+
+    <!-- 원칙 2 -->
+    <rect x="60" y="634" width="960" height="270" rx="22" fill="#ffffff" stroke="#EAD8C6"/>
+    <circle cx="150" cy="720" r="48" fill="#E8722C"/>
+    <text x="150" y="738" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="232" y="738" font-weight="bold" font-size="46" fill="#1a1a1a">단계적 처리</text>
+    <text x="92" y="818" font-size="36" fill="#5a5a5a">즉시 스프레이보다 최소 독성 우선</text>
+    <text x="92" y="868" font-size="36" fill="#5a5a5a">광범위 살포보다 미끼(베이트) 선호</text>
+
+    <!-- 원칙 3 -->
+    <rect x="60" y="924" width="960" height="270" rx="22" fill="#ffffff" stroke="#EAD8C6"/>
+    <circle cx="150" cy="1010" r="48" fill="#E8722C"/>
+    <text x="150" y="1028" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="232" y="1028" font-weight="bold" font-size="46" fill="#1a1a1a">안전 사용</text>
+    <text x="92" y="1108" font-size="36" fill="#5a5a5a">살충제는 라벨을 먼저 읽고</text>
+    <text x="92" y="1158" font-size="36" fill="#5a5a5a">어린이·반려동물 노출에 유의</text>
+  </g>
+
+  <rect x="0" y="1262" width="1080" height="88" fill="#EDE0D2"/>
+  <text x="60" y="1318" font-family="Malgun Gothic" font-size="32" fill="#7a5a3a">출처: 미국 EPA 통합적 해충관리(IPM) 정리</text>
+</svg>

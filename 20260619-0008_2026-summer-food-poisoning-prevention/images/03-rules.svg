@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EE"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <rect x="60" y="60" rx="26" ry="26" width="150" height="56" fill="#FFD23F"/>
+  <text x="135" y="99" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="170" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">식중독 예방 6대 수칙</text>
+
+  <g font-family="Noto Sans CJK KR" font-size="42" fill="#1a1a1a">
+    <rect x="60" y="270" width="960" height="120" rx="16" fill="#ffffff" stroke="#F0C9A8"/>
+    <text x="100" y="344" font-weight="bold">손 · 손 씻기</text>
+    <text x="1000" y="344" font-weight="bold" fill="#E8722C" text-anchor="end">비누로 30초 이상</text>
+
+    <rect x="60" y="410" width="960" height="120" rx="16" fill="#ffffff" stroke="#F0C9A8"/>
+    <text x="100" y="484" font-weight="bold">보 · 보관온도</text>
+    <text x="1000" y="484" font-weight="bold" fill="#E8722C" text-anchor="end">냉장 5℃·냉동 -18℃</text>
+
+    <rect x="60" y="550" width="960" height="120" rx="16" fill="#ffffff" stroke="#F0C9A8"/>
+    <text x="100" y="624" font-weight="bold">구 · 구분 사용</text>
+    <text x="1000" y="624" font-weight="bold" fill="#E8722C" text-anchor="end">칼·도마 식재료별</text>
+
+    <rect x="60" y="690" width="960" height="120" rx="16" fill="#ffffff" stroke="#F0C9A8"/>
+    <text x="100" y="764" font-weight="bold">가 · 가열하기</text>
+    <text x="1000" y="764" font-weight="bold" fill="#E8722C" text-anchor="end">육류 75℃·어패 85℃</text>
+
+    <rect x="60" y="830" width="960" height="120" rx="16" fill="#ffffff" stroke="#F0C9A8"/>
+    <text x="100" y="904" font-weight="bold">세 · 세척·소독</text>
+    <text x="1000" y="904" font-weight="bold" fill="#E8722C" text-anchor="end">식재료·기구 세척</text>
+  </g>
+
+  <rect x="60" y="1000" width="960" height="120" rx="16" fill="#FFE9D4" stroke="#F0C9A8"/>
+  <text x="540" y="1074" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#C8551A" text-anchor="middle">기본 3요령: 손 씻기·익혀 먹기·끓여 먹기</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0DECF"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#7A5A44">출처: 식품의약품안전처 식중독 예방 6대 수칙('손보구가세')</text>
+</svg>

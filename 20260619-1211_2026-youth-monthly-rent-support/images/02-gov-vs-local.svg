@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Noto Sans CJK KR">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <text x="60" y="115" font-weight="bold" font-size="60" fill="#ffffff">국토부 vs 지자체</text>
+  <text x="60" y="172" font-weight="bold" font-size="38" fill="#E8EEF5">청년월세 지원, 어디로 신청?</text>
+  <rect x="888" y="84" rx="22" width="132" height="44" fill="#FFD23F"/>
+  <text x="954" y="113" font-weight="bold" font-size="22" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <!-- column headers -->
+  <rect x="60"  y="260" width="445" height="110" rx="18" fill="#1B5FA6"/>
+  <text x="282" y="305" font-weight="bold" font-size="34" fill="#FFD23F" text-anchor="middle">(A) 국토부</text>
+  <text x="282" y="345" font-weight="bold" font-size="28" fill="#ffffff" text-anchor="middle">청년월세 특별지원</text>
+  <rect x="575" y="260" width="445" height="110" rx="18" fill="#4A678C"/>
+  <text x="797" y="305" font-weight="bold" font-size="34" fill="#ffffff" text-anchor="middle">(B) 지자체</text>
+  <text x="797" y="345" font-weight="bold" font-size="28" fill="#ffffff" text-anchor="middle">청년월세 지원</text>
+
+  <!-- rows : labels + value cards -->
+  <g font-family="Noto Sans CJK KR">
+    <text x="60" y="416" font-size="28" fill="#5B6B7C">운영 주체</text>
+    <rect x="60"  y="438" width="445" height="115" rx="16" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="282" y="503" font-weight="bold" font-size="32" fill="#1B5FA6" text-anchor="middle">국토교통부 (전국)</text>
+    <rect x="575" y="438" width="445" height="115" rx="16" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="797" y="503" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">서울·인천 등 지자체</text>
+
+    <text x="60" y="591" font-size="28" fill="#5B6B7C">나이</text>
+    <rect x="60"  y="613" width="445" height="115" rx="16" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="282" y="678" font-weight="bold" font-size="32" fill="#1B5FA6" text-anchor="middle">만 19~34세</text>
+    <rect x="575" y="613" width="445" height="115" rx="16" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="797" y="660" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">지역마다 다름</text>
+    <text x="797" y="704" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">(서울 19~39세)</text>
+
+    <text x="60" y="766" font-size="28" fill="#5B6B7C">신청 창구</text>
+    <rect x="60"  y="788" width="445" height="115" rx="16" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="282" y="835" font-weight="bold" font-size="32" fill="#1B5FA6" text-anchor="middle">복지로 /</text>
+    <text x="282" y="879" font-weight="bold" font-size="32" fill="#1B5FA6" text-anchor="middle">행정복지센터</text>
+    <rect x="575" y="788" width="445" height="115" rx="16" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="797" y="853" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">지자체 자체 포털</text>
+
+    <text x="60" y="941" font-size="28" fill="#5B6B7C">2026년</text>
+    <rect x="60"  y="963" width="445" height="115" rx="16" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="282" y="1028" font-weight="bold" font-size="32" fill="#1B5FA6" text-anchor="middle">상시사업 전환</text>
+    <rect x="575" y="963" width="445" height="115" rx="16" fill="#fff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="797" y="1028" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">지역별 별도 운영</text>
+  </g>
+
+  <rect x="60" y="1110" width="960" height="96" rx="16" fill="#E8EEF5"/>
+  <text x="90" y="1152" font-weight="bold" font-size="30" fill="#124275">국토부 본사업 = 만 19~34세, 복지로 신청</text>
+  <text x="90" y="1190" font-size="28" fill="#5B6B7C">지자체 사업은 연령·창구가 따로 운영</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1318" font-size="26" fill="#5B6B7C">출처: 본문(국토부·지자체 안내) 정리 · 신청 전 복지로 확인</text>
+</svg>

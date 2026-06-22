@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F18A3E"/>
+      <stop offset="1" stop-color="#E8722C"/>
+    </linearGradient>
+  </defs>
+  <!-- 배경 -->
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <circle cx="950" cy="170" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="110" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 (좌상단) -->
+  <rect x="80" y="86" rx="34" ry="34" width="190" height="68" fill="#FFD23F"/>
+  <text x="175" y="132" font-family="Malgun Gothic" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 모기 + 금지 아이콘 (우상단) -->
+  <g transform="translate(820,250)">
+    <circle cx="0" cy="0" r="115" fill="#ffffff" opacity="0.16"/>
+    <!-- 모기 몸통 -->
+    <g stroke="#ffffff" stroke-width="9" stroke-linecap="round" fill="none">
+      <ellipse cx="0" cy="8" rx="20" ry="42" fill="#ffffff"/>
+      <circle cx="0" cy="-42" r="17" fill="#ffffff"/>
+      <line x1="-8" y1="-56" x2="-26" y2="-86"/>
+      <line x1="8" y1="-56" x2="26" y2="-86"/>
+      <!-- 다리 -->
+      <line x1="-14" y1="-6" x2="-66" y2="-34"/>
+      <line x1="-14" y1="10" x2="-70" y2="14"/>
+      <line x1="-14" y1="26" x2="-60" y2="60"/>
+      <line x1="14" y1="-6" x2="66" y2="-34"/>
+      <line x1="14" y1="10" x2="70" y2="14"/>
+      <line x1="14" y1="26" x2="60" y2="60"/>
+      <!-- 침 -->
+      <line x1="0" y1="-58" x2="0" y2="-92"/>
+    </g>
+    <!-- 날개 -->
+    <ellipse cx="-26" cy="-12" rx="40" ry="18" fill="#ffffff" opacity="0.55" transform="rotate(-25 -26 -12)"/>
+    <ellipse cx="26" cy="-12" rx="40" ry="18" fill="#ffffff" opacity="0.55" transform="rotate(25 26 -12)"/>
+    <!-- 금지 원 + 사선 -->
+    <circle cx="0" cy="0" r="105" fill="none" stroke="#E23B3B" stroke-width="16"/>
+    <line x1="-74" y1="74" x2="74" y2="-74" stroke="#E23B3B" stroke-width="16" stroke-linecap="round"/>
+  </g>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="430" font-family="Malgun Gothic" font-weight="bold"
+        font-size="58" fill="#FFF3E2">2026 여름, 모기 물림 줄이는</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="560" font-family="Malgun Gothic" font-weight="bold"
+        font-size="140" fill="#ffffff">모기 퇴치</text>
+  <text x="80" y="710" font-family="Malgun Gothic" font-weight="bold"
+        font-size="140" fill="#FFD23F">생활꿀팁</text>
+
+  <!-- 핵심 포인트 박스 -->
+  <rect x="80" y="788" rx="22" ry="22" width="920" height="150" fill="#ffffff" opacity="0.16"/>
+  <text x="112" y="852" font-family="Malgun Gothic" font-weight="bold"
+        font-size="46" fill="#ffffff">고인 물 주 1회 비우기 · 검증된 기피제</text>
+  <text x="112" y="908" font-family="Malgun Gothic" font-weight="bold"
+        font-size="46" fill="#ffffff">방충망 · 집안 해충 예방까지 총정리</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1012" font-family="Malgun Gothic" font-weight="normal"
+        font-size="34" fill="#FFF3E2" opacity="0.92">blog.naver.com/trip_chocho</text>
+</svg>

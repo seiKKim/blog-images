@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect x="0" y="0" width="1080" height="230" fill="#243B6B"/>
+<rect x="60" y="36" width="168" height="60" rx="30" ry="30" fill="#FFD23F"/>
+<text x="143.8" y="77.0" font-family="Noto Sans CJK KR" font-weight="800" font-size="30" fill="#1A1A1A" text-anchor="middle">금융/재테크</text>
+<text x="60" y="168" font-family="Noto Sans CJK KR" font-weight="800" font-size="54" fill="#FFFFFF" text-anchor="start">5년 만기 예상 수령액 구성</text>
+<text x="60" y="209" font-family="Noto Sans CJK KR" font-weight="500" font-size="29" fill="#E8EEF5" text-anchor="start">월 70만원 × 60개월 · 2,400만원 이하 예시</text>
+<rect x="60" y="270" width="960" height="150" rx="20" ry="20" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="270" width="14" height="150" rx="7" ry="7" fill="#243B6B"/>
+<text x="100" y="334" font-family="Noto Sans CJK KR" font-weight="800" font-size="40" fill="#1A1A1A" text-anchor="start">본인 납입원금</text>
+<text x="100" y="388" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="start">70만원 × 60개월</text>
+<text x="1000" y="359" font-family="Noto Sans CJK KR" font-weight="800" font-size="44" fill="#243B6B" text-anchor="end">4,200만원</text>
+<rect x="60" y="450" width="960" height="150" rx="20" ry="20" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="450" width="14" height="150" rx="7" ry="7" fill="#1F8A53"/>
+<text x="100" y="514" font-family="Noto Sans CJK KR" font-weight="800" font-size="40" fill="#1A1A1A" text-anchor="start">정부기여금 누적</text>
+<text x="100" y="568" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="start">5년 누적</text>
+<text x="1000" y="539" font-family="Noto Sans CJK KR" font-weight="800" font-size="44" fill="#1F8A53" text-anchor="end">최대 약 198만원</text>
+<rect x="60" y="630" width="960" height="150" rx="20" ry="20" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+<rect x="60" y="630" width="14" height="150" rx="7" ry="7" fill="#3F72B0"/>
+<text x="100" y="694" font-family="Noto Sans CJK KR" font-weight="800" font-size="40" fill="#1A1A1A" text-anchor="start">비과세 이자</text>
+<text x="100" y="748" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="start">이자소득세·농특세 면제</text>
+<text x="1000" y="719" font-family="Noto Sans CJK KR" font-weight="800" font-size="44" fill="#3F72B0" text-anchor="end">은행 적용금리에 따라</text>
+<text x="540" y="442" font-family="Noto Sans CJK KR" font-weight="800" font-size="60" fill="#5B6B7C" text-anchor="middle">+</text>
+<text x="540" y="622" font-family="Noto Sans CJK KR" font-weight="800" font-size="60" fill="#5B6B7C" text-anchor="middle">+</text>
+<rect x="60" y="820" width="960" height="170" rx="20" ry="20" fill="#243B6B"/>
+<text x="100" y="894" font-family="Noto Sans CJK KR" font-weight="700" font-size="40" fill="#E8EEF5" text-anchor="start">만기 수령액 (예시)</text>
+<text x="100" y="951" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#C9D6EC" text-anchor="start">일반적금 환산 연 9.54% 수익효과</text>
+<text x="1000" y="921" font-family="Noto Sans CJK KR" font-weight="800" font-size="50" fill="#FFD23F" text-anchor="end">약 5,000만~5,061만원</text>
+<rect x="0" y="1000" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1048" font-family="Noto Sans CJK KR" font-weight="500" font-size="28" fill="#5B6B7C" text-anchor="start">출처: 대표 예시 · 실제 금액은 가입 은행 안내 확인</text>
+</svg>

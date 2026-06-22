@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="220" fill="#1B5FA6"/>
+  <text x="60" y="118" font-family="Noto Sans CJK KR" font-weight="bold" font-size="62" fill="#ffffff">소득 하위 70% 대상 기준</text>
+  <text x="60" y="178" font-family="Noto Sans CJK KR" font-size="40" fill="#CFE0F2">2026년 3월 부과 건강보험료 기준</text>
+
+  <!-- table header -->
+  <rect x="60" y="290" width="960" height="110" rx="16" fill="#1B5FA6"/>
+  <text x="240" y="360" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#fff" text-anchor="middle">구분</text>
+  <text x="620" y="360" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#fff" text-anchor="middle">1인 가구</text>
+  <text x="880" y="360" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#fff" text-anchor="middle">2인 가구</text>
+
+  <rect x="60" y="410" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="485" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1a1a1a">외벌이 직장가입자</text>
+  <text x="620" y="485" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1B5FA6" text-anchor="middle">13만 원↓</text>
+  <text x="880" y="485" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1B5FA6" text-anchor="middle">14만 원↓</text>
+
+  <rect x="60" y="545" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="620" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1a1a1a">지역가입자</text>
+  <text x="620" y="620" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1B5FA6" text-anchor="middle">8만 원↓</text>
+  <text x="880" y="620" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1B5FA6" text-anchor="middle">12만 원↓</text>
+
+  <!-- notes -->
+  <rect x="60" y="730" width="960" height="150" rx="20" fill="#FFF7DB" stroke="#FFD23F" stroke-width="2"/>
+  <text x="100" y="800" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#8a6d00">맞벌이 가구는 가구원 수 +1명 기준 적용</text>
+  <text x="100" y="852" font-family="Noto Sans CJK KR" font-size="34" fill="#8a6d00">→ 한 단계 넉넉한 기준으로 판정</text>
+
+  <rect x="60" y="910" width="960" height="170" rx="20" fill="#ffffff" stroke="#E23B3B" stroke-width="2"/>
+  <text x="100" y="978" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#E23B3B">제외 대상</text>
+  <text x="100" y="1030" font-family="Noto Sans CJK KR" font-size="36" fill="#1a1a1a">재산세 과세표준 12억 초과 또는</text>
+  <text x="100" y="1072" font-family="Noto Sans CJK KR" font-size="36" fill="#1a1a1a">금융소득 2,000만 원 초과 가구</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 행정안전부 · 정책브리핑(korea.kr)</text>
+</svg>

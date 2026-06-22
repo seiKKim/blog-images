@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F1F3"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">상황별 추천 정리</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="280" width="960" height="200" rx="20" fill="#ffffff" stroke="#E6C7CF"/>
+    <text x="100" y="360" font-size="44" font-weight="bold" fill="#E0556E">추첨 당첨됐다면?</text>
+    <text x="100" y="430" font-size="42" font-weight="bold" fill="#1a1a1a">6/24 18시 전까지 결제 완료</text>
+
+    <rect x="60" y="510" width="960" height="200" rx="20" fill="#ffffff" stroke="#E6C7CF"/>
+    <text x="100" y="590" font-size="44" font-weight="bold" fill="#E0556E">추첨에서 떨어졌다면?</text>
+    <text x="100" y="660" font-size="42" font-weight="bold" fill="#1a1a1a">6/25 10시 선착순 · 미리 가입·앱 설치</text>
+
+    <rect x="60" y="740" width="960" height="200" rx="20" fill="#ffffff" stroke="#E6C7CF"/>
+    <text x="100" y="820" font-size="44" font-weight="bold" fill="#E0556E">인기 명당을 원한다면?</text>
+    <text x="100" y="890" font-size="42" font-weight="bold" fill="#1a1a1a">평일·비인기 휴양림도 함께 검토</text>
+
+    <rect x="60" y="970" width="960" height="200" rx="20" fill="#ffffff" stroke="#E6C7CF"/>
+    <text x="100" y="1050" font-size="44" font-weight="bold" fill="#E0556E">취소표를 노린다면?</text>
+    <text x="100" y="1120" font-size="42" font-weight="bold" fill="#1a1a1a">모바일 앱 알림 켜고 수시 확인</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EADBE0"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#7A6670">2026.6.20 기준 · 일정은 숲나들e에서 재확인</text>
+</svg>

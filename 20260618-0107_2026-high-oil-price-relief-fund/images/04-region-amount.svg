@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="190" fill="#1B5FA6"/>
+  <text x="60" y="110" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">지역별 지급액 (일반 가구)</text>
+  <text x="60" y="165" font-family="Noto Sans CJK KR" font-size="36" fill="#CFE0F2">지방·인구감소지역일수록 더 두텁게</text>
+  <!-- baseline y=860 -->
+  <line x1="80" y1="862" x2="1000" y2="862" stroke="#C4D2E2" stroke-width="3"/>
+  <!-- bars: 10,15,20,25 -> px val*16.8 -->
+  <g font-family="Noto Sans CJK KR" text-anchor="middle">
+    <rect x="120" y="694" width="170" height="168" rx="10" fill="#9DBFE0"/>
+    <text x="205" y="660" font-weight="bold" font-size="46" fill="#1B5FA6">10만</text>
+    <text x="205" y="922" font-weight="bold" font-size="36" fill="#1a1a1a">수도권</text>
+
+    <rect x="340" y="610" width="170" height="252" rx="10" fill="#5E97CC"/>
+    <text x="425" y="576" font-weight="bold" font-size="46" fill="#1B5FA6">15만</text>
+    <text x="425" y="922" font-weight="bold" font-size="36" fill="#1a1a1a">비수도권</text>
+
+    <rect x="560" y="526" width="170" height="336" rx="10" fill="#2E6FB0"/>
+    <text x="645" y="492" font-weight="bold" font-size="46" fill="#1B5FA6">20만</text>
+    <text x="645" y="916" font-size="32" fill="#1a1a1a">인구감소</text>
+    <text x="645" y="956" font-size="32" fill="#1a1a1a">(우대)</text>
+
+    <rect x="780" y="442" width="170" height="420" rx="10" fill="#FFD23F"/>
+    <text x="865" y="408" font-weight="bold" font-size="50" fill="#C68A00">25만</text>
+    <text x="865" y="916" font-size="32" fill="#1a1a1a">인구감소</text>
+    <text x="865" y="956" font-size="32" fill="#1a1a1a">(특별)</text>
+  </g>
+  <rect x="0" y="1000" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1052" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">취약계층은 비수도권 기준 최대 60만 원 (별도)</text>
+</svg>

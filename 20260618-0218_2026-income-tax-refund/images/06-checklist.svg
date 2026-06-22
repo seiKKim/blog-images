@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">안 들어올 때 체크</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="290" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="358" font-size="44" font-weight="bold" fill="#1F8A53">✓ 계좌 확인</text>
+    <text x="100" y="412" font-size="34" fill="#5B6B7C">등록 계좌 오류 시 지급 보류될 수 있음</text>
+
+    <rect x="60" y="465" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="533" font-size="44" font-weight="bold" fill="#1F8A53">✓ 신고 유형 확인</text>
+    <text x="100" y="587" font-size="34" fill="#5B6B7C">기한 후 신고는 2주~3개월 정상</text>
+
+    <rect x="60" y="640" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="708" font-size="44" font-weight="bold" fill="#1F8A53">✓ 미수령 환급금</text>
+    <text x="100" y="762" font-size="34" fill="#5B6B7C">5년 지나면 국고 귀속 — 같이 조회</text>
+  </g>
+
+  <rect x="60" y="830" width="960" height="110" rx="16" fill="#1F8A53"/>
+  <text x="540" y="900" font-family="Noto Sans CJK KR" font-size="46" font-weight="bold" fill="#FFD23F" text-anchor="middle">조회는 모두 무료!</text>
+
+  <rect x="0" y="1000" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1052" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 국세청 홈택스·손택스 안내</text>
+</svg>

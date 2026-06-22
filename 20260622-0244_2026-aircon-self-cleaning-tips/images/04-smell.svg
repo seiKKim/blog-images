@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF4EC"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <rect x="60" y="56" rx="26" ry="26" width="180" height="60" fill="#FFD23F"/>
+  <text x="150" y="98" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="270" y="128" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">냄새 잡는 법</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="960" height="280" rx="20" fill="#ffffff" stroke="#F0CBA8"/>
+    <text x="540" y="360" font-size="44" font-weight="bold" fill="#1a1a1a" text-anchor="middle">에어컨 냄새의 원인은?</text>
+    <text x="540" y="470" font-size="96" font-weight="bold" fill="#E8722C" text-anchor="middle">약 80%가 열교환기</text>
+    <text x="540" y="525" font-size="34" fill="#7a7a7a" text-anchor="middle">필터 뒤 은색 금속 핀(증발기)의 곰팡이</text>
+
+    <rect x="60" y="590" width="960" height="280" rx="20" fill="#FFF6E6" stroke="#FFD23F"/>
+    <text x="540" y="680" font-size="44" font-weight="bold" fill="#1a1a1a" text-anchor="middle">가장 쉬운 예방 습관</text>
+    <text x="540" y="790" font-size="92" font-weight="bold" fill="#E8722C" text-anchor="middle">끄기 전 송풍 30분</text>
+    <text x="540" y="845" font-size="34" fill="#8a5a36" text-anchor="middle">내부 습기를 말려 곰팡이를 막아요</text>
+
+    <rect x="60" y="910" width="960" height="250" rx="20" fill="#ffffff" stroke="#F0CBA8"/>
+    <text x="100" y="985" font-size="40" font-weight="bold" fill="#1a1a1a">✓ 전용 세척 스프레이로 핀 세척</text>
+    <text x="100" y="1055" font-size="40" font-weight="bold" fill="#1a1a1a">✓ 락스는 부식 위험 — 사용 금지</text>
+    <text x="100" y="1125" font-size="40" font-weight="bold" fill="#1a1a1a">✓ 심하면 전문 분해세척 추천</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F4DCC8"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#8a5a36">출처: 제조사 고객지원 · 셀프청소 가이드</text>
+</svg>

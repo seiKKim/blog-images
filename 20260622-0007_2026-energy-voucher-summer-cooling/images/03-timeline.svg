@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#F4F7FB"/>
+<rect width="1080" height="200" fill="#1B5FA6"/>
+<text x="60" y="118" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff" text-anchor="start">신청기간 · 사용기간 한눈에</text>
+<rect x="120" y="420" width="840" height="14" fill="#D6E0EC"/>
+<rect x="472" y="420" width="168" height="14" fill="#FFD23F"/>
+<circle cx="120" cy="427" r="16" fill="#1B5FA6"/><text x="120" y="374" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1B5FA6" text-anchor="middle">6/15</text><text x="120" y="500" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#5B6B7C" text-anchor="middle">신청 시작</text>
+<circle cx="472" cy="427" r="16" fill="#1B5FA6"/><text x="472" y="374" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1B5FA6" text-anchor="middle">7/1</text><text x="472" y="500" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#5B6B7C" text-anchor="middle">사용 시작</text>
+<circle cx="960" cy="427" r="16" fill="#1B5FA6"/><text x="960" y="374" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1B5FA6" text-anchor="middle">12/31</text><text x="960" y="500" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#5B6B7C" text-anchor="middle">신청 마감</text>
+<text x="556" y="580" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#BE9600" text-anchor="middle">하절기(여름) 7/1~9/30</text>
+<rect x="60" y="640" rx="18" width="960" height="130" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/><text x="90" y="720" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="start">신청기간</text><text x="990" y="720" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1B5FA6" text-anchor="end">2026.6.15 ~ 12.31</text>
+<rect x="60" y="790" rx="18" width="960" height="130" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/><text x="90" y="870" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="start">여름 사용</text><text x="990" y="870" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1B5FA6" text-anchor="end">2026.7.1 ~ 9.30</text>
+<rect x="60" y="940" rx="16" width="960" height="90" fill="#E6F0FA"/><text x="540" y="997" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#0D345F" text-anchor="middle">한 번 신청하면 여름·겨울 모두 사용 가능</text>
+</svg>

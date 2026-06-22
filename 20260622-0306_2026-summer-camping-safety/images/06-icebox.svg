@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F2F4"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">여름 식중독 막는 아이스박스</text>
+  <text x="60" y="290" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a">담는 순서 (아래 → 위)</text>
+  <g font-family="Noto Sans CJK KR" font-size="48" fill="#1a1a1a" font-weight="bold">
+    <rect x="120" y="340" width="840" height="140" rx="14" fill="#FFF0F3" stroke="#E6D2D8"/>
+    <text x="540" y="425" text-anchor="middle">맨 위 · 채소 · 과일</text>
+    <rect x="120" y="500" width="840" height="140" rx="14" fill="#FBD9E1" stroke="#E6D2D8"/>
+    <text x="540" y="585" text-anchor="middle">중간 · 고기 · 해산물 · 유제품</text>
+    <rect x="120" y="660" width="840" height="140" rx="14" fill="#E0556E"/>
+    <text x="540" y="745" text-anchor="middle" fill="#ffffff">맨 아래 · 아이스팩</text>
+  </g>
+  <g font-family="Noto Sans CJK KR" font-size="42" fill="#1a1a1a">
+    <text x="60" y="900">✔ 장보기는 1시간 이내로</text>
+    <text x="60" y="975">✔ 날음식·조리식품 분리 밀봉</text>
+    <text x="60" y="1050">✔ 그늘에 두고 여닫기 최소화</text>
+  </g>
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE2E6"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#6B5860">출처: 식품의약품안전처</text>
+</svg>

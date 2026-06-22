@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect x="0" y="0" width="1080" height="720" rx="0" fill="#FFF5F7"/>
+<rect x="0" y="0" width="1080" height="170" rx="0" fill="#E0556E"/>
+<rect x="60" y="28" width="242.2" height="56" rx="28.0" fill="#FFD23F"/><text x="181.1" y="66.08" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#1A1A1A" text-anchor="middle">숙박세일페스타</text>
+<text x="60" y="145" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#FFFFFF" text-anchor="start">여름편 · 매일 오전 10시 선착순 쿠폰</text>
+<rect x="60" y="200" width="410" height="440" rx="28" fill="#FFF5F7" stroke="#F2C6D0" stroke-width="2"/>
+<circle cx="265" cy="360" r="110" fill="#FFFFFF" opacity="1.0" stroke="#E0556E" stroke-width="8"/>
+<line x1="265" y1="360" x2="265" y2="285" stroke="#B83C56" stroke-width="9" stroke-linecap="round"/>
+<line x1="265" y1="360" x2="205" y2="335" stroke="#B83C56" stroke-width="9" stroke-linecap="round"/>
+<circle cx="265" cy="360" r="12" fill="#B83C56" opacity="1.0"/>
+<text x="265" y="538" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#B83C56" text-anchor="middle">오전 10:00</text>
+<text x="265" y="590" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#5B6B7C" text-anchor="middle">정각 대기 사실상 필수</text>
+<rect x="520" y="210" width="500" height="150" rx="20" fill="#E0556E"/>
+<circle cx="520" cy="285" r="22" fill="#FFF5F7" opacity="1.0"/>
+<circle cx="1020" cy="285" r="22" fill="#FFF5F7" opacity="1.0"/>
+<text x="560" y="282" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#FFE3EA" text-anchor="start">비수도권 연박 시</text>
+<text x="560" y="340" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#FFD23F" text-anchor="start">최대 7만 원 할인</text>
+<rect x="520" y="395" width="500" height="72" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="546" y="443" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#E0556E" text-anchor="start">투숙 기간</text>
+<text x="994" y="443" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1A1A1A" text-anchor="end">6/11 ~ 7/31</text>
+<rect x="520" y="479" width="500" height="72" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="546" y="527" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#E0556E" text-anchor="start">대상 지역</text>
+<text x="994" y="527" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1A1A1A" text-anchor="end">비수도권 숙소</text>
+<rect x="520" y="563" width="500" height="72" rx="16" fill="#FFFFFF" stroke="#F2C6D0" stroke-width="2"/>
+<text x="546" y="611" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#E0556E" text-anchor="start">제외 지역</text>
+<text x="994" y="611" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1A1A1A" text-anchor="end">서울·경기·인천</text>
+<rect x="0" y="650" width="1080" height="70" rx="0" fill="#E8EEF5"/><text x="60" y="690" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 대한민국 숙박세일페스타 공식 공고</text>
+</svg>

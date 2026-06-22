@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#243B6B"/>
+  <circle cx="1010" cy="70" r="190" fill="#ffffff" opacity="0.07"/>
+  <circle cx="60" cy="1080" r="170" fill="#ffffff" opacity="0.05"/>
+  <rect x="80" y="92" rx="34" ry="34" width="300" height="70" fill="#FFD23F"/>
+  <text x="230" y="140" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">금융/재테크</text>
+  <text x="80" y="320" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#FFD23F">개인투자용 국채 · 2026년 6월</text>
+  <text x="80" y="470" font-family="Noto Sans CJK KR" font-weight="bold" font-size="140" fill="#ffffff">출시 이후</text>
+  <text x="80" y="630" font-family="Noto Sans CJK KR" font-weight="bold" font-size="140" fill="#FFD23F">최고 금리</text>
+  <rect x="80" y="730" rx="22" ry="22" width="920" height="180" fill="#1A2C50"/>
+  <text x="110" y="802" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#ffffff">연평균 최고 8.1% (20년물)</text>
+  <text x="110" y="870" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#FFD23F">이자소득 2억까지 분리과세</text>
+  <text x="80" y="1010" font-family="Noto Sans CJK KR" font-weight="normal" font-size="34" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="200" width="1080" height="8" fill="#E23B3B"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">새 쟁점: 도급제 근로자</text>
+  <text x="60" y="300" font-family="Noto Sans CJK KR" font-size="44" fill="#5B6B7C">최저임금 적용 여부 첫 공식 논의</text>
+  <g font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#1a1a1a">
+    <rect x="60" y="360" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="442">🛵 배달라이더</text>
+    <rect x="60" y="510" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="592">📦 택배기사</text>
+    <rect x="60" y="660" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="742">🚗 대리기사</text>
+    <rect x="60" y="810" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="892">📚 학습지 교사</text>
+  </g>
+  <text x="60" y="1040" font-family="Noto Sans CJK KR" font-size="42" fill="#1a1a1a">건수로 보수 정하는 도급제 →</text>
+  <text x="60" y="1100" font-family="Noto Sans CJK KR" font-size="42" fill="#E23B3B" font-weight="bold">시급 기준 적용 방식이 쟁점</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 한국경제</text>
+</svg>
