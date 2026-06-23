@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#1F8A53"/>
+  <text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">신청 방법 (온라인 5분)</text>
+  <g font-family="Noto Sans CJK KR">
+    <circle cx="120" cy="320" r="44" fill="#1F8A53"/>
+    <text x="120" y="338" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="200" y="310" font-size="48" font-weight="bold" fill="#1a1a1a">모의계산으로 예상액 확인</text>
+    <text x="200" y="365" font-size="38" fill="#5B6B7C">홈택스·손택스 '근로·자녀장려금 모의계산'</text>
+
+    <circle cx="120" cy="500" r="44" fill="#1F8A53"/>
+    <text x="120" y="518" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="200" y="490" font-size="48" font-weight="bold" fill="#1a1a1a">신청하기</text>
+    <text x="200" y="545" font-size="38" fill="#5B6B7C">PC 홈택스 / 모바일 손택스 앱</text>
+
+    <circle cx="120" cy="680" r="44" fill="#1F8A53"/>
+    <text x="120" y="698" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="200" y="650" font-size="48" font-weight="bold" fill="#1a1a1a">지급계좌 입력</text>
+    <text x="200" y="705" font-size="38" fill="#5B6B7C">본인 명의 계좌 정확히 입력</text>
+  </g>
+  <rect x="60" y="800" width="960" height="150" rx="20" fill="#FFF7DA" stroke="#FFD23F" stroke-width="2"/>
+  <text x="100" y="875" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">기한 후 신청: 6/2 ~ 11/30</text>
+  <text x="100" y="930" font-family="Noto Sans CJK KR" font-size="38" fill="#5B6B7C">안내문(개별인증번호) 받으면 ARS도 가능</text>
+  <text x="60" y="1030" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 국세청 · blog.naver.com/trip_chocho</text>
+</svg>

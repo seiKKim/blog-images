@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="62" fill="#ffffff">신청 일정 한눈에</text>
+  <!-- 정기 -->
+  <rect x="60" y="280" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="280" width="14" height="200" rx="7" fill="#9AA7B4"/>
+  <text x="110" y="358" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#1a1a1a">정기신청 (마감)</text>
+  <text x="110" y="430" font-family="Noto Sans CJK KR" font-size="44" fill="#5B6B7C">5월 1일 ~ 6월 1일 · 100% 지급</text>
+  <!-- 기한후 -->
+  <rect x="60" y="520" width="960" height="220" rx="20" fill="#ffffff" stroke="#1F8A53" stroke-width="4"/>
+  <rect x="60" y="520" width="14" height="220" rx="7" fill="#1F8A53"/>
+  <text x="110" y="600" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#1F8A53">기한 후 신청 (진행 중)</text>
+  <text x="110" y="672" font-family="Noto Sans CJK KR" font-size="44" fill="#1a1a1a">6월 2일 ~ 11월 30일</text>
+  <text x="110" y="722" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#E23B3B">95% 지급 (5% 감액)</text>
+  <!-- 포인트 -->
+  <rect x="60" y="790" width="960" height="380" rx="20" fill="#EAF5EE" stroke="#BFE3CE" stroke-width="2"/>
+  <text x="100" y="880" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1F8A53">기억할 점</text>
+  <text x="100" y="965" font-family="Noto Sans CJK KR" font-size="42" fill="#1a1a1a">· 5월 정기신청을 놓쳤다면 기한 후 신청</text>
+  <text x="100" y="1040" font-family="Noto Sans CJK KR" font-size="42" fill="#1a1a1a">· 신청한 달부터 약 4개월 이내 지급</text>
+  <text x="100" y="1115" font-family="Noto Sans CJK KR" font-size="42" fill="#1a1a1a">· 빠를수록 그만큼 빨리 받음</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 국세청(nts.go.kr) · 2025년 귀속 기준</text>
+</svg>

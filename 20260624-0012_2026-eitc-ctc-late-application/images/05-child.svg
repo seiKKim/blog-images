@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1F8A53"/>
+  <circle cx="930" cy="200" r="240" fill="#ffffff" opacity="0.08"/>
+  <rect x="60" y="80" rx="34" ry="34" width="240" height="68" fill="#FFD23F"/>
+  <text x="180" y="128" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">자녀장려금</text>
+  <text x="60" y="290" font-family="Noto Sans CJK KR" font-weight="bold" font-size="64" fill="#ffffff">근로장려금과 중복 수급 OK</text>
+  <text x="60" y="430" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#E8EEF5">자녀 1명당</text>
+  <text x="60" y="560" font-family="Noto Sans CJK KR" font-weight="bold" font-size="130" fill="#FFD23F">최대 100만원</text>
+  <text x="60" y="640" font-family="Noto Sans CJK KR" font-size="46" fill="#E8EEF5">(최소 50만원)</text>
+  <rect x="60" y="710" width="960" height="250" rx="20" fill="#ffffff" opacity="0.16"/>
+  <text x="95" y="790" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#ffffff">대상 조건</text>
+  <text x="95" y="860" font-family="Noto Sans CJK KR" font-size="42" fill="#ffffff">· 만 18세 미만 부양자녀</text>
+  <text x="95" y="925" font-family="Noto Sans CJK KR" font-size="42" fill="#ffffff">· 부부합산 총소득 7,000만원 미만</text>
+  <text x="60" y="1030" font-family="Noto Sans CJK KR" font-size="32" fill="#E8EEF5">출처: 국세청 · blog.naver.com/trip_chocho</text>
+</svg>

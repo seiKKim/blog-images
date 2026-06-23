@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">신청 자격 (2025년 귀속)</text>
+  <text x="60" y="173" font-family="Noto Sans CJK KR" font-size="38" fill="#D8F0E2">부부합산 총소득 기준</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="340" font-size="46" font-weight="bold" fill="#1a1a1a">단독 가구</text>
+    <text x="1000" y="340" font-size="46" font-weight="bold" fill="#1F8A53" text-anchor="end">2,200만원 미만</text>
+    <rect x="60" y="400" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="470" font-size="46" font-weight="bold" fill="#1a1a1a">홑벌이 가구</text>
+    <text x="1000" y="470" font-size="46" font-weight="bold" fill="#1F8A53" text-anchor="end">3,200만원 미만</text>
+    <rect x="60" y="530" width="960" height="110" rx="16" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+    <text x="100" y="600" font-size="46" font-weight="bold" fill="#1a1a1a">맞벌이 가구</text>
+    <text x="1000" y="600" font-size="46" font-weight="bold" fill="#1F8A53" text-anchor="end">4,400만원 미만</text>
+  </g>
+  <text x="80" y="715" font-family="Noto Sans CJK KR" font-size="38" fill="#E23B3B">※ 맞벌이 3,800 → 4,400만원으로 완화</text>
+  <!-- 재산 -->
+  <rect x="60" y="770" width="960" height="400" rx="20" fill="#EAF5EE" stroke="#BFE3CE" stroke-width="2"/>
+  <text x="100" y="855" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#1F8A53">재산 요건</text>
+  <text x="100" y="940" font-family="Noto Sans CJK KR" font-size="42" fill="#1a1a1a">· 가구원 전체 재산 2.4억원 미만</text>
+  <text x="100" y="1010" font-family="Noto Sans CJK KR" font-size="42" fill="#1a1a1a">  (2025.6.1 기준 · 부채 차감 안 함)</text>
+  <text x="100" y="1090" font-family="Noto Sans CJK KR" font-size="42" fill="#1a1a1a">· 1.7억 ~ 2.4억원이면 50%만 지급</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 국세청(nts.go.kr)</text>
+</svg>

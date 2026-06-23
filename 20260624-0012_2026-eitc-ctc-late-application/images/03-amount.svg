@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#1F8A53"/>
+  <text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">가구 유형별 최대 지급액</text>
+  <!-- 단독 -->
+  <text x="60" y="320" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a">단독</text>
+  <rect x="240" y="278" width="320" height="64" rx="12" fill="#9AD2B4"/>
+  <text x="590" y="324" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1F8A53">165만원</text>
+  <!-- 홑벌이 -->
+  <text x="60" y="490" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a">홑벌이</text>
+  <rect x="240" y="448" width="560" height="64" rx="12" fill="#5BB98A"/>
+  <text x="830" y="494" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1F8A53">285만원</text>
+  <!-- 맞벌이 -->
+  <text x="60" y="660" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#1a1a1a">맞벌이</text>
+  <rect x="240" y="618" width="650" height="64" rx="12" fill="#1F8A53"/>
+  <text x="905" y="664" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#1F8A53">330만원</text>
+  <rect x="60" y="760" width="960" height="190" rx="20" fill="#FFF7DA" stroke="#FFD23F" stroke-width="2"/>
+  <text x="100" y="840" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">최소 3만원 ~ 최대 330만원</text>
+  <text x="100" y="905" font-family="Noto Sans CJK KR" font-size="40" fill="#5B6B7C">기한 후 신청은 위 금액의 95%가 한도</text>
+  <text x="60" y="1030" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 국세청 · blog.naver.com/trip_chocho</text>
+</svg>
