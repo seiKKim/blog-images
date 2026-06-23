@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect width="1080" height="720" fill="#E8722C"/>
+<circle cx="1040" cy="100" r="260" fill="#EF8649"/>
+<rect x="60" y="70" rx="31" width="220" height="62" fill="#FFD23F"/>
+<text x="170" y="112" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#2A2017" text-anchor="middle">예방 수칙 ①</text>
+<text x="60" y="212" font-family="Noto Sans CJK KR" font-weight="bold" font-size="54" fill="#fff" text-anchor="start">흐르는 물 + 비누로</text>
+<text x="60" y="408" font-family="Noto Sans CJK KR" font-weight="900" font-size="176" fill="#FFD23F" text-anchor="start">30초</text>
+<text x="420" y="394" font-family="Noto Sans CJK KR" font-weight="bold" font-size="72" fill="#fff" text-anchor="start">이상</text>
+<text x="60" y="500" font-family="Noto Sans CJK KR" font-weight="bold" font-size="84" fill="#fff" text-anchor="start">손 씻기</text>
+<rect x="60" y="570" width="960" height="95" rx="22" fill="#fff"/>
+<text x="540" y="630" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#2A2017" text-anchor="middle">생달걀·생닭 등 날 식재료 만진 뒤 반드시</text>
+</svg>

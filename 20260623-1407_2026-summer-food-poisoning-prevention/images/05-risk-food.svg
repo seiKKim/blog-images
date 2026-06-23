@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#FFF7EF"/>
+<rect width="1080" height="200" fill="#E8722C"/>
+<text x="60" y="120" font-family="Noto Sans CJK KR" font-weight="900" font-size="60" fill="#fff" text-anchor="start">여름 도시락 체크</text>
+<text x="60" y="170" font-family="Noto Sans CJK KR" font-weight="500" font-size="34" fill="#FFE6D2" text-anchor="start">넣어도 OK vs 빼는 게 안전</text>
+<rect x="60" y="250" width="460" height="90" rx="20" fill="#1F8A53"/>
+<text x="290" y="308" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#fff" text-anchor="middle">넣어도 좋아요</text>
+<rect x="560" y="250" width="460" height="90" rx="20" fill="#D9483B"/>
+<text x="790" y="308" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#fff" text-anchor="middle">빼는 게 안전</text>
+<rect x="60" y="370" width="460" height="120" rx="20" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<text x="94" y="448" font-family="Noto Sans CJK KR" font-weight="900" font-size="50" fill="#1F8A53" text-anchor="start">✓</text><text x="150" y="444" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#2A2017" text-anchor="start">충분히 식힌 김밥</text>
+<rect x="560" y="370" width="460" height="120" rx="20" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<text x="594" y="448" font-family="Noto Sans CJK KR" font-weight="900" font-size="50" fill="#D9483B" text-anchor="start">✕</text><text x="650" y="444" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#2A2017" text-anchor="start">수분 많은 생채소</text>
+<rect x="60" y="508" width="460" height="120" rx="20" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<text x="94" y="586" font-family="Noto Sans CJK KR" font-weight="900" font-size="50" fill="#1F8A53" text-anchor="start">✓</text><text x="150" y="582" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#2A2017" text-anchor="start">완전히 익힌 반찬</text>
+<rect x="560" y="508" width="460" height="120" rx="20" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<text x="594" y="586" font-family="Noto Sans CJK KR" font-weight="900" font-size="50" fill="#D9483B" text-anchor="start">✕</text><text x="650" y="582" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#2A2017" text-anchor="start">오이무침</text>
+<rect x="60" y="646" width="460" height="120" rx="20" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<text x="94" y="724" font-family="Noto Sans CJK KR" font-weight="900" font-size="50" fill="#1F8A53" text-anchor="start">✓</text><text x="150" y="720" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#2A2017" text-anchor="start">수분 적은 볶음류</text>
+<rect x="560" y="646" width="460" height="120" rx="20" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<text x="594" y="724" font-family="Noto Sans CJK KR" font-weight="900" font-size="50" fill="#D9483B" text-anchor="start">✕</text><text x="650" y="720" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#2A2017" text-anchor="start">반숙 달걀</text>
+<rect x="60" y="784" width="460" height="120" rx="20" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<text x="94" y="862" font-family="Noto Sans CJK KR" font-weight="900" font-size="50" fill="#1F8A53" text-anchor="start">✓</text><text x="150" y="858" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#2A2017" text-anchor="start">밥·반찬 분리 포장</text>
+<rect x="560" y="784" width="460" height="120" rx="20" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<text x="594" y="862" font-family="Noto Sans CJK KR" font-weight="900" font-size="50" fill="#D9483B" text-anchor="start">✕</text><text x="650" y="858" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#2A2017" text-anchor="start">상온 2시간 초과</text>
+<rect x="60" y="920" width="960" height="270" rx="24" fill="#FFF0E2" stroke="#F0D8C2" stroke-width="3"/>
+<text x="90" y="990" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#C75D1E" text-anchor="start">김밥은 김이 거의 안 날 만큼</text>
+<text x="90" y="1050" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#C75D1E" text-anchor="start">충분히 식힌 뒤 담기</text>
+<text x="90" y="1125" font-family="Noto Sans CJK KR" font-weight="500" font-size="40" fill="#2A2017" text-anchor="start">상온 방치는 2시간 이내</text>
+<text x="90" y="1172" font-family="Noto Sans CJK KR" font-weight="500" font-size="34" fill="#5B6B7C" text-anchor="start">(30℃ 이상 야외는 1시간 이내)</text>
+<rect x="0" y="1280" width="1080" height="70" fill="#E8EEF5"/>
+<text x="50" y="1322" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 식약처·국민재난안전포털</text>
+</svg>

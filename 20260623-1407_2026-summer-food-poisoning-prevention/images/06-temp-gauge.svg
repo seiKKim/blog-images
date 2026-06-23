@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#FFF7EF"/>
+<rect width="1080" height="200" fill="#E8722C"/>
+<text x="60" y="120" font-family="Noto Sans CJK KR" font-weight="900" font-size="60" fill="#fff" text-anchor="start">음식 보관 온도 지도</text>
+<text x="60" y="170" font-family="Noto Sans CJK KR" font-weight="500" font-size="34" fill="#FFE6D2" text-anchor="start">위험 온도대를 피하세요</text>
+<rect x="130" y="300" width="150" height="176" fill="#D9483B"/>
+<text x="330" y="393" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#2A2017" text-anchor="start">60℃ 이상</text>
+<text x="330" y="443" font-family="Noto Sans CJK KR" font-weight="500" font-size="36" fill="#5B6B7C" text-anchor="start">뜨거운 음식 보관</text>
+<rect x="130" y="476" width="150" height="299" fill="#F0A062"/>
+<text x="330" y="595" font-family="Noto Sans CJK KR" font-weight="900" font-size="48" fill="#C75D1E" text-anchor="start">위험 온도대</text>
+<text x="330" y="655" font-family="Noto Sans CJK KR" font-weight="900" font-size="56" fill="#C75D1E" text-anchor="start">약 5 ~ 57℃</text>
+<text x="330" y="715" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#D9483B" text-anchor="start">세균이 빠르게 증식</text>
+<rect x="130" y="775" width="150" height="202" fill="#5AA9E6"/>
+<text x="330" y="881" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#2A2017" text-anchor="start">5℃ 이하</text>
+<text x="330" y="931" font-family="Noto Sans CJK KR" font-weight="500" font-size="36" fill="#5B6B7C" text-anchor="start">냉장 보관</text>
+<rect x="130" y="977" width="150" height="202" fill="#2D6FB0"/>
+<text x="330" y="1083" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#2A2017" text-anchor="start">-18℃ 이하</text>
+<text x="330" y="1133" font-family="Noto Sans CJK KR" font-weight="500" font-size="36" fill="#5B6B7C" text-anchor="start">냉동 보관</text>
+<rect x="130" y="300" width="150" height="880" fill="none" stroke="#2A2017" stroke-width="4"/>
+<rect x="0" y="1280" width="1080" height="70" fill="#E8EEF5"/>
+<text x="50" y="1322" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 식약처 6대 수칙·질병관리청</text>
+</svg>

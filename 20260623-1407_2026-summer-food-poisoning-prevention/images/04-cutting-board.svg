@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect width="1080" height="720" fill="#FFF7EF"/>
+<rect width="1080" height="170" fill="#E8722C"/>
+<text x="60" y="108" font-family="Noto Sans CJK KR" font-weight="900" font-size="56" fill="#fff" text-anchor="start">칼·도마는 구분해서</text>
+<rect x="80" y="240" width="440" height="320" rx="28" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<rect x="120" y="290" width="360" height="120" rx="16" fill="#D9483B"/>
+<rect x="230" y="440" width="140" height="30" rx="8" fill="#9AA7B2"/>
+<rect x="230" y="440" width="50" height="30" rx="8" fill="#D9483B"/>
+<text x="300" y="525" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#2A2017" text-anchor="middle">육류·어패류용</text>
+<text x="300" y="565" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="middle">날음식 전용</text>
+<rect x="560" y="240" width="440" height="320" rx="28" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<rect x="600" y="290" width="360" height="120" rx="16" fill="#1F8A53"/>
+<rect x="710" y="440" width="140" height="30" rx="8" fill="#9AA7B2"/>
+<rect x="710" y="440" width="50" height="30" rx="8" fill="#1F8A53"/>
+<text x="780" y="525" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#2A2017" text-anchor="middle">채소·조리식품용</text>
+<text x="780" y="565" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="middle">익힌·생채소</text>
+<rect x="60" y="600" width="960" height="90" rx="20" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<text x="540" y="658" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#C75D1E" text-anchor="middle">날음식과 조리음식을 나눠 교차오염 차단</text>
+</svg>

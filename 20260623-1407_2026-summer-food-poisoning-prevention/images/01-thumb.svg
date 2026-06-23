@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#E8722C"/>
+<circle cx="1020" cy="140" r="260" fill="#EF8649"/>
+<circle cx="60" cy="980" r="220" fill="#DD6622"/>
+<rect x="64" y="80" rx="35" ry="35" width="200" height="70" fill="#FFD23F"/>
+<text x="164" y="128" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#2A2017" text-anchor="middle">생활꿀팁</text>
+<text x="64" y="222" font-family="Noto Sans CJK KR" font-weight="500" font-size="58" fill="#E8EEF5" text-anchor="start">2026 여름철</text>
+<text x="64" y="330" font-family="Noto Sans CJK KR" font-weight="900" font-size="118" fill="#fff" text-anchor="start">식중독 예방</text>
+<text x="64" y="454" font-family="Noto Sans CJK KR" font-weight="900" font-size="118" fill="#FFD23F" text-anchor="start">6대 수칙</text>
+<rect x="64" y="560" rx="24" width="448" height="104" fill="#fff"/>
+<circle cx="94" cy="612" r="9" fill="#E8722C"/>
+<text x="124" y="627" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#2A2017" text-anchor="start">① 손 씻기</text>
+<rect x="536" y="560" rx="24" width="448" height="104" fill="#fff"/>
+<circle cx="566" cy="612" r="9" fill="#E8722C"/>
+<text x="596" y="627" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#2A2017" text-anchor="start">② 익혀 먹기</text>
+<rect x="64" y="686" rx="24" width="448" height="104" fill="#fff"/>
+<circle cx="94" cy="738" r="9" fill="#E8722C"/>
+<text x="124" y="753" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#2A2017" text-anchor="start">③ 끓여 먹기</text>
+<rect x="536" y="686" rx="24" width="448" height="104" fill="#fff"/>
+<circle cx="566" cy="738" r="9" fill="#E8722C"/>
+<text x="596" y="753" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#2A2017" text-anchor="start">④ 구분 사용</text>
+<rect x="64" y="812" rx="24" width="448" height="104" fill="#fff"/>
+<circle cx="94" cy="864" r="9" fill="#E8722C"/>
+<text x="124" y="879" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#2A2017" text-anchor="start">⑤ 세척·소독</text>
+<rect x="536" y="812" rx="24" width="448" height="104" fill="#fff"/>
+<circle cx="566" cy="864" r="9" fill="#E8722C"/>
+<text x="596" y="879" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#2A2017" text-anchor="start">⑥ 보관온도</text>
+<text x="64" y="1018" font-family="Noto Sans CJK KR" font-weight="normal" font-size="34" fill="#E8EEF5" text-anchor="start">blog.naver.com/trip_chocho</text>
+</svg>

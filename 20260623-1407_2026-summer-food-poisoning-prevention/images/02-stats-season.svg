@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#FFF7EF"/>
+<rect width="1080" height="200" fill="#E8722C"/>
+<text x="60" y="120" font-family="Noto Sans CJK KR" font-weight="900" font-size="60" fill="#fff" text-anchor="start">여름에 절반이 몰린다</text>
+<text x="60" y="170" font-family="Noto Sans CJK KR" font-weight="500" font-size="34" fill="#FFE6D2" text-anchor="start">2024년 식중독 — 여름철(7~9월) 집중도</text>
+<text x="60" y="300" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#2A2017" text-anchor="start">7~9월 여름철이 차지하는 비중</text>
+<rect x="150" y="552" width="300" height="328" rx="18" fill="#F0A062"/>
+<text x="300" y="498" font-family="Noto Sans CJK KR" font-weight="bold" font-size="64" fill="#C75D1E" text-anchor="middle">39%</text>
+<text x="300" y="930" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#2A2017" text-anchor="middle">발생 건수</text>
+<rect x="630" y="460" width="300" height="420" rx="18" fill="#E8722C"/>
+<text x="780" y="406" font-family="Noto Sans CJK KR" font-weight="bold" font-size="64" fill="#C75D1E" text-anchor="middle">50%</text>
+<text x="780" y="930" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#2A2017" text-anchor="middle">환자 수</text>
+<line x1="60" y1="880" x2="1020" y2="880" stroke="#2A2017" stroke-width="3"/>
+<rect x="60" y="1000" width="960" height="180" rx="24" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<text x="90" y="1065" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#C75D1E" text-anchor="start">전체 환자의 50%가 여름 3개월에 집중</text>
+<text x="90" y="1130" font-family="Noto Sans CJK KR" font-weight="500" font-size="38" fill="#2A2017" text-anchor="start">1년 중 7~9월이 가장 조심해야 할 시기</text>
+<rect x="0" y="1280" width="1080" height="70" fill="#E8EEF5"/>
+<text x="50" y="1322" font-family="Noto Sans CJK KR" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 식약처 2024년 식중독 통계</text>
+</svg>

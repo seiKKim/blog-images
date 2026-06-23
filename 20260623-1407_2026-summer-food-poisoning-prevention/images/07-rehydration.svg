@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect width="1080" height="720" fill="#FFF7EF"/>
+<rect width="1080" height="170" fill="#E8722C"/>
+<text x="60" y="105" font-family="Noto Sans CJK KR" font-weight="900" font-size="50" fill="#fff" text-anchor="start">증상 있을 땐 수분·전해질 보충</text>
+<rect x="80" y="230" width="440" height="330" rx="28" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<rect x="230" y="290" width="140" height="140" rx="18" fill="#E8722C"/>
+<rect x="230" y="290" width="140" height="30" rx="15" fill="#5AA9E6"/>
+<text x="300" y="505" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#2A2017" text-anchor="middle">이온음료</text>
+<text x="300" y="548" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="middle">시중 제품 활용</text>
+<rect x="560" y="230" width="440" height="330" rx="28" fill="#fff" stroke="#F0D8C2" stroke-width="3"/>
+<rect x="710" y="290" width="140" height="140" rx="18" fill="#E8722C"/>
+<rect x="710" y="290" width="140" height="30" rx="15" fill="#5AA9E6"/>
+<text x="780" y="505" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#2A2017" text-anchor="middle">끓인 물</text>
+<text x="780" y="548" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="middle">+ 설탕·소금 약간</text>
+<rect x="60" y="600" width="960" height="90" rx="20" fill="#FFF0E2" stroke="#F0D8C2" stroke-width="3"/>
+<text x="540" y="658" font-family="Noto Sans CJK KR" font-weight="900" font-size="40" fill="#D9483B" text-anchor="middle">혈변·고열·심한 구토 시 즉시 병원</text>
+</svg>
