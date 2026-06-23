@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#2B2F36"/>
+  <circle cx="960" cy="170" r="280" fill="#ffffff" opacity="0.05"/>
+  <circle cx="110" cy="990" r="220" fill="#E23B3B" opacity="0.10"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="84" rx="34" ry="34" width="220" height="68" fill="#E23B3B"/>
+  <text x="190" y="131" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">오늘의 이슈</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="262" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#E8EEF5">2027년 최저임금</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="378" font-family="Malgun Gothic" font-weight="bold" font-size="120" fill="#ffffff">아직 <tspan fill="#FFD23F">심의 중</tspan></text>
+  <text x="80" y="452" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#E8EEF5">1만 2천 원은 '노동계 요구안'일 뿐!</text>
+
+  <!-- 비교 박스 2개 -->
+  <rect x="80" y="500" rx="22" width="440" height="210" fill="#ffffff" opacity="0.10"/>
+  <text x="300" y="558" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#E8EEF5" text-anchor="middle">2026 적용 (확정)</text>
+  <text x="300" y="640" font-family="Malgun Gothic" font-weight="bold" font-size="76" fill="#ffffff" text-anchor="middle">10,320원</text>
+  <text x="300" y="688" font-family="Malgun Gothic" font-size="30" fill="#E8EEF5" text-anchor="middle">월 2,156,880원</text>
+
+  <rect x="560" y="500" rx="22" width="440" height="210" fill="#E23B3B" opacity="0.22"/>
+  <text x="780" y="558" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#FFD23F" text-anchor="middle">노동계 요구안 (미확정)</text>
+  <text x="780" y="640" font-family="Malgun Gothic" font-weight="bold" font-size="76" fill="#FFD23F" text-anchor="middle">12,000원</text>
+  <text x="780" y="688" font-family="Malgun Gothic" font-size="30" fill="#E8EEF5" text-anchor="middle">+16.3% 인상안</text>
+
+  <!-- 일정 띠 -->
+  <rect x="80" y="752" rx="20" width="920" height="170" fill="#ffffff" opacity="0.12"/>
+  <text x="110" y="816" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#FFD23F">결정 일정</text>
+  <text x="110" y="876" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#ffffff">7월 중순 의결 → 8/5 고시 → 2027.1.1 적용</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1004" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#E8EEF5" opacity="0.85">blog.naver.com/trip_chocho</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="170" fill="#2B2F36"/>
+  <rect x="0" y="0" width="14" height="170" fill="#E23B3B"/>
+  <text x="60" y="88" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff">노동계 요구안 vs 경영계</text>
+  <text x="60" y="138" font-family="Malgun Gothic" font-size="30" fill="#E8EEF5">확정치가 아닌 양측의 입장 (2026-06-23 기준)</text>
+
+  <!-- 노동계 -->
+  <rect x="60" y="220" rx="22" width="445" height="560" fill="#ffffff" stroke="#E23B3B" stroke-width="3"/>
+  <rect x="60" y="220" rx="22" width="445" height="92" fill="#E23B3B"/>
+  <rect x="60" y="270" width="445" height="42" fill="#E23B3B"/>
+  <text x="282" y="282" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">노동계 (요구안)</text>
+  <text x="282" y="400" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#5B6B7C" text-anchor="middle">시급</text>
+  <text x="282" y="510" font-family="Malgun Gothic" font-weight="bold" font-size="96" fill="#E23B3B" text-anchor="middle">12,000원</text>
+  <rect x="100" y="560" rx="14" width="365" height="80" fill="#FFF3F3"/>
+  <text x="282" y="612" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#E23B3B" text-anchor="middle">+16.3% 인상</text>
+  <text x="282" y="700" font-family="Malgun Gothic" font-size="34" fill="#2B2F36" text-anchor="middle">현행 대비 +1,680원</text>
+  <text x="282" y="748" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C" text-anchor="middle">월 약 250만 8천 원(209h)</text>
+
+  <!-- VS -->
+  <circle cx="540" cy="500" r="52" fill="#2B2F36"/>
+  <text x="540" y="516" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFD23F" text-anchor="middle">VS</text>
+
+  <!-- 경영계 -->
+  <rect x="575" y="220" rx="22" width="445" height="560" fill="#ffffff" stroke="#5B6B7C" stroke-width="3"/>
+  <rect x="575" y="220" rx="22" width="445" height="92" fill="#5B6B7C"/>
+  <rect x="575" y="270" width="445" height="42" fill="#5B6B7C"/>
+  <text x="797" y="282" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">경영계</text>
+  <text x="797" y="400" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#5B6B7C" text-anchor="middle">공식 요구안</text>
+  <text x="797" y="510" font-family="Malgun Gothic" font-weight="bold" font-size="80" fill="#5B6B7C" text-anchor="middle">미제출</text>
+  <rect x="615" y="560" rx="14" width="365" height="80" fill="#EEF2F7"/>
+  <text x="797" y="612" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#2B2F36" text-anchor="middle">동결~소폭 인상 관측</text>
+  <text x="797" y="700" font-family="Malgun Gothic" font-size="32" fill="#2B2F36" text-anchor="middle">(예상치, 미확정)</text>
+  <text x="797" y="748" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C" text-anchor="middle">동결 시 10,320원</text>
+
+  <!-- 하단 결론 -->
+  <rect x="60" y="820" rx="18" width="960" height="180" fill="#2B2F36"/>
+  <text x="540" y="888" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#FFD23F" text-anchor="middle">격차가 워낙 커서…</text>
+  <text x="540" y="952" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">공익위원 중재로 최종 결정될 가능성</text>
+
+  <rect x="0" y="1020" width="1080" height="60" fill="#DCE4EE"/>
+  <text x="60" y="1059" font-family="Malgun Gothic" font-size="28" fill="#5B6B7C">출처: 최저임금위원회 · 노사 발표 정리</text>
+</svg>

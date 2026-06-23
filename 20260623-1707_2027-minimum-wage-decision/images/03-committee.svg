@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="170" fill="#2B2F36"/>
+  <rect x="0" y="0" width="14" height="170" fill="#E23B3B"/>
+  <text x="60" y="88" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff">최저임금위원회 구성</text>
+  <text x="60" y="138" font-family="Malgun Gothic" font-size="30" fill="#E8EEF5">2027년 적용 최저임금을 심의·의결</text>
+
+  <!-- 총 27명 -->
+  <text x="540" y="270" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#5B6B7C" text-anchor="middle">총</text>
+  <text x="540" y="380" font-family="Malgun Gothic" font-weight="bold" font-size="120" fill="#E23B3B" text-anchor="middle">27명</text>
+
+  <!-- 3개 그룹 카드 -->
+  <g font-family="Malgun Gothic">
+    <rect x="60" y="440" rx="20" width="295" height="300" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="207" y="510" font-weight="bold" font-size="38" fill="#2B2F36" text-anchor="middle">근로자위원</text>
+    <text x="207" y="640" font-weight="bold" font-size="96" fill="#2B2F36" text-anchor="middle">9명</text>
+    <text x="207" y="700" font-size="28" fill="#5B6B7C" text-anchor="middle">노동계 대표</text>
+
+    <rect x="392" y="440" rx="20" width="295" height="300" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="540" y="510" font-weight="bold" font-size="38" fill="#2B2F36" text-anchor="middle">사용자위원</text>
+    <text x="540" y="640" font-weight="bold" font-size="96" fill="#2B2F36" text-anchor="middle">9명</text>
+    <text x="540" y="700" font-size="28" fill="#5B6B7C" text-anchor="middle">경영계 대표</text>
+
+    <rect x="725" y="440" rx="20" width="295" height="300" fill="#2B2F36"/>
+    <text x="872" y="510" font-weight="bold" font-size="38" fill="#FFD23F" text-anchor="middle">공익위원</text>
+    <text x="872" y="640" font-weight="bold" font-size="96" fill="#ffffff" text-anchor="middle">9명</text>
+    <text x="872" y="700" font-size="28" fill="#E8EEF5" text-anchor="middle">조정·중재</text>
+  </g>
+
+  <!-- 설명 띠 -->
+  <rect x="60" y="790" rx="18" width="960" height="200" fill="#FFF3F3" stroke="#E23B3B" stroke-width="2"/>
+  <text x="90" y="850" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#E23B3B">노사 입장차가 크면?</text>
+  <text x="90" y="908" font-family="Malgun Gothic" font-size="34" fill="#2B2F36">공익위원이 조정·중재하며, 합의가 안 되면</text>
+  <text x="90" y="954" font-family="Malgun Gothic" font-size="34" fill="#2B2F36">사실상 최종 결정권을 행사하는 경우가 많습니다.</text>
+
+  <rect x="0" y="1010" width="1080" height="70" fill="#DCE4EE"/>
+  <text x="60" y="1054" font-family="Malgun Gothic" font-size="28" fill="#5B6B7C">출처: 최저임금위원회</text>
+</svg>

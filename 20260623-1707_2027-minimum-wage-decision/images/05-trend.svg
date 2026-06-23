@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="170" fill="#2B2F36"/>
+  <rect x="0" y="0" width="14" height="170" fill="#E23B3B"/>
+  <text x="60" y="88" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff">최저임금 인상 추이</text>
+  <text x="60" y="138" font-family="Malgun Gothic" font-size="30" fill="#E8EEF5">2021~2026 시급·인상률 · 2027은 심의 중</text>
+
+  <!-- 차트 영역 baseline y=780, top of tallest bar ~ y=360 -->
+  <!-- 막대: 시급 (회색), 위에 인상률 라벨, 꺾은선은 인상률 -->
+  <g font-family="Malgun Gothic">
+    <!-- 가로 기준선 -->
+    <line x1="80" y1="780" x2="1000" y2="780" stroke="#C5D0DC" stroke-width="3"/>
+
+    <!-- 2021 8720 -->
+    <rect x="96" y="535" width="92" height="245" rx="6" fill="#9AA7B5"/>
+    <text x="142" y="520" font-size="28" font-weight="bold" fill="#2B2F36" text-anchor="middle">8,720</text>
+    <text x="142" y="822" font-size="30" fill="#5B6B7C" text-anchor="middle">2021</text>
+    <!-- 2022 9160 -->
+    <rect x="228" y="514" width="92" height="266" rx="6" fill="#9AA7B5"/>
+    <text x="274" y="499" font-size="28" font-weight="bold" fill="#2B2F36" text-anchor="middle">9,160</text>
+    <text x="274" y="822" font-size="30" fill="#5B6B7C" text-anchor="middle">2022</text>
+    <!-- 2023 9620 -->
+    <rect x="360" y="492" width="92" height="288" rx="6" fill="#9AA7B5"/>
+    <text x="406" y="477" font-size="28" font-weight="bold" fill="#2B2F36" text-anchor="middle">9,620</text>
+    <text x="406" y="822" font-size="30" fill="#5B6B7C" text-anchor="middle">2023</text>
+    <!-- 2024 9860 -->
+    <rect x="492" y="480" width="92" height="300" rx="6" fill="#9AA7B5"/>
+    <text x="538" y="465" font-size="28" font-weight="bold" fill="#2B2F36" text-anchor="middle">9,860</text>
+    <text x="538" y="822" font-size="30" fill="#5B6B7C" text-anchor="middle">2024</text>
+    <!-- 2025 10030 -->
+    <rect x="624" y="472" width="92" height="308" rx="6" fill="#9AA7B5"/>
+    <text x="670" y="457" font-size="28" font-weight="bold" fill="#2B2F36" text-anchor="middle">10,030</text>
+    <text x="670" y="822" font-size="30" fill="#5B6B7C" text-anchor="middle">2025</text>
+    <!-- 2026 10320 (강조) -->
+    <rect x="756" y="458" width="92" height="322" rx="6" fill="#2B2F36"/>
+    <text x="802" y="443" font-size="28" font-weight="bold" fill="#2B2F36" text-anchor="middle">10,320</text>
+    <text x="802" y="822" font-size="30" font-weight="bold" fill="#2B2F36" text-anchor="middle">2026</text>
+    <!-- 2027 ? -->
+    <rect x="888" y="540" width="92" height="240" rx="6" fill="none" stroke="#E23B3B" stroke-width="4" stroke-dasharray="10 8"/>
+    <text x="934" y="675" font-size="80" font-weight="bold" fill="#E23B3B" text-anchor="middle">?</text>
+    <text x="934" y="822" font-size="30" font-weight="bold" fill="#E23B3B" text-anchor="middle">2027</text>
+  </g>
+
+  <!-- 인상률 꺾은선 (포인트만) -->
+  <g>
+    <polyline points="142,400 274,318 406,322 538,400 670,432 802,392"
+      fill="none" stroke="#E23B3B" stroke-width="4"/>
+    <circle cx="142" cy="400" r="7" fill="#E23B3B"/>
+    <circle cx="274" cy="318" r="7" fill="#E23B3B"/>
+    <circle cx="406" cy="322" r="7" fill="#E23B3B"/>
+    <circle cx="538" cy="400" r="7" fill="#E23B3B"/>
+    <circle cx="670" cy="432" r="7" fill="#E23B3B"/>
+    <circle cx="802" cy="392" r="7" fill="#E23B3B"/>
+    <g font-family="Malgun Gothic" font-size="26" font-weight="bold" fill="#E23B3B" text-anchor="middle">
+      <text x="142" y="388">1.5%</text>
+      <text x="274" y="306">5.05%</text>
+      <text x="406" y="310">5.0%</text>
+      <text x="538" y="388">2.5%</text>
+      <text x="670" y="420">1.7%</text>
+      <text x="802" y="380">2.9%</text>
+    </g>
+  </g>
+
+  <!-- 범례 -->
+  <rect x="80" y="868" width="34" height="24" fill="#9AA7B5"/>
+  <text x="126" y="889" font-family="Malgun Gothic" font-size="28" fill="#5B6B7C">시급(원)</text>
+  <circle cx="320" cy="880" r="9" fill="#E23B3B"/>
+  <line x1="296" y1="880" x2="344" y2="880" stroke="#E23B3B" stroke-width="4"/>
+  <text x="360" y="889" font-family="Malgun Gothic" font-size="28" fill="#5B6B7C">인상률(%)</text>
+
+  <!-- 코멘트 -->
+  <rect x="60" y="922" rx="16" width="960" height="80" fill="#FFF3F3" stroke="#E23B3B" stroke-width="2"/>
+  <text x="540" y="972" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#2B2F36" text-anchor="middle">최근 3년 1~3%대 저율 인상 · 2027년은 아직 미확정</text>
+
+  <rect x="0" y="1020" width="1080" height="60" fill="#DCE4EE"/>
+  <text x="60" y="1059" font-family="Malgun Gothic" font-size="28" fill="#5B6B7C">출처: 최저임금위원회 연도별 고시</text>
+</svg>
