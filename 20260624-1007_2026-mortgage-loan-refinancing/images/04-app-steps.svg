@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" ry="0" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="230" rx="0" ry="0" fill="#243B6B"/>
+<rect x="60" y="40" width="216" height="60" rx="28" ry="28" fill="#FFD23F"/>
+<text x="168.0" y="82" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#1a1a1a" text-anchor="middle">금융/재테크</text>
+<text x="60" y="165" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="start">앱으로 갈아타기 신청 절차</text>
+<text x="60" y="210" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#E8EEF5" text-anchor="start">비교 5~10분 → 심사 → 약정·실행</text>
+<circle cx="120" cy="326.0" r="44" fill="#243B6B"/>
+<text x="120" y="342.0" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#ffffff" text-anchor="middle">1</text>
+<line x1="120" y1="372.0" x2="120" y2="456.0" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<rect x="190" y="262" width="830" height="128" rx="18" ry="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="230" y="340.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#243B6B" text-anchor="start">주택·직업 정보 입력</text>
+<circle cx="120" cy="476.0" r="44" fill="#243B6B"/>
+<text x="120" y="492.0" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#ffffff" text-anchor="middle">2</text>
+<line x1="120" y1="522.0" x2="120" y2="606.0" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<rect x="190" y="412" width="830" height="128" rx="18" ry="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="230" y="470" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#243B6B" text-anchor="start">공공 마이데이터 심사</text>
+<text x="230" y="514" font-family="Noto Sans CJK KR" font-weight="500" font-size="28" fill="#5B6B7C" text-anchor="start">기존 대출 정보 자동 조회</text>
+<circle cx="120" cy="626.0" r="44" fill="#243B6B"/>
+<text x="120" y="642.0" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#ffffff" text-anchor="middle">3</text>
+<line x1="120" y1="672.0" x2="120" y2="756.0" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<rect x="190" y="562" width="830" height="128" rx="18" ry="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="230" y="640.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#243B6B" text-anchor="start">갈아탈 대출 선택</text>
+<circle cx="120" cy="776.0" r="44" fill="#243B6B"/>
+<text x="120" y="792.0" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#ffffff" text-anchor="middle">4</text>
+<line x1="120" y1="822.0" x2="120" y2="906.0" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<rect x="190" y="712" width="830" height="128" rx="18" ry="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="230" y="790.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#243B6B" text-anchor="start">최저금리 확인·조건 입력</text>
+<circle cx="120" cy="926.0" r="44" fill="#243B6B"/>
+<text x="120" y="942.0" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#ffffff" text-anchor="middle">5</text>
+<line x1="120" y1="972.0" x2="120" y2="1056.0" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<rect x="190" y="862" width="830" height="128" rx="18" ry="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="230" y="940.0" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#243B6B" text-anchor="start">서류 제출</text>
+<circle cx="120" cy="1076.0" r="44" fill="#243B6B"/>
+<text x="120" y="1092.0" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#ffffff" text-anchor="middle">6</text>
+<rect x="190" y="1012" width="830" height="128" rx="18" ry="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="230" y="1070" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#243B6B" text-anchor="start">약정 실행</text>
+<text x="230" y="1114" font-family="Noto Sans CJK KR" font-weight="500" font-size="28" fill="#5B6B7C" text-anchor="start">상환·말소·재설정 자동 연계</text>
+<rect x="60" y="1180" width="960" height="90" rx="18" ry="18" fill="#FFD23F"/>
+<text x="540" y="1235" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">주담대는 신청일로부터 7영업일 이후 실행 가능</text>
+<rect x="0" y="1270" width="1080" height="80" rx="0" ry="0" fill="#E8EEF5"/>
+<text x="60" y="1320" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="start">출처: KB국민은행 갈아타기 안내 예시</text>
+</svg>

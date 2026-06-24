@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" ry="0" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="230" rx="0" ry="0" fill="#243B6B"/>
+<rect x="60" y="40" width="216" height="60" rx="28" ry="28" fill="#FFD23F"/>
+<text x="168.0" y="82" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#1a1a1a" text-anchor="middle">금융/재테크</text>
+<text x="60" y="165" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="start">평균 금리 인하·연간 절감액</text>
+<text x="60" y="210" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#E8EEF5" text-anchor="start">서비스 개시 초기 누적 기준</text>
+<text x="60" y="288" font-family="Noto Sans CJK KR" font-weight="500" font-size="28" fill="#5B6B7C" text-anchor="start">막대 = 1인당 연간 이자 절감액</text>
+<text x="60" y="392" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#243B6B" text-anchor="start">주택담보대출</text>
+<rect x="300" y="338" width="460.0" height="80" rx="16" ry="16" fill="#243B6B"/>
+<text x="778.0" y="392" font-family="Noto Sans CJK KR" font-weight="900" font-size="40" fill="#243B6B" text-anchor="start">279만원</text>
+<text x="60" y="450" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="start">금리 인하 1.49%p</text>
+<text x="60" y="582" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#243B6B" text-anchor="start">전세대출</text>
+<rect x="300" y="528" width="398.9964157706093" height="80" rx="16" ry="16" fill="#243B6B"/>
+<text x="716.9964157706092" y="582" font-family="Noto Sans CJK KR" font-weight="900" font-size="40" fill="#243B6B" text-anchor="start">242만원</text>
+<text x="60" y="640" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="start">금리 인하 1.45%p</text>
+<text x="60" y="772" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#243B6B" text-anchor="start">신용대출</text>
+<rect x="300" y="718" width="95.62724014336918" height="80" rx="16" ry="16" fill="#243B6B"/>
+<text x="413.6272401433692" y="772" font-family="Noto Sans CJK KR" font-weight="900" font-size="40" fill="#243B6B" text-anchor="start">58만원</text>
+<text x="60" y="830" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="start">금리 인하 1.5~1.57%p</text>
+<text x="60" y="962" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#243B6B" text-anchor="start">3종 합산</text>
+<rect x="300" y="908" width="285.23297491039426" height="80" rx="16" ry="16" fill="#243B6B"/>
+<text x="603.2329749103942" y="962" font-family="Noto Sans CJK KR" font-weight="900" font-size="40" fill="#243B6B" text-anchor="start">173만원</text>
+<text x="60" y="1020" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="start">금리 인하 1.52%p</text>
+<rect x="60" y="1100" width="960" height="170" rx="18" ry="18" fill="#E8EEF5"/>
+<text x="540" y="1168" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#243B6B" text-anchor="middle">고금리기 시장 환경 반영 수치 — 2026년 실제 절감폭은</text>
+<text x="540" y="1218" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#243B6B" text-anchor="middle">본인 조건으로 직접 시뮬레이션 필요</text>
+<rect x="0" y="1270" width="1080" height="80" rx="0" ry="0" fill="#E8EEF5"/>
+<text x="60" y="1320" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 금융위원회·금융결제원(개시 초기 누적)</text>
+</svg>

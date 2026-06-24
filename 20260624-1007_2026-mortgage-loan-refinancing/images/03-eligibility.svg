@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" ry="0" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="230" rx="0" ry="0" fill="#243B6B"/>
+<rect x="60" y="40" width="216" height="60" rx="28" ry="28" fill="#FFD23F"/>
+<text x="168.0" y="82" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#1a1a1a" text-anchor="middle">금융/재테크</text>
+<text x="60" y="165" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="start">주담대 갈아타기 자격 체크</text>
+<text x="60" y="210" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#E8EEF5" text-anchor="start">조건 4가지 먼저 확인</text>
+<rect x="60" y="280" width="960" height="220" rx="20" ry="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="150" cy="390" r="52" fill="#1F8A53"/>
+<line x1="126" y1="392" x2="146" y2="414" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+<line x1="146" y1="414" x2="180" y2="368" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+<text x="240" y="368" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#243B6B" text-anchor="start">6개월 경과</text>
+<text x="240" y="430" font-family="Noto Sans CJK KR" font-weight="500" font-size="32" fill="#5B6B7C" text-anchor="start">대출 실행일로부터 6개월 이상</text>
+<rect x="870" y="358" width="120" height="64" rx="18" ry="18" fill="#1F8A53"/>
+<text x="930" y="402" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#ffffff" text-anchor="middle">필수</text>
+<rect x="60" y="528" width="960" height="220" rx="20" ry="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="150" cy="638" r="52" fill="#1F8A53"/>
+<line x1="126" y1="640" x2="146" y2="662" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+<line x1="146" y1="662" x2="180" y2="616" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+<text x="240" y="616" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#243B6B" text-anchor="start">동일 금액</text>
+<text x="240" y="678" font-family="Noto Sans CJK KR" font-weight="500" font-size="32" fill="#5B6B7C" text-anchor="start">기존 잔액과 원 단위까지 동일(증액 불가)</text>
+<rect x="870" y="606" width="120" height="64" rx="18" ry="18" fill="#1F8A53"/>
+<text x="930" y="650" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#ffffff" text-anchor="middle">필수</text>
+<rect x="60" y="776" width="960" height="220" rx="20" ry="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="150" cy="886" r="52" fill="#1F8A53"/>
+<line x1="126" y1="888" x2="146" y2="910" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+<line x1="146" y1="910" x2="180" y2="864" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+<text x="240" y="864" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#243B6B" text-anchor="start">KB시세 조회</text>
+<text x="240" y="926" font-family="Noto Sans CJK KR" font-weight="500" font-size="32" fill="#5B6B7C" text-anchor="start">아파트·연립/다세대·주거용 오피스텔</text>
+<rect x="870" y="854" width="120" height="64" rx="18" ry="18" fill="#1F8A53"/>
+<text x="930" y="898" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#ffffff" text-anchor="middle">필수</text>
+<rect x="60" y="1024" width="960" height="220" rx="20" ry="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<circle cx="150" cy="1134" r="52" fill="#D23B3B"/>
+<line x1="126" y1="1110" x2="174" y2="1158" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+<line x1="174" y1="1110" x2="126" y2="1158" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
+<text x="240" y="1112" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#243B6B" text-anchor="start">정책금융 제외</text>
+<text x="240" y="1174" font-family="Noto Sans CJK KR" font-weight="500" font-size="32" fill="#5B6B7C" text-anchor="start">디딤돌·보금자리론·기금대출·마이너스통장</text>
+<rect x="870" y="1102" width="120" height="64" rx="18" ry="18" fill="#D23B3B"/>
+<text x="930" y="1146" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#ffffff" text-anchor="middle">제외</text>
+<rect x="0" y="1270" width="1080" height="80" rx="0" ry="0" fill="#E8EEF5"/>
+<text x="60" y="1320" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 은행권 갈아타기 가이드·금융위원회</text>
+</svg>

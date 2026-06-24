@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" ry="0" fill="#F4F7FB"/>
+<rect x="0" y="0" width="1080" height="230" rx="0" ry="0" fill="#243B6B"/>
+<rect x="60" y="40" width="216" height="60" rx="28" ry="28" fill="#FFD23F"/>
+<text x="168.0" y="82" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#1a1a1a" text-anchor="middle">금융/재테크</text>
+<text x="60" y="165" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="start">온라인·원스톱 대환대출 구조</text>
+<text x="60" y="210" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#E8EEF5" text-anchor="start">영업점 방문 없이 비대면으로 대환 완료</text>
+<rect x="180.0" y="240.0" width="720" height="140" rx="24" ry="24" fill="#243B6B" stroke="#D6E0EC" stroke-width="2"/>
+<text x="540" y="302" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">소비자 (차주)</text>
+<text x="540" y="350" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#ffffff" text-anchor="middle">기존 대출 보유</text>
+<line x1="540" y1="384" x2="540" y2="470" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<line x1="540" y1="470" x2="526" y2="448" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<line x1="540" y1="470" x2="554" y2="448" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<rect x="110.0" y="465.0" width="860" height="150" rx="24" ry="24" fill="#3A5696" stroke="#D6E0EC" stroke-width="2"/>
+<text x="540" y="532" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">대출비교 플랫폼</text>
+<text x="540" y="580" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#ffffff" text-anchor="middle">네이버페이·카카오페이·토스·핀다</text>
+<line x1="540" y1="618" x2="540" y2="710" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<line x1="540" y1="710" x2="526" y2="688" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<line x1="540" y1="710" x2="554" y2="688" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<rect x="110.0" y="725.0" width="860" height="150" rx="24" ry="24" fill="#FFD23F" stroke="#D6E0EC" stroke-width="2"/>
+<text x="540" y="792" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a" text-anchor="middle">금융결제원</text>
+<text x="540" y="840" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#1a1a1a" text-anchor="middle">대출이동시스템</text>
+<line x1="540" y1="880" x2="540" y2="975" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<line x1="540" y1="975" x2="526" y2="953" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<line x1="540" y1="975" x2="554" y2="953" stroke="#3A5696" stroke-width="6" stroke-linecap="round"/>
+<rect x="110.0" y="995.0" width="860" height="150" rx="24" ry="24" fill="#243B6B" stroke="#D6E0EC" stroke-width="2"/>
+<text x="540" y="1082" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">공공 마이데이터 + 금융사 연계</text>
+<text x="540" y="1200" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#243B6B" text-anchor="middle">상환·근저당권 말소·재설정까지 전자적 자동 연계</text>
+<rect x="0" y="1270" width="1080" height="80" rx="0" ry="0" fill="#E8EEF5"/>
+<text x="60" y="1320" font-family="Noto Sans CJK KR" font-weight="500" font-size="30" fill="#5B6B7C" text-anchor="start">출처: 금융위원회·금융결제원 대출이동시스템</text>
+</svg>
