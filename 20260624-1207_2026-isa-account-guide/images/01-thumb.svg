@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#243B6B"/>
+  <circle cx="950" cy="170" r="280" fill="#ffffff" opacity="0.07"/>
+  <circle cx="110" cy="980" r="220" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="84" rx="34" ry="34" width="250" height="68" fill="#FFD23F"/>
+  <text x="205" y="131" font-family="Malgun Gothic" font-weight="bold"
+        font-size="38" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="278" font-family="Malgun Gothic" font-weight="bold"
+        font-size="58" fill="#E8EEF5">2026 ISA 계좌, 지금 확정된</text>
+  <text x="80" y="350" font-family="Malgun Gothic" font-weight="bold"
+        font-size="58" fill="#E8EEF5">현행 기준만 모았다</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="510" font-family="Malgun Gothic" font-weight="bold"
+        font-size="96" fill="#ffffff">연 2,000만원·총 1억</text>
+  <text x="80" y="640" font-family="Malgun Gothic" font-weight="bold"
+        font-size="96" fill="#FFD23F">비과세 200/400만원</text>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="730" rx="22" ry="22" width="920" height="210" fill="#ffffff" opacity="0.12"/>
+  <text x="112" y="808" font-family="Malgun Gothic" font-weight="bold"
+        font-size="50" fill="#ffffff">초과분도 9.9% 분리과세 적용</text>
+  <text x="112" y="888" font-family="Malgun Gothic" font-weight="bold"
+        font-size="50" fill="#FFD23F">의무가입 3년 · 한도확대안은 미확정</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1014" font-family="Malgun Gothic" font-weight="normal"
+        font-size="34" fill="#E8EEF5" opacity="0.85">blog.naver.com/trip_chocho</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="105" font-family="Malgun Gothic" font-weight="bold"
+        font-size="60" fill="#ffffff">ISA 3가지 종류 비교</text>
+  <text x="60" y="165" font-family="Malgun Gothic" font-weight="normal"
+        font-size="36" fill="#E8EEF5">세제혜택은 모두 동일 · 운용방식만 다름</text>
+
+  <!-- 중개형 -->
+  <g font-family="Malgun Gothic">
+    <rect x="60" y="250" width="960" height="320" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="250" width="14" height="320" rx="7" fill="#243B6B"/>
+    <text x="100" y="330" font-size="50" font-weight="bold" fill="#243B6B">중개형</text>
+    <text x="100" y="400" font-size="38" fill="#1a1a1a">운용: 투자자가 직접 매매</text>
+    <text x="100" y="460" font-size="38" fill="#1a1a1a">상품: 국내주식·ETF·리츠·펀드·채권</text>
+    <text x="100" y="520" font-size="38" fill="#5B6B7C">개설처: 증권사 (예금 불가)</text>
+  </g>
+
+  <!-- 신탁형 -->
+  <g font-family="Malgun Gothic">
+    <rect x="60" y="600" width="960" height="320" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="600" width="14" height="320" rx="7" fill="#243B6B"/>
+    <text x="100" y="680" font-size="50" font-weight="bold" fill="#243B6B">신탁형</text>
+    <text x="100" y="750" font-size="38" fill="#1a1a1a">운용: 투자자가 운용 지시</text>
+    <text x="100" y="810" font-size="38" fill="#1a1a1a">상품: 정기예금·펀드·주식 등</text>
+    <text x="100" y="870" font-size="38" fill="#5B6B7C">개설처: 은행·증권사 (예금 가능)</text>
+  </g>
+
+  <!-- 일임형 -->
+  <g font-family="Malgun Gothic">
+    <rect x="60" y="950" width="960" height="320" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="950" width="14" height="320" rx="7" fill="#243B6B"/>
+    <text x="100" y="1030" font-size="50" font-weight="bold" fill="#243B6B">일임형</text>
+    <text x="100" y="1100" font-size="38" fill="#1a1a1a">운용: 전문가에게 일임</text>
+    <text x="100" y="1160" font-size="38" fill="#1a1a1a">상품: 펀드 중심 (예금 제외)</text>
+    <text x="100" y="1220" font-size="38" fill="#5B6B7C">개설처: 은행·증권사 · 분기 1회 리밸런싱</text>
+  </g>
+
+  <rect x="0" y="1300" width="1080" height="50" fill="#E8EEF5"/>
+  <text x="60" y="1335" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C">2026년 6월 현행 기준 · blog.naver.com/trip_chocho</text>
+</svg>

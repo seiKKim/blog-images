@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="170" fill="#243B6B"/>
+  <text x="60" y="98" font-family="Malgun Gothic" font-weight="bold"
+        font-size="58" fill="#ffffff">납입한도·의무가입 (현행)</text>
+  <text x="60" y="148" font-family="Malgun Gothic" font-size="34" fill="#E8EEF5">2026년 6월 현재 확정 수치</text>
+
+  <!-- 3개 박스 -->
+  <g font-family="Malgun Gothic">
+    <rect x="60" y="230" width="300" height="290" rx="22" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="210" y="320" font-size="38" fill="#5B6B7C" text-anchor="middle">연간 납입한도</text>
+    <text x="210" y="420" font-size="74" font-weight="bold" fill="#243B6B" text-anchor="middle">2,000</text>
+    <text x="210" y="480" font-size="40" fill="#1a1a1a" text-anchor="middle">만원</text>
+
+    <rect x="390" y="230" width="300" height="290" rx="22" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="540" y="320" font-size="38" fill="#5B6B7C" text-anchor="middle">총 납입한도</text>
+    <text x="540" y="420" font-size="74" font-weight="bold" fill="#243B6B" text-anchor="middle">1억원</text>
+    <text x="540" y="480" font-size="36" fill="#1a1a1a" text-anchor="middle">5년 누적</text>
+
+    <rect x="720" y="230" width="300" height="290" rx="22" fill="#243B6B"/>
+    <text x="870" y="320" font-size="38" fill="#E8EEF5" text-anchor="middle">의무가입기간</text>
+    <text x="870" y="420" font-size="74" font-weight="bold" fill="#FFD23F" text-anchor="middle">3년</text>
+    <text x="870" y="480" font-size="32" fill="#ffffff" text-anchor="middle">중도해지 시 추징</text>
+  </g>
+
+  <rect x="60" y="560" width="960" height="90" rx="18" fill="#FFF4D6" stroke="#FFD23F" stroke-width="2"/>
+  <text x="540" y="617" font-family="Malgun Gothic" font-size="38" font-weight="bold" fill="#8a6d1a" text-anchor="middle">"연 4,000만원·총 2억"은 현행 아닌 미확정 개정안</text>
+
+  <text x="60" y="700" font-family="Malgun Gothic" font-size="28" fill="#5B6B7C">blog.naver.com/trip_chocho</text>
+</svg>

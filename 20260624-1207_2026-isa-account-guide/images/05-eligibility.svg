@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="170" fill="#243B6B"/>
+  <text x="60" y="98" font-family="Malgun Gothic" font-weight="bold"
+        font-size="56" fill="#ffffff">일반형 vs 서민형 비과세</text>
+  <text x="60" y="148" font-family="Malgun Gothic" font-size="34" fill="#E8EEF5">조건 맞으면 서민형이 두 배 유리</text>
+
+  <!-- 일반형 -->
+  <g font-family="Malgun Gothic">
+    <rect x="60" y="220" width="450" height="320" rx="22" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="285" y="300" font-size="46" fill="#5B6B7C" text-anchor="middle">일반형</text>
+    <text x="285" y="400" font-size="80" font-weight="bold" fill="#5B6B7C" text-anchor="middle">200만원</text>
+    <text x="285" y="465" font-size="34" fill="#1a1a1a" text-anchor="middle">기본 비과세 한도</text>
+  </g>
+
+  <!-- 서민형 -->
+  <g font-family="Malgun Gothic">
+    <rect x="570" y="220" width="450" height="320" rx="22" fill="#243B6B"/>
+    <text x="795" y="300" font-size="46" fill="#E8EEF5" text-anchor="middle">서민형 · 농어민형</text>
+    <text x="795" y="400" font-size="80" font-weight="bold" fill="#FFD23F" text-anchor="middle">400만원</text>
+    <text x="795" y="465" font-size="34" fill="#ffffff" text-anchor="middle">비과세 두 배 (×2)</text>
+  </g>
+
+  <!-- 조건 띠 -->
+  <rect x="60" y="565" width="960" height="100" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="90" y="615" font-family="Malgun Gothic" font-size="32" font-weight="bold" fill="#243B6B">서민형 조건:</text>
+  <text x="290" y="615" font-family="Malgun Gothic" font-size="32" fill="#1a1a1a">총급여 5,000만원 이하 또는 종합소득 3,800만원 이하</text>
+  <text x="90" y="650" font-family="Malgun Gothic" font-size="28" fill="#5B6B7C">가입 자격: 만 19세 이상 거주자 (금융소득종합과세 대상자 제외)</text>
+</svg>

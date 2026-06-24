@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="190" fill="#243B6B"/>
+  <text x="60" y="100" font-family="Malgun Gothic" font-weight="bold"
+        font-size="58" fill="#ffffff">비과세 한도 · 9.9% 분리과세</text>
+  <text x="60" y="158" font-family="Malgun Gothic" font-size="34" fill="#E8EEF5">순이익 기준 · 초과분은 9.9% 분리과세</text>
+
+  <!-- 비과세 한도 3박스 -->
+  <g font-family="Malgun Gothic">
+    <rect x="60" y="230" width="300" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="210" y="300" font-size="40" fill="#5B6B7C" text-anchor="middle">일반형</text>
+    <text x="210" y="375" font-size="62" font-weight="bold" fill="#243B6B" text-anchor="middle">200만원</text>
+
+    <rect x="390" y="230" width="300" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="540" y="300" font-size="40" fill="#5B6B7C" text-anchor="middle">서민형</text>
+    <text x="540" y="375" font-size="62" font-weight="bold" fill="#243B6B" text-anchor="middle">400만원</text>
+
+    <rect x="720" y="230" width="300" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="870" y="300" font-size="40" fill="#5B6B7C" text-anchor="middle">농어민형</text>
+    <text x="870" y="375" font-size="62" font-weight="bold" fill="#243B6B" text-anchor="middle">400만원</text>
+  </g>
+
+  <!-- 절세효과 표 제목 -->
+  <text x="60" y="500" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">절세효과 비교 (개별상품 15.4% 대비)</text>
+
+  <!-- 표 헤더 -->
+  <g font-family="Malgun Gothic">
+    <rect x="60" y="540" width="960" height="90" rx="14" fill="#243B6B"/>
+    <text x="180" y="598" font-size="36" font-weight="bold" fill="#ffffff" text-anchor="middle">순이익</text>
+    <text x="450" y="598" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">개별상품 세금</text>
+    <text x="700" y="598" font-size="34" font-weight="bold" fill="#FFD23F" text-anchor="middle">일반형 ISA</text>
+    <text x="920" y="598" font-size="34" font-weight="bold" fill="#FFD23F" text-anchor="middle">서민형 ISA</text>
+
+    <!-- row1 -->
+    <rect x="60" y="640" width="960" height="120" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="180" y="715" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">200만원</text>
+    <text x="450" y="715" font-size="36" fill="#1a1a1a" text-anchor="middle">308,000원</text>
+    <text x="700" y="715" font-size="40" font-weight="bold" fill="#1F8A53" text-anchor="middle">0원</text>
+    <text x="920" y="715" font-size="40" font-weight="bold" fill="#1F8A53" text-anchor="middle">0원</text>
+
+    <!-- row2 -->
+    <rect x="60" y="760" width="960" height="120" fill="#F4F7FB" stroke="#D6E0EC"/>
+    <text x="180" y="835" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">500만원</text>
+    <text x="450" y="835" font-size="36" fill="#1a1a1a" text-anchor="middle">770,000원</text>
+    <text x="700" y="835" font-size="38" font-weight="bold" fill="#243B6B" text-anchor="middle">297,000원</text>
+    <text x="920" y="835" font-size="38" font-weight="bold" fill="#243B6B" text-anchor="middle">99,000원</text>
+
+    <!-- row3 -->
+    <rect x="60" y="880" width="960" height="120" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="180" y="955" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">1,000만원</text>
+    <text x="450" y="955" font-size="34" fill="#1a1a1a" text-anchor="middle">1,540,000원</text>
+    <text x="700" y="955" font-size="38" font-weight="bold" fill="#243B6B" text-anchor="middle">792,000원</text>
+    <text x="920" y="955" font-size="38" font-weight="bold" fill="#243B6B" text-anchor="middle">594,000원</text>
+  </g>
+
+  <rect x="60" y="1050" width="960" height="160" rx="20" fill="#FFF4D6" stroke="#FFD23F" stroke-width="2"/>
+  <text x="100" y="1125" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#8a6d1a">순이익 200만원이면 일반형도 세금 0원,</text>
+  <text x="100" y="1180" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#8a6d1a">수익이 커질수록 절세액도 커집니다</text>
+
+  <rect x="0" y="1280" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="1325" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: KB국민은행 공식 예시 (개별상품 15.4% 과세 대비)</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#243B6B"/>
+  <text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">세제 혜택 한눈에</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="250" width="960" height="320" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="250" width="960" height="86" rx="20" fill="#243B6B"/>
+    <text x="100" y="310" font-size="42" font-weight="bold" fill="#FFD23F">① 비과세</text>
+    <text x="100" y="420" font-size="40" fill="#1a1a1a">이자소득 <tspan font-weight="bold" fill="#243B6B">최대 500만원</tspan> 비과세</text>
+    <text x="100" y="485" font-size="34" fill="#5B6B7C">· 2년 이상 유지 / 2028.12.31까지 가입</text>
+    <text x="100" y="535" font-size="34" fill="#5B6B7C">· 총급여 3,600만원 이하 등 요건</text>
+
+    <rect x="60" y="610" width="960" height="320" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="610" width="960" height="86" rx="20" fill="#243B6B"/>
+    <text x="100" y="670" font-size="42" font-weight="bold" fill="#FFD23F">② 소득공제</text>
+    <text x="100" y="780" font-size="40" fill="#1a1a1a">연 납입 <tspan font-weight="bold" fill="#243B6B">300만원 한도 40%</tspan></text>
+    <text x="100" y="845" font-size="34" fill="#5B6B7C">· 최대 120만원 공제</text>
+    <text x="100" y="895" font-size="34" fill="#5B6B7C">· 무주택 세대주 / 총급여 7,000만원 이하</text>
+  </g>
+  <rect x="0" y="1010" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="1056" font-family="Noto Sans CJK KR" font-size="30" fill="#5B6B7C">출처: 주택도시기금(상품기준일 2026.1.1)</text>
+</svg>
