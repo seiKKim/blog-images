@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><style>text{font-family:'Malgun Gothic','Noto Sans CJK KR',sans-serif;}</style></defs>
+  <rect width="1080" height="1350" fill="#F1F6FB"/>
+
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <text x="60" y="105" font-weight="bold" font-size="58" fill="#FFD23F">침수 수위별 위험 기준</text>
+  <text x="60" y="165" font-size="38" fill="#E8EEF5">반지하·저지대·지하공간 대피 기준</text>
+
+  <!-- 사람 실루엣 + 수위 게이지 -->
+  <g>
+    <!-- 사람 -->
+    <circle cx="240" cy="320" r="40" fill="#2a3a4a"/>
+    <rect x="205" y="365" width="70" height="430" rx="30" fill="#2a3a4a"/>
+    <!-- 수위 라인들 -->
+    <!-- 무릎 50cm -->
+    <rect x="120" y="700" width="320" height="6" fill="#E23B3B"/>
+    <text x="460" y="712" font-weight="bold" font-size="32" fill="#E23B3B">무릎 50㎝ · 보행한계</text>
+    <!-- 정강이 30~40 -->
+    <rect x="120" y="760" width="320" height="6" fill="#E8722C"/>
+    <text x="460" y="772" font-weight="bold" font-size="32" fill="#E8722C">정강이 30~40㎝</text>
+    <!-- 발목 -->
+    <rect x="120" y="790" width="320" height="6" fill="#1B5FA6"/>
+    <text x="460" y="800" font-weight="bold" font-size="30" fill="#1B5FA6">바닥에 조금이라도</text>
+    <!-- 물 채움 표현 -->
+    <rect x="120" y="700" width="340" height="100" fill="#1B5FA6" opacity="0.15"/>
+  </g>
+
+  <!-- 단계 카드 -->
+  <g>
+    <rect x="60" y="850" width="960" height="110" rx="14" fill="#FDEBEB" stroke="#F2C0C0"/>
+    <text x="90" y="905" font-weight="bold" font-size="36" fill="#E23B3B">물 조금이라도 차오름 / 하수구 역류</text>
+    <text x="90" y="945" font-size="32" fill="#7a2a2a">→ 즉시 대피 (1순위)</text>
+
+    <rect x="60" y="975" width="960" height="110" rx="14" fill="#FFF3E0" stroke="#F4D9A8"/>
+    <text x="90" y="1030" font-weight="bold" font-size="36" fill="#C75B16">정강이 높이 약 30~40㎝</text>
+    <text x="90" y="1070" font-size="32" fill="#7a4a1a">→ 성인도 계단 못 올라감, 그 전에 대피</text>
+
+    <rect x="60" y="1100" width="960" height="110" rx="14" fill="#E6F0FA" stroke="#BBD3EC"/>
+    <text x="90" y="1155" font-weight="bold" font-size="36" fill="#1B5FA6">약 15㎝라도 물살이 거셀 때</text>
+    <text x="90" y="1195" font-size="32" fill="#2a3a4a">→ 움직이지 말고 2층 이상 높은 곳으로</text>
+  </g>
+
+  <!-- 하단 주의 -->
+  <text x="60" y="1260" font-weight="bold" font-size="32" fill="#143A66">외부 수심 무릎(약 50㎝) 이상이면 문이 안 열림 → 전원 차단 후 탈출</text>
+
+  <rect x="0" y="1280" width="1080" height="70" fill="#E0E9F2"/>
+  <text x="60" y="1325" font-size="30" fill="#5B6B7C">출처: 행정안전부 국민재난안전포털</text>
+</svg>

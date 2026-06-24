@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><style>text{font-family:'Malgun Gothic','Noto Sans CJK KR',sans-serif;}</style></defs>
+  <rect width="1080" height="1350" fill="#F1F6FB"/>
+
+  <!-- 상단 헤더 -->
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <text x="60" y="105" font-weight="bold" font-size="58" fill="#FFD23F">기상청 2026 여름철 전망</text>
+  <text x="60" y="165" font-size="38" fill="#E8EEF5">6~8월 기온·강수 경향 (5/22 발표)</text>
+
+  <!-- 표 헤더 -->
+  <g>
+    <rect x="60" y="270" width="960" height="90" rx="14" fill="#143A66"/>
+    <text x="330" y="328" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">항목</text>
+    <text x="600" y="328" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">6월</text>
+    <text x="765" y="328" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">7월</text>
+    <text x="945" y="328" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">8월</text>
+  </g>
+
+  <!-- 기온 행 -->
+  <rect x="60" y="370" width="960" height="150" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="90" y="445" font-weight="bold" font-size="38" fill="#1a2a3a">기온</text>
+  <text x="90" y="492" font-size="28" fill="#5B6B7C">평년보다 높을 확률</text>
+  <text x="600" y="465" font-weight="bold" font-size="56" fill="#E8722C" text-anchor="middle">60%</text>
+  <text x="765" y="465" font-weight="bold" font-size="56" fill="#E8722C" text-anchor="middle">60%</text>
+  <text x="945" y="465" font-weight="bold" font-size="56" fill="#E8722C" text-anchor="middle">50%</text>
+
+  <!-- 강수 행 -->
+  <rect x="60" y="530" width="960" height="150" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="90" y="615" font-weight="bold" font-size="38" fill="#1a2a3a">강수량</text>
+  <text x="600" y="600" font-weight="bold" font-size="34" fill="#1B5FA6" text-anchor="middle">많을</text>
+  <text x="600" y="640" font-weight="bold" font-size="34" fill="#1B5FA6" text-anchor="middle">가능성↑</text>
+  <text x="765" y="600" font-weight="bold" font-size="34" fill="#1B5FA6" text-anchor="middle">많을</text>
+  <text x="765" y="640" font-weight="bold" font-size="34" fill="#1B5FA6" text-anchor="middle">가능성↑</text>
+  <text x="945" y="625" font-weight="bold" font-size="34" fill="#5B6B7C" text-anchor="middle">평년수준</text>
+
+  <!-- 핵심 메시지 박스 -->
+  <rect x="60" y="730" width="960" height="280" rx="20" fill="#E6F0FA" stroke="#BBD3EC"/>
+  <text x="100" y="805" font-weight="bold" font-size="42" fill="#1B5FA6">⚠ 핵심은 '집중호우 빈도'</text>
+  <text x="100" y="870" font-size="36" fill="#2a3a4a">전체 비의 양은 평년과 비슷해도,</text>
+  <text x="100" y="920" font-size="36" fill="#2a3a4a">짧고 강한 <tspan font-weight="bold" fill="#E23B3B">극한호우는 더 잦을 수</tspan> 있습니다.</text>
+  <text x="100" y="970" font-size="36" fill="#2a3a4a">해수면 온도가 높아 수증기 공급이 증가.</text>
+
+  <!-- 호우특보 기준 -->
+  <text x="60" y="1095" font-weight="bold" font-size="40" fill="#143A66">호우특보 기준</text>
+  <rect x="60" y="1120" width="465" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="90" y="1170" font-weight="bold" font-size="34" fill="#1B5FA6">호우주의보</text>
+  <text x="90" y="1212" font-size="28" fill="#5B6B7C">3시간 60㎜·12시간 110㎜</text>
+  <rect x="555" y="1120" width="465" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="585" y="1170" font-weight="bold" font-size="34" fill="#E23B3B">호우경보</text>
+  <text x="585" y="1212" font-size="28" fill="#5B6B7C">3시간 90㎜·12시간 180㎜</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1280" width="1080" height="70" fill="#E0E9F2"/>
+  <text x="60" y="1325" font-size="30" fill="#5B6B7C">출처: 기상청 2026 여름철 전망(2026.5.22) · 평년 1991~2020</text>
+</svg>

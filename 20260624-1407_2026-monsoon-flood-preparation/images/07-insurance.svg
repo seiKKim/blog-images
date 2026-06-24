@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><style>text{font-family:'Malgun Gothic','Noto Sans CJK KR',sans-serif;}</style></defs>
+  <rect width="1080" height="1350" fill="#F1F6FB"/>
+
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <text x="60" y="105" font-weight="bold" font-size="56" fill="#FFD23F">풍수해·지진재해보험</text>
+  <text x="60" y="165" font-size="38" fill="#E8EEF5">정부가 보험료를 지원하는 정책보험 (재난지원금과 별개)</text>
+
+  <text x="60" y="295" font-weight="bold" font-size="44" fill="#143A66">정부 보험료 지원율</text>
+
+  <!-- 막대 그래프 -->
+  <g font-size="34">
+    <!-- 일반 55% -->
+    <text x="60" y="375" font-weight="bold" fill="#2a3a4a">일반 주택</text>
+    <rect x="60" y="395" width="540" height="64" rx="10" fill="#1B5FA6"/>
+    <text x="615" y="440" font-weight="bold" font-size="44" fill="#1B5FA6">55% 이상</text>
+
+    <!-- 한부모·차상위 77.5% -->
+    <text x="60" y="525" font-weight="bold" fill="#2a3a4a">한부모·차상위</text>
+    <rect x="60" y="545" width="760" height="64" rx="10" fill="#2E7BC4"/>
+    <text x="835" y="590" font-weight="bold" font-size="44" fill="#2E7BC4">77.5% 이상</text>
+
+    <!-- 수급자·취약지역 86.5% -->
+    <text x="60" y="675" font-weight="bold" fill="#2a3a4a">기초수급·재해취약</text>
+    <rect x="60" y="695" width="848" height="64" rx="10" fill="#4A97D8"/>
+    <text x="60" y="740" font-weight="bold" font-size="44" fill="#ffffff">86.5% 이상</text>
+
+    <!-- 지자체 추가 92% -->
+    <text x="60" y="825" font-weight="bold" fill="#2a3a4a">지자체 추가 지원 시</text>
+    <rect x="60" y="845" width="900" height="64" rx="10" fill="#FFD23F"/>
+    <text x="80" y="890" font-weight="bold" font-size="44" fill="#5a4500">최대 92%까지</text>
+  </g>
+
+  <!-- 예시 박스 -->
+  <rect x="60" y="960" width="960" height="250" rx="20" fill="#E6F0FA" stroke="#BBD3EC"/>
+  <text x="95" y="1020" font-weight="bold" font-size="40" fill="#1B5FA6">예시 · 단독주택 80㎡</text>
+  <text x="95" y="1080" font-size="36" fill="#2a3a4a">총보험료 <tspan font-weight="bold">39,000원</tspan> = 정부지원 21,500원 + 자부담 17,500원</text>
+  <text x="95" y="1140" font-size="36" fill="#2a3a4a">보험금: 전파 <tspan font-weight="bold">8,000만원</tspan> · 반파 4,000만원 · 소파 2,000만원</text>
+  <text x="95" y="1185" font-size="30" fill="#5B6B7C">※ 보험료·지원율·보험금은 연도·지자체별 변동 가능, 장마 전 가입 권장</text>
+
+  <rect x="0" y="1280" width="1080" height="70" fill="#E0E9F2"/>
+  <text x="60" y="1325" font-size="30" fill="#5B6B7C">출처: 국민재난안전포털(safekorea.go.kr) · 2025년 기준</text>
+</svg>

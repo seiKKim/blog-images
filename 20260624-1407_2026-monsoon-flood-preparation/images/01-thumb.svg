@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B5FA6"/>
+      <stop offset="1" stop-color="#103A66"/>
+    </linearGradient>
+    <style>text{font-family:'Malgun Gothic','Noto Sans CJK KR',sans-serif;}</style>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+
+  <!-- 장식: 빗방울/원 -->
+  <circle cx="940" cy="170" r="250" fill="#ffffff" opacity="0.06"/>
+  <circle cx="120" cy="980" r="190" fill="#ffffff" opacity="0.05"/>
+  <!-- 빗줄기 -->
+  <g stroke="#9CC4E8" stroke-width="6" stroke-linecap="round" opacity="0.35">
+    <line x1="760" y1="60" x2="730" y2="150"/>
+    <line x1="850" y1="40" x2="820" y2="130"/>
+    <line x1="940" y1="60" x2="910" y2="150"/>
+    <line x1="1010" y1="90" x2="980" y2="180"/>
+  </g>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="92" rx="34" ry="34" width="290" height="68" fill="#FFD23F"/>
+  <text x="225" y="138" font-weight="bold" font-size="36" fill="#143A66" text-anchor="middle">장마철 안전</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="300" font-weight="bold" font-size="58" fill="#E8EEF5">2026 집중호우·침수</text>
+  <text x="80" y="372" font-weight="bold" font-size="58" fill="#E8EEF5">가정 행동요령</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="516" font-weight="bold" font-size="120" fill="#ffffff">반지하·저지대</text>
+  <text x="80" y="648" font-weight="bold" font-size="92" fill="#FFD23F">물 차오르면 즉시 대피</text>
+
+  <!-- 핵심 숫자 3박스 -->
+  <g>
+    <rect x="80" y="730" rx="22" width="290" height="200" fill="#ffffff" opacity="0.14"/>
+    <rect x="395" y="730" rx="22" width="290" height="200" fill="#ffffff" opacity="0.14"/>
+    <rect x="710" y="730" rx="22" width="290" height="200" fill="#ffffff" opacity="0.14"/>
+
+    <text x="225" y="805" font-size="34" fill="#CFE0F2" text-anchor="middle">계단 대피한계</text>
+    <text x="225" y="880" font-weight="bold" font-size="68" fill="#FFD23F" text-anchor="middle">30~40㎝</text>
+
+    <text x="540" y="805" font-size="34" fill="#CFE0F2" text-anchor="middle">주택 침수 지원</text>
+    <text x="540" y="880" font-weight="bold" font-size="68" fill="#FFD23F" text-anchor="middle">200만원</text>
+
+    <text x="855" y="805" font-size="34" fill="#CFE0F2" text-anchor="middle">긴급신고</text>
+    <text x="855" y="880" font-weight="bold" font-size="68" fill="#FFD23F" text-anchor="middle">119</text>
+  </g>
+
+  <!-- 하단 안내 -->
+  <text x="80" y="1010" font-size="32" fill="#CFE0F2">행정안전부·기상청·식약처 공식자료 기준 정리</text>
+</svg>

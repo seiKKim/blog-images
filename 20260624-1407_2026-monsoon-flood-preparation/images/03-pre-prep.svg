@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs><style>text{font-family:'Malgun Gothic','Noto Sans CJK KR',sans-serif;}</style></defs>
+  <rect width="1080" height="1350" fill="#F1F6FB"/>
+
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <text x="60" y="105" font-weight="bold" font-size="58" fill="#FFD23F">비 오기 전, 미리 준비</text>
+  <text x="60" y="165" font-size="38" fill="#E8EEF5">물이 들어오기 전에 끝내 두는 것이 핵심</text>
+
+  <!-- 지하주차장 입구 + 물막이판 일러스트 -->
+  <g>
+    <rect x="60" y="260" width="960" height="300" rx="20" fill="#DCE8F4" stroke="#BBD3EC"/>
+    <!-- 건물 입구 -->
+    <rect x="120" y="300" width="500" height="220" fill="#9FB4CC"/>
+    <rect x="150" y="330" width="440" height="190" fill="#48617D"/>
+    <text x="370" y="440" font-weight="bold" font-size="40" fill="#cdd9e8" text-anchor="middle">지하주차장</text>
+    <!-- 물막이판(차수판) -->
+    <rect x="150" y="468" width="440" height="52" fill="#FFD23F" stroke="#C99A18" stroke-width="3"/>
+    <text x="370" y="505" font-weight="bold" font-size="30" fill="#5a4500" text-anchor="middle">물막이판(차수판)</text>
+    <!-- 모래주머니 -->
+    <g>
+      <ellipse cx="700" cy="500" rx="60" ry="30" fill="#C7A86B"/>
+      <ellipse cx="780" cy="500" rx="60" ry="30" fill="#B89A5E"/>
+      <ellipse cx="740" cy="460" rx="60" ry="30" fill="#D4B679"/>
+    </g>
+    <text x="745" y="430" font-weight="bold" font-size="30" fill="#7a6326" text-anchor="middle">모래주머니</text>
+    <!-- 경고 -->
+    <text x="880" y="345" font-size="34" fill="#E23B3B" text-anchor="middle">⚠</text>
+    <text x="880" y="395" font-size="26" fill="#E23B3B" text-anchor="middle">5~10분이면</text>
+    <text x="880" y="425" font-size="26" fill="#E23B3B" text-anchor="middle">침수</text>
+  </g>
+
+  <!-- 체크리스트 -->
+  <text x="60" y="645" font-weight="bold" font-size="44" fill="#143A66">사전 점검 체크리스트</text>
+
+  <g font-size="36" fill="#2a3a4a">
+    <rect x="60" y="675" width="960" height="92" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="732" font-weight="bold" font-size="40" fill="#1F8A53">✔</text>
+    <text x="150" y="732">배수구·하수구 점검, 막힌 곳 미리 뚫기</text>
+
+    <rect x="60" y="777" width="960" height="92" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="834" font-weight="bold" font-size="40" fill="#1F8A53">✔</text>
+    <text x="150" y="834">물막이판·모래주머니·양수기 비치</text>
+
+    <rect x="60" y="879" width="960" height="92" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="936" font-weight="bold" font-size="40" fill="#1F8A53">✔</text>
+    <text x="150" y="936">저지대·하천변 주차 차량 고지대 이동</text>
+
+    <rect x="60" y="981" width="960" height="92" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="1038" font-weight="bold" font-size="40" fill="#1F8A53">✔</text>
+    <text x="150" y="1038">비상용품 최소 3일치 (식수·손전등·약)</text>
+
+    <rect x="60" y="1083" width="960" height="92" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="1140" font-weight="bold" font-size="40" fill="#1F8A53">✔</text>
+    <text x="150" y="1140">안전디딤돌 앱·대피계획·정전 대비</text>
+  </g>
+
+  <rect x="0" y="1280" width="1080" height="70" fill="#E0E9F2"/>
+  <text x="60" y="1325" font-size="30" fill="#5B6B7C">출처: 행정안전부 국민재난안전포털 · 기상청 행동요령</text>
+</svg>
