@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <rect x="60" y="58" rx="26" ry="26" width="160" height="50" fill="#FFD23F"/>
+  <text x="140" y="92" font-family="Noto Sans KR" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">세금·환급</text>
+  <text x="60" y="180" font-family="Noto Sans KR" font-weight="bold" font-size="60" fill="#ffffff">환급금 입금 타임라인</text>
+
+  <!-- 세로 타임라인 라인 -->
+  <line x1="160" y1="320" x2="160" y2="1140" stroke="#C7D6E4" stroke-width="8"/>
+
+  <!-- 1단계 -->
+  <circle cx="160" cy="420" r="34" fill="#1F8A53"/>
+  <text x="160" y="434" font-family="Noto Sans KR" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">1</text>
+  <rect x="230" y="330" width="780" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="270" y="400" font-family="Noto Sans KR" font-weight="bold" font-size="48" fill="#1a1a1a">소득세(국세) 환급</text>
+  <text x="270" y="460" font-family="Noto Sans KR" font-weight="bold" font-size="50" fill="#1F8A53">6월 말 ~ 7월 초</text>
+  <text x="270" y="510" font-family="Noto Sans KR" font-weight="normal" font-size="36" fill="#5B6B7C">주소지 관할 세무서 · 신고 마감 후 약 1개월 뒤</text>
+
+  <!-- 화살표 간격 -->
+  <text x="160" y="640" font-family="Noto Sans KR" font-weight="bold" font-size="56" fill="#1F8A53" text-anchor="middle">▼</text>
+  <rect x="270" y="600" width="430" height="64" rx="32" fill="#E8F4EE"/>
+  <text x="485" y="643" font-family="Noto Sans KR" font-weight="bold" font-size="38" fill="#1F8A53" text-anchor="middle">약 4주 이내 시차</text>
+
+  <!-- 2단계 -->
+  <circle cx="160" cy="800" r="34" fill="#1F8A53"/>
+  <text x="160" y="814" font-family="Noto Sans KR" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">2</text>
+  <rect x="230" y="710" width="780" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="270" y="780" font-family="Noto Sans KR" font-weight="bold" font-size="48" fill="#1a1a1a">지방소득세 환급</text>
+  <text x="270" y="840" font-family="Noto Sans KR" font-weight="bold" font-size="50" fill="#1F8A53">국세 환급 후 약 4주 이내</text>
+  <text x="270" y="890" font-family="Noto Sans KR" font-weight="normal" font-size="36" fill="#5B6B7C">시군구청 별도 입금 · 통상 7월 말 ~ 8월 초</text>
+
+  <!-- 핵심 메모 박스 -->
+  <rect x="60" y="980" width="960" height="200" rx="20" fill="#FFF7DB" stroke="#F0DC8C"/>
+  <text x="95" y="1050" font-family="Noto Sans KR" font-weight="bold" font-size="42" fill="#9A7B00">국세·지방세는 따로 들어옵니다</text>
+  <text x="95" y="1108" font-family="Noto Sans KR" font-weight="normal" font-size="38" fill="#7A6400">국세가 먼저, 지방소득세는 그 뒤에 별도 입금</text>
+  <text x="95" y="1158" font-family="Noto Sans KR" font-weight="normal" font-size="38" fill="#7A6400">금액이 적어 보이면 지방세가 아직 안 들어온 것</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR" font-size="34" fill="#5B6B7C">출처: 국세청 국세상담센터 안내</text>
+</svg>

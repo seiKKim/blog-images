@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <rect x="60" y="58" rx="26" ry="26" width="160" height="50" fill="#FFD23F"/>
+  <text x="140" y="92" font-family="Noto Sans KR" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">세금·환급</text>
+  <text x="60" y="180" font-family="Noto Sans KR" font-weight="bold" font-size="58" fill="#ffffff">손택스(모바일) 조회</text>
+
+  <!-- 폰 목업 -->
+  <rect x="120" y="290" width="380" height="760" rx="48" fill="#ffffff" stroke="#C7D6E4" stroke-width="6"/>
+  <rect x="120" y="290" width="380" height="120" rx="48" fill="#1F8A53"/>
+  <rect x="120" y="350" width="380" height="60" fill="#1F8A53"/>
+  <text x="310" y="368" font-family="Noto Sans KR" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">손택스</text>
+  <rect x="160" y="450" width="300" height="90" rx="16" fill="#E8F4EE"/>
+  <text x="180" y="507" font-family="Noto Sans KR" font-weight="bold" font-size="34" fill="#1F8A53">조회/발급</text>
+  <rect x="160" y="565" width="300" height="90" rx="16" fill="#E8F4EE"/>
+  <text x="180" y="622" font-family="Noto Sans KR" font-weight="bold" font-size="34" fill="#1F8A53">기타조회</text>
+  <rect x="160" y="680" width="300" height="90" rx="16" fill="#1F8A53"/>
+  <text x="180" y="737" font-family="Noto Sans KR" font-weight="bold" font-size="32" fill="#ffffff">환급금 조회</text>
+  <rect x="160" y="800" width="300" height="180" rx="16" fill="#F4F7FB" stroke="#D6E0EC"/>
+  <text x="180" y="855" font-family="Noto Sans KR" font-weight="normal" font-size="30" fill="#5B6B7C">주민등록번호</text>
+  <text x="180" y="905" font-family="Noto Sans KR" font-weight="normal" font-size="30" fill="#5B6B7C">성명 입력</text>
+  <text x="180" y="955" font-family="Noto Sans KR" font-weight="bold" font-size="30" fill="#1F8A53">→ 조회</text>
+
+  <!-- 단계 설명 -->
+  <g font-family="Noto Sans KR">
+    <text x="560" y="350" font-weight="bold" font-size="46" fill="#1F8A53">STEP 1</text>
+    <text x="560" y="410" font-weight="bold" font-size="42" fill="#1a1a1a">조회/발급</text>
+
+    <text x="560" y="520" font-weight="bold" font-size="46" fill="#1F8A53">STEP 2</text>
+    <text x="560" y="580" font-weight="bold" font-size="42" fill="#1a1a1a">기타조회</text>
+
+    <text x="560" y="690" font-weight="bold" font-size="46" fill="#1F8A53">STEP 3</text>
+    <text x="560" y="750" font-weight="bold" font-size="42" fill="#1a1a1a">환급금 조회</text>
+    <text x="560" y="800" font-weight="normal" font-size="34" fill="#5B6B7C">(국세환급금 찾기)</text>
+
+    <text x="560" y="910" font-weight="bold" font-size="46" fill="#1F8A53">STEP 4</text>
+    <text x="560" y="970" font-weight="bold" font-size="42" fill="#1a1a1a">주민번호·성명 입력</text>
+  </g>
+
+  <rect x="60" y="1090" width="960" height="130" rx="20" fill="#FFF7DB" stroke="#F0DC8C"/>
+  <text x="95" y="1150" font-family="Noto Sans KR" font-weight="bold" font-size="40" fill="#9A7B00">스마트폰만 있으면 OK</text>
+  <text x="95" y="1198" font-family="Noto Sans KR" font-weight="normal" font-size="36" fill="#7A6400">앱 설치 후 본인 정보만 입력하면 바로 조회</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR" font-size="34" fill="#5B6B7C">출처: 국세청 손택스(모바일) 안내</text>
+</svg>

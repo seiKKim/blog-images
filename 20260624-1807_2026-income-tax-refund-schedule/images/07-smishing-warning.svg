@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <rect x="60" y="58" rx="26" ry="26" width="160" height="50" fill="#FFD23F"/>
+  <text x="140" y="92" font-family="Noto Sans KR" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">세금·환급</text>
+  <text x="60" y="180" font-family="Noto Sans KR" font-weight="bold" font-size="60" fill="#ffffff">환급금 스미싱 주의</text>
+
+  <!-- 가짜 문자 예시 (휴대폰 말풍선) -->
+  <rect x="120" y="280" width="840" height="330" rx="32" fill="#ffffff" stroke="#E23B3B" stroke-width="6"/>
+  <rect x="120" y="280" width="840" height="80" rx="32" fill="#FBE9E9"/>
+  <rect x="120" y="320" width="840" height="40" fill="#FBE9E9"/>
+  <text x="160" y="335" font-family="Noto Sans KR" font-weight="bold" font-size="36" fill="#E23B3B">[Web발신]  ⚠ 의심 문자 예시</text>
+  <text x="160" y="430" font-family="Noto Sans KR" font-weight="bold" font-size="40" fill="#1a1a1a">[국세청] 종합소득세 환급금이</text>
+  <text x="160" y="485" font-family="Noto Sans KR" font-weight="bold" font-size="40" fill="#1a1a1a">발생했습니다. 아래 링크에서 신청</text>
+  <text x="160" y="555" font-family="Noto Sans KR" font-weight="bold" font-size="40" fill="#1B6FD6" text-decoration="underline">http://bit.ly/xxxx-tax</text>
+  <!-- 금지 표시 -->
+  <circle cx="540" cy="555" r="60" fill="none" stroke="#E23B3B" stroke-width="12" opacity="0.85"/>
+  <line x1="500" y1="515" x2="580" y2="595" stroke="#E23B3B" stroke-width="12" opacity="0.85"/>
+
+  <text x="540" y="700" font-family="Noto Sans KR" font-weight="bold" font-size="52" fill="#E23B3B" text-anchor="middle">문자 속 링크는 절대 누르지 마세요</text>
+
+  <!-- 안전 채널 -->
+  <text x="540" y="800" font-family="Noto Sans KR" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">조회는 공식 채널에 직접 접속</text>
+
+  <g font-family="Noto Sans KR">
+    <rect x="80" y="850" width="290" height="120" rx="20" fill="#ffffff" stroke="#1F8A53" stroke-width="4"/>
+    <text x="225" y="925" font-weight="bold" font-size="44" fill="#1F8A53" text-anchor="middle">홈택스</text>
+
+    <rect x="395" y="850" width="290" height="120" rx="20" fill="#ffffff" stroke="#1F8A53" stroke-width="4"/>
+    <text x="540" y="925" font-weight="bold" font-size="44" fill="#1F8A53" text-anchor="middle">손택스</text>
+
+    <rect x="710" y="850" width="290" height="120" rx="20" fill="#ffffff" stroke="#1F8A53" stroke-width="4"/>
+    <text x="855" y="925" font-weight="bold" font-size="44" fill="#1F8A53" text-anchor="middle">정부24</text>
+  </g>
+
+  <!-- 추가 주의 -->
+  <rect x="60" y="1020" width="960" height="200" rx="20" fill="#FFF7DB" stroke="#F0DC8C"/>
+  <text x="95" y="1085" font-family="Noto Sans KR" font-weight="bold" font-size="40" fill="#9A7B00">함께 기억할 것</text>
+  <text x="95" y="1140" font-family="Noto Sans KR" font-weight="normal" font-size="36" fill="#7A6400">· 환급계좌는 반드시 본인 명의 (타인·법인 보류)</text>
+  <text x="95" y="1190" font-family="Noto Sans KR" font-weight="normal" font-size="36" fill="#7A6400">· 연말정산 환급은 종합소득세 환급과 별개</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR" font-size="34" fill="#5B6B7C">출처: 국세청 환급금 사칭 스미싱 주의 안내</text>
+</svg>

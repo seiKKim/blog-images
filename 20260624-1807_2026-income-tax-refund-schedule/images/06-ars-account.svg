@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <rect x="60" y="58" rx="26" ry="26" width="160" height="50" fill="#FFD23F"/>
+  <text x="140" y="92" font-family="Noto Sans KR" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">세금·환급</text>
+  <text x="60" y="180" font-family="Noto Sans KR" font-weight="bold" font-size="58" fill="#ffffff">ARS 환급계좌 변경</text>
+
+  <!-- 안내 -->
+  <text x="60" y="290" font-family="Noto Sans KR" font-weight="bold" font-size="42" fill="#1a1a1a">정기신고분 계좌는 홈택스에서 변경 불가</text>
+  <text x="60" y="345" font-family="Noto Sans KR" font-weight="normal" font-size="36" fill="#5B6B7C">(조회·확인만 가능) → 아래 ARS 메뉴로 변경</text>
+
+  <!-- ARS 번호 강조 -->
+  <rect x="60" y="395" width="960" height="160" rx="24" fill="#1F8A53"/>
+  <text x="540" y="465" font-family="Noto Sans KR" font-weight="normal" font-size="40" fill="#E8F4EE" text-anchor="middle">지역번호 없이 전화</text>
+  <text x="540" y="535" font-family="Noto Sans KR" font-weight="bold" font-size="80" fill="#FFD23F" text-anchor="middle">1544-9944</text>
+
+  <!-- 메뉴 순서 도식 -->
+  <g font-family="Noto Sans KR">
+    <rect x="80" y="620" width="260" height="160" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="210" y="700" font-weight="normal" font-size="34" fill="#5B6B7C" text-anchor="middle">전화 연결</text>
+    <text x="210" y="752" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="middle">1544-9944</text>
+
+    <text x="375" y="720" font-weight="bold" font-size="60" fill="#1F8A53" text-anchor="middle">→</text>
+
+    <rect x="410" y="620" width="260" height="160" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="540" y="690" font-weight="normal" font-size="34" fill="#5B6B7C" text-anchor="middle">메뉴</text>
+    <circle cx="540" cy="735" r="42" fill="#1F8A53"/>
+    <text x="540" y="752" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">2</text>
+
+    <text x="705" y="720" font-weight="bold" font-size="60" fill="#1F8A53" text-anchor="middle">→</text>
+
+    <rect x="740" y="620" width="260" height="160" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="870" y="690" font-weight="normal" font-size="34" fill="#5B6B7C" text-anchor="middle">메뉴</text>
+    <circle cx="870" cy="735" r="42" fill="#1F8A53"/>
+    <text x="870" y="752" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">3</text>
+  </g>
+
+  <text x="540" y="870" font-family="Noto Sans KR" font-weight="bold" font-size="46" fill="#1F8A53" text-anchor="middle">ARS → 2번 → 3번 메뉴</text>
+
+  <!-- 대안 -->
+  <rect x="60" y="930" width="960" height="160" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="95" y="1000" font-family="Noto Sans KR" font-weight="bold" font-size="42" fill="#1a1a1a">또는 관할 세무서 담당자 문의</text>
+  <text x="95" y="1055" font-family="Noto Sans KR" font-weight="normal" font-size="36" fill="#5B6B7C">계좌번호 전체 확인은 홈택스 신고내역 조회에서</text>
+
+  <rect x="60" y="1110" width="960" height="115" rx="20" fill="#FFF7DB" stroke="#F0DC8C"/>
+  <text x="95" y="1168" font-family="Noto Sans KR" font-weight="bold" font-size="38" fill="#9A7B00">미수령 환급금 계좌는 별도</text>
+  <text x="95" y="1212" font-family="Noto Sans KR" font-weight="normal" font-size="34" fill="#7A6400">홈택스·손택스 ‘환급계좌개설(변경)신고’로 직접 등록</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR" font-size="34" fill="#5B6B7C">출처: 국세청 환급 안내</text>
+</svg>

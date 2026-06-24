@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <rect x="60" y="58" rx="26" ry="26" width="160" height="50" fill="#FFD23F"/>
+  <text x="140" y="92" font-family="Noto Sans KR" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">세금·환급</text>
+  <text x="60" y="180" font-family="Noto Sans KR" font-weight="bold" font-size="56" fill="#ffffff">미수령 환급금 조회 5채널</text>
+
+  <g font-family="Noto Sans KR">
+    <!-- 1 홈택스 -->
+    <rect x="60" y="270" width="960" height="155" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="345" font-weight="bold" font-size="46" fill="#1F8A53">홈택스</text>
+    <text x="100" y="400" font-weight="normal" font-size="34" fill="#5B6B7C">조회/발급 → 국세환급 → ‘국세환급금 찾기’</text>
+
+    <!-- 2 손택스 -->
+    <rect x="60" y="440" width="960" height="155" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="515" font-weight="bold" font-size="46" fill="#1F8A53">손택스(모바일)</text>
+    <text x="100" y="570" font-weight="normal" font-size="34" fill="#5B6B7C">앱 → 조회/발급 → 기타조회 → 환급금 조회</text>
+
+    <!-- 3 정부24 -->
+    <rect x="60" y="610" width="960" height="175" rx="20" fill="#EAF3FF" stroke="#B9D4F0"/>
+    <text x="100" y="685" font-weight="bold" font-size="46" fill="#1B5FA6">정부24 (일괄조회)</text>
+    <text x="100" y="740" font-weight="normal" font-size="34" fill="#3A5A78">gov.kr → ‘미환급금 조회’</text>
+    <text x="100" y="780" font-weight="normal" font-size="32" fill="#3A5A78">국세·지방세·건강보험·국민연금 과오납금 일괄</text>
+
+    <!-- 4 ARS -->
+    <rect x="60" y="800" width="960" height="155" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="875" font-weight="bold" font-size="46" fill="#1F8A53">ARS 전화</text>
+    <text x="100" y="930" font-weight="bold" font-size="42" fill="#1a1a1a">1544-9944  음성 조회</text>
+
+    <!-- 5 디지털서비스개방 -->
+    <rect x="60" y="970" width="960" height="155" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="1045" font-weight="bold" font-size="46" fill="#1F8A53">디지털서비스개방</text>
+    <text x="100" y="1100" font-weight="normal" font-size="34" fill="#5B6B7C">openservice.go.kr → ‘국세 미수령환급금 조회’</text>
+  </g>
+
+  <rect x="60" y="1145" width="960" height="80" rx="16" fill="#FFF7DB" stroke="#F0DC8C"/>
+  <text x="95" y="1198" font-family="Noto Sans KR" font-weight="bold" font-size="36" fill="#9A7B00">환급금은 결정일부터 5년 지나면 국고 귀속</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR" font-size="34" fill="#5B6B7C">출처: 국세청·정부24·디지털서비스개방 안내</text>
+</svg>
