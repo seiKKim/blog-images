@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#243B6B"/>
+  <text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">저축기간별 금리 비교</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="240" width="500" height="80" fill="#243B6B"/>
+    <rect x="560" y="240" width="230" height="80" fill="#243B6B"/>
+    <rect x="790" y="240" width="230" height="80" fill="#1B2E54"/>
+    <text x="90" y="293" font-size="32" font-weight="bold" fill="#ffffff">저축기간</text>
+    <text x="675" y="293" font-size="30" font-weight="bold" fill="#ffffff" text-anchor="middle">일반</text>
+    <text x="905" y="293" font-size="30" font-weight="bold" fill="#FFD23F" text-anchor="middle">주택드림</text>
+
+    <rect x="60" y="320" width="500" height="110" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="560" y="320" width="230" height="110" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="790" y="320" width="230" height="110" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="386" font-size="34" fill="#1a1a1a">1년 미만</text>
+    <text x="675" y="386" font-size="36" fill="#5B6B7C" text-anchor="middle">2.3%</text>
+    <text x="905" y="386" font-size="36" font-weight="bold" fill="#243B6B" text-anchor="middle">2.3%</text>
+
+    <rect x="60" y="430" width="500" height="110" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="560" y="430" width="230" height="110" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="790" y="430" width="230" height="110" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="496" font-size="34" fill="#1a1a1a">1년~2년</text>
+    <text x="675" y="496" font-size="36" fill="#5B6B7C" text-anchor="middle">2.8%</text>
+    <text x="905" y="496" font-size="36" font-weight="bold" fill="#243B6B" text-anchor="middle">2.8%</text>
+
+    <rect x="60" y="540" width="500" height="130" fill="#FFF6D6" stroke="#FFD23F" stroke-width="3"/>
+    <rect x="560" y="540" width="230" height="130" fill="#FFF6D6" stroke="#FFD23F" stroke-width="3"/>
+    <rect x="790" y="540" width="230" height="130" fill="#FFF6D6" stroke="#FFD23F" stroke-width="3"/>
+    <text x="90" y="600" font-size="34" font-weight="bold" fill="#1a1a1a">2년 이상</text>
+    <text x="90" y="645" font-size="28" fill="#5B6B7C">~10년 이내</text>
+    <text x="675" y="618" font-size="40" fill="#5B6B7C" text-anchor="middle">3.1%</text>
+    <text x="905" y="618" font-size="52" font-weight="bold" fill="#D9420B" text-anchor="middle">4.5%</text>
+
+    <rect x="60" y="670" width="500" height="110" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="560" y="670" width="230" height="110" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="790" y="670" width="230" height="110" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="736" font-size="34" fill="#1a1a1a">10년 초과</text>
+    <text x="675" y="736" font-size="36" fill="#5B6B7C" text-anchor="middle">3.1%</text>
+    <text x="905" y="736" font-size="36" font-weight="bold" fill="#243B6B" text-anchor="middle">3.1%</text>
+  </g>
+  <text x="60" y="850" font-family="Noto Sans CJK KR" font-size="34" font-weight="bold" fill="#243B6B">→ 2년 이상 구간, 일반보다 1.4%p 높음</text>
+  <text x="60" y="905" font-family="Noto Sans CJK KR" font-size="28" fill="#5B6B7C">세금공제 전·단리 · 변동금리(정부 고시에 따라 변경)</text>
+  <rect x="0" y="1010" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="1056" font-family="Noto Sans CJK KR" font-size="30" fill="#5B6B7C">출처: 주택도시기금(상품기준일 2026.1.1)</text>
+</svg>

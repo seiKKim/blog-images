@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#243B6B"/>
+  <text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">가입조건 3가지</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="250" width="960" height="220" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="170" cy="360" r="58" fill="#243B6B"/>
+    <text x="170" y="378" font-size="56" font-weight="bold" fill="#FFD23F" text-anchor="middle">1</text>
+    <text x="270" y="345" font-size="46" font-weight="bold" fill="#1a1a1a">나이</text>
+    <text x="270" y="415" font-size="40" fill="#243B6B" font-weight="bold">만 19 ~ 34세 (병역 최대 6년 인정)</text>
+
+    <rect x="60" y="500" width="960" height="220" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="170" cy="610" r="58" fill="#243B6B"/>
+    <text x="170" y="628" font-size="56" font-weight="bold" fill="#FFD23F" text-anchor="middle">2</text>
+    <text x="270" y="595" font-size="46" font-weight="bold" fill="#1a1a1a">소득</text>
+    <text x="270" y="665" font-size="40" font-weight="bold" fill="#243B6B">연소득 5,000만원 이하</text>
+
+    <rect x="60" y="750" width="960" height="220" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="170" cy="860" r="58" fill="#243B6B"/>
+    <text x="170" y="878" font-size="56" font-weight="bold" fill="#FFD23F" text-anchor="middle">3</text>
+    <text x="270" y="845" font-size="46" font-weight="bold" fill="#1a1a1a">주택</text>
+    <text x="270" y="915" font-size="40" font-weight="bold" fill="#243B6B">무주택자</text>
+  </g>
+  <rect x="0" y="1010" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="1056" font-family="Noto Sans CJK KR" font-size="30" fill="#5B6B7C">출처: 주택도시기금(상품기준일 2026.1.1)</text>
+</svg>
