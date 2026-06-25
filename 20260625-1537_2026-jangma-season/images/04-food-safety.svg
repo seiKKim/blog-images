@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="60" y="62" rx="34" ry="34" width="200" height="68" fill="#E23B3B"/><text x="160.0" y="108" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">오늘의 이슈</text>
+  <text x="60" y="172" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">장마철 식중독 예방 수칙</text>
+  
+  <rect x="60" y="250" width="960" height="130" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="130" cy="315" r="34" fill="#E23B3B"/>
+  <path d="M114 314 l12 14 l24 -28" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="306" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1A2129">손 씻기 20초 이상</text>
+  <text x="200" y="356" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">비누로 손가락 사이·손톱 밑까지 흐르는 물에</text>
+  
+  <rect x="60" y="400" width="960" height="130" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="130" cy="465" r="34" fill="#E23B3B"/>
+  <path d="M114 464 l12 14 l24 -28" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="456" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1A2129">85℃·1분 이상 익혀 먹기</text>
+  <text x="200" y="506" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">가열식품 중심부까지 충분히 익히기</text>
+  
+  <rect x="60" y="550" width="960" height="130" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="130" cy="615" r="34" fill="#E23B3B"/>
+  <path d="M114 614 l12 14 l24 -28" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="606" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1A2129">물은 끓여 먹기</text>
+  <text x="200" y="656" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">오염 우려 시 반드시 끓인 물 사용</text>
+  
+  <rect x="60" y="700" width="960" height="130" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="130" cy="765" r="34" fill="#E23B3B"/>
+  <path d="M114 764 l12 14 l24 -28" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="756" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1A2129">침수 식품은 즉시 폐기</text>
+  <text x="200" y="806" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">범람한 물이 닿은 식재료 섭취 금지</text>
+  
+  <rect x="60" y="850" width="960" height="130" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="130" cy="915" r="34" fill="#E23B3B"/>
+  <path d="M114 914 l12 14 l24 -28" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="906" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1A2129">채소 소독·헹굼</text>
+  <text x="200" y="956" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">염소 소독액 100ppm 5분 + 흐르는 물 3회</text>
+  
+  <rect x="60" y="1000" width="960" height="130" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="130" cy="1065" r="34" fill="#E23B3B"/>
+  <path d="M114 1064 l12 14 l24 -28" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="1056" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1A2129">정전 시 식품 점검</text>
+  <text x="200" y="1106" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">5℃ 이상 2시간 경과·완전 해동되면 폐기</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 식품의약품안전처 「장마철 식중독 주의요령」</text>
+</svg>

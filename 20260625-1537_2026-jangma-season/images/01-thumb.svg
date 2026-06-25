@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#2B2F36"/>
+  <circle cx="950" cy="170" r="260" fill="#ffffff" opacity="0.05"/>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.05"/>
+  <path d="M880 216 C906 248 902 280 880 280 C858 280 854 248 880 216 Z" fill="#5AA9E6" opacity="0.5"/><path d="M960 326 C986 358 982 390 960 390 C938 390 934 358 960 326 Z" fill="#5AA9E6" opacity="0.5"/><path d="M820 386 C846 418 842 450 820 450 C798 450 794 418 820 386 Z" fill="#5AA9E6" opacity="0.5"/><path d="M1000 506 C1026 538 1022 570 1000 570 C978 570 974 538 1000 506 Z" fill="#5AA9E6" opacity="0.5"/><path d="M900 606 C926 638 922 670 900 670 C878 670 874 638 900 606 Z" fill="#5AA9E6" opacity="0.5"/>
+  <rect x="80" y="86" rx="34" ry="34" width="210" height="68" fill="#E23B3B"/><text x="185.0" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">오늘의 이슈</text>
+  <text x="80" y="350" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#E8EEF5">2026 장마, 언제 시작될까?</text>
+  <text x="80" y="500" font-family="Malgun Gothic" font-weight="bold" font-size="138" fill="#ffffff">지역별 시기</text>
+  <text x="80" y="650" font-family="Malgun Gothic" font-weight="bold" font-size="138" fill="#FFD23F">+ 생활수칙</text>
+  <rect x="80" y="740" rx="20" ry="20" width="920" height="200" fill="#ffffff" opacity="0.10"/>
+  <text x="112" y="812" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff">제주 6/19 · 남부 6/23 · 중부 6/25 전후</text>
+  <text x="112" y="892" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFD23F">※ 기상청 공식 예보 아닌 평년값 기반 전망</text>
+  <text x="80" y="1012" font-family="Malgun Gothic" font-size="34" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

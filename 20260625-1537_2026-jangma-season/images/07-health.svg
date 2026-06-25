@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="60" y="62" rx="34" ry="34" width="200" height="68" fill="#E23B3B"/><text x="160.0" y="108" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">오늘의 이슈</text>
+  <text x="60" y="172" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">장마철 건강관리 포인트</text>
+  
+  <rect x="60" y="250" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="250" width="160" height="180" rx="20" fill="#2B2F36"/>
+  <text x="140" y="365" font-size="76" text-anchor="middle">🦵</text>
+  <text x="260" y="320" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1A2129">관절통</text>
+  <text x="260" y="378" font-family="Malgun Gothic" font-size="33" fill="#5B6B7C">보온·찬바람 차단, 근력·체중 관리</text>
+  
+  <rect x="60" y="460" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="460" width="160" height="180" rx="20" fill="#2B2F36"/>
+  <text x="140" y="575" font-size="76" text-anchor="middle">🦶</text>
+  <text x="260" y="530" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1A2129">무좀·습진</text>
+  <text x="260" y="588" font-family="Malgun Gothic" font-size="33" fill="#5B6B7C">무좀/습진 구분이 핵심, 발 건조·통풍</text>
+  
+  <rect x="60" y="670" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="670" width="160" height="180" rx="20" fill="#2B2F36"/>
+  <text x="140" y="785" font-size="76" text-anchor="middle">🌧</text>
+  <text x="260" y="740" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1A2129">우울·무기력</text>
+  <text x="260" y="798" font-family="Malgun Gothic" font-size="33" fill="#5B6B7C">수면 시간 일정, 햇볕·활동 유지</text>
+  
+  <rect x="60" y="880" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="880" width="160" height="180" rx="20" fill="#2B2F36"/>
+  <text x="140" y="995" font-size="76" text-anchor="middle">🍽</text>
+  <text x="260" y="950" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1A2129">소화기 증상</text>
+  <text x="260" y="1008" font-family="Malgun Gothic" font-size="33" fill="#5B6B7C">손 씻기·익혀 먹기로 식중독성 예방</text>
+  <rect x="60" y="1090" width="960" height="120" rx="20" fill="#FFF4D6" stroke="#FFD23F"/>
+  <text x="90" y="1150" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1A2129">정보성 정리이며, 증상이 지속되면</text>
+  <text x="90" y="1196" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#E23B3B">진료를 받는 것이 우선입니다.</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 의료진 코멘트 기반 정보성 정리</text>
+</svg>

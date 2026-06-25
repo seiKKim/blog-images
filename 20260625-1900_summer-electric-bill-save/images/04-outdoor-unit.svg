@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FBF4ED"/>
+  <rect width="1080" height="140" fill="#E8722C"/>
+  <text x="60" y="92" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff">실외기 통풍 40cm 이상 확보</text>
+
+  <!-- 벽 -->
+  <rect x="120" y="240" width="60" height="360" fill="#C9B6A6"/>
+  <text x="150" y="640" font-family="Malgun Gothic" font-size="32" fill="#7A6A5C" text-anchor="middle">벽</text>
+
+  <!-- 간격 화살표 -->
+  <line x1="180" y1="420" x2="430" y2="420" stroke="#C24E12" stroke-width="5"/>
+  <polygon points="180,420 210,405 210,435" fill="#C24E12"/>
+  <polygon points="430,420 400,405 400,435" fill="#C24E12"/>
+  <rect x="225" y="350" width="160" height="60" rx="12" fill="#FFD23F"/>
+  <text x="305" y="393" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="middle">40cm↑</text>
+
+  <!-- 실외기 -->
+  <rect x="430" y="290" width="320" height="240" rx="16" fill="#ffffff" stroke="#E8722C" stroke-width="5"/>
+  <circle cx="590" cy="410" r="80" fill="none" stroke="#E8722C" stroke-width="5"/>
+  <g stroke="#F0A968" stroke-width="10" stroke-linecap="round">
+    <line x1="590" y1="410" x2="590" y2="345"/>
+    <line x1="590" y1="410" x2="645" y2="445"/>
+    <line x1="590" y1="410" x2="535" y2="445"/>
+  </g>
+  <circle cx="590" cy="410" r="14" fill="#E8722C"/>
+  <text x="590" y="575" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#444" text-anchor="middle">실외기</text>
+
+  <!-- 체크 항목 -->
+  <text x="820" y="320" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#C24E12">✔ 주변 장애물 제거</text>
+  <text x="820" y="400" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#C24E12">✔ 직사광선 차광막</text>
+  <text x="820" y="480" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#C24E12">✔ 발열체 멀리</text>
+
+  <rect x="0" y="650" width="1080" height="70" fill="#EDE0D4"/>
+  <text x="60" y="695" font-family="Malgun Gothic" font-size="30" fill="#7A6A5C">출처: 한국에너지공단 에너지 절약 가이드</text>
+</svg>

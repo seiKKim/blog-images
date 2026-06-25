@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#E8722C"/>
+  <circle cx="950" cy="170" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="86" rx="34" ry="34" width="210" height="68" fill="#FFD23F"/>
+  <text x="185" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="300" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#FFF3E6">에어컨 켜도 요금 폭탄 NO!</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="446" font-family="Malgun Gothic" font-weight="bold" font-size="98" fill="#ffffff">2026 여름 전기요금</text>
+  <text x="80" y="582" font-family="Malgun Gothic" font-weight="bold" font-size="116" fill="#FFD23F">절약 핵심 <tspan fill="#ffffff">5가지</tspan></text>
+
+  <!-- 5가지 박스 -->
+  <rect x="80" y="676" rx="24" ry="24" width="920" height="316" fill="#ffffff" opacity="0.15"/>
+  <text x="116" y="752" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff">① 누진제 하계 완화 (300kWh)</text>
+  <text x="116" y="816" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff">② 에어컨 26℃ + 선풍기</text>
+  <text x="116" y="880" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff">③ 대기전력 차단 멀티탭</text>
+  <text x="116" y="944" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff">④ 에너지캐시백  ⑤ 복지할인</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1042" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#FFF3E6" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

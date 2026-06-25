@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4ED"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="112" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">가전별 대기전력 비교</text>
+  <text x="60" y="168" font-family="Malgun Gothic" font-size="34" fill="#FFF3E6">대기전력은 가정 소비의 약 11% 차지</text>
+
+  <g font-family="Malgun Gothic">
+    <!-- 셋톱박스 -->
+    <text x="60" y="340" font-weight="bold" font-size="44" fill="#1a1a1a">셋톱박스</text>
+    <rect x="60" y="365" width="780" height="70" rx="10" fill="#C24E12"/>
+    <text x="860" y="415" font-weight="bold" font-size="42" fill="#C24E12">12.3~24W</text>
+
+    <!-- 인터넷 모뎀 -->
+    <text x="60" y="540" font-weight="bold" font-size="44" fill="#1a1a1a">인터넷 모뎀</text>
+    <rect x="60" y="565" width="220" height="70" rx="10" fill="#E8722C"/>
+    <text x="300" y="615" font-weight="bold" font-size="42" fill="#E8722C">약 6W</text>
+
+    <!-- 스탠드 에어컨 -->
+    <text x="60" y="740" font-weight="bold" font-size="44" fill="#1a1a1a">스탠드형 에어컨</text>
+    <rect x="60" y="765" width="215" height="70" rx="10" fill="#E8722C"/>
+    <text x="295" y="815" font-weight="bold" font-size="42" fill="#E8722C">5.8~7W</text>
+
+    <!-- 전자레인지 -->
+    <text x="60" y="940" font-weight="bold" font-size="44" fill="#1a1a1a">전자레인지</text>
+    <rect x="60" y="965" width="110" height="70" rx="10" fill="#F0A968"/>
+    <text x="190" y="1015" font-weight="bold" font-size="42" fill="#C24E12">약 3W</text>
+
+    <!-- 세탁기 -->
+    <text x="60" y="1140" font-weight="bold" font-size="44" fill="#1a1a1a">세탁기</text>
+    <rect x="60" y="1165" width="75" height="70" rx="10" fill="#F0A968"/>
+    <text x="155" y="1215" font-weight="bold" font-size="42" fill="#C24E12">약 2W</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EDE0D4"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="30" fill="#7A6A5C">출처: 정책브리핑(korea.kr) 등 · 모델별 측정값 편차 있음</text>
+</svg>

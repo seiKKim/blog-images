@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FBF4ED"/>
+  <rect width="1080" height="140" fill="#E8722C"/>
+  <text x="60" y="92" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff">한전:ON 예상요금 미리보기</text>
+
+  <!-- 카드 -->
+  <rect x="90" y="210" width="900" height="380" rx="24" fill="#ffffff" stroke="#D8C6B6" stroke-width="4"/>
+  <text x="130" y="290" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#444">이번 달 예상 전기요금</text>
+
+  <text x="130" y="420" font-family="Malgun Gothic" font-weight="bold" font-size="100" fill="#E8722C">62,840<tspan font-size="56" fill="#444">원</tspan></text>
+  <text x="130" y="480" font-family="Malgun Gothic" font-size="34" fill="#888">예상 사용량 312 kWh · 하계 1단계 적용</text>
+
+  <line x1="130" y1="510" x2="950" y2="510" stroke="#EADFD4" stroke-width="2"/>
+  <text x="130" y="560" font-family="Malgun Gothic" font-size="32" fill="#666">계량기 숫자 입력 → 직전 검침값과 비교 산정</text>
+
+  <!-- 안내 -->
+  <text x="90" y="650" font-family="Malgun Gothic" font-size="32" fill="#7A6A5C">※ 실시간·시간대별 조회는 스마트계량기(AMI) 설치 가구 한정</text>
+  <text x="90" y="700" font-family="Malgun Gothic" font-size="30" fill="#A2937F">출처: 한전:ON(online.kepco.co.kr) · 예시 화면(수치는 가상)</text>
+</svg>

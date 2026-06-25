@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FBF4ED"/>
+  <rect width="1080" height="140" fill="#E8722C"/>
+  <text x="60" y="92" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff">희망온도 26℃ + 선풍기 병행</text>
+
+  <!-- 에어컨 본체 -->
+  <rect x="90" y="220" width="440" height="130" rx="20" fill="#ffffff" stroke="#E8722C" stroke-width="4"/>
+  <line x1="110" y1="320" x2="510" y2="320" stroke="#E0D2C4" stroke-width="3"/>
+  <text x="310" y="305" font-family="Malgun Gothic" font-weight="bold" font-size="92" fill="#E8722C" text-anchor="middle">26℃</text>
+  <text x="310" y="410" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#444" text-anchor="middle">에어컨 설정온도</text>
+
+  <!-- 선풍기 아이콘 -->
+  <circle cx="730" cy="290" r="105" fill="#ffffff" stroke="#E8722C" stroke-width="4"/>
+  <circle cx="730" cy="290" r="18" fill="#E8722C"/>
+  <path d="M730 290 Q820 250 800 200 Q740 230 730 290" fill="#F0A968"/>
+  <path d="M730 290 Q770 380 820 360 Q790 300 730 290" fill="#F0A968"/>
+  <path d="M730 290 Q640 330 660 380 Q720 350 730 290" fill="#F0A968"/>
+  <path d="M730 290 Q690 200 640 220 Q670 280 730 290" fill="#F0A968"/>
+  <rect x="715" y="395" width="30" height="70" fill="#C9B6A6"/>
+  <rect x="678" y="465" width="104" height="20" rx="8" fill="#C9B6A6"/>
+  <text x="900" y="305" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#444" text-anchor="middle">선풍기</text>
+  <text x="900" y="355" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#444" text-anchor="middle">병행</text>
+
+  <!-- 핵심 메시지 -->
+  <rect x="90" y="500" width="900" height="150" rx="20" fill="#FFF3E6" stroke="#F0A968" stroke-width="3"/>
+  <text x="540" y="572" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#C24E12" text-anchor="middle">설정온도 1℃ 올리면 약 10% 절감</text>
+  <text x="540" y="624" font-family="Malgun Gothic" font-size="34" fill="#7A6A5C" text-anchor="middle">가벼운 복장 + 선풍기로 체감온도 낮추기</text>
+</svg>

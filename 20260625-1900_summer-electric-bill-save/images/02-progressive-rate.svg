@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4ED"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="118" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">주택용 누진 3단계 단가 비교</text>
+  <text x="60" y="170" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#FFF3E6">전력량요금 (원/kWh) · 평상시 기준</text>
+
+  <!-- 기준선 영역: 막대 그래프 baseline y=1080 -->
+  <!-- 1단계 -->
+  <rect x="150" y="700" width="200" height="380" rx="10" fill="#F0A968"/>
+  <text x="250" y="660" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#1a1a1a" text-anchor="middle">120.0</text>
+  <text x="250" y="1140" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#444" text-anchor="middle">1단계</text>
+  <text x="250" y="1190" font-family="Malgun Gothic" font-size="32" fill="#777" text-anchor="middle">200kWh 이하</text>
+
+  <!-- 2단계 -->
+  <rect x="440" y="500" width="200" height="580" rx="10" fill="#E8722C"/>
+  <text x="540" y="460" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#1a1a1a" text-anchor="middle">214.6</text>
+  <text x="540" y="1140" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#444" text-anchor="middle">2단계</text>
+  <text x="540" y="1190" font-family="Malgun Gothic" font-size="32" fill="#777" text-anchor="middle">201~400kWh</text>
+
+  <!-- 3단계 -->
+  <rect x="730" y="320" width="200" height="760" rx="10" fill="#C24E12"/>
+  <text x="830" y="280" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#C24E12" text-anchor="middle">307.3</text>
+  <text x="830" y="1140" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#444" text-anchor="middle">3단계</text>
+  <text x="830" y="1190" font-family="Malgun Gothic" font-size="32" fill="#777" text-anchor="middle">400kWh 초과</text>
+
+  <line x1="120" y1="1080" x2="960" y2="1080" stroke="#C9B6A6" stroke-width="3"/>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EDE0D4"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#7A6A5C">출처: 한국전력공사 주택용(저압) 전기요금표</text>
+</svg>
