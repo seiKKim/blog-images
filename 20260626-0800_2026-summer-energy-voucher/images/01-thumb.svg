@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1B5FA6"/>
+  <circle cx="950" cy="170" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="210" fill="#ffffff" opacity="0.06"/>
+  <rect x="80" y="86" rx="34" ry="34" width="220" height="68" fill="#FFD23F"/>
+  <text x="190" y="133" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="80" y="300" font-family="Malgun Gothic" font-weight="bold" font-size="62" fill="#E8EEF5">2026 에너지바우처</text>
+  <text x="80" y="380" font-family="Malgun Gothic" font-weight="bold" font-size="62" fill="#E8EEF5">여름 냉방비 지원</text>
+  <text x="80" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="120" fill="#ffffff">연간 최대</text>
+  <text x="80" y="720" font-family="Malgun Gothic" font-weight="bold" font-size="170" fill="#FFD23F">70만원</text>
+  <rect x="80" y="800" rx="20" ry="20" width="920" height="170" fill="#ffffff" opacity="0.14"/>
+  <text x="110" y="868" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff">신청 6/15 ~ 12/31 · 복지로/주민센터</text>
+  <text x="110" y="932" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#FFD23F">올해부터 계절 한도 폐지! 여름 자유 사용</text>
+  <text x="80" y="1030" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

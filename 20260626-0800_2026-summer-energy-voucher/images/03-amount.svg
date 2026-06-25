@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">2026 가구원 수별 연간 총액</text>
+  <text x="60" y="165" font-family="Malgun Gothic" font-size="38" fill="#E8EEF5">여름·겨울 합산, 계절 한도 없이 자유 사용</text>
+  
+  <text x="80" y="392" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#143F70">1인 세대</text>
+  <rect x="360" y="320" width="252" height="110" rx="14" fill="#1B5FA6"/>
+  <text x="588" y="392" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="end">295,200원</text>
+  <text x="80" y="592" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#143F70">2인 세대</text>
+  <rect x="360" y="520" width="348" height="110" rx="14" fill="#1B5FA6"/>
+  <text x="684" y="592" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="end">407,500원</text>
+  <text x="80" y="792" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#143F70">3인 세대</text>
+  <rect x="360" y="720" width="455" height="110" rx="14" fill="#1B5FA6"/>
+  <text x="791" y="792" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="end">532,700원</text>
+  <text x="80" y="992" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#143F70">4인 이상</text>
+  <rect x="360" y="920" width="600" height="110" rx="14" fill="#1B5FA6"/>
+  <text x="936" y="992" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="end">701,300원</text>
+  <rect x="80" y="1130" width="920" height="110" rx="16" fill="#FFF6D6" stroke="#FFD23F" stroke-width="2"/>
+  <text x="110" y="1198" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#8a6d00">2026년 인상 기준 · 전체 예산 약 4,940억 원</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 한국에너지공단 · 복지로 · 파이낸셜뉴스</text>
+</svg>

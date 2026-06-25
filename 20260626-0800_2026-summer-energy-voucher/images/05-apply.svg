@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="123" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">신청방법 — 온라인 또는 방문</text>
+  <!-- 브라우저 목업 -->
+  <rect x="90" y="270" width="900" height="430" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="90" y="270" width="900" height="80" rx="20" fill="#E8EEF5"/>
+  <circle cx="140" cy="310" r="12" fill="#FF6058"/>
+  <circle cx="178" cy="310" r="12" fill="#FFBD2E"/>
+  <circle cx="216" cy="310" r="12" fill="#28C840"/>
+  <rect x="270" y="288" width="660" height="44" rx="22" fill="#ffffff"/>
+  <text x="296" y="319" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">bokjiro.go.kr</text>
+  <text x="130" y="440" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#143F70">복지로 &gt; 서비스 신청</text>
+  <text x="130" y="510" font-family="Malgun Gothic" font-size="40" fill="#1a1a1a">&gt; 복지급여 신청 &gt; 에너지바우처</text>
+  <rect x="130" y="560" width="500" height="90" rx="16" fill="#1B5FA6"/>
+  <text x="380" y="618" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">온라인 신청하기</text>
+  <!-- 방문 -->
+  <rect x="90" y="750" width="900" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="130" y="835" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#143F70">방문 신청</text>
+  <text x="130" y="905" font-family="Malgun Gothic" font-size="40" fill="#1a1a1a">거주지 읍·면·동 행정복지센터 (대리신청 가능)</text>
+  <!-- 기간 -->
+  <rect x="90" y="1000" width="900" height="180" rx="20" fill="#FFF6D6" stroke="#FFD23F" stroke-width="2"/>
+  <text x="130" y="1078" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#8a6d00">신청기간 2026.6.15 ~ 12.31</text>
+  <text x="130" y="1138" font-family="Malgun Gothic" font-size="38" fill="#8a6d00">사용기간 2026.7.1 ~ 2027.5.31 · 문의 1600-3190</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">※ 안내용 예시 화면 (실제 화면과 다를 수 있음)</text>
+</svg>

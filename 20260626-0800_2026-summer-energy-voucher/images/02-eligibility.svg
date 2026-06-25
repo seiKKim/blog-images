@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="123" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">지원대상 — 두 가지 모두 충족</text>
+  <!-- 조건 1 -->
+  <rect x="60" y="260" width="960" height="360" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="135" cy="335" r="42" fill="#1B5FA6"/>
+  <text x="135" y="352" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="205" y="352" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#143F70">소득(자격) 요건</text>
+  <text x="110" y="450" font-family="Malgun Gothic" font-size="44" fill="#1a1a1a">「국민기초생활보장법」상</text>
+  <text x="110" y="520" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1B5FA6">생계·의료·주거·교육급여 수급자</text>
+  <text x="110" y="585" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C">(2026년 안내 기준 4종 모두 명시)</text>
+  <!-- AND 뱃지 -->
+  <rect x="470" y="648" width="140" height="64" rx="32" fill="#FFD23F"/>
+  <text x="540" y="692" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="middle">AND</text>
+  <!-- 조건 2 -->
+  <rect x="60" y="740" width="960" height="430" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="135" cy="815" r="42" fill="#1B5FA6"/>
+  <text x="135" y="832" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="205" y="832" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#143F70">세대원 특성 요건</text>
+  <text x="110" y="920" font-family="Malgun Gothic" font-size="42" fill="#1a1a1a">세대원 중 아래 하나 이상 해당</text>
+  <text x="110" y="990" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">· 노인(만 65세 이상)  · 영유아</text>
+  <text x="110" y="1055" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">· 등록 장애인  · 임산부</text>
+  <text x="110" y="1120" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">· 중증·희귀·난치질환자  · 한부모 등</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 한국에너지공단(energyv.or.kr) · 복지로</text>
+</svg>
