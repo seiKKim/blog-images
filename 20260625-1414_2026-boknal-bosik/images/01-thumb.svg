@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#E0556E"/>
+<circle cx="930" cy="180" r="250" fill="#ffffff" opacity="0.10"/>
+<circle cx="130" cy="950" r="200" fill="#ffffff" opacity="0.07"/>
+<rect x="80" y="90" rx="34" width="200" height="68" fill="#FFD23F"/><text x="180" y="136" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#2a2a2a" text-anchor="middle">가정의달/시즌</text>
+<text x="80" y="350" font-family="Malgun Gothic" font-weight="bold" font-size="66" fill="#FDE8EC">2026 초복·중복·말복</text>
+<text x="80" y="450" font-family="Malgun Gothic" font-weight="bold" font-size="62" fill="#FFFFFF">복날 날짜 총정리</text>
+<rect x="80" y="520" width="920" height="300" rx="24" fill="#ffffff" opacity="0.16"/>
+<text x="120" y="610" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">초복   7월 15일 (수)</text>
+<text x="120" y="690" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFD23F">중복   7월 25일 (토)</text>
+<text x="120" y="770" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">말복   8월 14일 (금)</text>
+<text x="80" y="905" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#FFD23F">2026년은 월복 · 삼복더위 약 30일</text>
+<text x="80" y="1015" font-family="Malgun Gothic" font-size="34" fill="#FDE8EC" opacity="0.9">정보 정리 블로그 · 시즌</text>
+</svg>

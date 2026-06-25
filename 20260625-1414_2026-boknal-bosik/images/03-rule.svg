@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#FFF5F7"/>
+<rect width="1080" height="200" fill="#E0556E"/><text x="60" y="125" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#FFFFFF">복날은 어떻게 정할까</text>
+<rect x="60" y="270" width="960" height="120" rx="16" fill="#B83E55"/>
+<text x="540" y="345" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">24절기가 아니라 '경일(庚日)' 기준</text>
+<rect x="60" y="420" width="960" height="118" rx="16" fill="#ffffff" stroke="#F3CAD3"/><text x="100" y="492" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#2a2a2a">초복</text><text x="1000" y="492" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#E0556E" text-anchor="end">하지 후 3번째 庚日</text>
+<rect x="60" y="560" width="960" height="118" rx="16" fill="#ffffff" stroke="#F3CAD3"/><text x="100" y="632" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#2a2a2a">중복</text><text x="1000" y="632" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#E0556E" text-anchor="end">하지 후 4번째 庚日</text>
+<rect x="60" y="700" width="960" height="118" rx="16" fill="#ffffff" stroke="#F3CAD3"/><text x="100" y="772" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#2a2a2a">말복</text><text x="1000" y="772" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#E0556E" text-anchor="end">입추 후 1번째 庚日</text>
+<text x="60" y="900" font-family="Malgun Gothic" font-size="36" fill="#7A5560">경일은 10일마다 · 2026 하지 6/21·입추 8/7경</text>
+<rect x="0" y="1000" width="1080" height="80" fill="#FDE8EC"/><text x="60" y="1052" font-family="Malgun Gothic" font-size="32" fill="#9A5563">위키백과 '복날' 등</text>
+</svg>
