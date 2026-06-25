@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#1F8A53"/>
+<circle cx="120" cy="120" r="220" fill="#ffffff" opacity="0.07"/>
+<rect x="80" y="90" rx="34" width="200" height="68" fill="#FFD23F"/><text x="180" y="136" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">세금/환급</text>
+<text x="80" y="330" font-family="Malgun Gothic" font-weight="bold" font-size="78" fill="#FFD23F">한눈 요약</text>
+<text x="90" y="430" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#FFFFFF">✔ 2026년 마감 7월 3일(금)까지 연장</text><text x="90" y="540" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#FFFFFF">✔ 6/26 18시 이후 시스템 중단 → 미리 납부</text><text x="90" y="650" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#FFFFFF">✔ 6월 연납 하반기분 약 2.51% 할인(5% 유지)</text><text x="90" y="760" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#FFFFFF">✔ 미납 시 가산금·번호판 영치 주의</text><text x="90" y="870" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#FFFFFF">✔ 화물·특수차·중가산금은 지자체 확인</text>
+<text x="80" y="1030" font-family="Malgun Gothic" font-size="34" fill="#E8EEF5" opacity="0.9">정보 정리 블로그 · 세금/환급</text>
+</svg>

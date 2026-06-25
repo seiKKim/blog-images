@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="200" fill="#1F8A53"/><text x="60" y="125" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#FFFFFF">자동차세 정기분 납부 일정</text>
+<rect x="60" y="290" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/><text x="100" y="364" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">제1기분(상반기)</text><text x="1000" y="364" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1F8A53" text-anchor="end">6/16 ~ 7/3</text>
+<rect x="60" y="430" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/><text x="100" y="504" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">제2기분(하반기)</text><text x="1000" y="504" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1F8A53" text-anchor="end">12/16 ~ 12/31</text>
+<rect x="60" y="570" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/><text x="100" y="644" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">통상 제1기분 마감</text><text x="1000" y="644" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1F8A53" text-anchor="end">6월 30일</text>
+<rect x="60" y="710" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/><text x="100" y="784" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">2026년 한시 연장</text><text x="1000" y="784" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#D0021B" text-anchor="end">7월 3일(금)</text>
+<rect x="60" y="860" width="960" height="320" rx="16" fill="#FFF7DA" stroke="#E9D27A"/>
+<text x="100" y="935" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#176B41">⚠ 시스템 중단 주의</text>
+<text x="100" y="1010" font-family="Malgun Gothic" font-size="38" fill="#1a1a1a">6/26 18시 ~ 6/29 8시</text>
+<text x="100" y="1075" font-family="Malgun Gothic" font-size="38" fill="#1a1a1a">6/30 18시 ~ 7/1 8시 온라인 납부 제한</text>
+<text x="100" y="1140" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#176B41">→ 열려 있을 때 미리 납부 권장</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/><text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">행정구역 개편 따른 지방세시스템 일시중단(전국 적용)</text>
+</svg>
