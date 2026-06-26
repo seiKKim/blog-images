@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF6EE"/>
+  <rect width="1080" height="170" fill="#E8722C"/>
+  <rect x="64" y="55" rx="30" ry="30" width="200" height="60" fill="#FFD23F"/><text x="164" y="97" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="64" y="148" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="56" fill="#ffffff">냉각핀 세정제, 이렇게 분사하세요</text>
+  <g font-family="Malgun Gothic, 'Malgun Gothic', sans-serif">
+    <rect x="64" y="230" width="450" height="180" rx="20" fill="#ffffff" stroke="#F0D8C4" stroke-width="3"/>
+    <text x="289" y="300" font-weight="bold" font-size="40" fill="#C85A18" text-anchor="middle">분사 방향</text>
+    <text x="289" y="370" font-weight="bold" font-size="46" fill="#2A2A2A" text-anchor="middle">위 → 아래</text>
+    <rect x="566" y="230" width="450" height="180" rx="20" fill="#ffffff" stroke="#F0D8C4" stroke-width="3"/>
+    <text x="791" y="300" font-weight="bold" font-size="40" fill="#C85A18" text-anchor="middle">분사 거리</text>
+    <text x="791" y="370" font-weight="bold" font-size="46" fill="#E8722C" text-anchor="middle">20~30cm 유지</text>
+    <rect x="64" y="440" width="952" height="110" rx="20" fill="#FFF0DC"/>
+    <text x="540" y="510" font-weight="bold" font-size="42" fill="#E23B3B" text-anchor="middle">⚠ 10cm 이내 분사 시 알루미늄 핀이 휨</text>
+    <rect x="64" y="580" width="952" height="90" rx="20" fill="#ffffff" stroke="#F0D8C4" stroke-width="3"/>
+    <text x="540" y="638" font-size="38" fill="#2A2A2A" text-anchor="middle">분사 후 10~15분 대기 → 헹굼 · 환기·마스크·장갑 착용</text>
+  </g>
+  <text x="64" y="700" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="30" fill="#9aa7b4">blog.naver.com/trip_chocho</text>
+</svg>

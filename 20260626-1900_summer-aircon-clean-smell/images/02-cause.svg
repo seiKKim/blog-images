@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF6EE"/>
+  <rect width="1080" height="170" fill="#E8722C"/>
+  <rect x="64" y="55" rx="30" ry="30" width="200" height="60" fill="#FFD23F"/><text x="164" y="97" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="64" y="148" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="56" fill="#ffffff">냄새는 왜 날까? — 응축수와 곰팡이</text>
+  <g>
+    <rect x="64" y="230" width="430" height="420" rx="24" fill="#ffffff" stroke="#F0D8C4" stroke-width="3"/>
+    <text x="279" y="300" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="40" fill="#C85A18" text-anchor="middle">에어컨 내부</text>
+    <rect x="110" y="340" width="338" height="60" rx="10" fill="#D9ECFF"/>
+    <text x="279" y="382" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="34" fill="#2A2A2A" text-anchor="middle">차가운 열교환기(증발기)</text>
+    <circle cx="160" cy="450" r="12" fill="#3D8BD4"/><circle cx="220" cy="470" r="12" fill="#3D8BD4"/>
+    <circle cx="290" cy="450" r="12" fill="#3D8BD4"/><circle cx="360" cy="472" r="12" fill="#3D8BD4"/>
+    <text x="279" y="540" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="32" fill="#5B6B7C" text-anchor="middle">표면에 응축수(물방울) 맺힘</text>
+    <text x="279" y="600" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="34" fill="#1F8A53" text-anchor="middle">→ 습기 잔류</text>
+  </g>
+  <text x="540" y="450" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="70" fill="#E8722C" text-anchor="middle">➜</text>
+  <g>
+    <rect x="586" y="230" width="430" height="420" rx="24" fill="#ffffff" stroke="#F0D8C4" stroke-width="3"/>
+    <text x="801" y="320" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="44" fill="#C85A18" text-anchor="middle">곰팡이·세균 번식</text>
+    <text x="801" y="400" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="34" fill="#2A2A2A" text-anchor="middle">먼지 + 습기 + 어둠</text>
+    <text x="801" y="470" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="40" fill="#E23B3B" text-anchor="middle">= 시큼한 냄새</text>
+    <text x="801" y="560" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">냉방 후 바로 끄면</text>
+    <text x="801" y="600" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">습기가 남아 더 잘 생김</text>
+  </g>
+  <text x="64" y="690" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="30" fill="#9aa7b4">blog.naver.com/trip_chocho</text>
+</svg>

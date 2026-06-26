@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350"><rect width="1080" height="1350" fill="#FFF6EE"/><rect width="1080" height="190" fill="#E8722C"/><rect x="64" y="60" rx="30" ry="30" width="200" height="60" fill="#FFD23F"/><text x="164" y="102" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text><text x="64" y="160" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="60" fill="#ffffff">필터 청소 — 가장 기본, 셀프 가능</text>
+  <rect x="64" y="240" width="952" height="230" rx="20" fill="#ffffff" stroke="#F0D8C4" stroke-width="3"/>
+  <text x="100" y="310" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="42" fill="#C85A18">청소 주기 (제조사별 안내 차이)</text>
+  <line x1="540" y1="345" x2="540" y2="450" stroke="#F0D8C4" stroke-width="2"/>
+  <text x="160" y="395" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="40" fill="#2A2A2A">LG 기준</text>
+  <text x="160" y="445" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="48" fill="#E8722C">2주마다</text>
+  <text x="640" y="395" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="40" fill="#2A2A2A">삼성 기준</text>
+  <text x="640" y="445" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="48" fill="#E8722C">4주에 1회</text>
+  <text x="100" y="535" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="40" fill="#C85A18">청소 순서</text>
+  <g font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="40" fill="#2A2A2A">
+    <text x="100" y="615" font-weight="bold" fill="#E23B3B">1. 전원 끄고 플러그 뽑기 (감전 방지)</text>
+    <text x="100" y="690">2. 전면 패널 열고 필터 분리</text>
+    <text x="100" y="765">3. 진공청소기 또는 미지근한 물+중성세제</text>
+    <text x="100" y="840">4. 흐르는 물에 헹구기</text>
+    <text x="100" y="915" font-weight="bold" fill="#1F8A53">5. 그늘에서 2시간 이상 완전 건조</text>
+    <text x="100" y="990">6. 손상된 필터는 교체 후 재조립</text>
+  </g>
+  <rect x="64" y="1050" width="952" height="170" rx="20" fill="#FFF0DC"/>
+  <text x="100" y="1115" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="38" fill="#C85A18">⚠ 직사광선·뜨거운 물·세탁기 금지</text>
+  <text x="100" y="1175" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="36" fill="#2A2A2A">변형되면 조립 불량·소음 발생 (삼성 경고)</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#F3E3D5"/><text x="64" y="1322" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="30" fill="#5B6B7C">출처: LG·삼성전자 공식 가이드</text><text x="1016" y="1322" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="30" fill="#5B6B7C" text-anchor="end">blog.naver.com/trip_chocho</text></svg>

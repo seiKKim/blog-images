@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350"><rect width="1080" height="1350" fill="#FFF6EE"/><rect width="1080" height="190" fill="#E8722C"/><rect x="64" y="60" rx="30" ry="30" width="200" height="60" fill="#FFD23F"/><text x="164" y="102" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text><text x="64" y="160" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="60" fill="#ffffff">식초·베이킹소다, 쓸 거면 '따로'</text>
+  <rect x="64" y="250" width="460" height="330" rx="24" fill="#ffffff" stroke="#F0D8C4" stroke-width="3"/>
+  <text x="294" y="330" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="46" fill="#C85A18" text-anchor="middle">베이킹소다</text>
+  <text x="294" y="410" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="38" fill="#2A2A2A" text-anchor="middle">물과 1:1</text>
+  <text x="294" y="465" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="38" fill="#2A2A2A" text-anchor="middle">(또는 물·에탄올 1:1:1)</text>
+  <text x="294" y="540" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="34" fill="#5B6B7C" text-anchor="middle">알칼리성 → 장갑 착용</text>
+  <rect x="556" y="250" width="460" height="330" rx="24" fill="#ffffff" stroke="#F0D8C4" stroke-width="3"/>
+  <text x="786" y="330" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="46" fill="#C85A18" text-anchor="middle">식초</text>
+  <text x="786" y="430" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="38" fill="#2A2A2A" text-anchor="middle">베이킹소다로 불려</text>
+  <text x="786" y="485" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="38" fill="#2A2A2A" text-anchor="middle">헹군 뒤 따로 사용</text>
+  <rect x="64" y="630" width="952" height="150" rx="20" fill="#FFE2E2"/>
+  <text x="540" y="700" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="44" fill="#E23B3B" text-anchor="middle">✕ 식초 + 베이킹소다 동시 혼합 금지</text>
+  <text x="540" y="752" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="34" fill="#2A2A2A" text-anchor="middle">중화 반응으로 세정력이 오히려 떨어짐</text>
+  <text x="100" y="870" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="42" fill="#C85A18">꼭 지킬 점</text>
+  <g font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="38" fill="#2A2A2A">
+    <text x="100" y="945">• 세제가 필터에 남으면 호흡기로 들어감 → 충분히 헹굼</text>
+    <text x="100" y="1015">• 알루미늄·금속 냉각핀엔 다량 사용 금지 (부식 우려)</text>
+    <text x="100" y="1085">• 표면 탈취·세척 보조 수준, 깊은 곰팡이엔 한계</text>
+  </g>
+<rect x="0" y="1270" width="1080" height="80" fill="#F3E3D5"/><text x="1016" y="1322" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="30" fill="#5B6B7C" text-anchor="end">blog.naver.com/trip_chocho</text></svg>

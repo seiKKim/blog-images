@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#E8722C"/>
+  <circle cx="930" cy="170" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="220" fill="#ffffff" opacity="0.06"/>
+  <rect x="80" y="96" rx="30" ry="30" width="200" height="60" fill="#FFD23F"/><text x="180" y="138" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="80" y="330" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="64" fill="#FFE9D6">여름철 퀴퀴한 냄새,</text>
+  <text x="80" y="470" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="118" fill="#ffffff">에어컨 냄새</text>
+  <text x="80" y="600" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="118" fill="#FFD23F">셀프로 잡기</text>
+  <g>
+    <rect x="80" y="690" rx="22" width="920" height="250" fill="#ffffff" opacity="0.14"/>
+    <text x="115" y="772" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="50" fill="#ffffff">①  필터 청소 (2주~한 달)</text>
+    <text x="115" y="846" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="50" fill="#ffffff">②  냉방 후 송풍 건조 30분~1시간</text>
+    <text x="115" y="920" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="50" fill="#ffffff">③  18℃ 강냉 1시간으로 냄새 배출</text>
+  </g>
+  <text x="80" y="1020" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="32" fill="#FFE9D6" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

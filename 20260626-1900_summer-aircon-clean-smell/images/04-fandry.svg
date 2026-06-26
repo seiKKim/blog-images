@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#E8722C"/>
+  <rect x="64" y="55" rx="30" ry="30" width="200" height="60" fill="#FFD23F"/><text x="164" y="97" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="64" y="240" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="54" fill="#FFE9D6">비용 0원, 가장 효과적인 관리법</text>
+  <text x="64" y="360" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="92" fill="#ffffff">냉방 후 송풍 건조</text>
+  <text x="64" y="470" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="92" fill="#FFD23F">30분~1시간</text>
+  <rect x="64" y="540" width="952" height="120" rx="20" fill="#ffffff" opacity="0.15"/>
+  <text x="96" y="590" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="40" fill="#ffffff">송풍·공기청정·자동건조 모드로 내부 습기 제거</text>
+  <text x="96" y="638" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="36" fill="#FFE9D6">실외기 안 돌아 전력 소비는 선풍기 수준</text>
+  <text x="64" y="700" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="30" fill="#FFE9D6" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
