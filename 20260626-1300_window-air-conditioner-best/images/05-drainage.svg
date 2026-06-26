@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF3E9"/>
+  <rect width="1080" height="170" fill="#E8722C"/>
+  <text x="60" y="108" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff">무배수(자가증발)의 한계</text>
+
+  <text x="60" y="250" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#1a1a1a">"물이 절대 안 생긴다" (X)</text>
+  <text x="60" y="312" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#E8722C">"평소 물 관리를 줄여준다" (O)</text>
+
+  <rect x="60" y="360" width="960" height="180" rx="20" fill="#ffffff" stroke="#F0D6C2"/>
+  <text x="90" y="420" font-family="Malgun Gothic" font-size="38" font-weight="bold" fill="#1a1a1a">이럴 땐 응축수가 고일 수 있어요</text>
+  <text x="90" y="478" font-family="Malgun Gothic" font-size="34" fill="#1a1a1a">· 장마철 · 습한 방 · 밤새 장시간 운전</text>
+  <text x="90" y="522" font-family="Malgun Gothic" font-size="34" fill="#1a1a1a">· 수평이 안 맞는 설치 → 배수호스 연결 권장</text>
+
+  <rect x="0" y="600" width="1080" height="120" fill="#F0E0D2"/>
+  <text x="60" y="668" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">누수는 무조건 고장 아님 — 기울기·배수구막힘·호스꺾임·창틀틈새 점검</text>
+</svg>

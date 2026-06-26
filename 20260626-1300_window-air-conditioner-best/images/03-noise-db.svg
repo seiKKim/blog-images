@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF3E9"/>
+  <rect width="1080" height="190" fill="#E8722C"/>
+  <text x="60" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">평형·모드별 소음(dB)</text>
+
+  <text x="60" y="280" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C">신형 인버터 저소음/무풍 최저 ~ 일반 운전</text>
+
+  <g>
+    <text x="80" y="348" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#1a1a1a">저소음/무풍 모드</text><rect x="80" y="360" width="280" height="74" rx="12" fill="#E8722C"/><text x="380" y="414" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#E8722C">32~34dB</text>
+    <text x="80" y="478" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#1a1a1a">5평형</text><rect x="80" y="490" width="360" height="74" rx="12" fill="#F0964F"/><text x="460" y="544" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#E8722C">30~40dB</text>
+    <text x="80" y="608" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#1a1a1a">7평형</text><rect x="80" y="620" width="430" height="74" rx="12" fill="#F0964F"/><text x="530" y="674" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#E8722C">30~45dB</text>
+    <text x="80" y="738" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#1a1a1a">8평형</text><rect x="80" y="750" width="520" height="74" rx="12" fill="#E8722C"/><text x="620" y="804" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#E8722C">45~50dB</text>
+    <text x="80" y="868" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#1a1a1a">일반 운전</text><rect x="80" y="880" width="720" height="74" rx="12" fill="#C75A1A"/><text x="820" y="934" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#E8722C">약 60dB</text>
+  </g>
+
+  <rect x="60" y="1010" width="960" height="200" rx="20" fill="#ffffff" stroke="#F0D6C2"/>
+  <text x="90" y="1075" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#1a1a1a">스펙의 dB는 '최저(취침모드)' 기준</text>
+  <text x="90" y="1140" font-family="Malgun Gothic" font-size="36" fill="#1a1a1a">출력을 올리면 소음도 커집니다. 침실용은 꼭 확인!</text>
+  <text x="90" y="1190" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">일반 60dB ≒ 주방후드 수준</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0E0D2"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">측정값: 리뷰 매체 기준 (삼성·위닉스·캐리어 32dB, 파세코 33.9dB)</text>
+</svg>

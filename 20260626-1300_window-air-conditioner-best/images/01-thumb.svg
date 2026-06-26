@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#E8722C"/>
+  <circle cx="960" cy="160" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <rect x="80" y="84" rx="34" ry="34" width="220" height="68" fill="#FFD23F"/>
+  <text x="190" y="130" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">추천아이템</text>
+
+  <text x="80" y="250" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#FFF3E9">설치기사 없이 직접! 2026</text>
+  <text x="80" y="360" font-family="Malgun Gothic" font-weight="bold" font-size="118" fill="#ffffff">창문형 에어컨</text>
+  <text x="80" y="470" font-family="Malgun Gothic" font-weight="bold" font-size="92" fill="#FFD23F">용도별 BEST 4</text>
+
+  <!-- 4분할 카드 -->
+  <g font-family="Malgun Gothic">
+    <rect x="80" y="540" width="445" height="190" rx="22" fill="#ffffff" opacity="0.15"/>
+    <text x="110" y="610" font-size="46" font-weight="bold" fill="#ffffff">① 원룸 가성비</text>
+    <text x="110" y="675" font-size="40" fill="#FFD23F">5평·55~65만원</text>
+
+    <rect x="555" y="540" width="445" height="190" rx="22" fill="#ffffff" opacity="0.15"/>
+    <text x="585" y="610" font-size="46" font-weight="bold" fill="#ffffff">② 침실 저소음</text>
+    <text x="585" y="675" font-size="40" fill="#FFD23F">32~34dB</text>
+
+    <rect x="80" y="750" width="445" height="190" rx="22" fill="#ffffff" opacity="0.15"/>
+    <text x="110" y="820" font-size="46" font-weight="bold" fill="#ffffff">③ 거실 고용량</text>
+    <text x="110" y="885" font-size="40" fill="#FFD23F">6평+·80~92만원</text>
+
+    <rect x="555" y="750" width="445" height="190" rx="22" fill="#ffffff" opacity="0.15"/>
+    <text x="585" y="820" font-size="46" font-weight="bold" fill="#ffffff">④ 무배수 편의</text>
+    <text x="585" y="885" font-size="40" fill="#FFD23F">자가증발</text>
+  </g>
+
+  <text x="80" y="1010" font-family="Malgun Gothic" font-size="34" fill="#FFF3E9" opacity="0.9">평형·소음·가격 한눈에 비교</text>
+</svg>
