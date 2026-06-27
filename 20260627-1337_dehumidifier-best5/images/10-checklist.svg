@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Malgun Gothic">
+<rect width="1080" height="1350" fill="#F2F8FC"/>
+<rect width="1080" height="200" fill="#1B7BB5"/>
+<text x="60" y="128" font-weight="bold" font-size="62" fill="#FFFFFF">구매 전 체크리스트 8</text>
+<rect x="60" y="265" width="960" height="115" rx="16" fill="#FFFFFF" stroke="#D3E4F0"/>
+<rect x="95" y="295" width="56" height="56" rx="12" fill="none" stroke="#1B7BB5" stroke-width="6"/>
+<path d="M 108 323 l 14 16 l 24 -30" fill="none" stroke="#21A7B5" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="185" y="340" font-size="39" fill="#1A2A35">사용 평수·빨래건조 빈도를 정했는가?</text>
+<rect x="60" y="393" width="960" height="115" rx="16" fill="#FFFFFF" stroke="#D3E4F0"/>
+<rect x="95" y="423" width="56" height="56" rx="12" fill="none" stroke="#1B7BB5" stroke-width="6"/>
+<path d="M 108 451 l 14 16 l 24 -30" fill="none" stroke="#21A7B5" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="185" y="468" font-size="39" fill="#1A2A35">표기가 아닌 실측·실사용 기준으로 봤는가?</text>
+<rect x="60" y="521" width="960" height="115" rx="16" fill="#FFFFFF" stroke="#D3E4F0"/>
+<rect x="95" y="551" width="56" height="56" rx="12" fill="none" stroke="#1B7BB5" stroke-width="6"/>
+<path d="M 108 579 l 14 16 l 24 -30" fill="none" stroke="#21A7B5" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="185" y="596" font-size="39" fill="#1A2A35">연속배수 지원 여부를 확인했는가?</text>
+<rect x="60" y="649" width="960" height="115" rx="16" fill="#FFFFFF" stroke="#D3E4F0"/>
+<rect x="95" y="679" width="56" height="56" rx="12" fill="none" stroke="#1B7BB5" stroke-width="6"/>
+<path d="M 108 707 l 14 16 l 24 -30" fill="none" stroke="#21A7B5" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="185" y="724" font-size="39" fill="#1A2A35">에너지효율 등급·인버터를 확인했는가?</text>
+<rect x="60" y="777" width="960" height="115" rx="16" fill="#FFFFFF" stroke="#D3E4F0"/>
+<rect x="95" y="807" width="56" height="56" rx="12" fill="none" stroke="#1B7BB5" stroke-width="6"/>
+<path d="M 108 835 l 14 16 l 24 -30" fill="none" stroke="#21A7B5" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="185" y="852" font-size="39" fill="#1A2A35">소음(dB)을 확인했는가? (침실용 저소음)</text>
+<rect x="60" y="905" width="960" height="115" rx="16" fill="#FFFFFF" stroke="#D3E4F0"/>
+<rect x="95" y="935" width="56" height="56" rx="12" fill="none" stroke="#1B7BB5" stroke-width="6"/>
+<path d="M 108 963 l 14 16 l 24 -30" fill="none" stroke="#21A7B5" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="185" y="980" font-size="39" fill="#1A2A35">자동제습·습도설정·만수알림·타이머가 있는가?</text>
+<rect x="60" y="1033" width="960" height="115" rx="16" fill="#FFFFFF" stroke="#D3E4F0"/>
+<rect x="95" y="1063" width="56" height="56" rx="12" fill="none" stroke="#1B7BB5" stroke-width="6"/>
+<path d="M 108 1091 l 14 16 l 24 -30" fill="none" stroke="#21A7B5" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="185" y="1108" font-size="39" fill="#1A2A35">물통 탈착·바퀴·무게 등 이동성을 봤는가?</text>
+<rect x="60" y="1161" width="960" height="115" rx="16" fill="#FFFFFF" stroke="#D3E4F0"/>
+<rect x="95" y="1191" width="56" height="56" rx="12" fill="none" stroke="#1B7BB5" stroke-width="6"/>
+<path d="M 108 1219 l 14 16 l 24 -30" fill="none" stroke="#21A7B5" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="185" y="1236" font-size="39" fill="#1A2A35">필터 교체·세척이 쉬운 구조인가?</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E3EEF6"/>
+<text x="60" y="1322" font-size="34" fill="#5B6B7C">출처: 본문 정리 · blog.naver.com/trip_chocho</text>
+</svg>

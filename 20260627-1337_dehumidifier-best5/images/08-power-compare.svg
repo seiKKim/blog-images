@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Malgun Gothic">
+<rect width="1080" height="1350" fill="#F2F8FC"/>
+<rect width="1080" height="200" fill="#1B7BB5"/>
+<text x="60" y="128" font-weight="bold" font-size="62" fill="#FFFFFF">소비전력·전기료 비교</text>
+<text x="60" y="300" font-weight="bold" font-size="46" fill="#1A2A35">소비전력 (W)</text>
+<text x="60" y="344" font-weight="bold" font-size="40" fill="#1A2A35">제습기</text>
+<rect x="60" y="360" width="940" height="64" rx="14" fill="#E1ECF4"/>
+<rect x="145" y="360" width="85" height="64" rx="14" fill="#1B7BB5"/>
+<text x="1000" y="405" font-weight="bold" font-size="36" fill="#1A2A35" text-anchor="end">200~400W</text>
+<text x="60" y="474" font-weight="bold" font-size="40" fill="#1A2A35">에어컨 제습</text>
+<rect x="60" y="490" width="940" height="64" rx="14" fill="#E1ECF4"/>
+<rect x="359" y="490" width="641" height="64" rx="14" fill="#E23B3B"/>
+<text x="1000" y="535" font-weight="bold" font-size="36" fill="#1A2A35" text-anchor="end">700~2,200W</text>
+<rect x="60" y="600" width="960" height="2" fill="#D3E4F0"/>
+<rect x="60" y="650" width="960" height="220" rx="20" fill="#FFFFFF" stroke="#D3E4F0"/>
+<text x="100" y="725" font-weight="bold" font-size="46" fill="#1A2A35">물먹는하마류(제습제)</text>
+<text x="100" y="790" font-size="40" fill="#5B6B7C">전기 불필요 · 소모품(주기 교체 필요)</text>
+<text x="100" y="845" font-size="38" fill="#5B6B7C">좁은 밀폐공간 보조용</text>
+<rect x="60" y="910" width="960" height="290" rx="22" fill="#E7F5EC" stroke="#B6DEC4"/>
+<text x="100" y="985" font-weight="bold" font-size="46" fill="#1F8A53">제습기 = 전기료 훨씬 적게</text>
+<text x="100" y="1055" font-size="40" fill="#1A2A35">에어컨: 희망 온도까지 / 제습기: 희망 습도까지</text>
+<text x="100" y="1120" font-size="40" fill="#1A2A35">제습기는 실내온도 1~2℃ 오를 수 있음</text>
+<text x="100" y="1175" font-size="38" fill="#5B6B7C">방·거실 전체 = 제습기 / 옷장·신발장 = 제습제</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E3EEF6"/>
+<text x="60" y="1322" font-size="34" fill="#5B6B7C">출처: 본문 정리 · blog.naver.com/trip_chocho</text>
+</svg>

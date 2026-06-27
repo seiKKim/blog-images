@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Malgun Gothic">
+<rect width="1080" height="1350" fill="#F2F8FC"/>
+<rect width="1080" height="200" fill="#1B7BB5"/>
+<text x="60" y="128" font-weight="bold" font-size="62" fill="#FFFFFF">가격대별 시세 (2026.6)</text>
+<text x="60" y="300" font-weight="bold" font-size="42" fill="#1A2A35">소형 5~10L</text>
+<rect x="60" y="320" width="940" height="58" rx="14" fill="#E1ECF4"/>
+<rect x="128" y="320" width="95" height="58" rx="14" fill="#21A7B5"/>
+<text x="1000" y="364" font-weight="bold" font-size="38" fill="#1A2A35" text-anchor="end">약 5만~12만원</text>
+<text x="60" y="470" font-weight="bold" font-size="42" fill="#1A2A35">중형 12~16L</text>
+<rect x="60" y="490" width="940" height="58" rx="14" fill="#E1ECF4"/>
+<rect x="292" y="490" width="109" height="58" rx="14" fill="#1B7BB5"/>
+<text x="1000" y="534" font-weight="bold" font-size="38" fill="#1A2A35" text-anchor="end">약 17만~25만원</text>
+<text x="60" y="640" font-weight="bold" font-size="42" fill="#1A2A35">대형 18~20L</text>
+<rect x="60" y="660" width="940" height="58" rx="14" fill="#E1ECF4"/>
+<rect x="401" y="660" width="204" height="58" rx="14" fill="#125A86"/>
+<text x="1000" y="704" font-weight="bold" font-size="38" fill="#1A2A35" text-anchor="end">약 25만~40만원</text>
+<text x="60" y="810" font-weight="bold" font-size="42" fill="#1A2A35">프리미엄</text>
+<rect x="60" y="830" width="940" height="58" rx="14" fill="#E1ECF4"/>
+<rect x="550" y="830" width="450" height="58" rx="14" fill="#8A5BB0"/>
+<text x="1000" y="874" font-weight="bold" font-size="38" fill="#1A2A35" text-anchor="end">약 36만~69만원</text>
+<rect x="60" y="1010" width="960" height="180" rx="20" fill="#FFF4E0" stroke="#F2D58A"/>
+<text x="100" y="1085" font-weight="bold" font-size="42" fill="#9A6A00">경쟁 가장 치열한 구간 = 중형 12~16L</text>
+<text x="100" y="1150" font-size="38" fill="#1A2A35">첫 구매라면 이 구간 추천</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E3EEF6"/>
+<text x="60" y="1322" font-size="34" fill="#5B6B7C">시세는 변동 · 상품카드 가격 우선 확인</text>
+</svg>

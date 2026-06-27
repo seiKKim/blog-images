@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect width="1080" height="720" fill="#F4F7FB"/>
+<rect width="1080" height="150" fill="#1B5FA6"/>
+<text x="60" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">소득은 "이중"으로 본다</text>
+<rect x="60" y="200" width="960" height="170" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+<text x="100" y="265" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1a1a1a">청년독립가구</text>
+<text x="100" y="325" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C">본인 + 배우자 + 자녀 등</text>
+<text x="1000" y="305" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#1B5FA6" text-anchor="end">중위 60% 이하</text>
+<rect x="60" y="400" width="960" height="170" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+<text x="100" y="465" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1a1a1a">원가구 (부모 포함)</text>
+<text x="100" y="525" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C">청년 + 부모 등 1촌 직계혈족</text>
+<text x="1000" y="505" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#1B5FA6" text-anchor="end">중위 100% 이하</text>
+<rect x="60" y="600" width="960" height="80" rx="16" fill="#E8EEF5"/>
+<text x="90" y="652" font-family="Malgun Gothic" font-size="36" fill="#16487E">만 30세 이상·혼인·생계 분리 등은 청년 본인 소득만 적용</text>
+</svg>
