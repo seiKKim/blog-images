@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF3EA"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="125" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#FFFFFF">곰팡이 생기는 조건 vs 적정 습도</text>
+
+  <!-- 곰팡이 잘 자라는 구간 -->
+  <rect x="60" y="270" width="960" height="320" rx="20" fill="#ffffff" stroke="#F0D2BC"/>
+  <rect x="60" y="270" width="14" height="320" rx="7" fill="#B8551A"/>
+  <text x="110" y="350" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#B8551A">곰팡이가 잘 자라는 환경</text>
+  <text x="110" y="448" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">온도 <tspan fill="#B8551A" font-size="60">20~30℃</tspan></text>
+  <text x="110" y="548" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">습도 <tspan fill="#B8551A" font-size="60">60% 이상</tspan></text>
+
+  <!-- 적정 구간 -->
+  <rect x="60" y="630" width="960" height="320" rx="20" fill="#ffffff" stroke="#CDEBD8"/>
+  <rect x="60" y="630" width="14" height="320" rx="7" fill="#1F8A53"/>
+  <text x="110" y="710" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1F8A53">권장 실내 환경</text>
+  <text x="110" y="808" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">습도 <tspan fill="#1F8A53" font-size="60">40~50%</tspan> (이상적)</text>
+  <text x="110" y="908" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">공통 목표 <tspan fill="#1F8A53" font-size="56">60% 미만</tspan></text>
+
+  <!-- 기관 권고 요약 -->
+  <rect x="60" y="990" width="960" height="220" rx="20" fill="#ffffff" stroke="#E3D2C4"/>
+  <text x="100" y="1060" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a">CDC: 50% 이하</text>
+  <text x="100" y="1130" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a">EPA: 60% 미만(30~50%)</text>
+  <text x="600" y="1095" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a">국내 매체: 23℃·40~50%</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 미국 CDC·EPA / 환경부 환경보건포털 등 종합</text>
+</svg>

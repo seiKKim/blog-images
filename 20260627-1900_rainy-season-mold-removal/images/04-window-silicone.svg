@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF3EA"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="125" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#FFFFFF">창틀·실리콘 코킹 틈새</text>
+
+  <!-- 창문 일러스트 + 코킹에 키친타월 -->
+  <g>
+    <rect x="160" y="280" width="760" height="540" rx="16" fill="#ffffff" stroke="#B8551A" stroke-width="10"/>
+    <line x1="540" y1="280" x2="540" y2="820" stroke="#B8551A" stroke-width="10"/>
+    <line x1="160" y1="550" x2="920" y2="550" stroke="#B8551A" stroke-width="10"/>
+    <rect x="190" y="310" width="320" height="210" fill="#E8F1FA"/>
+    <rect x="570" y="310" width="320" height="210" fill="#E8F1FA"/>
+    <rect x="190" y="580" width="320" height="210" fill="#E8F1FA"/>
+    <rect x="570" y="580" width="320" height="210" fill="#E8F1FA"/>
+    <!-- 하단 코킹 라인 + 키친타월 -->
+    <rect x="160" y="820" width="760" height="44" fill="#D9D2C8"/>
+    <rect x="220" y="826" width="640" height="32" rx="6" fill="#E8722C" opacity="0.9"/>
+    <text x="540" y="852" font-family="Malgun Gothic" font-weight="bold" font-size="26" fill="#FFFFFF" text-anchor="middle">락스 적신 키친타월</text>
+  </g>
+
+  <!-- 방법 박스 -->
+  <rect x="60" y="910" width="960" height="100" rx="16" fill="#ffffff" stroke="#E3D2C4"/>
+  <text x="100" y="974" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">키친타월+락스 올려 <tspan fill="#E8722C">약 3시간</tspan> 방치</text>
+
+  <rect x="60" y="1030" width="960" height="100" rx="16" fill="#ffffff" stroke="#E3D2C4"/>
+  <text x="100" y="1094" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">고농도 락스(5:1)는 <tspan fill="#B8551A">15분 이내</tspan>로 제한</text>
+
+  <rect x="60" y="1150" width="960" height="96" rx="16" fill="#FFF8E6" stroke="#F0DCA0"/>
+  <text x="100" y="1212" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">과산화수소 분무도 제거 효과</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">※ 작업 시 고무장갑·마스크 착용 필수</text>
+</svg>

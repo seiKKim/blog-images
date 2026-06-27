@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF3EA"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="125" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#FFFFFF">욕실 타일·줄눈 제거</text>
+
+  <!-- 타일 일러스트: 줄눈에 키친타월 덮은 모습 -->
+  <g>
+    <rect x="60" y="270" width="960" height="520" rx="24" fill="#ffffff" stroke="#E3D2C4"/>
+    <!-- 타일 그리드 -->
+    <g stroke="#D8E0E8" stroke-width="8">
+      <line x1="120" y1="330" x2="120" y2="730"/>
+      <line x1="120" y1="330" x2="960" y2="330"/>
+      <line x1="120" y1="430" x2="960" y2="430"/>
+      <line x1="120" y1="530" x2="960" y2="530"/>
+      <line x1="120" y1="630" x2="960" y2="630"/>
+      <line x1="120" y1="730" x2="960" y2="730"/>
+      <line x1="260" y1="330" x2="260" y2="730"/>
+      <line x1="400" y1="330" x2="400" y2="730"/>
+      <line x1="540" y1="330" x2="540" y2="730"/>
+      <line x1="680" y1="330" x2="680" y2="730"/>
+      <line x1="820" y1="330" x2="820" y2="730"/>
+      <line x1="960" y1="330" x2="960" y2="730"/>
+    </g>
+    <!-- 덮어둔 키친타월(분무 표시) -->
+    <rect x="270" y="540" width="400" height="80" rx="10" fill="#E8722C" opacity="0.85"/>
+    <text x="470" y="592" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#FFFFFF" text-anchor="middle">락스 적신 키친타월</text>
+    <!-- 분무 방울 -->
+    <circle cx="730" cy="400" r="9" fill="#E8722C" opacity="0.6"/>
+    <circle cx="770" cy="430" r="7" fill="#E8722C" opacity="0.5"/>
+    <circle cx="700" cy="450" r="6" fill="#E8722C" opacity="0.5"/>
+  </g>
+
+  <!-- 방법 박스 -->
+  <rect x="60" y="830" width="960" height="100" rx="16" fill="#ffffff" stroke="#E3D2C4"/>
+  <text x="100" y="894" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">일반 곰팡이 <tspan fill="#E8722C">락스 1 : 물 10</tspan> · 10~20분</text>
+
+  <rect x="60" y="950" width="960" height="100" rx="16" fill="#ffffff" stroke="#E3D2C4"/>
+  <text x="100" y="1014" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">완고한 검은곰팡이 <tspan fill="#B8551A">락스 5 : 물 1</tspan> · 20~30분</text>
+
+  <rect x="60" y="1070" width="960" height="100" rx="16" fill="#FFF8E6" stroke="#F0DCA0"/>
+  <text x="100" y="1134" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">마무리: 물로 <tspan fill="#E8722C">3회 이상</tspan> 헹굼</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">※ 재질·곰팡이 정도에 따라 비율·시간 조정</text>
+</svg>

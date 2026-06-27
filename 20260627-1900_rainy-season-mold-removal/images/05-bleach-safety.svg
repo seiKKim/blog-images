@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF3EA"/>
+  <rect width="1080" height="200" fill="#C0392B"/>
+  <text x="60" y="125" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#FFFFFF">락스 안전수칙</text>
+
+  <!-- 절대 섞지 마세요 경고 박스 -->
+  <rect x="60" y="270" width="960" height="300" rx="24" fill="#FDEAE8" stroke="#C0392B" stroke-width="6"/>
+  <!-- 경고 삼각형 -->
+  <path d="M170 350 L240 470 L100 470 Z" fill="none" stroke="#C0392B" stroke-width="10" stroke-linejoin="round"/>
+  <text x="170" y="448" font-family="Malgun Gothic" font-weight="bold" font-size="70" fill="#C0392B" text-anchor="middle">!</text>
+  <text x="300" y="378" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#C0392B">절대 섞지 마세요</text>
+  <text x="300" y="452" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">락스 + 산성물질</text>
+  <text x="300" y="510" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a">(식초·구연산·욕실세정제)</text>
+  <text x="300" y="555" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#C0392B">→ 유독 염소가스 발생</text>
+
+  <!-- 보호장구 & 환기 -->
+  <text x="60" y="660" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#1a1a1a">기본 안전수칙</text>
+
+  <!-- 고무장갑 아이콘 박스 -->
+  <rect x="60" y="700" width="300" height="240" rx="20" fill="#ffffff" stroke="#E3D2C4"/>
+  <path d="M165 760 v60 M195 750 v70 M225 760 v60 M150 820 q-10 60 30 80 h70 q40 -20 30 -90 v-20 h-130 z" fill="none" stroke="#E8722C" stroke-width="8" stroke-linejoin="round"/>
+  <text x="210" y="910" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">고무장갑(필수)</text>
+
+  <!-- 마스크 아이콘 박스 -->
+  <rect x="390" y="700" width="300" height="240" rx="20" fill="#ffffff" stroke="#E3D2C4"/>
+  <rect x="475" y="775" width="130" height="90" rx="20" fill="none" stroke="#E8722C" stroke-width="8"/>
+  <line x1="475" y1="800" x2="605" y2="800" stroke="#E8722C" stroke-width="6"/>
+  <line x1="475" y1="840" x2="605" y2="840" stroke="#E8722C" stroke-width="6"/>
+  <text x="540" y="910" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">마스크 착용</text>
+
+  <!-- 환기 아이콘 박스 -->
+  <rect x="720" y="700" width="300" height="240" rx="20" fill="#ffffff" stroke="#E3D2C4"/>
+  <rect x="820" y="765" width="100" height="100" fill="none" stroke="#E8722C" stroke-width="8"/>
+  <path d="M780 800 q40 -25 80 0 M780 840 q40 -25 80 0" fill="none" stroke="#E8722C" stroke-width="7"/>
+  <text x="870" y="910" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">충분한 환기</text>
+
+  <!-- 추가 수칙 -->
+  <rect x="60" y="970" width="960" height="240" rx="20" fill="#ffffff" stroke="#E3D2C4"/>
+  <text x="100" y="1040" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a">· 락스 사용 후 다른 세제는 30분 이상 환기 뒤</text>
+  <text x="100" y="1110" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a">· 사용 후 물걸레로 3회 이상 헹굼</text>
+  <text x="100" y="1180" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a">· 뜨거운 물 금물, 사용 직전 필요한 양만 희석</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 환경부 환경보건포털 등 종합</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#E8722C"/>
+  <circle cx="950" cy="160" r="280" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="1000" r="220" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="86" rx="34" ry="34" width="200" height="68" fill="#FFD23F"/>
+  <text x="180" y="133" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="258" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#FFF3EA">장마철 필수 생활정보</text>
+
+  <!-- 메인 제목 (핵심 키워드 또렷이) -->
+  <text x="80" y="400" font-family="Malgun Gothic" font-weight="bold" font-size="118" fill="#FFFFFF">장마철 곰팡이</text>
+  <text x="80" y="528" font-family="Malgun Gothic" font-weight="bold" font-size="118" fill="#FFD23F">제거·예방법</text>
+
+  <!-- 장소 아이콘 3종 (욕실/벽지/창틀) -->
+  <g>
+    <rect x="80" y="600" rx="24" width="280" height="200" fill="#ffffff" opacity="0.16"/>
+    <rect x="400" y="600" rx="24" width="280" height="200" fill="#ffffff" opacity="0.16"/>
+    <rect x="720" y="600" rx="24" width="280" height="200" fill="#ffffff" opacity="0.16"/>
+    <!-- 욕실: 샤워 아이콘 -->
+    <circle cx="220" cy="678" r="34" fill="none" stroke="#FFFFFF" stroke-width="7"/>
+    <line x1="220" y1="678" x2="220" y2="640" stroke="#FFFFFF" stroke-width="7"/>
+    <line x1="200" y1="730" x2="200" y2="752" stroke="#FFFFFF" stroke-width="6"/>
+    <line x1="222" y1="730" x2="222" y2="756" stroke="#FFFFFF" stroke-width="6"/>
+    <line x1="244" y1="730" x2="244" y2="752" stroke="#FFFFFF" stroke-width="6"/>
+    <text x="220" y="788" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#FFFFFF" text-anchor="middle">욕실</text>
+    <!-- 벽지: 벽/사각 -->
+    <rect x="500" y="636" width="80" height="80" fill="none" stroke="#FFFFFF" stroke-width="7"/>
+    <line x1="500" y1="676" x2="580" y2="676" stroke="#FFFFFF" stroke-width="5"/>
+    <line x1="540" y1="636" x2="540" y2="716" stroke="#FFFFFF" stroke-width="5"/>
+    <text x="540" y="788" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#FFFFFF" text-anchor="middle">벽지</text>
+    <!-- 창틀: 창문 -->
+    <rect x="820" y="632" width="80" height="84" fill="none" stroke="#FFFFFF" stroke-width="7"/>
+    <line x1="860" y1="632" x2="860" y2="716" stroke="#FFFFFF" stroke-width="6"/>
+    <line x1="820" y1="674" x2="900" y2="674" stroke="#FFFFFF" stroke-width="6"/>
+    <text x="860" y="788" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#FFFFFF" text-anchor="middle">창틀</text>
+  </g>
+
+  <!-- 핵심 수치 띠 -->
+  <rect x="80" y="848" rx="22" ry="22" width="920" height="116" fill="#ffffff" opacity="0.18"/>
+  <text x="540" y="922" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#FFFFFF" text-anchor="middle">적정 실내 습도 <tspan fill="#FFD23F">40~50%</tspan> 유지</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1024" font-family="Malgun Gothic" font-size="32" fill="#FFF3EA" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
