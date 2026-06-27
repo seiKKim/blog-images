@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF3E8"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <rect x="60" y="56" rx="26" ry="26" width="172" height="60" fill="#FFD23F"/>
+  <text x="146" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#2A2118" text-anchor="middle">생활꿀팁</text>
+  <text x="252" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">제습기 월 전기료</text>
+
+  <!-- 기준선 -->
+  <line x1="160" y1="560" x2="980" y2="560" stroke="#7A6E62" stroke-width="4"/>
+
+  <!-- 1등급 막대 -->
+  <rect x="280" y="370" width="180" height="190" rx="10" fill="#E8722C"/>
+  <text x="370" y="340" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#C85D1C" text-anchor="middle">약 7~8천원</text>
+  <text x="370" y="610" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#2A2118" text-anchor="middle">1등급</text>
+
+  <!-- 3등급 막대 (더 높게) -->
+  <rect x="660" y="290" width="180" height="270" rx="10" fill="#7A6E62"/>
+  <text x="750" y="260" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#2A2118" text-anchor="middle">월 3~4천원 더</text>
+  <text x="750" y="610" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#2A2118" text-anchor="middle">3등급</text>
+
+  <!-- 차이 화살표 -->
+  <text x="570" y="450" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#C85D1C" text-anchor="middle">↑ 최대</text>
+  <text x="570" y="492" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#C85D1C" text-anchor="middle">3~4천원</text>
+
+  <rect x="60" y="640" width="960" height="60" rx="14" fill="#E8722C"/>
+  <text x="540" y="682" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#FFFFFF" text-anchor="middle">1등급(16L급)·월 171시간 기준 · 사용 길수록 1등급 유리</text>
+</svg>

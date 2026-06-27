@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF3E8"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <rect x="60" y="56" rx="26" ry="26" width="172" height="60" fill="#FFD23F"/>
+  <text x="146" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#2A2118" text-anchor="middle">생활꿀팁</text>
+  <text x="252" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">쉰내, 왜 날까?</text>
+
+  <rect x="40" y="300" width="250" height="200" rx="20" fill="#FFFFFF" stroke="#E8722C" stroke-width="6"/>
+  <text x="165" y="388" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#2A2118" text-anchor="middle">덜 마름</text>
+  <text x="165" y="442" font-family="Malgun Gothic" font-size="30" fill="#7A6E62" text-anchor="middle">습기 남음</text>
+  <polygon points="300,378 360,420 300,462" fill="#C85D1C" transform="translate(8,-22)"/>
+  <rect x="415" y="300" width="250" height="200" rx="20" fill="#FFFFFF" stroke="#E8722C" stroke-width="6"/>
+  <text x="540" y="388" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#2A2118" text-anchor="middle">세균 번식</text>
+  <text x="540" y="442" font-family="Malgun Gothic" font-size="30" fill="#7A6E62" text-anchor="middle">면섬유 좋아함</text>
+  <polygon points="300,378 360,420 300,462" fill="#C85D1C" transform="translate(383,-22)"/>
+  <rect x="790" y="300" width="250" height="200" rx="20" fill="#FFFFFF" stroke="#E8722C" stroke-width="6"/>
+  <text x="915" y="388" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#2A2118" text-anchor="middle">쉰내 발생</text>
+  <text x="915" y="442" font-family="Malgun Gothic" font-size="30" fill="#7A6E62" text-anchor="middle">꿉꿉한 냄새</text>
+
+  <rect x="40" y="560" width="1000" height="110" rx="18" fill="#E8722C"/>
+  <text x="540" y="628" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">빨리 말려서 번식할 시간을 줄이는 것이 핵심</text>
+</svg>

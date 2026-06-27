@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4FBF7"/>
+  <rect width="1080" height="180" fill="#1F8A53"/>
+  <text x="60" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">재산세 계산 흐름</text>
+
+  <!-- step 1 -->
+  <rect x="120" y="250" width="840" height="120" rx="18" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+  <text x="540" y="312" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#1a1a1a" text-anchor="middle">공시가격</text>
+  <text x="540" y="350" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C" text-anchor="middle">국토부 공시가격</text>
+  <text x="540" y="420" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1F8A53" text-anchor="middle">▼ × 공정시장가액비율</text>
+
+  <!-- step 2 -->
+  <rect x="120" y="455" width="840" height="135" rx="18" fill="#E8F5EC" stroke="#1F8A53" stroke-width="2"/>
+  <text x="540" y="515" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="middle">공정시장가액비율</text>
+  <text x="540" y="560" font-family="Malgun Gothic" font-size="34" fill="#1a1a1a" text-anchor="middle">1세대 1주택 43~45% · 일반 60%</text>
+  <text x="540" y="650" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1F8A53" text-anchor="middle">▼ =</text>
+
+  <!-- step 3 -->
+  <rect x="120" y="685" width="840" height="120" rx="18" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+  <text x="540" y="760" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#1a1a1a" text-anchor="middle">과세표준</text>
+  <text x="540" y="855" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1F8A53" text-anchor="middle">▼ × 세율(누진)</text>
+
+  <!-- step 4 -->
+  <rect x="120" y="890" width="840" height="135" rx="18" fill="#E8F5EC" stroke="#1F8A53" stroke-width="2"/>
+  <text x="540" y="950" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="middle">4단계 누진세율 0.1~0.4%</text>
+  <text x="540" y="995" font-family="Malgun Gothic" font-size="34" fill="#1a1a1a" text-anchor="middle">1주택 특례세율 0.05%p 인하</text>
+  <text x="540" y="1085" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1F8A53" text-anchor="middle">▼ =</text>
+
+  <!-- step 5 -->
+  <rect x="120" y="1120" width="840" height="130" rx="18" fill="#1F8A53"/>
+  <text x="540" y="1188" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">재산세 본세</text>
+  <text x="540" y="1230" font-family="Malgun Gothic" font-size="32" fill="#FFD23F" text-anchor="middle">+ 도시지역분 · 지방교육세 합산</text>
+
+  <text x="540" y="1320" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C" text-anchor="middle">정확한 세액은 위택스·지자체 계산기에서 확인</text>
+</svg>

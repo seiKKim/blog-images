@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF3E8"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <rect x="60" y="56" rx="26" ry="26" width="172" height="60" fill="#FFD23F"/>
+  <text x="146" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#2A2118" text-anchor="middle">생활꿀팁</text>
+  <text x="252" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">선풍기를 창문 방향으로</text>
+
+  <!-- 창문 -->
+  <rect x="760" y="260" width="240" height="300" rx="10" fill="#D9ECF7" stroke="#E8722C" stroke-width="6"/>
+  <line x1="880" y1="260" x2="880" y2="560" stroke="#E8722C" stroke-width="6"/>
+  <line x1="760" y1="410" x2="1000" y2="410" stroke="#E8722C" stroke-width="6"/>
+  <text x="880" y="600" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#2A2118" text-anchor="middle">창문(열기)</text>
+
+  <!-- 선풍기 -->
+  <circle cx="260" cy="400" r="86" fill="none" stroke="#E8722C" stroke-width="12"/>
+  <circle cx="260" cy="400" r="20" fill="#FFD23F"/>
+  <path d="M260 400 L260 326 A74 74 0 0 1 324 437 Z" fill="#E8722C" opacity="0.85"/>
+  <path d="M260 400 L324 437 A74 74 0 0 1 196 437 Z" fill="#E8722C" opacity="0.55"/>
+  <path d="M260 400 L196 437 A74 74 0 0 1 260 326 Z" fill="#E8722C" opacity="0.35"/>
+  <rect x="244" y="486" width="32" height="80" rx="8" fill="#C85D1C"/>
+  <text x="260" y="600" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#2A2118" text-anchor="middle">선풍기</text>
+
+  <!-- 화살표: 습한 공기 -> 창밖 -->
+  <g stroke="#C85D1C" stroke-width="14" fill="none">
+    <line x1="380" y1="370" x2="700" y2="370"/>
+    <line x1="380" y1="430" x2="700" y2="430"/>
+  </g>
+  <polygon points="700,348 752,400 700,452" fill="#C85D1C"/>
+  <text x="540" y="320" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#C85D1C" text-anchor="middle">습한 공기 밖으로</text>
+
+  <text x="540" y="660" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#2A2118" text-anchor="middle">건조 속도 ↑  ·  곰팡이 번식 위험 ↓</text>
+</svg>

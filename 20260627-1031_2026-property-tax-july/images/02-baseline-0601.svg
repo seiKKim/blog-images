@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4FBF7"/>
+  <rect width="1080" height="150" fill="#1F8A53"/>
+  <text x="60" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">과세기준일은 매년 6월 1일</text>
+
+  <!-- 중앙 6/1 원 -->
+  <circle cx="540" cy="400" r="120" fill="#1F8A53"/>
+  <text x="540" y="385" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#FFD23F" text-anchor="middle">6/1</text>
+  <text x="540" y="450" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#ffffff" text-anchor="middle">소유자 기준</text>
+
+  <!-- 좌측 매도자 -->
+  <rect x="60" y="280" width="360" height="240" rx="20" fill="#ffffff" stroke="#CDE7D8" stroke-width="2"/>
+  <text x="240" y="350" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1F8A53" text-anchor="middle">매도자</text>
+  <text x="240" y="412" font-family="Malgun Gothic" font-size="34" fill="#1a1a1a" text-anchor="middle">6/1 이전 잔금·등기로</text>
+  <text x="240" y="456" font-family="Malgun Gothic" font-size="34" fill="#1a1a1a" text-anchor="middle">넘기면 그해 재산세</text>
+  <text x="240" y="500" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#E8722C" text-anchor="middle">부담 안 함</text>
+
+  <!-- 우측 매수자 -->
+  <rect x="660" y="280" width="360" height="240" rx="20" fill="#ffffff" stroke="#CDE7D8" stroke-width="2"/>
+  <text x="840" y="350" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1F8A53" text-anchor="middle">매수자</text>
+  <text x="840" y="412" font-family="Malgun Gothic" font-size="34" fill="#1a1a1a" text-anchor="middle">6/2 이후 취득하면</text>
+  <text x="840" y="456" font-family="Malgun Gothic" font-size="34" fill="#1a1a1a" text-anchor="middle">그해 재산세</text>
+  <text x="840" y="500" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#E8722C" text-anchor="middle">부담 안 함</text>
+
+  <text x="540" y="640" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C" text-anchor="middle">※ 실제 거주 여부와 무관 · 본인 거래 일정에 따라 다름</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF3E8"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <rect x="60" y="56" rx="26" ry="26" width="172" height="60" fill="#FFD23F"/>
+  <text x="146" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#2A2118" text-anchor="middle">생활꿀팁</text>
+  <text x="252" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">실내 습도 50% 이하로</text>
+
+  <!-- 습도계 (반원 게이지) -->
+  <g transform="translate(300,470)">
+    <path d="M-180 0 A180 180 0 0 1 180 0" fill="none" stroke="#E0D6CC" stroke-width="40"/>
+    <path d="M-180 0 A180 180 0 0 1 0 -180" fill="none" stroke="#E8722C" stroke-width="40"/>
+    <line x1="0" y1="0" x2="0" y2="-150" stroke="#2A2118" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="18" fill="#2A2118"/>
+    <text x="0" y="-50" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#C85D1C" text-anchor="middle">50%</text>
+  </g>
+  <text x="300" y="540" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#2A2118" text-anchor="middle">적정 40~60%</text>
+
+  <!-- 제습기 아이콘 -->
+  <rect x="660" y="250" width="130" height="180" rx="16" fill="#FFFFFF" stroke="#E8722C" stroke-width="6"/>
+  <rect x="685" y="280" width="80" height="50" rx="8" fill="#E8722C"/>
+  <circle cx="725" cy="380" r="20" fill="#FFD23F"/>
+  <text x="725" y="470" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#2A2118" text-anchor="middle">제습기</text>
+  <text x="725" y="510" font-family="Malgun Gothic" font-size="28" fill="#7A6E62" text-anchor="middle">하루 1~2시간</text>
+
+  <!-- 환기 아이콘 -->
+  <rect x="870" y="250" width="130" height="180" rx="16" fill="#D9ECF7" stroke="#E8722C" stroke-width="6"/>
+  <line x1="935" y1="250" x2="935" y2="430" stroke="#E8722C" stroke-width="6"/>
+  <path d="M850 330 q40 -30 60 0" fill="none" stroke="#C85D1C" stroke-width="6"/>
+  <path d="M850 360 q40 -30 60 0" fill="none" stroke="#C85D1C" stroke-width="6"/>
+  <text x="935" y="470" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#2A2118" text-anchor="middle">환기</text>
+  <text x="935" y="510" font-family="Malgun Gothic" font-size="28" fill="#7A6E62" text-anchor="middle">하루 2~3회</text>
+
+  <rect x="60" y="620" width="960" height="70" rx="14" fill="#E8722C"/>
+  <text x="540" y="666" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#FFFFFF" text-anchor="middle">습도 50% 이하 유지 → 냄새·곰팡이 예방</text>
+</svg>

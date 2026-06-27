@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF3E8"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <rect x="60" y="56" rx="26" ry="26" width="172" height="60" fill="#FFD23F"/>
+  <text x="146" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#2A2118" text-anchor="middle">생활꿀팁</text>
+  <text x="252" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">빨래 거는 간격, 이렇게</text>
+
+  <!-- GOOD -->
+  <rect x="50" y="220" width="470" height="430" rx="20" fill="#FFFFFF" stroke="#E8722C" stroke-width="6"/>
+  <rect x="50" y="220" width="470" height="64" rx="20" fill="#E8722C"/>
+  <text x="285" y="264" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">◎ 좋은 예</text>
+  <rect x="90" y="320" width="390" height="12" rx="6" fill="#2A2118"/>
+  <rect x="110" y="332" width="40" height="150" rx="8" fill="#E8722C"/>
+  <rect x="180" y="332" width="40" height="100" rx="8" fill="#FFD23F"/>
+  <rect x="250" y="332" width="40" height="160" rx="8" fill="#E8722C"/>
+  <rect x="320" y="332" width="40" height="100" rx="8" fill="#FFD23F"/>
+  <rect x="390" y="332" width="40" height="150" rx="8" fill="#E8722C"/>
+  <text x="285" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#2A2118" text-anchor="middle">두꺼운 옷·얇은 옷</text>
+  <text x="285" y="606" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#C85D1C" text-anchor="middle">지그재그 · 넉넉히</text>
+
+  <!-- BAD -->
+  <rect x="560" y="220" width="470" height="430" rx="20" fill="#FFFFFF" stroke="#7A6E62" stroke-width="6"/>
+  <rect x="560" y="220" width="470" height="64" rx="20" fill="#7A6E62"/>
+  <text x="795" y="264" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">✕ 나쁜 예</text>
+  <rect x="600" y="320" width="390" height="12" rx="6" fill="#2A2118"/>
+  <rect x="615" y="332" width="40" height="150" rx="8" fill="#7A6E62"/>
+  <rect x="660" y="332" width="40" height="150" rx="8" fill="#7A6E62"/>
+  <rect x="705" y="332" width="40" height="150" rx="8" fill="#7A6E62"/>
+  <rect x="750" y="332" width="40" height="150" rx="8" fill="#7A6E62"/>
+  <rect x="795" y="332" width="40" height="150" rx="8" fill="#7A6E62"/>
+  <rect x="840" y="332" width="40" height="150" rx="8" fill="#7A6E62"/>
+  <text x="795" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#2A2118" text-anchor="middle">다닥다닥 붙여 널기</text>
+  <text x="795" y="606" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#7A6E62" text-anchor="middle">통풍 막혀 더디게</text>
+</svg>
