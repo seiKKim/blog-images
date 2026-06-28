@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">자가가구 수선유지비</text>
+  <text x="60" y="170" font-family="Noto Sans CJK KR" font-size="36" fill="#E8EEF5">내 집이 있다면 수리비를 지원받아요</text>
+
+  <g font-family="Noto Sans CJK KR" fill="#1a1a1a">
+    <rect x="60" y="290" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="365" font-size="46" font-weight="bold">경보수 (도배·장판)</text>
+    <text x="100" y="430" font-size="38" fill="#5B6B7C">3년 주기</text>
+    <text x="1000" y="405" font-size="56" font-weight="bold" fill="#1B5FA6" text-anchor="end">457만 원</text>
+
+    <rect x="60" y="500" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="575" font-size="46" font-weight="bold">중보수 (창호·단열)</text>
+    <text x="100" y="640" font-size="38" fill="#5B6B7C">5년 주기</text>
+    <text x="1000" y="615" font-size="56" font-weight="bold" fill="#1B5FA6" text-anchor="end">849만 원</text>
+
+    <rect x="60" y="710" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="785" font-size="46" font-weight="bold">대보수 (지붕·욕실)</text>
+    <text x="100" y="850" font-size="38" fill="#5B6B7C">7년 주기</text>
+    <text x="1000" y="825" font-size="56" font-weight="bold" fill="#1B5FA6" text-anchor="end">1,241만 원</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 국토교통부 주거급여 사업안내</text>
+</svg>

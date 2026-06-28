@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <text x="60" y="105" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">7차 석유 최고가격</text>
+  <text x="60" y="165" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#FFD23F">2026.6.27 시행 · 유종별 150원 인하</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="346" font-size="46" font-weight="bold" fill="#1a1a1a">휘발유</text>
+    <text x="940" y="346" font-size="50" font-weight="bold" fill="#E23B3B" text-anchor="end">1,784원</text>
+    <text x="1000" y="346" font-size="32" fill="#5B6B7C" text-anchor="end">/L</text>
+
+    <rect x="60" y="410" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="486" font-size="46" font-weight="bold" fill="#1a1a1a">경유</text>
+    <text x="940" y="486" font-size="50" font-weight="bold" fill="#E23B3B" text-anchor="end">1,773원</text>
+    <text x="1000" y="486" font-size="32" fill="#5B6B7C" text-anchor="end">/L</text>
+
+    <rect x="60" y="550" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="626" font-size="46" font-weight="bold" fill="#1a1a1a">등유</text>
+    <text x="940" y="626" font-size="50" font-weight="bold" fill="#E23B3B" text-anchor="end">1,380원</text>
+    <text x="1000" y="626" font-size="32" fill="#5B6B7C" text-anchor="end">/L</text>
+  </g>
+
+  <rect x="60" y="720" width="960" height="430" rx="20" fill="#2B2F36"/>
+  <text x="100" y="808" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#FFD23F">한눈에 정리</text>
+  <text x="100" y="884" font-family="Noto Sans CJK KR" font-size="40" fill="#ffffff">· 정유사 공급가 상한을 정하는 제도</text>
+  <text x="100" y="956" font-family="Noto Sans CJK KR" font-size="40" fill="#FFD23F">· 6차보다 유종별 150원 인하</text>
+  <text x="100" y="1028" font-family="Noto Sans CJK KR" font-size="40" fill="#ffffff">· 적용 기간 약 4주 (탄력 운영)</text>
+  <text x="100" y="1100" font-family="Noto Sans CJK KR" font-size="40" fill="#FFD23F">· 재고 소진 후 판매가 1,800원대 전망</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 산업통상부·정책브리핑(korea.kr)</text>
+</svg>

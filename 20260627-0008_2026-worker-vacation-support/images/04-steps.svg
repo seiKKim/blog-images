@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">신청 절차 4단계</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <circle cx="130" cy="350" r="56" fill="#1B5FA6"/>
+    <text x="130" y="368" font-weight="bold" font-size="56" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="230" y="345" font-weight="bold" font-size="48" fill="#1a1a1a">기업 담당자 참여 신청</text>
+    <text x="230" y="405" font-size="38" fill="#5B6B7C">vacation.visitkorea.or.kr</text>
+
+    <circle cx="130" cy="560" r="56" fill="#1B5FA6"/>
+    <text x="130" y="578" font-weight="bold" font-size="56" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="230" y="555" font-weight="bold" font-size="48" fill="#1a1a1a">분담금 납부</text>
+    <text x="230" y="615" font-size="38" fill="#5B6B7C">기업·근로자 부담분</text>
+
+    <circle cx="130" cy="770" r="56" fill="#1B5FA6"/>
+    <text x="130" y="788" font-weight="bold" font-size="56" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="230" y="765" font-weight="bold" font-size="48" fill="#1a1a1a">휴가샵 40만 원 포인트</text>
+    <text x="230" y="825" font-size="38" fill="#5B6B7C">온라인몰에 적립</text>
+
+    <circle cx="130" cy="980" r="56" fill="#FFD23F"/>
+    <text x="130" y="998" font-weight="bold" font-size="56" fill="#1a1a1a" text-anchor="middle">4</text>
+    <text x="230" y="975" font-weight="bold" font-size="48" fill="#1a1a1a">국내여행 상품 구매</text>
+    <text x="230" y="1035" font-size="38" fill="#5B6B7C">숙박·교통·레저·패키지</text>
+  </g>
+
+  <text x="60" y="1150" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1a1a1a">전담 지원센터 ☎ 1670-1330</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 한국관광공사 근로자 휴가지원사업</text>
+</svg>

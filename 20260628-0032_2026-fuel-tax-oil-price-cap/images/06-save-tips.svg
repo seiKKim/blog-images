@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <text x="60" y="105" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">주유비 아끼는 법</text>
+  <text x="60" y="165" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#FFD23F">인하 흐름일 때 이렇게 챙기세요</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <circle cx="110" cy="320" r="26" fill="#E23B3B"/><text x="110" y="334" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">1</text>
+    <text x="165" y="334" font-size="44" font-weight="bold" fill="#1a1a1a">오피넷 앱·웹으로 최저가 확인</text>
+
+    <circle cx="110" cy="450" r="26" fill="#E23B3B"/><text x="110" y="464" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">2</text>
+    <text x="165" y="464" font-size="44" font-weight="bold" fill="#1a1a1a">알뜰주유소가 평균가 낮은 편</text>
+
+    <circle cx="110" cy="580" r="26" fill="#E23B3B"/><text x="110" y="594" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">3</text>
+    <text x="165" y="594" font-size="44" font-weight="bold" fill="#1a1a1a">셀프주유소 활용</text>
+
+    <circle cx="110" cy="710" r="26" fill="#E23B3B"/><text x="110" y="724" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">4</text>
+    <text x="165" y="724" font-size="44" font-weight="bold" fill="#1a1a1a">주유 할인카드·제휴 할인 챙기기</text>
+
+    <circle cx="110" cy="840" r="26" fill="#E23B3B"/><text x="110" y="854" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">5</text>
+    <text x="165" y="854" font-size="44" font-weight="bold" fill="#1a1a1a">며칠 간격으로 가격 비교</text>
+  </g>
+
+  <rect x="60" y="940" width="960" height="210" rx="20" fill="#2B2F36"/>
+  <text x="100" y="1018" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#FFD23F">기억하세요 — 유류세 인하 연장</text>
+  <text x="100" y="1092" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#ffffff">7월 31일까지</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 정책브리핑·오피넷 / 절약법은 일반 정보</text>
+</svg>

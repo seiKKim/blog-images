@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#0E9AA7"/>
+  <circle cx="960" cy="120" r="200" fill="#ffffff" opacity="0.07"/>
+  <text x="60" y="120" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">반드시 확인! 안전 인증 3종</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="180" width="300" height="300" rx="20" fill="#ffffff"/>
+    <text x="210" y="300" font-size="60" font-weight="bold" fill="#0E9AA7" text-anchor="middle">KC</text>
+    <text x="210" y="360" font-size="34" fill="#333" text-anchor="middle">마크</text>
+    <text x="210" y="415" font-size="28" fill="#666" text-anchor="middle">안전성 검증</text>
+
+    <rect x="390" y="180" width="300" height="300" rx="20" fill="#ffffff"/>
+    <text x="540" y="290" font-size="46" font-weight="bold" fill="#0E9AA7" text-anchor="middle">전자파</text>
+    <text x="540" y="350" font-size="34" fill="#333" text-anchor="middle">적합등록번호</text>
+    <text x="540" y="415" font-size="28" fill="#666" text-anchor="middle">전자파 인증</text>
+
+    <rect x="720" y="180" width="300" height="300" rx="20" fill="#ffffff"/>
+    <text x="870" y="290" font-size="46" font-weight="bold" fill="#0E9AA7" text-anchor="middle">배터리</text>
+    <text x="870" y="350" font-size="34" fill="#333" text-anchor="middle">안전인증번호</text>
+    <text x="870" y="415" font-size="28" fill="#666" text-anchor="middle">과열·폭발 방지</text>
+  </g>
+  <rect x="60" y="530" rx="16" width="960" height="90" fill="#FFD23F"/>
+  <text x="540" y="590" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#0B5560" text-anchor="middle">하나라도 없으면 불법 제품 가능성!</text>
+  <text x="60" y="680" font-family="Noto Sans CJK KR" font-size="30" fill="#E8FAFC">출처: 행정안전부 · 정책브리핑(korea.kr)</text>
+</svg>

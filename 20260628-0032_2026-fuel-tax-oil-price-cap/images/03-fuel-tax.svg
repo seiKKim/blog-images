@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <text x="60" y="105" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">유류세 한시 인하</text>
+  <text x="60" y="165" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#FFD23F">2026년 7월 31일까지 연장</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="280" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="350" font-size="48" font-weight="bold" fill="#1a1a1a">휘발유</text>
+    <text x="100" y="408" font-size="36" fill="#5B6B7C">인하율 15%</text>
+    <text x="1000" y="382" font-size="52" font-weight="bold" fill="#E23B3B" text-anchor="end">L당 약 122원 ↓</text>
+
+    <rect x="60" y="450" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="520" font-size="48" font-weight="bold" fill="#1a1a1a">경유</text>
+    <text x="100" y="578" font-size="36" fill="#5B6B7C">인하율 25%</text>
+    <text x="1000" y="552" font-size="52" font-weight="bold" fill="#E23B3B" text-anchor="end">L당 약 145원 ↓</text>
+  </g>
+
+  <rect x="60" y="660" width="960" height="490" rx="20" fill="#2B2F36"/>
+  <text x="100" y="748" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#FFD23F">핵심 정리</text>
+  <text x="100" y="828" font-family="Noto Sans CJK KR" font-size="42" fill="#ffffff">· 원래 5월 말 종료 → 7월 말로 연장</text>
+  <text x="100" y="900" font-family="Noto Sans CJK KR" font-size="42" fill="#ffffff">· 경유 인하폭이 더 커 체감 효과 큼</text>
+  <text x="100" y="972" font-family="Noto Sans CJK KR" font-size="42" fill="#ffffff">· 세금을 깎아 가격을 낮추는 조치</text>
+  <text x="100" y="1052" font-family="Noto Sans CJK KR" font-size="40" fill="#FFD23F">· 8월 이후 추가 연장은 아직 미발표</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 재정경제부·정책브리핑(korea.kr)</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EE"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">1단계 · 수분제거+냉동</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <circle cx="130" cy="340" r="46" fill="#E8722C"/>
+    <text x="130" y="358" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="210" y="332" font-size="46" font-weight="bold" fill="#1a1a1a">물기 빼서 말리기</text>
+    <text x="210" y="390" font-size="36" fill="#5B4636">구멍 바구니 자연건조 → 부피·무게 절반</text>
+
+    <circle cx="130" cy="540" r="46" fill="#E8722C"/>
+    <text x="130" y="558" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="210" y="532" font-size="46" font-weight="bold" fill="#1a1a1a">지퍼백 밀폐 → 냉동</text>
+    <text x="210" y="590" font-size="36" fill="#5B4636">0도 이하 부패균 정지 → 냄새·벌레 차단</text>
+
+    <circle cx="130" cy="740" r="46" fill="#E8722C"/>
+    <text x="130" y="758" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="210" y="732" font-size="46" font-weight="bold" fill="#1a1a1a">즉시 밀봉·자주 비우기</text>
+    <text x="210" y="790" font-size="36" fill="#5B4636">뚜껑 있는 통 사용 · 과일은 냉장 보관</text>
+
+    <circle cx="130" cy="940" r="46" fill="#E8722C"/>
+    <text x="130" y="958" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="210" y="932" font-size="46" font-weight="bold" fill="#1a1a1a">통 주변 바로 닦기</text>
+    <text x="210" y="990" font-size="36" fill="#5B4636">국물·찌꺼기·수분이 초파리를 부릅니다</text>
+  </g>
+
+  <rect x="60" y="1050" width="960" height="160" rx="20" fill="#FFD23F"/>
+  <text x="540" y="1150" font-family="Noto Sans CJK KR" font-size="46" font-weight="bold" fill="#5B4636" text-anchor="middle">수분 10%만 줄여도 미생물 50%↓</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F3E2D4"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#8A6A52">출처: 위키트리·푸드레시피 (2026)</text>
+</svg>

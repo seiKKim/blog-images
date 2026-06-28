@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#0E9AA7"/>
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+  <rect x="80" y="90" rx="34" ry="34" width="230" height="68" fill="#FFD23F"/>
+  <text x="195" y="137" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#0B5560" text-anchor="middle">추천아이템</text>
+  <text x="80" y="320" font-family="Noto Sans CJK KR" font-weight="bold" font-size="62" fill="#E8FAFC">2026 여름, 후회 없이 사는 법</text>
+  <text x="80" y="470" font-family="Noto Sans CJK KR" font-weight="bold" font-size="128" fill="#ffffff">휴대용 선풍기</text>
+  <text x="80" y="610" font-family="Noto Sans CJK KR" font-weight="bold" font-size="128" fill="#FFD23F">체크 5가지</text>
+  <rect x="80" y="700" rx="22" ry="22" width="920" height="230" fill="#0A5C66"/>
+  <text x="110" y="775" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#ffffff">① BLDC 모터  ② 배터리  ③ 무게</text>
+  <text x="110" y="855" font-family="Noto Sans CJK KR" font-weight="bold" font-size="46" fill="#FFD23F">④ 풍량 단계  ⑤ 안전 인증 3종</text>
+  <text x="80" y="1015" font-family="Noto Sans CJK KR" font-weight="normal" font-size="34" fill="#E8FAFC" opacity="0.9">손풍기 · 목걸이선풍기 고르는 법</text>
+</svg>

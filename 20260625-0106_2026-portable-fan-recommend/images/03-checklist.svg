@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F2FAFB"/>
+  <rect width="1080" height="200" fill="#0E9AA7"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">살 때 꼭 보는 5가지</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="960" height="170" rx="18" fill="#ffffff" stroke="#C9E8EC" stroke-width="2"/>
+    <text x="95" y="345" font-size="48" font-weight="bold" fill="#0B7A85">① 모터</text>
+    <text x="95" y="410" font-size="40" fill="#333">BLDC = 저소음·고효율·내구성 ↑</text>
+
+    <rect x="60" y="460" width="960" height="170" rx="18" fill="#ffffff" stroke="#C9E8EC" stroke-width="2"/>
+    <text x="95" y="535" font-size="48" font-weight="bold" fill="#0B7A85">② 배터리</text>
+    <text x="95" y="600" font-size="40" fill="#333">2~3천mAh≈3~6h · 4천+≈10h↑</text>
+
+    <rect x="60" y="650" width="960" height="170" rx="18" fill="#ffffff" stroke="#C9E8EC" stroke-width="2"/>
+    <text x="95" y="725" font-size="48" font-weight="bold" fill="#0B7A85">③ 무게</text>
+    <text x="95" y="790" font-size="40" fill="#333">핸디형 200g 이하 · 250g↑ 손목피로</text>
+
+    <rect x="60" y="840" width="960" height="170" rx="18" fill="#ffffff" stroke="#C9E8EC" stroke-width="2"/>
+    <text x="95" y="915" font-size="48" font-weight="bold" fill="#0B7A85">④ 풍량</text>
+    <text x="95" y="980" font-size="40" fill="#333">단계 多 · 날개 100mm↑ 체감 ↑</text>
+
+    <rect x="60" y="1030" width="960" height="170" rx="18" fill="#FFF7DB" stroke="#FFD23F" stroke-width="3"/>
+    <text x="95" y="1105" font-size="48" font-weight="bold" fill="#B8860B">⑤ 안전 인증</text>
+    <text x="95" y="1170" font-size="40" fill="#333">KC·전자파·배터리 3종 (가장 중요)</text>
+  </g>
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEFF1"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#5B7A7E">가격보다 모터·배터리·인증을 먼저</text>
+</svg>

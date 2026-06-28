@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">휴가샵 사용처</text>
+
+  <g font-family="Noto Sans CJK KR" font-size="48" fill="#1a1a1a" font-weight="bold">
+    <rect x="60" y="280" width="465" height="220" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="292" y="380" text-anchor="middle">숙박</text>
+    <text x="292" y="440" font-size="34" font-weight="normal" fill="#5B6B7C" text-anchor="middle">호텔·펜션·리조트</text>
+
+    <rect x="555" y="280" width="465" height="220" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="787" y="380" text-anchor="middle">교통</text>
+    <text x="787" y="440" font-size="34" font-weight="normal" fill="#5B6B7C" text-anchor="middle">국내 이동 상품</text>
+
+    <rect x="60" y="530" width="465" height="220" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="292" y="630" text-anchor="middle">레저</text>
+    <text x="292" y="690" font-size="34" font-weight="normal" fill="#5B6B7C" text-anchor="middle">액티비티·체험</text>
+
+    <rect x="555" y="530" width="465" height="220" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="787" y="630" text-anchor="middle">패키지여행</text>
+    <text x="787" y="690" font-size="34" font-weight="normal" fill="#5B6B7C" text-anchor="middle">국내 패키지</text>
+  </g>
+
+  <rect x="60" y="800" width="960" height="180" rx="20" fill="#FFF6D6" stroke="#FFD23F" stroke-width="2"/>
+  <text x="100" y="875" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">현금화 불가 · 휴가샵 전용</text>
+  <text x="100" y="940" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#E23B3B">사용기한 2026.12.31까지</text>
+
+  <text x="60" y="1080" font-family="Noto Sans CJK KR" font-size="40" fill="#5B6B7C">미사용 시 정부지원분 제외 금액은 조건부 환불</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 한국관광공사 근로자 휴가지원사업</text>
+</svg>

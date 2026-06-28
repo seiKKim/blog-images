@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#E8722C"/>
+  <circle cx="950" cy="180" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <rect x="80" y="90" rx="34" ry="34" width="200" height="68" fill="#FFD23F"/>
+  <text x="180" y="136" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+
+  <text x="80" y="320" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#FFE9D6">여름 주방 골칫거리</text>
+
+  <text x="80" y="470" font-family="Noto Sans CJK KR" font-weight="bold" font-size="124" fill="#ffffff">음식물 냄새</text>
+  <text x="80" y="610" font-family="Noto Sans CJK KR" font-weight="bold" font-size="124" fill="#FFD23F">초파리 잡기</text>
+
+  <rect x="80" y="700" rx="20" ry="20" width="920" height="170" fill="#A8481A"/>
+  <text x="110" y="772" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#ffffff">수분제거 · 천연탈취</text>
+  <text x="110" y="838" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#FFD23F">· 식초트랩 3단계로 끝!</text>
+
+  <text x="80" y="1000" font-family="Noto Sans CJK KR" font-weight="normal" font-size="34" fill="#FFE9D6" opacity="0.9">여름철 음식물 쓰레기 관리법</text>
+</svg>

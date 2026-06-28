@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F2FAFB"/>
+  <rect width="1080" height="200" fill="#0E9AA7"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">손풍기 안전수칙</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="960" height="270" rx="20" fill="#ffffff" stroke="#C9E8EC" stroke-width="2"/>
+    <text x="95" y="345" font-size="46" font-weight="bold" fill="#0B7A85">사용할 때</text>
+    <text x="95" y="415" font-size="38" fill="#333">· KC 인증 충전기로 정격 충전</text>
+    <text x="95" y="475" font-size="38" fill="#333">· 충전 끝나면 USB 분리</text>
+    <text x="95" y="525" font-size="38" fill="#D2691E" font-weight="bold">· 3~4시간 연속 쓰면 잠깐 멈추기</text>
+
+    <rect x="60" y="570" width="960" height="200" rx="20" fill="#ffffff" stroke="#C9E8EC" stroke-width="2"/>
+    <text x="95" y="645" font-size="46" font-weight="bold" fill="#0B7A85">보관할 때</text>
+    <text x="95" y="715" font-size="38" fill="#333">· 여름철 차량 실내 방치 금지</text>
+    <text x="95" y="760" font-size="38" fill="#333">· 배터리 냉장고 보관 금지</text>
+
+    <rect x="60" y="800" width="960" height="200" rx="20" fill="#ffffff" stroke="#C9E8EC" stroke-width="2"/>
+    <text x="95" y="875" font-size="46" font-weight="bold" fill="#0B7A85">폐기할 때</text>
+    <text x="95" y="945" font-size="38" fill="#333">· 소각·불 속 폐기 금지 (폭발 위험)</text>
+    <text x="95" y="990" font-size="38" fill="#333">· 방전 후 재활용 분리배출</text>
+
+    <rect x="60" y="1030" width="960" height="200" rx="20" fill="#FFF7DB" stroke="#FFD23F" stroke-width="3"/>
+    <text x="95" y="1105" font-size="46" font-weight="bold" fill="#B8860B">비행기 탈 때</text>
+    <text x="95" y="1175" font-size="38" fill="#333">· 손풍기·보조배터리는 기내 휴대만</text>
+    <text x="95" y="1220" font-size="38" fill="#333">· 부치는 짐(위탁)에 넣지 말 것</text>
+  </g>
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEFF1"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#5B7A7E">출처: 행정안전부 · 대한항공 리튬배터리 규정</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#243B6B"/>
+  <text x="60" y="92" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">한국은행 기준금리 추이</text>
+  <rect x="820" y="48" rx="30" width="200" height="60" fill="#FFD23F"/>
+  <text x="920" y="88" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">금융/재테크</text>
+
+  <!-- 축 -->
+  <line x1="130" y1="220" x2="130" y2="560" stroke="#5B6B7C" stroke-width="3"/>
+  <line x1="130" y1="560" x2="980" y2="560" stroke="#5B6B7C" stroke-width="3"/>
+
+  <!-- 추이선: 고점 → 2025.5 인하 → 동결 -->
+  <polyline points="130,300 380,300 560,430 980,430" fill="none" stroke="#243B6B" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="560" cy="430" r="14" fill="#FFD23F"/>
+  <circle cx="560" cy="430" r="7" fill="#243B6B"/>
+
+  <!-- 라벨 -->
+  <text x="300" y="280" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#5B6B7C" text-anchor="middle">인하 전</text>
+  <text x="470" y="510" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#243B6B" text-anchor="middle">2025.5 인하</text>
+  <text x="810" y="410" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#243B6B" text-anchor="middle">연 2.50% 동결 유지</text>
+
+  <!-- 큰 숫자 -->
+  <text x="60" y="624" font-family="Noto Sans CJK KR" font-weight="bold" font-size="34" fill="#5B6B7C">현재 기준금리</text>
+  <text x="380" y="632" font-family="Noto Sans CJK KR" font-weight="bold" font-size="70" fill="#243B6B">연 2.50%</text>
+  <text x="700" y="632" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#5B6B7C">다음 회의 7/16 예정</text>
+</svg>

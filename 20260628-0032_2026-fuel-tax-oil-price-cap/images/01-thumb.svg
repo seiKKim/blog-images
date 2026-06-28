@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#2B2F36"/>
+  <circle cx="940" cy="160" r="240" fill="#E23B3B" opacity="0.13"/>
+  <circle cx="130" cy="980" r="210" fill="#ffffff" opacity="0.05"/>
+  <rect x="64" y="80" rx="34" ry="34" width="240" height="68" fill="#FFD23F"/>
+  <text x="184" y="126" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">오늘의 이슈</text>
+  <text x="64" y="258" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#E8EEF5">유류세 7월 연장 + 최고가격 인하</text>
+  <text x="64" y="418" font-family="Noto Sans CJK KR" font-weight="bold" font-size="148" fill="#ffffff">기름값</text>
+  <text x="64" y="576" font-family="Noto Sans CJK KR" font-weight="bold" font-size="148" fill="#FFD23F">내린다</text>
+  <rect x="64" y="650" rx="22" ry="22" width="952" height="208" fill="#ffffff" opacity="0.10"/>
+  <text x="96" y="726" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#ffffff">휘발유 <tspan fill="#FFD23F">1,784원</tspan></text>
+  <text x="96" y="812" font-family="Noto Sans CJK KR" font-weight="bold" font-size="52" fill="#ffffff">경유 <tspan fill="#FFD23F">1,773원</tspan> <tspan font-size="36" fill="#E8EEF5">공급가 상한</tspan></text>
+  <text x="64" y="934" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#E23B3B">● 6/27 시행 · 주유소가 1,800원대 전망</text>
+  <text x="64" y="1004" font-family="Noto Sans CJK KR" font-weight="normal" font-size="32" fill="#E8EEF5" opacity="0.85">정책브리핑·오피넷 기준</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EE"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">2단계 · 천연 탈취</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="460" height="520" rx="20" fill="#ffffff" stroke="#F0C9A8" stroke-width="2"/>
+    <text x="290" y="370" font-size="50" font-weight="bold" fill="#1a1a1a" text-anchor="middle">커피찌꺼기</text>
+    <rect x="110" y="410" width="360" height="64" rx="14" fill="#FFE9D6"/>
+    <text x="290" y="454" font-size="38" font-weight="bold" fill="#E8722C" text-anchor="middle">흡 착</text>
+    <text x="290" y="560" font-size="36" fill="#5B4636" text-anchor="middle">다공성 구조로</text>
+    <text x="290" y="610" font-size="36" fill="#5B4636" text-anchor="middle">냄새 분자를</text>
+    <text x="290" y="660" font-size="36" fill="#5B4636" text-anchor="middle">물리적으로 빨아들임</text>
+
+    <rect x="560" y="270" width="460" height="520" rx="20" fill="#ffffff" stroke="#F0C9A8" stroke-width="2"/>
+    <text x="790" y="370" font-size="50" font-weight="bold" fill="#1a1a1a" text-anchor="middle">베이킹소다</text>
+    <rect x="610" y="410" width="360" height="64" rx="14" fill="#FFE9D6"/>
+    <text x="790" y="454" font-size="38" font-weight="bold" fill="#E8722C" text-anchor="middle">중 화</text>
+    <text x="790" y="560" font-size="36" fill="#5B4636" text-anchor="middle">알칼리성으로</text>
+    <text x="790" y="610" font-size="36" fill="#5B4636" text-anchor="middle">산성 냄새 성분을</text>
+    <text x="790" y="660" font-size="36" fill="#5B4636" text-anchor="middle">화학적으로 중화</text>
+  </g>
+
+  <rect x="60" y="830" width="960" height="160" rx="20" fill="#E8722C"/>
+  <text x="540" y="930" font-family="Noto Sans CJK KR" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">둘을 함께 = 흡착+중화 탈취력↑</text>
+
+  <rect x="60" y="1020" width="960" height="190" rx="20" fill="#FFF1CC"/>
+  <text x="100" y="1090" font-family="Noto Sans CJK KR" font-size="38" font-weight="bold" fill="#9A6A1A">⚠ 식초+베이킹소다는 섞지 마세요</text>
+  <text x="100" y="1150" font-family="Noto Sans CJK KR" font-size="34" fill="#7A5A2A">서로 중화돼 효과 상쇄 · 용도 분리해 사용</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F3E2D4"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#8A6A52">출처: 푸드레시피·레이디경향 (2026)</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="98" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#ffffff">저축은행: 구간 커질수록 금리 급락</text>
+  <text x="60" y="158" font-family="Noto Sans CJK KR" font-size="30" fill="#E8EEF5">OK저축은행 OK짠테크통장Ⅱ (발표 시점 기준)</text>
+
+  <!-- 막대그래프 baseY=880, max_h=560 -->
+  <!-- 50만 이하 5.0% (560h) -->
+  <rect x="220" y="320" rx="18" width="220" height="560" fill="#FFD23F"/>
+  <text x="330" y="285" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#1a1a1a" text-anchor="middle">연 5.0%</text>
+  <text x="330" y="930" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">50만 원 이하</text>
+  <!-- 500만 이하 0.8% (89.6h) -->
+  <rect x="600" y="790" rx="18" width="220" height="90" fill="#243B6B"/>
+  <text x="710" y="755" font-family="Noto Sans CJK KR" font-weight="bold" font-size="50" fill="#243B6B" text-anchor="middle">연 0.8%</text>
+  <text x="710" y="930" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">500만 원 이하 (기본)</text>
+  <!-- 기준선 -->
+  <line x1="150" y1="880" x2="930" y2="880" stroke="#5B6B7C" stroke-width="3"/>
+
+  <!-- 주의 박스 -->
+  <rect x="60" y="940" rx="18" width="960" height="110" fill="#FFF3E0"/>
+  <text x="90" y="990" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#B5651D">50만 원까지만 연 5.0%, 그 이상은 연 0.8%로 급락.</text>
+  <text x="90" y="1028" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#B5651D">우대 시 4대페이 등록 +1.8%p 등 조건 충족 필요</text>
+</svg>

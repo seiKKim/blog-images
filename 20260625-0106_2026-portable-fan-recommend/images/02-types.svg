@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F2FAFB"/>
+  <rect width="1080" height="200" fill="#0E9AA7"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">휴대용 선풍기 3가지 종류</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="960" height="300" rx="20" fill="#ffffff" stroke="#C9E8EC" stroke-width="2"/>
+    <text x="95" y="345" font-size="50" font-weight="bold" fill="#0B7A85">핸디형</text>
+    <text x="95" y="420" font-size="40" fill="#333">손에 들고 바람을 직접 조준</text>
+    <text x="95" y="485" font-size="40" fill="#333">시원함은 최고, 한 손은 묶임</text>
+    <text x="95" y="545" font-size="36" fill="#0E9AA7" font-weight="bold">→ 바람 직접 쐬고 싶은 분</text>
+
+    <rect x="60" y="600" width="960" height="300" rx="20" fill="#ffffff" stroke="#C9E8EC" stroke-width="2"/>
+    <text x="95" y="675" font-size="50" font-weight="bold" fill="#0B7A85">목걸이(넥밴드)형</text>
+    <text x="95" y="750" font-size="40" fill="#333">목에 걸어 양손이 자유로움</text>
+    <text x="95" y="815" font-size="40" fill="#333">산책·운동·출퇴근·육아에 굿</text>
+    <text x="95" y="875" font-size="36" fill="#0E9AA7" font-weight="bold">→ 손 써야 하는 분</text>
+
+    <rect x="60" y="930" width="960" height="300" rx="20" fill="#ffffff" stroke="#C9E8EC" stroke-width="2"/>
+    <text x="95" y="1005" font-size="50" font-weight="bold" fill="#0B7A85">핸디+거치 겸용형</text>
+    <text x="95" y="1080" font-size="40" fill="#333">접거나 받침대 펴 탁상용 겸용</text>
+    <text x="95" y="1145" font-size="40" fill="#333">핸디·탁상·넥팬 기능 통합</text>
+    <text x="95" y="1205" font-size="36" fill="#0E9AA7" font-weight="bold">→ 집·사무실·외출 다 쓰는 분</text>
+  </g>
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEFF1"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#5B7A7E">사용 상황에 맞는 형태부터 고르세요</text>
+</svg>

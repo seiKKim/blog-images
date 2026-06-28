@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="115" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">2026 기준 중위소득 인상</text>
+  <text x="60" y="170" font-family="Noto Sans CJK KR" font-size="36" fill="#E8EEF5">역대 최대 6.51% 인상 (4인 가구 기준)</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="280" width="960" height="200" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="350" font-size="46" font-weight="bold" fill="#1a1a1a">4인 가구</text>
+    <text x="100" y="430" font-size="40" fill="#5B6B7C">609만 7,773원 →</text>
+    <text x="1000" y="400" font-size="56" font-weight="bold" fill="#1B5FA6" text-anchor="end">649만 4,738원</text>
+    <text x="1000" y="455" font-size="38" font-weight="bold" fill="#E8722C" text-anchor="end">+6.51%</text>
+
+    <rect x="60" y="520" width="960" height="200" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="590" font-size="46" font-weight="bold" fill="#1a1a1a">1인 가구</text>
+    <text x="100" y="670" font-size="40" fill="#5B6B7C">239만 2,013원 →</text>
+    <text x="1000" y="640" font-size="56" font-weight="bold" fill="#1B5FA6" text-anchor="end">256만 4,238원</text>
+    <text x="1000" y="695" font-size="38" font-weight="bold" fill="#E8722C" text-anchor="end">+7.20%</text>
+  </g>
+
+  <rect x="60" y="780" width="960" height="160" rx="16" fill="#ffffff" stroke="#1B5FA6" stroke-width="3"/>
+  <text x="90" y="848" font-family="Noto Sans CJK KR" font-size="40" font-weight="bold" fill="#1B5FA6">기준이 오르면 받는 사람도 늘어납니다</text>
+  <text x="90" y="908" font-family="Noto Sans CJK KR" font-size="36" fill="#1a1a1a">작년에 아깝게 탈락했다면 올해 재도전!</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="34" fill="#5B6B7C">출처: 보건복지부 2026년 기준 중위소득 고시</text>
+</svg>
