@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1B5FA6"/>
+  <text x="60" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff">우리 동네 출산지원금 조회</text>
+
+  <text x="540" y="235" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#5B6B7C" text-anchor="middle">지역별 편차가 크니 공식 조회처에서 직접 확인</text>
+
+  <g font-family="Malgun Gothic">
+    <rect x="80" y="290" width="920" height="90" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="135" cy="335" r="14" fill="#1B5FA6"/>
+    <text x="180" y="350" font-weight="bold" font-size="40" fill="#1a1a1a">정부24 ‘지역별 출산지원금’</text>
+
+    <rect x="80" y="400" width="920" height="90" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="135" cy="445" r="14" fill="#1B5FA6"/>
+    <text x="180" y="460" font-weight="bold" font-size="40" fill="#1a1a1a">거주지 시·군·구청 홈페이지</text>
+
+    <rect x="80" y="510" width="920" height="90" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="135" cy="555" r="14" fill="#1B5FA6"/>
+    <text x="180" y="570" font-weight="bold" font-size="40" fill="#1a1a1a">아이사랑 (childcare.go.kr)</text>
+  </g>
+
+  <rect x="80" y="625" width="920" height="70" rx="18" fill="#FFD23F"/>
+  <text x="540" y="672" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">아이사랑 헬프데스크 1566-3232</text>
+</svg>

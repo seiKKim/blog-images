@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1B5FA6"/>
+  <circle cx="950" cy="160" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <rect x="80" y="86" rx="34" width="220" height="68" fill="#FFD23F"/>
+  <text x="190" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="36"
+        fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <text x="80" y="280" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#E8EEF5">2026년 출산하면 받는 돈</text>
+  <text x="80" y="372" font-family="Malgun Gothic" font-weight="bold" font-size="96" fill="#ffffff">출산지원금 총정리</text>
+  <rect x="80" y="404" width="430" height="10" rx="5" fill="#FFD23F"/>
+
+  
+  <rect x="80" y="470" rx="24" width="440" height="215" fill="#ffffff"/>
+  <text x="300.0" y="542" font-family="Malgun Gothic" font-weight="bold" font-size="40"
+        fill="#33485f" text-anchor="middle">첫만남이용권</text>
+  <text x="300.0" y="620" font-family="Malgun Gothic" font-weight="bold" font-size="64"
+        fill="#1B5FA6" text-anchor="middle">첫째 200만원</text>
+  
+  <rect x="560" y="470" rx="24" width="440" height="215" fill="#ffffff"/>
+  <text x="780.0" y="542" font-family="Malgun Gothic" font-weight="bold" font-size="40"
+        fill="#33485f" text-anchor="middle">부모급여 0세</text>
+  <text x="780.0" y="620" font-family="Malgun Gothic" font-weight="bold" font-size="64"
+        fill="#1B5FA6" text-anchor="middle">월 100만원</text>
+  
+  <rect x="80" y="715" rx="24" width="440" height="215" fill="#ffffff"/>
+  <text x="300.0" y="787" font-family="Malgun Gothic" font-weight="bold" font-size="40"
+        fill="#33485f" text-anchor="middle">아동수당</text>
+  <text x="300.0" y="865" font-family="Malgun Gothic" font-weight="bold" font-size="64"
+        fill="#1B5FA6" text-anchor="middle">월 10만원~</text>
+  
+  <rect x="560" y="715" rx="24" width="440" height="215" fill="#ffffff"/>
+  <text x="780.0" y="787" font-family="Malgun Gothic" font-weight="bold" font-size="40"
+        fill="#33485f" text-anchor="middle">임신·출산 바우처</text>
+  <text x="780.0" y="865" font-family="Malgun Gothic" font-weight="bold" font-size="64"
+        fill="#1B5FA6" text-anchor="middle">100만원</text>
+
+  <text x="540" y="1010" font-family="Malgun Gothic" font-weight="bold" font-size="40"
+        fill="#E8EEF5" text-anchor="middle">금액 · 대상 · 신청방법 · 기한 한눈에</text>
+</svg>

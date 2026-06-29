@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1B5FA6"/>
+  <text x="60" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">부모급여 (가정양육 현금)</text>
+
+  <rect x="80" y="240" width="420" height="320" rx="24" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="290" y="320" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#33485f" text-anchor="middle">만 0세</text>
+  <text x="290" y="305" font-family="Malgun Gothic" font-size="34" fill="#8a99a8" text-anchor="middle"></text>
+  <text x="290" y="430" font-family="Malgun Gothic" font-weight="bold" font-size="78" fill="#1B5FA6" text-anchor="middle">월 100만원</text>
+  <text x="290" y="500" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C" text-anchor="middle">연 1,200만원</text>
+
+  <rect x="580" y="240" width="420" height="320" rx="24" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="790" y="320" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#33485f" text-anchor="middle">만 1세</text>
+  <text x="790" y="430" font-family="Malgun Gothic" font-weight="bold" font-size="78" fill="#1B5FA6" text-anchor="middle">월 50만원</text>
+  <text x="790" y="500" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C" text-anchor="middle">연 600만원</text>
+
+  <rect x="80" y="600" width="920" height="80" rx="20" fill="#FFD23F"/>
+  <text x="540" y="655" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="middle">0~24개월 합산 약 1,800만원</text>
+</svg>

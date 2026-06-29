@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1B5FA6"/>
+  <text x="60" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">아동수당 대상 연령 확대</text>
+
+  <text x="540" y="245" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#5B6B7C" text-anchor="middle">기존 만 8세 미만 → 매년 1세씩 확대</text>
+
+  <!-- 단계 박스 -->
+  <g font-family="Malgun Gothic" text-anchor="middle">
+    <rect x="70" y="320" width="200" height="160" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="170" y="380" font-weight="bold" font-size="40" fill="#33485f">2026</text>
+    <text x="170" y="445" font-weight="bold" font-size="50" fill="#1B5FA6">만 9세</text>
+
+    <rect x="300" y="320" width="200" height="160" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="400" y="380" font-weight="bold" font-size="40" fill="#33485f">2027</text>
+    <text x="400" y="445" font-weight="bold" font-size="50" fill="#1B5FA6">만 10세</text>
+
+    <rect x="530" y="320" width="200" height="160" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="630" y="380" font-weight="bold" font-size="40" fill="#33485f">…</text>
+    <text x="630" y="445" font-weight="bold" font-size="50" fill="#1B5FA6">단계 확대</text>
+
+    <rect x="760" y="320" width="250" height="160" rx="20" fill="#1B5FA6"/>
+    <text x="885" y="380" font-weight="bold" font-size="40" fill="#ffffff">2030</text>
+    <text x="885" y="445" font-weight="bold" font-size="50" fill="#FFD23F">만 13세</text>
+  </g>
+
+  <rect x="70" y="540" width="940" height="120" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="540" y="595" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#33485f" text-anchor="middle">월 지급액: 수도권 10만 · 비수도권 10.5만</text>
+  <text x="540" y="640" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">인구감소지역 11~12만원 (지역사랑상품권 포함 시 +1만)</text>
+</svg>

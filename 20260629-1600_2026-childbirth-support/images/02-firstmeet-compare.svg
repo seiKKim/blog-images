@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1B5FA6"/>
+  <text x="60" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">첫만남이용권 지급액</text>
+
+  <!-- 첫째 막대 -->
+  <rect x="160" y="430" width="220" height="170" rx="10" fill="#9FC0E0"/>
+  <text x="270" y="400" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#1B5FA6" text-anchor="middle">200만원</text>
+  <text x="270" y="660" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#33485f" text-anchor="middle">첫째아</text>
+
+  <!-- 둘째 막대 -->
+  <rect x="700" y="300" width="220" height="300" rx="10" fill="#1B5FA6"/>
+  <text x="810" y="270" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#1B5FA6" text-anchor="middle">300만원</text>
+  <text x="810" y="660" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#33485f" text-anchor="middle">둘째아 이상</text>
+
+  <text x="540" y="220" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#5B6B7C" text-anchor="middle">출생아당 · 국민행복카드 바우처 · 사용기한 2년</text>
+</svg>
