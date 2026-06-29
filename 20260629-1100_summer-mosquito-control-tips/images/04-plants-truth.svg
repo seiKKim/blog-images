@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF3E8"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <rect x="60" y="56" rx="26" ry="26" width="172" height="60" fill="#FFD23F"/>
+  <text x="146" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#2A2118" text-anchor="middle">생활꿀팁</text>
+  <text x="252" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">모기 기피 식물의 진실</text>
+
+  <rect x="50" y="230" width="980" height="100" rx="16" fill="#E23B3B"/>
+  <text x="540" y="293" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#FFFFFF" text-anchor="middle">“화분만 두면 끝” = 과장, 보조 수단일 뿐</text>
+
+  <rect x="50" y="360" width="980" height="130" rx="16" fill="#FFFFFF" stroke="#EAD9C8" stroke-width="3"/>
+  <circle cx="110" cy="425" r="26" fill="#1F8A53"/>
+  <text x="170" y="418" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#2A2118">페퍼민트(박하)</text>
+  <text x="170" y="464" font-family="Malgun Gothic" font-size="30" fill="#7A6E62">오일을 피부·옷에 발라야 효과</text>
+  <rect x="50" y="510" width="980" height="130" rx="16" fill="#FFFFFF" stroke="#EAD9C8" stroke-width="3"/>
+  <circle cx="110" cy="575" r="26" fill="#1F8A53"/>
+  <text x="170" y="568" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#2A2118">바질</text>
+  <text x="170" y="614" font-family="Malgun Gothic" font-size="30" fill="#7A6E62">화분 방치만으론 제한적</text>
+  <rect x="50" y="660" width="980" height="130" rx="16" fill="#FFFFFF" stroke="#EAD9C8" stroke-width="3"/>
+  <circle cx="110" cy="725" r="26" fill="#1F8A53"/>
+  <text x="170" y="718" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#2A2118">세이지</text>
+  <text x="170" y="764" font-family="Malgun Gothic" font-size="30" fill="#7A6E62">잎을 으깨거나 태워야 효과</text>
+  <rect x="50" y="810" width="980" height="130" rx="16" fill="#FFFFFF" stroke="#EAD9C8" stroke-width="3"/>
+  <circle cx="110" cy="875" r="26" fill="#1F8A53"/>
+  <text x="170" y="868" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#2A2118">캣닢(개박하)</text>
+  <text x="170" y="914" font-family="Malgun Gothic" font-size="30" fill="#7A6E62">네페탈락톤 퇴치 효과 연구</text>
+  <rect x="50" y="960" width="980" height="130" rx="16" fill="#FFFFFF" stroke="#EAD9C8" stroke-width="3"/>
+  <circle cx="110" cy="1025" r="26" fill="#1F8A53"/>
+  <text x="170" y="1018" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#2A2118">레몬유칼립투스</text>
+  <text x="170" y="1064" font-family="Malgun Gothic" font-size="30" fill="#7A6E62">어린이 사용 금지 · 섭취 독성</text>
+
+  <rect x="50" y="1120" width="980" height="100" rx="16" fill="#E8722C"/>
+  <text x="540" y="1182" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">대부분 잎을 으깨거나 오일을 도포해야 효과</text>
+  <rect x="0" y="1278" width="1080" height="72" fill="#FFF3E8"/>
+  <text x="60" y="1325" font-family="Malgun Gothic" font-size="30" fill="#7A6E62">전문 건강매체 정리 기반</text>
+</svg>

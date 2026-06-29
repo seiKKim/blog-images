@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF3E8"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <rect x="60" y="56" rx="26" ry="26" width="172" height="60" fill="#FFD23F"/>
+  <text x="146" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#2A2118" text-anchor="middle">생활꿀팁</text>
+  <text x="252" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">일본뇌염 예방수칙 6</text>
+
+  <rect x="50" y="230" width="980" height="90" rx="16" fill="#E23B3B"/>
+  <text x="540" y="290" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">치료법 없어 예방이 최선 · 매개=작은빨간집모기</text>
+
+  <rect x="50" y="350" width="980" height="130" rx="16" fill="#FFFFFF" stroke="#EAD9C8" stroke-width="3"/>
+  <rect x="80" y="388" width="54" height="54" rx="10" fill="#1F8A53"/>
+  <text x="107" y="428" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">✓</text>
+  <text x="170" y="432" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#2A2118">모기 활동기(4~10월) 야간 야외활동 자제</text>
+  <rect x="50" y="500" width="980" height="130" rx="16" fill="#FFFFFF" stroke="#EAD9C8" stroke-width="3"/>
+  <rect x="80" y="538" width="54" height="54" rx="10" fill="#1F8A53"/>
+  <text x="107" y="578" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">✓</text>
+  <text x="170" y="582" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#2A2118">야간 외출 시 밝은 색 품 넓은 긴 옷</text>
+  <rect x="50" y="650" width="980" height="130" rx="16" fill="#FFFFFF" stroke="#EAD9C8" stroke-width="3"/>
+  <rect x="80" y="688" width="54" height="54" rx="10" fill="#1F8A53"/>
+  <text x="107" y="728" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">✓</text>
+  <text x="170" y="732" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#2A2118">노출 부위·옷에 식약처 허가 기피제</text>
+  <rect x="50" y="800" width="980" height="130" rx="16" fill="#FFFFFF" stroke="#EAD9C8" stroke-width="3"/>
+  <rect x="80" y="838" width="54" height="54" rx="10" fill="#1F8A53"/>
+  <text x="107" y="878" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">✓</text>
+  <text x="170" y="882" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#2A2118">진한 향수·화장품 등 유인 제품 자제</text>
+  <rect x="50" y="950" width="980" height="130" rx="16" fill="#FFFFFF" stroke="#EAD9C8" stroke-width="3"/>
+  <rect x="80" y="988" width="54" height="54" rx="10" fill="#1F8A53"/>
+  <text x="107" y="1028" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">✓</text>
+  <text x="170" y="1032" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#2A2118">방충망 정비 및 모기장 사용</text>
+  <rect x="50" y="1100" width="980" height="130" rx="16" fill="#FFFFFF" stroke="#EAD9C8" stroke-width="3"/>
+  <rect x="80" y="1138" width="54" height="54" rx="10" fill="#1F8A53"/>
+  <text x="107" y="1178" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">✓</text>
+  <text x="170" y="1182" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#2A2118">집 주변 고인 물(웅덩이·배수로) 제거</text>
+
+  <rect x="0" y="1278" width="1080" height="72" fill="#FFF3E8"/>
+  <text x="60" y="1325" font-family="Malgun Gothic" font-size="30" fill="#7A6E62">질병관리청 예방수칙</text>
+</svg>

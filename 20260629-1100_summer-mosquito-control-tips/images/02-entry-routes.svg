@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF3E8"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <rect x="60" y="56" rx="26" ry="26" width="172" height="60" fill="#FFD23F"/>
+  <text x="146" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#2A2118" text-anchor="middle">생활꿀팁</text>
+  <text x="252" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">모기는 어디로 들어올까?</text>
+
+  <!-- 집 단면 -->
+  <rect x="60" y="230" width="960" height="380" rx="18" fill="#FFFFFF" stroke="#E8722C" stroke-width="6"/>
+
+  <!-- 창문 + 창틀 틈새 -->
+  <rect x="120" y="280" width="200" height="240" rx="8" fill="#D9ECF7" stroke="#E8722C" stroke-width="5"/>
+  <line x1="220" y1="280" x2="220" y2="520" stroke="#E8722C" stroke-width="5"/>
+  <line x1="120" y1="400" x2="320" y2="400" stroke="#E8722C" stroke-width="5"/>
+  <text x="220" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#2A2118" text-anchor="middle">① 창틀 틈새</text>
+
+  <!-- 문틈 -->
+  <rect x="430" y="300" width="150" height="220" rx="6" fill="#FFF3E8" stroke="#E8722C" stroke-width="5"/>
+  <rect x="572" y="300" width="14" height="220" fill="#E23B3B" opacity="0.6"/>
+  <text x="505" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#2A2118" text-anchor="middle">② 문틈</text>
+
+  <!-- 베란다 물구멍 -->
+  <rect x="660" y="490" width="120" height="30" rx="6" fill="#C9D8E0"/>
+  <circle cx="720" cy="505" r="9" fill="#2A2118"/>
+  <text x="720" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#2A2118" text-anchor="middle">③ 물구멍</text>
+
+  <!-- 에어컨 배관 -->
+  <rect x="850" y="300" width="120" height="70" rx="8" fill="#FFFFFF" stroke="#E8722C" stroke-width="5"/>
+  <path d="M910 370 q0 60 -30 120" fill="none" stroke="#7A6E62" stroke-width="14" stroke-linecap="round"/>
+  <text x="905" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#2A2118" text-anchor="middle">④ 에어컨 배관</text>
+
+  <!-- 모기 화살표 -->
+  <g fill="#E23B3B">
+    <text x="350" y="350" font-family="Malgun Gothic" font-size="40">→</text>
+  </g>
+  <text x="540" y="270" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#C85D1C" text-anchor="middle">성충 모기 체폭 약 2mm — 작은 틈도 통과</text>
+
+  <rect x="60" y="640" width="960" height="60" rx="14" fill="#E8722C"/>
+  <text x="540" y="682" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#FFFFFF" text-anchor="middle">문풍지로 틈 메우기 + 고인 물(번식지) 제거가 기본</text>
+</svg>

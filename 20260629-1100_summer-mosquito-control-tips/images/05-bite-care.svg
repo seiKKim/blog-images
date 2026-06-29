@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF3E8"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <rect x="60" y="56" rx="26" ry="26" width="172" height="60" fill="#FFD23F"/>
+  <text x="146" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#2A2118" text-anchor="middle">생활꿀팁</text>
+  <text x="252" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">물렸을 때, 이렇게</text>
+
+  <!-- 원칙 1: 긁지 않기 -->
+  <rect x="50" y="230" width="470" height="380" rx="20" fill="#FFFFFF" stroke="#E23B3B" stroke-width="6"/>
+  <rect x="50" y="230" width="470" height="70" rx="20" fill="#E23B3B"/>
+  <text x="285" y="278" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">✕ 긁지 않기</text>
+  <text x="285" y="370" font-family="Malgun Gothic" font-size="100" fill="#E23B3B" text-anchor="middle">🚫</text>
+  <text x="285" y="470" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#2A2118" text-anchor="middle">긁으면 염증 악화</text>
+  <text x="285" y="520" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#2A2118" text-anchor="middle">2차 감염 위험</text>
+  <text x="285" y="572" font-family="Malgun Gothic" font-size="30" fill="#7A6E62" text-anchor="middle">가장 중요한 원칙</text>
+
+  <!-- 원칙 2: 냉찜질 -->
+  <rect x="560" y="230" width="470" height="380" rx="20" fill="#FFFFFF" stroke="#E8722C" stroke-width="6"/>
+  <rect x="560" y="230" width="470" height="70" rx="20" fill="#E8722C"/>
+  <text x="795" y="278" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">◎ 냉찜질</text>
+  <rect x="730" y="330" width="130" height="100" rx="18" fill="#BFE3F7" stroke="#E8722C" stroke-width="5"/>
+  <text x="795" y="402" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#C85D1C" text-anchor="middle">❄</text>
+  <text x="795" y="500" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#2A2118" text-anchor="middle">부기 가라앉히고</text>
+  <text x="795" y="550" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#2A2118" text-anchor="middle">가려움 완화</text>
+
+  <rect x="50" y="640" width="980" height="60" rx="14" fill="#2A2118"/>
+  <text x="540" y="682" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#FFFFFF" text-anchor="middle">감염 징후(고름·번지는 발적·발열) 보이면 병원 진료</text>
+</svg>
