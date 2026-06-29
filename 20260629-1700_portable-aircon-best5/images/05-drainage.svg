@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#E8722C"/>
+  <text x="60" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#FFFFFF" text-anchor="start">응축수 배수 방식</text>
+
+  <!-- 좌: 마개 배수 -->
+  <rect x="70" y="220" width="450" height="380" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="3"/>
+  <text x="295" y="280" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#1A1A1A" text-anchor="middle">기본 — 마개/기울여 배수</text>
+  <!-- 본체 단면 -->
+  <rect x="180" y="320" width="230" height="220" rx="14" fill="#eef3f8" stroke="#D6E0EC" stroke-width="3"/>
+  <rect x="180" y="470" width="230" height="70" rx="0" fill="#cfe5f5"/>
+  <text x="295" y="515" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#243B6B" text-anchor="middle">응축수</text>
+  <!-- 하단 마개 -->
+  <circle cx="295" cy="540" r="20" fill="#E8722C"/>
+  <path d="M295 560 L 295 590" stroke="#7fa8c9" stroke-width="12"/>
+  <text x="295" y="620" font-family="Malgun Gothic" font-weight="bold" font-size="26" fill="#5B6B7C" text-anchor="middle">하단 마개를 열고 배수</text>
+
+  <!-- 우: 자가배수/연속배수 -->
+  <rect x="560" y="220" width="450" height="380" rx="18" fill="#FFFFFF" stroke="#1F8A53" stroke-width="3"/>
+  <rect x="560" y="220" width="450" height="64" rx="18" fill="#1F8A53"/>
+  <text x="785" y="263" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#FFFFFF" text-anchor="middle">편의 — 자가배수 / 연속배수</text>
+  <rect x="670" y="330" width="230" height="200" rx="14" fill="#eef3f8" stroke="#D6E0EC" stroke-width="3"/>
+  <!-- 연속배수 호스 -->
+  <path d="M785 530 C 785 580, 940 560, 940 590" stroke="#7fa8c9" stroke-width="20" fill="none" stroke-linecap="round"/>
+  <text x="785" y="420" font-family="Malgun Gothic" font-weight="bold" font-size="28" fill="#1F8A53" text-anchor="middle">자동 증발 / 호스 연결</text>
+  <text x="785" y="575" font-family="Malgun Gothic" font-weight="bold" font-size="28" fill="#5B6B7C" text-anchor="middle">물통 비우는 번거로움↓</text>
+
+  <rect x="0" y="640" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="690" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#5B6B7C" text-anchor="start">자가배수·연속배수 호스 지원 여부를 확인하세요</text>
+</svg>

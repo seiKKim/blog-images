@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#E8722C"/>
+  <text x="60" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#FFFFFF" text-anchor="start">싱글호스 vs 듀얼호스</text>
+
+  
+    <rect x="70" y="240" width="430" height="300" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="3"/>
+    <rect x="70" y="240" width="430" height="70" rx="18" fill="#243B6B"/>
+    <text x="285" y="287" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">싱글호스</text>
+    <!-- 본체 -->
+    <rect x="120" y="350" width="120" height="150" rx="12" fill="#eef3f8" stroke="#D6E0EC" stroke-width="2"/>
+    <path d="M240 410 L 430 410" stroke="#9aa3ad" stroke-width="26" stroke-linecap="round"/>
+    <text x="320" y="398" font-family="Malgun Gothic" font-size="24" fill="#E23B3B" font-weight="bold">배기 →</text>
+  
+    <rect x="580" y="240" width="430" height="300" rx="18" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="3"/>
+    <rect x="580" y="240" width="430" height="70" rx="18" fill="#1F8A53"/>
+    <text x="795" y="287" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">듀얼호스</text>
+    <!-- 본체 -->
+    <rect x="630" y="350" width="120" height="150" rx="12" fill="#eef3f8" stroke="#D6E0EC" stroke-width="2"/>
+    <path d="M750 388 L 940 388" stroke="#9aa3ad" stroke-width="22" stroke-linecap="round"/>
+    <text x="830" y="378" font-family="Malgun Gothic" font-size="22" fill="#E23B3B" font-weight="bold">배기 →</text>
+    <path d="M750 458 L 940 458" stroke="#7fa8c9" stroke-width="22" stroke-linecap="round"/>
+    <text x="830" y="500" font-family="Malgun Gothic" font-size="22" fill="#1F8A53" font-weight="bold">← 외기 흡입</text>
+
+  <text x="285" y="610" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#E23B3B" text-anchor="middle">효율↓ · 전기세↑</text>
+  <text x="795" y="610" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1F8A53" text-anchor="middle">효율↑ (상대적)</text>
+
+  <rect x="0" y="650" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="694" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#5B6B7C" text-anchor="start">싱글호스도 듀얼호스 키트로 효율 개선 가능</text>
+</svg>

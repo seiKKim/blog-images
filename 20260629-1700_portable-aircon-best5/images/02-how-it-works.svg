@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="760" viewBox="0 0 1080 760">
+  <rect width="1080" height="760" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#E8722C"/>
+  <text x="60" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#FFFFFF" text-anchor="start">이동식 에어컨 작동 구조</text>
+
+  <!-- 방 안 -->
+  <rect x="60" y="210" width="600" height="430" rx="20" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="3"/>
+  <text x="90" y="270" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#5B6B7C" text-anchor="start">실내 (방 안)</text>
+
+  <!-- 본체 -->
+  <rect x="120" y="320" width="180" height="260" rx="18" fill="#eef3f8" stroke="#D6E0EC" stroke-width="3"/>
+  <text x="210" y="300" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#1A1A1A" text-anchor="middle">본체(일체형)</text>
+  <rect x="142" y="350" width="136" height="80" rx="10" fill="#dde6ef"/>
+  <circle cx="250" cy="540" r="12" fill="#E8722C"/>
+  <circle cx="138" cy="592" r="13" fill="#3a3f47"/>
+  <circle cx="282" cy="592" r="13" fill="#3a3f47"/>
+
+  <!-- 흐름 화살표: 실내공기 흡입 -->
+  <text x="360" y="400" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#1A1A1A" text-anchor="start">실내 공기에서</text>
+  <text x="360" y="440" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#1A1A1A" text-anchor="start">열을 흡수해 식힘</text>
+  <path d="M300 400 L 348 400" stroke="#1F8A53" stroke-width="10" fill="none"/>
+  <text x="320" y="392" font-family="Malgun Gothic" font-size="28" fill="#1F8A53">❄ 시원</text>
+
+  <text x="360" y="520" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#E23B3B" text-anchor="start">더운 공기는</text>
+  <text x="360" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#E23B3B" text-anchor="start">배기호스로 배출 ▶</text>
+
+  <!-- 창문 -->
+  <rect x="720" y="210" width="300" height="430" rx="20" fill="#cfe5f5" stroke="#D6E0EC" stroke-width="3"/>
+  <text x="870" y="270" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#243B6B" text-anchor="middle">창문 키트</text>
+  <line x1="870" y1="300" x2="870" y2="640" stroke="#ffffff" stroke-width="8"/>
+  <rect x="730" y="430" width="280" height="70" rx="10" fill="#3a3f47"/>
+  <text x="870" y="476" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#FFFFFF" text-anchor="middle">배기구</text>
+
+  <!-- 배기호스 연결 -->
+  <path d="M300 520 C 520 520, 560 465, 730 465" stroke="#9aa3ad" stroke-width="40" fill="none" stroke-linecap="round"/>
+  <path d="M300 520 C 520 520, 560 465, 730 465" stroke="#c7ced5" stroke-width="40" fill="none" stroke-linecap="round" stroke-dasharray="9 13"/>
+
+  <!-- 바깥 -->
+  <text x="1018" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#E23B3B" text-anchor="end">더운 공기 ▶ 밖으로</text>
+
+  <rect x="0" y="690" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="734" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#5B6B7C" text-anchor="start">배기 호스를 뺄 창문·문이 반드시 필요합니다</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1F8A53"/>
+  <text x="60" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="54" fill="#FFFFFF" text-anchor="start">듀얼호스 뒷면 — 호스 2개 구조</text>
+
+  <!-- 본체 뒷면 -->
+  <rect x="120" y="230" width="380" height="400" rx="22" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="4"/>
+  <text x="310" y="300" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1A1A1A" text-anchor="middle">본체 뒷면</text>
+  <!-- 그릴 -->
+  <rect x="170" y="340" width="280" height="120" rx="10" fill="#eef3f8"/>
+  <line x1="170" y1="370" x2="450" y2="370" stroke="#cdd8e2" stroke-width="6"/>
+  <line x1="170" y1="400" x2="450" y2="400" stroke="#cdd8e2" stroke-width="6"/>
+  <line x1="170" y1="430" x2="450" y2="430" stroke="#cdd8e2" stroke-width="6"/>
+  <!-- 호스 연결구 2개 -->
+  <circle cx="250" cy="540" r="40" fill="#9aa3ad"/>
+  <circle cx="380" cy="540" r="40" fill="#7fa8c9"/>
+
+  <!-- 배기호스 -->
+  <path d="M290 540 L 720 420" stroke="#9aa3ad" stroke-width="44" fill="none" stroke-linecap="round"/>
+  <path d="M290 540 L 720 420" stroke="#c7ced5" stroke-width="44" fill="none" stroke-linecap="round" stroke-dasharray="10 14"/>
+  <text x="760" y="400" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#E23B3B" text-anchor="start">배기 호스 → 밖으로</text>
+  <text x="760" y="448" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#5B6B7C" text-anchor="start">더운 공기 배출</text>
+
+  <!-- 흡기호스 -->
+  <path d="M380 580 L 720 600" stroke="#7fa8c9" stroke-width="44" fill="none" stroke-linecap="round"/>
+  <path d="M380 580 L 720 600" stroke="#a9cfe8" stroke-width="44" fill="none" stroke-linecap="round" stroke-dasharray="10 14"/>
+  <text x="760" y="590" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1F8A53" text-anchor="start">흡기 호스 ← 외부 공기</text>
+  <text x="760" y="638" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#5B6B7C" text-anchor="start">응축에 따로 사용 → 음압 개선</text>
+
+  <rect x="0" y="660" width="1080" height="60" fill="#E8EEF5"/>
+  <text x="60" y="700" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#5B6B7C" text-anchor="start">외기를 따로 흡입해 싱글호스보다 효율이 높습니다</text>
+</svg>
