@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#FFF3E9"/>
+  <rect width="1080" height="190" fill="#E8722C"/>
+  <rect x="60" y="68" width="10" height="60" rx="5" fill="#FFD23F"/>
+  <text x="92" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#FFFFFF">안전 주의 — 반드시 확인</text>
+
+  <rect x="60" y="240" width="960" height="200" rx="22" fill="#C0392B"/>
+  <text x="540" y="312" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#FFFFFF" text-anchor="middle">락스 + 식초·산성 세제</text>
+  <text x="540" y="384" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#FFD23F" text-anchor="middle">혼합 절대 금지</text>
+  <text x="60" y="510" font-family="Malgun Gothic" font-size="32" fill="#2A2A2A">섞으면 유독성 염소가스 발생 → 눈·코·기관지 자극,</text>
+  <text x="60" y="556" font-family="Malgun Gothic" font-size="32" fill="#2A2A2A">고농도·장시간 흡입 시 호흡곤란·폐 손상까지</text>
+  <rect x="60" y="610" width="470" height="96" rx="16" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <text x="88" y="654" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#E8722C">1</text>
+  <text x="126" y="669" font-family="Malgun Gothic" font-size="28" fill="#2A2A2A">다른 세제와 혼합 금지</text>
+  <rect x="550" y="610" width="470" height="96" rx="16" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <text x="578" y="654" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#E8722C">2</text>
+  <text x="616" y="669" font-family="Malgun Gothic" font-size="28" fill="#2A2A2A">다른 용기에 옮겨 담지 말 것</text>
+  <rect x="60" y="726" width="470" height="96" rx="16" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <text x="88" y="770" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#E8722C">3</text>
+  <text x="126" y="785" font-family="Malgun Gothic" font-size="28" fill="#2A2A2A">사용 시 충분히 환기</text>
+  <rect x="550" y="726" width="470" height="96" rx="16" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <text x="578" y="770" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#E8722C">4</text>
+  <text x="616" y="785" font-family="Malgun Gothic" font-size="28" fill="#2A2A2A">증기 흡입 주의</text>
+  <rect x="60" y="842" width="470" height="96" rx="16" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <text x="88" y="886" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#E8722C">5</text>
+  <text x="126" y="901" font-family="Malgun Gothic" font-size="28" fill="#2A2A2A">장갑 착용</text>
+  <rect x="550" y="842" width="470" height="96" rx="16" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <text x="578" y="886" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#E8722C">6</text>
+  <text x="616" y="901" font-family="Malgun Gothic" font-size="28" fill="#2A2A2A">어린이 손 닿지 않는 곳 보관</text>
+  <rect x="0" y="1002" width="1080" height="78" fill="#FFF3E9"/>
+  <text x="60" y="1050" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: YTN(2024-04-05) 등 · blog.naver.com/trip_chocho</text>
+</svg>

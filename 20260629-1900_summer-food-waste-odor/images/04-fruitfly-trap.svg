@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF3E9"/>
+  <rect width="1080" height="190" fill="#E8722C"/>
+  <rect x="60" y="68" width="10" height="60" rx="5" fill="#FFD23F"/>
+  <text x="92" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#FFFFFF">초파리 트랩 만들기</text>
+
+  <rect x="60" y="240" width="960" height="150" rx="22" fill="#E8722C"/>
+  <text x="540" y="312" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">식초 : 설탕 : 주방세제</text>
+  <text x="540" y="366" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#FFD23F" text-anchor="middle">= 1 : 1 : 1  (서대문구청)</text>
+  <rect x="60" y="430" width="960" height="118" rx="18" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <circle cx="124" cy="489" r="36" fill="#FFD23F"/>
+  <text x="124" y="504" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#B8551A" text-anchor="middle">1</text>
+  <text x="186" y="502" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#2A2A2A">컵에 식초·설탕·주방세제 1:1:1로 담아 설탕이 녹게 섞기</text>
+  <rect x="60" y="568" width="960" height="118" rx="18" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <circle cx="124" cy="627" r="36" fill="#FFD23F"/>
+  <text x="124" y="642" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#B8551A" text-anchor="middle">2</text>
+  <text x="186" y="640" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#2A2A2A">컵 위에 비닐랩을 팽팽히 씌우고 고무줄로 고정</text>
+  <rect x="60" y="706" width="960" height="118" rx="18" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <circle cx="124" cy="765" r="36" fill="#FFD23F"/>
+  <text x="124" y="780" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#B8551A" text-anchor="middle">3</text>
+  <text x="186" y="778" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#2A2A2A">이쑤시개로 작은 구멍 여러 개 뚫기</text>
+  <rect x="60" y="844" width="960" height="118" rx="18" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <circle cx="124" cy="903" r="36" fill="#FFD23F"/>
+  <text x="124" y="918" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#B8551A" text-anchor="middle">4</text>
+  <text x="186" y="916" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#2A2A2A">초파리 자주 보이는 곳(싱크대 구석 등)에 두기</text>
+  <rect x="60" y="982" width="960" height="150" rx="18" fill="#FFF3E9" stroke="#E8722C"/>
+  <text x="92" y="1040" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#B8551A">작동 원리</text>
+  <text x="92" y="1086" font-family="Malgun Gothic" font-size="30" fill="#2A2A2A">시큼·달콤한 향이 유인 → 주방세제가 표면장력을</text>
+  <text x="92" y="1122" font-family="Malgun Gothic" font-size="30" fill="#2A2A2A">깨뜨려 초파리가 빠져나오지 못하고 익사</text>
+  <rect x="0" y="1272" width="1080" height="78" fill="#FFF3E9"/>
+  <text x="60" y="1320" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 서대문구청 등 · blog.naver.com/trip_chocho</text>
+</svg>

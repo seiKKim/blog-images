@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#E8722C"/>
+  <circle cx="940" cy="180" r="280" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="220" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="84" rx="34" ry="34" width="200" height="68" fill="#FFD23F"/>
+  <text x="180" y="130" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="262" font-family="Malgun Gothic" font-weight="bold" font-size="54" fill="#FFF3E9">약 안 사고 집에서 끝내는</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="392" font-family="Malgun Gothic" font-weight="bold" font-size="116" fill="#FFFFFF">여름 음식물</text>
+  <text x="80" y="518" font-family="Malgun Gothic" font-weight="bold" font-size="116" fill="#FFD23F">냄새·초파리</text>
+  <text x="80" y="624" font-family="Malgun Gothic" font-weight="bold" font-size="76" fill="#FFFFFF">없애는 법</text>
+
+  <!-- 4단계 -->
+  
+  <circle cx="148" cy="732" r="36" fill="#FFD23F"/>
+  <text x="148" y="746" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#B8551A" text-anchor="middle">①</text>
+  <text x="210" y="748" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">물기 제거</text>
+  <circle cx="148" cy="812" r="36" fill="#FFD23F"/>
+  <text x="148" y="826" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#B8551A" text-anchor="middle">②</text>
+  <text x="210" y="828" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">밀폐</text>
+  <circle cx="148" cy="892" r="36" fill="#FFD23F"/>
+  <text x="148" y="906" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#B8551A" text-anchor="middle">③</text>
+  <text x="210" y="908" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">천연 탈취</text>
+  <circle cx="148" cy="972" r="36" fill="#FFD23F"/>
+  <text x="148" y="986" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#B8551A" text-anchor="middle">④</text>
+  <text x="210" y="988" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">배수구 관리</text>
+
+  <text x="80" y="1044" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#FFF3E9" opacity="0.92">blog.naver.com/trip_chocho</text>
+</svg>

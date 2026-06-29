@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="760" viewBox="0 0 1080 760">
+  <rect width="1080" height="760" fill="#FFF3E9"/>
+  <rect width="1080" height="190" fill="#E8722C"/>
+  <rect x="60" y="68" width="10" height="60" rx="5" fill="#FFD23F"/>
+  <text x="92" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#FFFFFF">여름에 냄새·초파리가 심한 이유</text>
+
+  <rect x="60" y="250" width="960" height="104" rx="18" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <circle cx="118" cy="302" r="10" fill="#E8722C"/>
+  <text x="156" y="294" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#2A2A2A">고온다습 → 빠른 부패</text>
+  <text x="156" y="336" font-family="Malgun Gothic" font-size="29" fill="#5B6B7C">수분·당분·단백질이 빠르게 부패·발효, 세균 폭증으로 악취 발생</text>
+  <rect x="60" y="370" width="960" height="104" rx="18" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <circle cx="118" cy="422" r="10" fill="#E8722C"/>
+  <text x="156" y="414" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#2A2A2A">음식물은 산성 부패물</text>
+  <text x="156" y="456" font-family="Malgun Gothic" font-size="29" fill="#5B6B7C">황화수소·암모니아 등 악취 물질이 여름 주방 냄새의 주범</text>
+  <rect x="60" y="490" width="960" height="104" rx="18" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <circle cx="118" cy="542" r="10" fill="#E8722C"/>
+  <text x="156" y="534" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#2A2A2A">초파리 1마리 = 위험 신호</text>
+  <text x="156" y="576" font-family="Malgun Gothic" font-size="29" fill="#5B6B7C">한 번에 약 500개 알, 길게는 45일 생존 (서대문구청 자료)</text>
+  <rect x="60" y="610" width="960" height="104" rx="18" fill="#FFFFFF" stroke="#F0CBA8"/>
+  <circle cx="118" cy="662" r="10" fill="#E8722C"/>
+  <text x="156" y="654" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#2A2A2A">진짜 산란처는 배수구</text>
+  <text x="156" y="696" font-family="Malgun Gothic" font-size="29" fill="#5B6B7C">싱크대 배수구 속 물때·유기물 찌꺼기 → 성충만 잡으면 재발</text>
+  <rect x="0" y="682" width="1080" height="78" fill="#FFF3E9"/>
+  <text x="60" y="730" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 서대문구청 등 · blog.naver.com/trip_chocho</text>
+</svg>
