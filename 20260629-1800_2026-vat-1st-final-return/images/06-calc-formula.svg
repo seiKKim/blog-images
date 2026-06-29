@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F9F6"/>
+  <rect width="1080" height="170" fill="#1F8A53"/>
+  <rect x="60" y="64" width="10" height="46" rx="5" fill="#FFD23F"/>
+  <text x="92" y="118" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">부가세 납부세액 계산 구조</text>
+    <rect x="50" y="300" width="300" height="200" rx="24" fill="#1F8A53"/>
+  <text x="200" y="392" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">매출세액</text>
+  <text x="200" y="452" font-family="Malgun Gothic" font-size="30" fill="#ffffff" text-anchor="middle">매출액 × 10%</text>
+  <text x="390" y="418" font-family="Malgun Gothic" font-weight="bold" font-size="80" fill="#176B40" text-anchor="middle">−</text>
+    <rect x="410" y="300" width="300" height="200" rx="24" fill="#176B40"/>
+  <text x="560" y="392" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">매입세액</text>
+  <text x="560" y="452" font-family="Malgun Gothic" font-size="30" fill="#ffffff" text-anchor="middle">공제 가능분</text>
+  <text x="752" y="418" font-family="Malgun Gothic" font-weight="bold" font-size="80" fill="#176B40" text-anchor="middle">=</text>
+    <rect x="760" y="300" width="300" height="200" rx="24" fill="#FFD23F"/>
+  <text x="910" y="392" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#1A2A22" text-anchor="middle">납부세액</text>
+  <text x="910" y="452" font-family="Malgun Gothic" font-size="30" fill="#1A2A22" text-anchor="middle">최종 납부</text>
+
+  <rect x="80" y="560" width="920" height="96" rx="18" fill="#E8F3EC"/>
+  <text x="540" y="620" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#176B40" text-anchor="middle">공제 매입세액을 빠짐없이 챙기는 것이 절세 핵심</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F9F6"/>
+  <rect width="1080" height="170" fill="#1F8A53"/>
+  <rect x="60" y="64" width="10" height="46" rx="5" fill="#FFD23F"/>
+  <text x="92" y="118" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">부가세 환급 일정 비교</text>
+    <rect x="80" y="280" width="440" height="300" rx="24" fill="#ffffff" stroke="#1F8A53" stroke-width="4"/>
+  <rect x="80" y="280" width="440" height="90" rx="24" fill="#1F8A53"/>
+  <rect x="80" y="330" width="440" height="40" fill="#1F8A53"/>
+  <text x="300" y="340" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">일반환급</text>
+  <text x="300" y="480" font-family="Malgun Gothic" font-weight="bold" font-size="100" fill="#1F8A53" text-anchor="middle">30일</text>
+  <text x="300" y="540" font-family="Malgun Gothic" font-size="32" fill="#5B6B62" text-anchor="middle">확정신고기한 경과 후 이내</text>
+    <rect x="560" y="280" width="440" height="300" rx="24" fill="#ffffff" stroke="#176B40" stroke-width="4"/>
+  <rect x="560" y="280" width="440" height="90" rx="24" fill="#176B40"/>
+  <rect x="560" y="330" width="440" height="40" fill="#176B40"/>
+  <text x="780" y="340" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">조기환급</text>
+  <text x="780" y="480" font-family="Malgun Gothic" font-weight="bold" font-size="100" fill="#176B40" text-anchor="middle">15일</text>
+  <text x="780" y="540" font-family="Malgun Gothic" font-size="32" fill="#5B6B62" text-anchor="middle">신고기한 경과 후 이내</text>
+  <text x="540" y="660" font-family="Malgun Gothic" font-size="32" fill="#5B6B62" text-anchor="middle">환급 대상이면 환급계좌 등록 여부를 미리 확인</text>
+</svg>

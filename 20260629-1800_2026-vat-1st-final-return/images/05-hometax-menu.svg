@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F9F6"/>
+  <rect width="1080" height="170" fill="#1F8A53"/>
+  <rect x="60" y="64" width="10" height="46" rx="5" fill="#FFD23F"/>
+  <text x="92" y="118" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">홈택스 부가세 신고 메뉴 진입</text>
+  <text x="60" y="240" font-family="Malgun Gothic" font-size="34" fill="#5B6B62">로그인 후 아래 순서로 정기신고(확정) 메뉴를 찾습니다</text>
+
+  <rect x="80" y="300" width="260" height="96" rx="16" fill="#ffffff" stroke="#CFE3D7" stroke-width="3"/>
+  <text x="210" y="360" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1A2A22" text-anchor="middle">신고 / 납부</text>
+  <text x="368" y="362" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1F8A53">→</text>
+  <rect x="420" y="300" width="260" height="96" rx="16" fill="#ffffff" stroke="#CFE3D7" stroke-width="3"/>
+  <text x="550" y="360" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1A2A22" text-anchor="middle">부가가치세</text>
+  <text x="708" y="362" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1F8A53">→</text>
+  <rect x="750" y="300" width="270" height="96" rx="16" fill="#1F8A53" stroke="#1F8A53" stroke-width="3"/>
+  <text x="885" y="360" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">정기신고(확정)</text>
+
+  <rect x="80" y="460" width="940" height="160" rx="20" fill="#E8F3EC"/>
+  <text x="112" y="525" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#176B40">미리채움 서비스</text>
+  <text x="112" y="585" font-family="Malgun Gothic" font-size="34" fill="#1A2A22">전자세금계산서·카드·현금영수증 자료가 자동 입력됩니다</text>
+  <rect x="0" y="650" width="1080" height="70" fill="#E8F3EC"/>
+  <text x="60" y="696" font-family="Malgun Gothic" font-size="30" fill="#5B6B62">blog.naver.com/trip_chocho</text>
+</svg>
