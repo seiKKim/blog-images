@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF3EA"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">상황별 SPF·PA 선택</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="280" width="960" height="230" rx="20" fill="#ffffff" stroke="#F0C8A8" stroke-width="2"/>
+    <text x="100" y="365" font-size="46" font-weight="bold" fill="#1a1a1a">실내 위주·짧은 외출</text>
+    <text x="100" y="445" font-size="42" fill="#E8722C" font-weight="bold">낮은 SPF라도 매일 바르기가 핵심</text>
+
+    <rect x="60" y="540" width="960" height="230" rx="20" fill="#ffffff" stroke="#F0C8A8" stroke-width="2"/>
+    <text x="100" y="625" font-size="46" font-weight="bold" fill="#1a1a1a">통근·산책 등 일상 야외</text>
+    <text x="100" y="705" font-size="42" fill="#E8722C" font-weight="bold">SPF 30 안팎 / PA+++</text>
+
+    <rect x="60" y="800" width="960" height="250" rx="20" fill="#ffffff" stroke="#F0C8A8" stroke-width="2"/>
+    <text x="100" y="885" font-size="46" font-weight="bold" fill="#1a1a1a">장시간 야외·물놀이·레저</text>
+    <text x="100" y="965" font-size="42" fill="#E8722C" font-weight="bold">SPF50+ / PA++++ + 내수성</text>
+    <text x="100" y="1020" font-size="34" fill="#666">(워터프루프 제품 권장)</text>
+  </g>
+  <rect x="60" y="1095" width="960" height="120" rx="16" fill="#FFF2D6" stroke="#FFD23F" stroke-width="2"/>
+  <text x="540" y="1170" font-family="Noto Sans CJK KR" font-size="40" font-weight="bold" fill="#9C6234" text-anchor="middle">SPF 50 이상은 효과 차이가 크지 않아요</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#FCE6D3"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#9C6234">출처: 식약처 안내 기준</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF3EA"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">자주 하는 실수 4가지</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="280" width="960" height="190" rx="18" fill="#ffffff" stroke="#F0C8A8" stroke-width="2"/>
+    <text x="100" y="358" font-size="44" font-weight="bold" fill="#C0392B">✗ 양을 너무 적게 바른다</text>
+    <text x="100" y="424" font-size="40" fill="#2E7D46">→ 동전 크기 권장량 지키기</text>
+
+    <rect x="60" y="500" width="960" height="190" rx="18" fill="#ffffff" stroke="#F0C8A8" stroke-width="2"/>
+    <text x="100" y="578" font-size="44" font-weight="bold" fill="#C0392B">✗ 한 번 바르고 종일 방치</text>
+    <text x="100" y="644" font-size="40" fill="#2E7D46">→ 2시간 간격, 물놀이 1~2시간 덧바르기</text>
+
+    <rect x="60" y="720" width="960" height="190" rx="18" fill="#ffffff" stroke="#F0C8A8" stroke-width="2"/>
+    <text x="100" y="798" font-size="44" font-weight="bold" fill="#C0392B">✗ 흐린 날·실내라 안 바른다</text>
+    <text x="100" y="864" font-size="40" fill="#2E7D46">→ 자외선A는 구름·유리도 통과, 매일 바르기</text>
+
+    <rect x="60" y="940" width="960" height="190" rx="18" fill="#ffffff" stroke="#F0C8A8" stroke-width="2"/>
+    <text x="100" y="1018" font-size="44" font-weight="bold" fill="#C0392B">✗ 귀·목뒤·발등을 빠뜨린다</text>
+    <text x="100" y="1084" font-size="40" fill="#2E7D46">→ 노출되는 모든 피부에 바르기</text>
+  </g>
+  <rect x="0" y="1270" width="1080" height="80" fill="#FCE6D3"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#9C6234">출처: 식약처·정책브리핑 종합</text>
+</svg>

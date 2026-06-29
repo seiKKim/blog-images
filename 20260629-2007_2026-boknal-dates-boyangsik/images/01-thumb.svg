@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E0556E"/>
+      <stop offset="1" stop-color="#C9405B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="250" height="68" fill="#FFD23F"/>
+  <text x="205" y="137" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">가정의달·시즌</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="312" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="62" fill="#FFE9EE">2026 복날 언제더라?</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="458" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="120" fill="#ffffff">초복·중복·말복</text>
+
+  <!-- 날짜 3행 카드 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="80" y="520" rx="22" width="920" height="104" fill="#ffffff" opacity="0.16"/>
+    <text x="115" y="590" font-weight="bold" font-size="54" fill="#ffffff">초복</text>
+    <text x="985" y="590" font-weight="bold" font-size="58" fill="#FFD23F" text-anchor="end">7월 15일 (수)</text>
+
+    <rect x="80" y="640" rx="22" width="920" height="104" fill="#ffffff" opacity="0.16"/>
+    <text x="115" y="710" font-weight="bold" font-size="54" fill="#ffffff">중복</text>
+    <text x="985" y="710" font-weight="bold" font-size="58" fill="#FFD23F" text-anchor="end">7월 25일 (토)</text>
+
+    <rect x="80" y="760" rx="22" width="920" height="104" fill="#ffffff" opacity="0.16"/>
+    <text x="115" y="830" font-weight="bold" font-size="54" fill="#ffffff">말복</text>
+    <text x="985" y="830" font-weight="bold" font-size="58" fill="#FFD23F" text-anchor="end">8월 14일 (금)</text>
+  </g>
+
+  <!-- 디테일 띠 -->
+  <rect x="80" y="900" rx="20" width="920" height="92" fill="#2B2F36" opacity="0.85"/>
+  <text x="540" y="960" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff" text-anchor="middle">올해는 '월복' · 삼복 31일</text>
+
+  <text x="80" y="1042" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="32" fill="#FFE9EE" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

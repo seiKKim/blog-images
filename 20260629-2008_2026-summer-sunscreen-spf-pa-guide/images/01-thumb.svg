@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#E8722C"/>
+  <circle cx="950" cy="170" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="110" cy="980" r="210" fill="#ffffff" opacity="0.06"/>
+  <rect x="80" y="86" rx="34" ry="34" width="220" height="68" fill="#FFD23F"/>
+  <text x="190" y="133" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="80" y="318" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#FFE9D4">여름철 선크림, 제대로 알고 바르기</text>
+  <text x="80" y="452" font-family="Noto Sans CJK KR" font-weight="bold" font-size="92" fill="#ffffff">SPF·PA 뜻과</text>
+  <text x="80" y="566" font-family="Noto Sans CJK KR" font-weight="bold" font-size="92" fill="#FFD23F">올바른 사용법</text>
+  <rect x="80" y="650" rx="22" ry="22" width="920" height="240" fill="#B14E18"/>
+  <text x="112" y="726" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#ffffff">· SPF=자외선B  /  PA=자외선A</text>
+  <text x="112" y="800" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#ffffff">· 500원 동전 크기로 듬뿍</text>
+  <text x="112" y="874" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#ffffff">· 약 2시간마다 덧바르기</text>
+  <text x="80" y="1006" font-family="Noto Sans CJK KR" font-weight="normal" font-size="34" fill="#FFE9D4" opacity="0.95">blog.naver.com/trip_chocho</text>
+</svg>

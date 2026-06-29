@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF2F4"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="100" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">대표 여름 보양식</text>
+  <text x="60" y="160" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">복날 하면 빠질 수 없는 5가지</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 삼계탕 -->
+    <rect x="60" y="260" width="960" height="190" rx="22" fill="#ffffff" stroke="#EBCBD3"/>
+    <circle cx="150" cy="355" r="58" fill="#FFE9EE"/>
+    <text x="150" y="372" font-weight="bold" font-size="44" fill="#E0556E" text-anchor="middle">1</text>
+    <text x="250" y="335" font-weight="bold" font-size="46" fill="#1a1a1a">삼계탕</text>
+    <text x="250" y="395" font-weight="normal" font-size="34" fill="#5B6B7C">닭+마늘·대추·인삼. 필수아미노산 풍부,</text>
+    <text x="250" y="435" font-weight="normal" font-size="34" fill="#5B6B7C">소화·흡수 좋아 체력 회복에 도움</text>
+
+    <!-- 장어 -->
+    <rect x="60" y="465" width="960" height="190" rx="22" fill="#ffffff" stroke="#EBCBD3"/>
+    <circle cx="150" cy="560" r="58" fill="#FFE9EE"/>
+    <text x="150" y="577" font-weight="bold" font-size="44" fill="#E0556E" text-anchor="middle">2</text>
+    <text x="250" y="540" font-weight="bold" font-size="46" fill="#1a1a1a">장어</text>
+    <text x="250" y="600" font-weight="normal" font-size="34" fill="#5B6B7C">고단백+비타민 A·B군, 칼슘·철·아연.</text>
+    <text x="250" y="640" font-weight="normal" font-size="34" fill="#5B6B7C">여름 스태미나 음식, 피로회복·면역</text>
+
+    <!-- 추어탕 -->
+    <rect x="60" y="670" width="960" height="190" rx="22" fill="#ffffff" stroke="#EBCBD3"/>
+    <circle cx="150" cy="765" r="58" fill="#FFE9EE"/>
+    <text x="150" y="782" font-weight="bold" font-size="44" fill="#E0556E" text-anchor="middle">3</text>
+    <text x="250" y="745" font-weight="bold" font-size="46" fill="#1a1a1a">추어탕</text>
+    <text x="250" y="805" font-weight="normal" font-size="34" fill="#5B6B7C">미꾸라지 강장식. 칼슘·단백질·라이신,</text>
+    <text x="250" y="845" font-weight="normal" font-size="34" fill="#5B6B7C">뼈 건강에 도움 (나트륨은 주의)</text>
+
+    <!-- 전복죽 -->
+    <rect x="60" y="875" width="960" height="190" rx="22" fill="#ffffff" stroke="#EBCBD3"/>
+    <circle cx="150" cy="970" r="58" fill="#FFE9EE"/>
+    <text x="150" y="987" font-weight="bold" font-size="44" fill="#E0556E" text-anchor="middle">4</text>
+    <text x="250" y="950" font-weight="bold" font-size="46" fill="#1a1a1a">전복죽</text>
+    <text x="250" y="1010" font-weight="normal" font-size="34" fill="#5B6B7C">저지방·고단백. 미네랄·아미노산 풍부,</text>
+    <text x="250" y="1050" font-weight="normal" font-size="34" fill="#5B6B7C">부담 적어 소화 약한 분께 무난</text>
+
+    <!-- 콩국수 -->
+    <rect x="60" y="1080" width="960" height="190" rx="22" fill="#ffffff" stroke="#7FB77E"/>
+    <circle cx="150" cy="1175" r="58" fill="#E6F2E5"/>
+    <text x="150" y="1192" font-weight="bold" font-size="44" fill="#2E8B57" text-anchor="middle">5</text>
+    <text x="250" y="1155" font-weight="bold" font-size="46" fill="#1a1a1a">콩국수 <tspan font-size="32" fill="#2E8B57">(채식 친화)</tspan></text>
+    <text x="250" y="1215" font-weight="normal" font-size="34" fill="#5B6B7C">식물성 단백질·칼슘·철분. 약 500kcal로</text>
+    <text x="250" y="1255" font-weight="normal" font-size="34" fill="#5B6B7C">삼계탕보다 가벼운 더위 식힘 메뉴</text>
+  </g>
+
+  <rect x="0" y="1290" width="1080" height="60" fill="#EFD9DF"/>
+  <text x="60" y="1330" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#7A5560">효능은 일반적으로 알려진 영양·특징 위주 참고용</text>
+</svg>

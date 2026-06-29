@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF3EA"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="62" fill="#ffffff">SPF·PA 한눈에 비교</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="270" width="960" height="430" rx="20" fill="#ffffff" stroke="#F0C8A8" stroke-width="2"/>
+    <text x="100" y="360" font-size="64" font-weight="bold" fill="#E8722C">SPF</text>
+    <text x="100" y="440" font-size="44" font-weight="bold" fill="#1a1a1a">막는 자외선 : 자외선B (UVB)</text>
+    <text x="100" y="520" font-size="40" fill="#444">화상·붉어짐·기미 유발</text>
+    <text x="100" y="610" font-size="40" font-weight="bold" fill="#1a1a1a">표기 : 50까지 숫자</text>
+    <text x="100" y="668" font-size="40" font-weight="bold" fill="#1a1a1a">50 초과는  SPF50+</text>
+
+    <rect x="60" y="740" width="960" height="430" rx="20" fill="#ffffff" stroke="#F0C8A8" stroke-width="2"/>
+    <text x="100" y="830" font-size="64" font-weight="bold" fill="#E8722C">PA</text>
+    <text x="100" y="910" font-size="44" font-weight="bold" fill="#1a1a1a">막는 자외선 : 자외선A (UVA)</text>
+    <text x="100" y="990" font-size="40" fill="#444">주름·색소침착·광노화 관여</text>
+    <text x="100" y="1080" font-size="40" font-weight="bold" fill="#1a1a1a">표기 : PA+ ~ PA++++</text>
+    <text x="100" y="1138" font-size="40" fill="#444">+ 많을수록 차단력 ↑</text>
+  </g>
+  <rect x="0" y="1270" width="1080" height="80" fill="#FCE6D3"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#9C6234">출처: 식약처·정책브리핑(korea.kr)</text>
+</svg>

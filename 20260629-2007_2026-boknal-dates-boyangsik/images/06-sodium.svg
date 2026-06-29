@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF2F4"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="100" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">삼계탕 나트륨 주의</text>
+  <text x="60" y="160" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">한 그릇으로 하루치 절반 이상</text>
+
+  <!-- 도넛 게이지: 중심 540,560 r=180, stroke 56 -->
+  <g transform="rotate(-90 540 560)">
+    <circle cx="540" cy="560" r="180" fill="none" stroke="#EFD9DF" stroke-width="56"/>
+    <circle cx="540" cy="560" r="180" fill="none" stroke="#E0556E" stroke-width="56"
+            stroke-linecap="round" stroke-dasharray="746.6 1131" />
+  </g>
+  <text x="540" y="540" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="130" fill="#E0556E" text-anchor="middle">66%</text>
+  <text x="540" y="615" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="40" fill="#5B6B7C" text-anchor="middle">하루 기준치 대비</text>
+
+  <!-- 수치 박스 -->
+  <rect x="160" y="820" width="760" height="150" rx="22" fill="#ffffff" stroke="#EBCBD3"/>
+  <text x="540" y="890" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a" text-anchor="middle">삼계탕 한 그릇 나트륨</text>
+  <text x="540" y="950" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="50" fill="#E0556E" text-anchor="middle">약 1,311 mg</text>
+
+  <!-- 팁 -->
+  <rect x="60" y="1010" width="960" height="220" rx="24" fill="#FFD23F"/>
+  <text x="90" y="1080" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a">국물은 건더기 위주로, 끝까지 다 마시지 않기</text>
+  <text x="90" y="1145" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="36" fill="#3a3a3a">소금간·김치·깍두기까지 더하면 섭취량은 더 늘어요.</text>
+  <text x="90" y="1195" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="36" fill="#3a3a3a">고혈압·신장질환이 있다면 특히 양 조절!</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFD9DF"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#7A5560">나트륨 약 1,311mg = 하루 기준치의 약 66%</text>
+</svg>

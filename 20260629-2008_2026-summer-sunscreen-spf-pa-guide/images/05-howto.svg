@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF3EA"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="58" fill="#ffffff">제대로 바르는 3가지</text>
+  <g font-family="Noto Sans CJK KR">
+    <circle cx="130" cy="360" r="46" fill="#E8722C"/>
+    <text x="130" y="378" font-size="50" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="210" y="345" font-size="50" font-weight="bold" fill="#1a1a1a">타이밍</text>
+    <text x="210" y="415" font-size="44" fill="#E8722C" font-weight="bold">외출 15분 전에 바르기</text>
+
+    <circle cx="130" cy="600" r="46" fill="#E8722C"/>
+    <text x="130" y="618" font-size="50" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="210" y="565" font-size="50" font-weight="bold" fill="#1a1a1a">양</text>
+    <text x="210" y="635" font-size="44" fill="#E8722C" font-weight="bold">500원 동전 크기로 듬뿍</text>
+    <text x="210" y="693" font-size="36" fill="#666">1㎠당 2mg / 손가락 두 마디(약 0.8~1g)</text>
+
+    <circle cx="130" cy="860" r="46" fill="#E8722C"/>
+    <text x="130" y="878" font-size="50" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="210" y="825" font-size="50" font-weight="bold" fill="#1a1a1a">덧바르기</text>
+    <text x="210" y="895" font-size="44" fill="#E8722C" font-weight="bold">약 2시간마다</text>
+    <text x="210" y="953" font-size="36" fill="#666">물놀이 땐 1~2시간마다</text>
+  </g>
+  <rect x="60" y="1030" width="960" height="170" rx="18" fill="#FFF2D6" stroke="#FFD23F" stroke-width="2"/>
+  <text x="540" y="1100" font-family="Noto Sans CJK KR" font-size="40" font-weight="bold" fill="#9C6234" text-anchor="middle">적게 바르면 SPF·PA 표기값만큼</text>
+  <text x="540" y="1158" font-family="Noto Sans CJK KR" font-size="40" font-weight="bold" fill="#9C6234" text-anchor="middle">효과가 나오지 않아요</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#FCE6D3"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#9C6234">출처: 식약처·WHO 권고</text>
+</svg>

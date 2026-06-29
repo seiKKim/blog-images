@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF3EA"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR" font-weight="bold" font-size="56" fill="#ffffff">무기자차 vs 유기자차</text>
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="280" width="960" height="400" rx="20" fill="#ffffff" stroke="#F0C8A8" stroke-width="2"/>
+    <text x="100" y="368" font-size="52" font-weight="bold" fill="#E8722C">무기자차 (미네랄)</text>
+    <text x="100" y="450" font-size="42" font-weight="bold" fill="#1a1a1a">자외선을 반사·산란</text>
+    <text x="100" y="528" font-size="40" fill="#2E7D46">장점 : 자극 적음, 민감성·아기</text>
+    <text x="100" y="606" font-size="40" fill="#C0392B">단점 : 백탁현상(하얗게 뜸)</text>
+
+    <rect x="60" y="720" width="960" height="400" rx="20" fill="#ffffff" stroke="#F0C8A8" stroke-width="2"/>
+    <text x="100" y="808" font-size="52" font-weight="bold" fill="#E8722C">유기자차 (케미컬)</text>
+    <text x="100" y="890" font-size="42" font-weight="bold" fill="#1a1a1a">자외선을 흡수·변환</text>
+    <text x="100" y="968" font-size="40" fill="#2E7D46">장점 : 발림성 좋음, 백탁 적음</text>
+    <text x="100" y="1046" font-size="40" fill="#C0392B">단점 : 사람에 따라 자극 가능</text>
+  </g>
+  <text x="540" y="1200" font-family="Noto Sans CJK KR" font-size="38" font-weight="bold" fill="#9C6234" text-anchor="middle">피부 타입·사용감 기준으로 선택 (혼합자차도 OK)</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#FCE6D3"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#9C6234">출처: 성분 방식 비교 정리</text>
+</svg>

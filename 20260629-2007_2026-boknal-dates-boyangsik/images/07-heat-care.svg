@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF2F4"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="100" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">여름 무더위 건강관리</text>
+  <text x="60" y="160" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">31일 긴 삼복, 더위 대비도 길게</text>
+
+  <!-- 폭염 3대 수칙 라벨 -->
+  <text x="60" y="290" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="44" fill="#1a1a1a">폭염 핵심 수칙 — 물 · 그늘 · 휴식</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 물 -->
+    <rect x="60" y="330" width="300" height="300" rx="24" fill="#ffffff" stroke="#EBCBD3"/>
+    <circle cx="210" cy="430" r="62" fill="#FFE9EE"/>
+    <text x="210" y="450" font-weight="bold" font-size="56" fill="#E0556E" text-anchor="middle">물</text>
+    <text x="210" y="555" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">규칙적으로</text>
+    <text x="210" y="600" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">자주 마시기</text>
+
+    <!-- 그늘 -->
+    <rect x="390" y="330" width="300" height="300" rx="24" fill="#ffffff" stroke="#EBCBD3"/>
+    <circle cx="540" cy="430" r="62" fill="#FFE9EE"/>
+    <text x="540" y="450" font-weight="bold" font-size="56" fill="#E0556E" text-anchor="middle">그늘</text>
+    <text x="540" y="555" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">낮 12~17시</text>
+    <text x="540" y="600" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">야외 자제</text>
+
+    <!-- 휴식 -->
+    <rect x="720" y="330" width="300" height="300" rx="24" fill="#ffffff" stroke="#EBCBD3"/>
+    <circle cx="870" cy="430" r="62" fill="#FFE9EE"/>
+    <text x="870" y="450" font-weight="bold" font-size="56" fill="#E0556E" text-anchor="middle">휴식</text>
+    <text x="870" y="555" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">시원한 곳에서</text>
+    <text x="870" y="600" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">충분히 쉬기</text>
+  </g>
+
+  <!-- 냉방 온도 박스 -->
+  <rect x="60" y="680" width="960" height="280" rx="24" fill="#E0556E"/>
+  <text x="90" y="760" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="44" fill="#FFE9EE">냉방병 예방</text>
+  <text x="90" y="855" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="54" fill="#ffffff">적정 실내 냉방온도</text>
+  <text x="990" y="870" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="96" fill="#FFD23F" text-anchor="end">26~28℃</text>
+  <text x="90" y="925" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#FFE9EE">실내·외 온도차는 5℃ 내외로 유지하세요</text>
+
+  <!-- 온열질환 응급 메모 -->
+  <rect x="60" y="1000" width="960" height="210" rx="24" fill="#FFD23F"/>
+  <text x="90" y="1075" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="40" fill="#C9405B">[응급] 열사병 — 땀이 안 나고 의식 변화</text>
+  <text x="90" y="1135" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#1a1a1a">→ 즉시 119 신고</text>
+  <text x="90" y="1185" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="34" fill="#3a3a3a">어르신·어린이·만성질환자·야외근로자는 특히 주의</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFD9DF"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#7A5560">어린이·노약자를 밀폐된 차량에 혼자 두지 않기</text>
+</svg>
