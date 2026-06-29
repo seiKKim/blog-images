@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#243B6B"/>
+      <stop offset="1" stop-color="#1A2C50"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <circle cx="940" cy="160" r="280" fill="#ffffff" opacity="0.06"/>
+  <circle cx="120" cy="1000" r="220" fill="#ffffff" opacity="0.05"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="86" rx="34" ry="34" width="250" height="68" fill="#FFD23F"/>
+  <text x="205" y="132" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">금융 · 재테크</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="262" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="52" fill="#E8EEF5">2026 하반기 · 6월 말 기준</text>
+
+  <!-- 메인 카피 (제목 키워드) -->
+  <text x="80" y="392" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="118" fill="#FFFFFF">파킹통장</text>
+  <text x="80" y="516" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="118" fill="#FFD23F">금리 비교</text>
+
+  <!-- 비교 미니 카드 3개 -->
+  <g font-family="Malgun Gothic, 'Malgun Gothic', sans-serif">
+    <rect x="80" y="566" width="920" height="118" rx="18" fill="#ffffff" opacity="0.12"/>
+    <text x="112" y="640" font-weight="bold" font-size="46" fill="#FFFFFF">케이뱅크 플러스박스</text>
+    <text x="968" y="640" font-weight="bold" font-size="50" fill="#FFD23F" text-anchor="end">최고 2.2%</text>
+
+    <rect x="80" y="700" width="920" height="118" rx="18" fill="#ffffff" opacity="0.12"/>
+    <text x="112" y="774" font-weight="bold" font-size="46" fill="#FFFFFF">카카오뱅크 세이프박스</text>
+    <text x="968" y="774" font-weight="bold" font-size="50" fill="#FFD23F" text-anchor="end">약 1.6%대</text>
+
+    <rect x="80" y="834" width="920" height="118" rx="18" fill="#ffffff" opacity="0.12"/>
+    <text x="112" y="908" font-weight="bold" font-size="46" fill="#FFFFFF">토스뱅크 나눠모으기</text>
+    <text x="968" y="908" font-weight="bold" font-size="50" fill="#FFD23F" text-anchor="end">1.4% 복리</text>
+  </g>
+
+  <text x="80" y="1012" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="normal" font-size="32" fill="#E8EEF5" opacity="0.9">한도 · 예금자보호 1억 총정리 · blog.naver.com/trip_chocho</text>
+</svg>

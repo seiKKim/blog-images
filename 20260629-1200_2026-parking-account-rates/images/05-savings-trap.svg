@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#243B6B"/>
+  <rect x="60" y="46" rx="26" width="232" height="56" fill="#FFD23F"/>
+  <text x="176" y="86" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">저축은행 주의</text>
+  <text x="60" y="168" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="56" fill="#FFFFFF">최고금리 구간의 함정</text>
+
+  <!-- 예치금 막대: 50만원 구간 vs 초과 구간 -->
+  <text x="60" y="320" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="44" fill="#1A2330">OK파킹플렉스 예시</text>
+
+  <!-- 구간1 -->
+  <rect x="60" y="370" width="320" height="200" rx="18" fill="#243B6B"/>
+  <text x="220" y="448" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="40" fill="#FFFFFF" text-anchor="middle">50만원 이하</text>
+  <text x="220" y="528" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="64" fill="#FFD23F" text-anchor="middle">최고 5~7%</text>
+
+  <text x="410" y="490" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="80" fill="#5B6B7C" text-anchor="middle">→</text>
+
+  <!-- 구간2 -->
+  <rect x="480" y="370" width="540" height="200" rx="18" fill="#E3EAF4" stroke="#D6E0EC"/>
+  <text x="750" y="448" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="40" fill="#1A2330" text-anchor="middle">50만원 초과분</text>
+  <text x="750" y="528" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="64" fill="#E23B3B" text-anchor="middle">기본 약 3.01%</text>
+
+  <!-- SBI 사이다뱅크 비교 -->
+  <rect x="60" y="630" width="960" height="180" rx="18" fill="#FFFFFF" stroke="#D6E0EC"/>
+  <text x="90" y="700" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="42" fill="#1A2330">SBI 사이다입출금통장</text>
+  <text x="90" y="766" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="36" fill="#5B6B7C">1억원 이하 2.0% · 1억원 초과분 0.2%</text>
+
+  <rect x="60" y="850" width="960" height="130" rx="16" fill="#FDECEC"/>
+  <text x="90" y="912" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="40" fill="#E23B3B">"최고 7%"만 보고 목돈 넣으면</text>
+  <text x="90" y="958" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-weight="bold" font-size="40" fill="#E23B3B">실제 평균금리는 훨씬 낮아집니다</text>
+
+  <text x="60" y="1040" font-family="Malgun Gothic, 'Malgun Gothic', sans-serif" font-size="30" fill="#5B6B7C">출처: SBI 2025-06-05 안내 · 내 예치금 기준 평균금리 계산 필수</text>
+</svg>
