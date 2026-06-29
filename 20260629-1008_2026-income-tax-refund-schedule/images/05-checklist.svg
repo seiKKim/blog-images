@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">안 들어올 때 점검 순서</text>
+
+  <g font-family="Malgun Gothic">
+    <!-- 1 -->
+    <rect x="60" y="280" width="960" height="190" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="140" cy="375" r="42" fill="#1F8A53"/>
+    <text x="140" y="392" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="210" y="360" font-size="44" font-weight="bold" fill="#1a1a1a">신고결과 조회</text>
+    <text x="210" y="420" font-size="34" fill="#5B6B7C">내 신고건 처리상태(진행/완료) 확인</text>
+
+    <!-- 2 -->
+    <rect x="60" y="490" width="960" height="190" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="140" cy="585" r="42" fill="#1F8A53"/>
+    <text x="140" y="602" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="210" y="570" font-size="44" font-weight="bold" fill="#1a1a1a">환급금 발생 여부 확인</text>
+    <text x="210" y="630" font-size="34" fill="#5B6B7C">국세환급금 찾기 / 정부24 미환급금</text>
+
+    <!-- 3 -->
+    <rect x="60" y="700" width="960" height="190" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="140" cy="795" r="42" fill="#1F8A53"/>
+    <text x="140" y="812" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="210" y="780" font-size="44" font-weight="bold" fill="#1a1a1a">환급계좌 등록 확인</text>
+    <text x="210" y="840" font-size="34" fill="#5B6B7C">미등록이면 환급계좌 신고</text>
+
+    <!-- 4 -->
+    <rect x="60" y="910" width="960" height="190" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="140" cy="1005" r="42" fill="#1F8A53"/>
+    <text x="140" y="1022" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="210" y="990" font-size="44" font-weight="bold" fill="#1a1a1a">세무서·126 문의</text>
+    <text x="210" y="1050" font-size="34" fill="#5B6B7C">지방소득세는 시·군·구청</text>
+  </g>
+
+  <text x="60" y="1170" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">※ 세무서별 처리량 차이로 며칠 늦을 수 있어요(바로 누락 아님).</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 국세청 홈택스 · 정부24</text>
+</svg>

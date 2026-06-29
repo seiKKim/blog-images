@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">홈택스(PC) 환급금 조회</text>
+
+  <g font-family="Malgun Gothic">
+    <!-- step 1 -->
+    <circle cx="115" cy="320" r="38" fill="#1F8A53"/>
+    <text x="115" y="335" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="185" y="335" font-size="44" font-weight="bold" fill="#1a1a1a">홈택스 로그인 (공동·간편인증)</text>
+
+    <!-- step 2 -->
+    <circle cx="115" cy="470" r="38" fill="#1F8A53"/>
+    <text x="115" y="485" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="185" y="485" font-size="44" font-weight="bold" fill="#1a1a1a">조회/발급 → 국세환급</text>
+
+    <!-- step 3 -->
+    <circle cx="115" cy="620" r="38" fill="#1F8A53"/>
+    <text x="115" y="635" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="185" y="635" font-size="44" font-weight="bold" fill="#1a1a1a">「국세환급금 찾기」 클릭</text>
+
+    <!-- step 4 -->
+    <circle cx="115" cy="770" r="38" fill="#1F8A53"/>
+    <text x="115" y="785" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="185" y="785" font-size="44" font-weight="bold" fill="#1a1a1a">주민번호·성명 입력 후 조회</text>
+  </g>
+
+  <!-- 팁 박스 -->
+  <rect x="60" y="880" width="960" height="240" rx="18" fill="#E6F4EC"/>
+  <text x="100" y="958" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#1F8A53">메뉴명이 달라도 OK</text>
+  <text x="100" y="1023" font-family="Malgun Gothic" font-size="36" fill="#33414F">개편으로 상위 메뉴명이 바뀌어도</text>
+  <text x="100" y="1078" font-family="Malgun Gothic" font-size="36" fill="#33414F">키워드 '국세환급금 찾기'로 찾으면 돼요</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 국세청 홈택스(hometax.go.kr)</text>
+</svg>

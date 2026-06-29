@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">손택스(모바일) 조회</text>
+
+  <g font-family="Malgun Gothic">
+    <circle cx="115" cy="330" r="38" fill="#1F8A53"/>
+    <text x="115" y="345" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="185" y="345" font-size="44" font-weight="bold" fill="#1a1a1a">손택스 앱 로그인 (간편·지문)</text>
+
+    <circle cx="115" cy="490" r="38" fill="#1F8A53"/>
+    <text x="115" y="505" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="185" y="505" font-size="44" font-weight="bold" fill="#1a1a1a">조회/발급 → 기타조회</text>
+
+    <circle cx="115" cy="650" r="38" fill="#1F8A53"/>
+    <text x="115" y="665" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="185" y="665" font-size="44" font-weight="bold" fill="#1a1a1a">「환급금 조회」 진입</text>
+  </g>
+
+  <!-- 또는 박스 -->
+  <rect x="60" y="760" width="960" height="200" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="835" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#1F8A53">또는</text>
+  <text x="100" y="900" font-family="Malgun Gothic" font-size="38" fill="#33414F">My홈택스 → 나의 세금신고에서</text>
+  <text x="100" y="940" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">종합소득세 정기확정 환급 예정액 확인</text>
+
+  <!-- 정부24 안내 -->
+  <rect x="60" y="1000" width="960" height="180" rx="18" fill="#E6F4EC"/>
+  <text x="100" y="1075" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#1F8A53">정부24 미환급금 조회</text>
+  <text x="100" y="1135" font-family="Malgun Gothic" font-size="34" fill="#33414F">국세·지방세·건강보험까지 한 번에 일괄 조회</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 국세청 손택스 · 정부24(gov.kr)</text>
+</svg>
