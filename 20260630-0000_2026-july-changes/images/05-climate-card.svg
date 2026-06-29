@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F6F8"/>
+
+  <!-- 상단 띠 -->
+  <rect width="1080" height="210" fill="#2B2F36"/>
+  <rect x="60" y="58" rx="26" ry="26" width="280" height="56" fill="#E23B3B"/>
+  <text x="200" y="96" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="30" fill="#ffffff" text-anchor="middle">충전 ~7/31</text>
+  <text x="60" y="172" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="800"
+        font-size="58" fill="#ffffff">기후동행카드 전환</text>
+
+  <!-- 전환 띠 -->
+  <rect x="60" y="252" width="960" height="96" rx="16" fill="#2B2F36"/>
+  <text x="540" y="312" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="40" fill="#E8EEF5" text-anchor="middle">30일권 <tspan fill="#FFD23F">→</tspan> 기후동행카드 플러스(K패스 통합)</text>
+
+  <!-- 일정 표 -->
+  <text x="60" y="430" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="800"
+        font-size="46" fill="#2B2F36">종료 일정</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="460" width="960" height="130" rx="16" fill="#ffffff" stroke="#DBE2EA"/>
+    <rect x="60" y="460" width="14" height="130" rx="7" fill="#E23B3B"/>
+    <text x="110" y="542" font-weight="700" font-size="46" fill="#2B2F36">선불 충전</text>
+    <text x="990" y="544" font-weight="800" font-size="50" fill="#E23B3B" text-anchor="end">~7/31까지</text>
+
+    <rect x="60" y="610" width="960" height="130" rx="16" fill="#ffffff" stroke="#DBE2EA"/>
+    <rect x="60" y="610" width="14" height="130" rx="7" fill="#9AA3AD"/>
+    <text x="110" y="692" font-weight="700" font-size="46" fill="#2B2F36">후불 이용</text>
+    <text x="990" y="694" font-weight="800" font-size="50" fill="#2B2F36" text-anchor="end">~8/31까지</text>
+
+    <rect x="60" y="760" width="960" height="130" rx="16" fill="#ffffff" stroke="#DBE2EA"/>
+    <rect x="60" y="760" width="14" height="130" rx="7" fill="#9AA3AD"/>
+    <text x="110" y="842" font-weight="700" font-size="46" fill="#2B2F36">30일권 운영</text>
+    <text x="990" y="844" font-weight="800" font-size="50" fill="#2B2F36" text-anchor="end">9/1부 종료</text>
+  </g>
+
+  <!-- K패스 혜택 박스 -->
+  <rect x="60" y="930" width="960" height="290" rx="20" fill="#2B2F36"/>
+  <text x="100" y="1006" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="800"
+        font-size="44" fill="#FFD23F">K패스 환급 한시 확대 (4월~9월분)</text>
+  <text x="100" y="1078" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="500"
+        font-size="38" fill="#E8EEF5">· 지정 출퇴근 시간대 환급률 +30%p</text>
+  <text x="100" y="1140" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="500"
+        font-size="38" fill="#E8EEF5">· '모두의 카드' 환급 기준금액 50% 인하</text>
+  <text x="100" y="1202" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="500"
+        font-size="38" fill="#E8EEF5">· 따릉이·문화여가 할인 등 기존 혜택 유지</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="500"
+        font-size="32" fill="#5B6B7C">출처: 서울시 발표(2026.6.18) · 2026.6 기준</text>
+</svg>

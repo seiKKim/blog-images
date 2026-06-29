@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F6F8"/>
+
+  <!-- 상단 띠 -->
+  <rect width="1080" height="210" fill="#2B2F36"/>
+  <rect x="60" y="58" rx="26" ry="26" width="190" height="56" fill="#E23B3B"/>
+  <text x="155" y="96" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="30" fill="#ffffff" text-anchor="middle">~7/3 마감</text>
+  <text x="60" y="172" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="800"
+        font-size="58" fill="#ffffff">고유가 피해지원금 2차</text>
+
+  <!-- 대상 띠 -->
+  <rect x="60" y="252" width="960" height="96" rx="16" fill="#2B2F36"/>
+  <text x="540" y="312" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="40" fill="#E8EEF5" text-anchor="middle">대상: 소득 하위 70% · 지역별 <tspan fill="#FFD23F">10만~25만 원</tspan></text>
+
+  <!-- 표 헤더 -->
+  <rect x="60" y="376" width="600" height="92" rx="14" fill="#E8EEF5"/>
+  <rect x="672" y="376" width="348" height="92" rx="14" fill="#E8EEF5"/>
+  <text x="100" y="436" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="40" fill="#2B2F36">거주 지역</text>
+  <text x="846" y="436" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="40" fill="#2B2F36" text-anchor="middle">지급액</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="480" width="600" height="120" rx="14" fill="#ffffff" stroke="#DBE2EA"/>
+    <rect x="672" y="480" width="348" height="120" rx="14" fill="#ffffff" stroke="#DBE2EA"/>
+    <text x="100" y="556" font-weight="700" font-size="44" fill="#2B2F36">수도권</text>
+    <text x="846" y="558" font-weight="800" font-size="52" fill="#E23B3B" text-anchor="middle">10만 원</text>
+
+    <rect x="60" y="612" width="600" height="120" rx="14" fill="#ffffff" stroke="#DBE2EA"/>
+    <rect x="672" y="612" width="348" height="120" rx="14" fill="#ffffff" stroke="#DBE2EA"/>
+    <text x="100" y="688" font-weight="700" font-size="44" fill="#2B2F36">비수도권</text>
+    <text x="846" y="690" font-weight="800" font-size="52" fill="#E23B3B" text-anchor="middle">15만 원</text>
+
+    <rect x="60" y="744" width="600" height="120" rx="14" fill="#ffffff" stroke="#DBE2EA"/>
+    <rect x="672" y="744" width="348" height="120" rx="14" fill="#ffffff" stroke="#DBE2EA"/>
+    <text x="100" y="804" font-weight="700" font-size="38" fill="#2B2F36">인구감소</text>
+    <text x="100" y="848" font-weight="700" font-size="38" fill="#2B2F36">우대지원지역</text>
+    <text x="846" y="822" font-weight="800" font-size="52" fill="#E23B3B" text-anchor="middle">20만 원</text>
+
+    <rect x="60" y="876" width="600" height="120" rx="14" fill="#FFF3E6" stroke="#F2D2A8"/>
+    <rect x="672" y="876" width="348" height="120" rx="14" fill="#FFF3E6" stroke="#F2D2A8"/>
+    <text x="100" y="936" font-weight="700" font-size="38" fill="#2B2F36">인구감소</text>
+    <text x="100" y="980" font-weight="700" font-size="38" fill="#2B2F36">특별지원지역</text>
+    <text x="846" y="954" font-weight="800" font-size="56" fill="#E23B3B" text-anchor="middle">25만 원</text>
+  </g>
+
+  <!-- 날짜 안내 -->
+  <rect x="60" y="1030" width="465" height="190" rx="16" fill="#ffffff" stroke="#DBE2EA"/>
+  <text x="92" y="1098" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="500"
+        font-size="36" fill="#5B6B7C">신청 마감</text>
+  <text x="92" y="1170" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="800"
+        font-size="56" fill="#2B2F36">7월 3일</text>
+
+  <rect x="555" y="1030" width="465" height="190" rx="16" fill="#ffffff" stroke="#DBE2EA"/>
+  <text x="587" y="1098" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="500"
+        font-size="36" fill="#5B6B7C">사용 기한</text>
+  <text x="587" y="1170" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="800"
+        font-size="56" fill="#2B2F36">8월 31일</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="500"
+        font-size="32" fill="#5B6B7C">출처: 정책브리핑(korea.kr) · 민생회복 소비쿠폰 2차 (2026.6 기준)</text>
+</svg>

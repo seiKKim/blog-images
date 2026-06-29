@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#2B2F36"/>
+  <circle cx="960" cy="170" r="270" fill="#ffffff" opacity="0.05"/>
+  <circle cx="120" cy="980" r="210" fill="#E23B3B" opacity="0.10"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="84" rx="34" ry="34" width="230" height="68" fill="#E23B3B"/>
+  <text x="195" y="130" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="38" fill="#ffffff" text-anchor="middle">오늘의 이슈</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="270" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="62" fill="#E8EEF5">놓치면 손해! 날짜부터 챙기세요</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="430" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="800"
+        font-size="138" fill="#ffffff">2026년 7월</text>
+  <text x="80" y="580" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="800"
+        font-size="138" fill="#FFD23F">달라지는 것</text>
+
+  <!-- 핵심 날짜 박스 -->
+  <rect x="80" y="660" rx="22" ry="22" width="920" height="86" fill="#ffffff" opacity="0.10"/>
+  <text x="110" y="718" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="44" fill="#ffffff">소비쿠폰 신청 <tspan fill="#FFD23F">~7/3</tspan>  ·  유류세 인하 <tspan fill="#FFD23F">~7/31</tspan></text>
+
+  <rect x="80" y="762" rx="22" ry="22" width="920" height="86" fill="#ffffff" opacity="0.10"/>
+  <text x="110" y="820" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="44" fill="#ffffff">기후동행카드 충전 <tspan fill="#FFD23F">~7/31</tspan>  ·  인천 행정구역 <tspan fill="#FFD23F">7/1</tspan></text>
+
+  <!-- 하단 안내 -->
+  <text x="80" y="936" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="40" fill="#E8EEF5">유류세·소비쿠폰 신청 언제까지? 한눈에 정리</text>
+
+  <text x="80" y="1012" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="400"
+        font-size="32" fill="#9AA3AD">blog.naver.com/trip_chocho · 2026.6 기준</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F6F8"/>
+
+  <!-- 상단 띠 -->
+  <rect width="1080" height="210" fill="#2B2F36"/>
+  <rect x="60" y="58" rx="26" ry="26" width="150" height="56" fill="#E23B3B"/>
+  <text x="135" y="96" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="30" fill="#ffffff" text-anchor="middle">7/1 시행</text>
+  <text x="60" y="172" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="800"
+        font-size="62" fill="#ffffff">인천 행정구역 개편</text>
+
+  <!-- 핵심 변화 띠 -->
+  <rect x="60" y="262" width="960" height="150" rx="18" fill="#2B2F36"/>
+  <text x="540" y="328" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="40" fill="#E8EEF5" text-anchor="middle">2026.7.1부터 · 31년 만의 자치구 신설</text>
+  <text x="540" y="392" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="800"
+        font-size="56" fill="#ffffff" text-anchor="middle">2군 8구 <tspan fill="#FFD23F">→</tspan> 2군 9구</text>
+
+  <!-- 변화 항목 카드 3개 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="460" width="960" height="170" rx="16" fill="#ffffff" stroke="#DBE2EA"/>
+    <rect x="60" y="460" width="14" height="170" rx="7" fill="#E23B3B"/>
+    <text x="110" y="528" font-weight="800" font-size="46" fill="#2B2F36">제물포구</text>
+    <text x="110" y="590" font-weight="500" font-size="38" fill="#5B6B7C">중구 내륙 + 동구 → 통합·조정</text>
+
+    <rect x="60" y="660" width="960" height="170" rx="16" fill="#ffffff" stroke="#DBE2EA"/>
+    <rect x="60" y="660" width="14" height="170" rx="7" fill="#E23B3B"/>
+    <text x="110" y="728" font-weight="800" font-size="46" fill="#2B2F36">영종구</text>
+    <text x="110" y="790" font-weight="500" font-size="38" fill="#5B6B7C">영종도 지역 → 분리·신설</text>
+
+    <rect x="60" y="860" width="960" height="170" rx="16" fill="#ffffff" stroke="#DBE2EA"/>
+    <rect x="60" y="860" width="14" height="170" rx="7" fill="#E23B3B"/>
+    <text x="110" y="928" font-weight="800" font-size="46" fill="#2B2F36">검단구</text>
+    <text x="110" y="990" font-weight="500" font-size="38" fill="#5B6B7C">서구 → 아라뱃길 경계로 분구</text>
+  </g>
+
+  <!-- 안내 박스 -->
+  <rect x="60" y="1070" width="960" height="150" rx="16" fill="#FFF3E6" stroke="#F2D2A8"/>
+  <text x="100" y="1138" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="40" fill="#2B2F36">해당 지역 거주자는 주소·등기·신청서류</text>
+  <text x="100" y="1192" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="700"
+        font-size="40" fill="#2B2F36">상 구 이름 변경 여부를 확인하세요</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="500"
+        font-size="32" fill="#5B6B7C">출처: 제물포구·영종구·검단구 설치 법률 (2026.6 기준)</text>
+</svg>
