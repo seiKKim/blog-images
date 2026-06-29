@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#2B2F36"/>
+  <circle cx="950" cy="200" r="300" fill="#E23B3B" opacity="0.18"/>
+  <rect x="60" y="70" rx="30" ry="30" width="270" height="64" fill="#E23B3B"/>
+  <text x="195" y="114" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#FFFFFF" text-anchor="middle">응급조치</text>
+
+  <text x="60" y="280" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#E8EEF5">더위에 쓰러진 사람을 봤다면?</text>
+
+  <!-- 경고 아이콘 (삼각형 + !) -->
+  <polygon points="540,400 660,610 420,610" fill="#FFD23F"/>
+  <text x="540" y="580" font-family="Malgun Gothic" font-weight="bold" font-size="120" fill="#2B2F36" text-anchor="middle">!</text>
+
+  <text x="540" y="730" font-family="Malgun Gothic" font-weight="bold" font-size="86" fill="#FFD23F" text-anchor="middle">의식이 없으면</text>
+  <text x="540" y="840" font-family="Malgun Gothic" font-weight="bold" font-size="86" fill="#FFFFFF" text-anchor="middle">물·음료 먹이기 금지</text>
+
+  <rect x="120" y="910" width="840" height="120" rx="60" fill="#E23B3B"/>
+  <text x="540" y="990" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#FFFFFF" text-anchor="middle">즉시 119 신고</text>
+
+  <text x="540" y="1110" font-family="Malgun Gothic" font-size="40" fill="#E8EEF5" text-anchor="middle">기도 흡인 위험 · 체온부터 내리기</text>
+  <text x="540" y="1175" font-family="Malgun Gothic" font-size="40" fill="#E8EEF5" text-anchor="middle">열사병 의심(건조·뜨거운 피부) 시 가장 위험</text>
+
+  <text x="540" y="1290" font-family="Malgun Gothic" font-size="32" fill="#9AA7B5" text-anchor="middle">blog.naver.com/trip_chocho</text>
+</svg>

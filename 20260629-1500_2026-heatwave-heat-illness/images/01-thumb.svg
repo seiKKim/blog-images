@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="heat" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7A0E0E"/>
+      <stop offset="45%" stop-color="#E23B3B"/>
+      <stop offset="100%" stop-color="#F26B21"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#heat)"/>
+  <!-- 아지랑이 느낌의 장식 -->
+  <circle cx="930" cy="170" r="280" fill="#ffffff" opacity="0.10"/>
+  <circle cx="120" cy="980" r="220" fill="#ffffff" opacity="0.07"/>
+  <circle cx="540" cy="540" r="430" fill="#FFD23F" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="92" rx="34" ry="34" width="240" height="70" fill="#2B2F36"/>
+  <text x="200" y="140" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#FFD23F" text-anchor="middle">오늘의 이슈</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="320" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#E8EEF5">18년 만에 바뀐 폭염특보</text>
+
+  <!-- 메인 카피 (클릭 유발) -->
+  <text x="80" y="470" font-family="Malgun Gothic" font-weight="bold" font-size="120" fill="#FFFFFF">체감 38도면</text>
+  <text x="80" y="600" font-family="Malgun Gothic" font-weight="bold" font-size="120" fill="#FFD23F">하루만 떠도</text>
+  <text x="80" y="730" font-family="Malgun Gothic" font-weight="bold" font-size="120" fill="#FFFFFF">최고 경보</text>
+
+  <!-- 강조 띠 -->
+  <rect x="80" y="800" rx="22" ry="22" width="920" height="120" fill="#2B2F36" opacity="0.92"/>
+  <text x="115" y="878" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#FFD23F">폭염중대경보 신설 · 2026.6.1 시행</text>
+
+  <text x="80" y="1010" font-family="Malgun Gothic" font-size="34" fill="#E8EEF5" opacity="0.92">blog.naver.com/trip_chocho</text>
+</svg>

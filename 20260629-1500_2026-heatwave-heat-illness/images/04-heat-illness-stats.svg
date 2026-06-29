@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#2B2F36"/>
+  <rect x="60" y="58" rx="30" ry="30" width="210" height="62" fill="#E23B3B"/>
+  <text x="165" y="101" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#FFFFFF" text-anchor="middle">오늘의 이슈</text>
+  <text x="60" y="180" font-family="Malgun Gothic" font-weight="bold" font-size="62" fill="#FFFFFF">2025년 온열질환, 얼마나?</text>
+
+  <!-- 큰 숫자 카드 2개 -->
+  <rect x="60" y="270" width="460" height="320" rx="24" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="290" y="360" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#2B2F36" text-anchor="middle">온열질환자</text>
+  <text x="290" y="490" font-family="Malgun Gothic" font-weight="bold" font-size="120" fill="#E23B3B" text-anchor="middle">4,460명</text>
+  <text x="290" y="555" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C" text-anchor="middle">전년 대비 20.4% 증가</text>
+
+  <rect x="560" y="270" width="460" height="320" rx="24" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="790" y="360" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#2B2F36" text-anchor="middle">사망자</text>
+  <text x="790" y="490" font-family="Malgun Gothic" font-weight="bold" font-size="120" fill="#2B2F36" text-anchor="middle">29명</text>
+  <text x="790" y="555" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C" text-anchor="middle">2018년 이후 최다 환자</text>
+
+  <!-- 7월 하순 집중 -->
+  <rect x="60" y="640" width="960" height="220" rx="24" fill="#2B2F36"/>
+  <text x="540" y="720" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#FFFFFF" text-anchor="middle">7월 하순에 집중 발생</text>
+  <text x="300" y="815" font-family="Malgun Gothic" font-weight="bold" font-size="80" fill="#FFD23F" text-anchor="middle">29.0%</text>
+  <text x="300" y="855" font-family="Malgun Gothic" font-size="34" fill="#E8EEF5" text-anchor="middle">전체 환자(1,295명)</text>
+  <text x="780" y="815" font-family="Malgun Gothic" font-weight="bold" font-size="80" fill="#FFD23F" text-anchor="middle">34.5%</text>
+  <text x="780" y="855" font-family="Malgun Gothic" font-size="34" fill="#E8EEF5" text-anchor="middle">사망자(10명)</text>
+
+  <!-- 발생 특성 -->
+  <text x="60" y="940" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#2B2F36">실외 발생 81.1% · 65세 이상 33.6%</text>
+  <rect x="60" y="980" width="780" height="40" rx="20" fill="#E2E8F0"/>
+  <rect x="60" y="980" width="633" height="40" rx="20" fill="#F26B21"/>
+  <text x="60" y="1085" font-family="Malgun Gothic" font-size="40" fill="#5B6B7C">최다 발생일: 7/8 하루 259명 (최고기온 34.1℃)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">출처: 질병관리청 온열질환 응급실감시체계(2025)</text>
+</svg>

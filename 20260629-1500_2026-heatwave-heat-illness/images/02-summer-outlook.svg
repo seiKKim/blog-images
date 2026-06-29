@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="80" y="60" rx="30" ry="30" width="210" height="62" fill="#E23B3B"/>
+  <text x="185" y="103" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#FFFFFF" text-anchor="middle">올여름 전망</text>
+  <text x="320" y="105" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#FFFFFF">평년보다 더울 확률</text>
+  <text x="80" y="170" font-family="Malgun Gothic" font-size="38" fill="#E8EEF5">2026년 6~8월 · 기상청 5/22 발표</text>
+
+  <!-- 기준선 50% (base 860 - max_h 480*0.5 = 620) -->
+  <line x1="80" y1="620" x2="1000" y2="620" stroke="#C9D4E0" stroke-width="3" stroke-dasharray="10 8"/>
+  <text x="1000" y="610" font-family="Malgun Gothic" font-size="32" fill="#8593A3" text-anchor="end">50% 기준</text>
+
+  <rect x="210" y="572" width="180" height="288" rx="14" fill="#E23B3B"/>
+  <text x="300" y="544" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#2B2F36" text-anchor="middle">60%</text>
+  <text x="300" y="922" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#2B2F36" text-anchor="middle">6월</text>
+  <rect x="450" y="572" width="180" height="288" rx="14" fill="#E23B3B"/>
+  <text x="540" y="544" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#2B2F36" text-anchor="middle">60%</text>
+  <text x="540" y="922" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#2B2F36" text-anchor="middle">7월</text>
+  <rect x="690" y="620" width="180" height="240" rx="14" fill="#F26B21"/>
+  <text x="780" y="592" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#2B2F36" text-anchor="middle">50%</text>
+  <text x="780" y="922" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#2B2F36" text-anchor="middle">8월</text>
+
+  <rect x="0" y="1000" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1052" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">출처: 기상청 여름철 기온 전망(2026.5.22)</text>
+</svg>

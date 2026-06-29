@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#2B2F36"/>
+  <rect x="60" y="58" rx="30" ry="30" width="210" height="62" fill="#E23B3B"/>
+  <text x="165" y="101" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#FFFFFF" text-anchor="middle">오늘의 이슈</text>
+  <text x="60" y="180" font-family="Malgun Gothic" font-weight="bold" font-size="62" fill="#FFFFFF">폭염특보 3단계 (일최고체감온도)</text>
+
+  <text x="220" y="320" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#2B2F36" text-anchor="middle">폭염주의보</text>
+  <text x="220" y="372" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C" text-anchor="middle">2일 이상 지속</text>
+  <rect x="192" y="560" width="56" height="420" rx="28" fill="#E2E8F0"/>
+  <rect x="192" y="749" width="56" height="231" rx="28" fill="#F26B21"/>
+  <circle cx="220" cy="1040" r="60" fill="#F26B21"/>
+  <text x="220" y="490" font-family="Malgun Gothic" font-weight="bold" font-size="76" fill="#F26B21" text-anchor="middle">33℃</text>
+  <text x="540" y="320" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#2B2F36" text-anchor="middle">폭염경보</text>
+  <text x="540" y="372" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C" text-anchor="middle">2일 이상 지속</text>
+  <rect x="512" y="560" width="56" height="420" rx="28" fill="#E2E8F0"/>
+  <rect x="512" y="686" width="56" height="294" rx="28" fill="#EE4E2E"/>
+  <circle cx="540" cy="1040" r="60" fill="#EE4E2E"/>
+  <text x="540" y="490" font-family="Malgun Gothic" font-weight="bold" font-size="76" fill="#EE4E2E" text-anchor="middle">35℃</text>
+  <text x="860" y="320" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#2B2F36" text-anchor="middle">폭염중대경보</text>
+  <text x="860" y="372" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C" text-anchor="middle">하루만 예상돼도</text>
+  <rect x="832" y="560" width="56" height="420" rx="28" fill="#E2E8F0"/>
+  <rect x="832" y="594" width="56" height="386" rx="28" fill="#E23B3B"/>
+  <circle cx="860" cy="1040" r="60" fill="#E23B3B"/>
+  <text x="860" y="490" font-family="Malgun Gothic" font-weight="bold" font-size="76" fill="#E23B3B" text-anchor="middle">38℃</text>
+
+  <rect x="60" y="1130" width="960" height="90" rx="16" fill="#2B2F36"/>
+  <text x="540" y="1188" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#FFD23F" text-anchor="middle">신설 중대경보: 일최고기온 39℃ 이상도 해당</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">출처: 기상청 폭염특보 개편(2026.6.1 시행)</text>
+</svg>
