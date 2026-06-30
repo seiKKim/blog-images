@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1F8A53"/>
+  <rect x="60" y="56" rx="26" ry="26" width="150" height="56" fill="#FFD23F"/>
+  <text x="135" y="95" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">세금/환급</text>
+  <text x="60" y="178" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="62" fill="#ffffff">카드사 혜택 유형</text>
+
+  <!-- (1) 무이자 할부 -->
+  <rect x="60" y="270" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="140" cy="370" r="42" fill="#1F8A53"/>
+  <text x="140" y="386" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="210" y="350" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="48" fill="#1a1a1a">무이자 / 부분 무이자 할부</text>
+  <text x="210" y="420" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal" font-size="38" fill="#5B6B7C">통상 5만원 이상 · 6·10·12개월 등</text>
+
+  <!-- (2) 캐시백 -->
+  <rect x="60" y="500" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="140" cy="590" r="42" fill="#1F8A53"/>
+  <text x="140" y="606" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="210" y="570" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="48" fill="#1a1a1a">캐시백</text>
+  <text x="210" y="638" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal" font-size="38" fill="#5B6B7C">체크카드 납부 시 일정 비율(예: 0.1%) 사례</text>
+
+  <!-- (3) 포인트/쿠폰 -->
+  <rect x="60" y="710" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="140" cy="800" r="42" fill="#1F8A53"/>
+  <text x="140" y="816" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="210" y="780" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="48" fill="#1a1a1a">포인트 / 리워드 / 쿠폰</text>
+  <text x="210" y="848" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal" font-size="38" fill="#5B6B7C">일정 금액 이상(예: 30만원~) 결제 시</text>
+
+  <!-- 우선순위 강조 -->
+  <rect x="60" y="930" width="960" height="240" rx="20" fill="#EAF6EF" stroke="#BFE3CD" stroke-width="2"/>
+  <text x="100" y="1010" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="42" fill="#1F8A53">활용 우선순위</text>
+  <text x="100" y="1085" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="50" fill="#1a1a1a">무이자 할부 &gt; 캐시백 &gt; 포인트·쿠폰</text>
+  <text x="100" y="1145" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal" font-size="36" fill="#5B6B7C">혜택은 매월·분기 변경 — 당월 공지 확인 필수</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#5B6B7C">당월 혜택은 인터넷지로 · ETAX · 카드사 공지에서 확인</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1F8A53"/>
+  <rect x="60" y="56" rx="26" ry="26" width="150" height="56" fill="#FFD23F"/>
+  <text x="135" y="95" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">세금/환급</text>
+  <text x="60" y="178" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="62" fill="#ffffff">카드 납부 수수료 비교</text>
+
+  <!-- 표 헤더 -->
+  <rect x="60" y="270" width="960" height="90" rx="14" fill="#243B6B"/>
+  <text x="120" y="328" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="38" fill="#ffffff">세금 종류</text>
+  <text x="640" y="328" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">신용카드</text>
+  <text x="900" y="328" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">체크카드</text>
+
+  <!-- 국세 행 -->
+  <rect x="60" y="372" width="960" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="120" y="448" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a">국세</text>
+  <text x="120" y="492" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal" font-size="0" fill="#5B6B7C"></text>
+  <text x="640" y="448" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="46" fill="#5B6B7C" text-anchor="middle">0.8%</text>
+  <text x="900" y="448" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="46" fill="#5B6B7C" text-anchor="middle">0.5%</text>
+
+  <!-- 재산세 행 강조 -->
+  <rect x="60" y="504" width="960" height="160" rx="14" fill="#EAF6EF" stroke="#1F8A53" stroke-width="3"/>
+  <text x="120" y="575" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="44" fill="#1F8A53">재산세</text>
+  <text x="120" y="625" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal" font-size="34" fill="#5B6B7C">(지방세)</text>
+  <text x="640" y="600" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="64" fill="#1F8A53" text-anchor="middle">0원</text>
+  <text x="900" y="600" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="64" fill="#1F8A53" text-anchor="middle">0원</text>
+
+  <!-- 한 줄 강조 -->
+  <text x="540" y="745" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">재산세는 카드로 내도 수수료 0원!</text>
+
+  <!-- 납부 채널 -->
+  <text x="60" y="850" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="46" fill="#1F8A53">납부 채널</text>
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <circle cx="90" cy="912" r="9" fill="#1F8A53"/>
+    <text x="120" y="926" font-weight="bold" font-size="40" fill="#1a1a1a">위택스 (wetax.go.kr)</text>
+    <circle cx="90" cy="977" r="9" fill="#1F8A53"/>
+    <text x="120" y="991" font-weight="bold" font-size="40" fill="#1a1a1a">서울시 ETAX (etax.seoul.go.kr)</text>
+    <circle cx="90" cy="1042" r="9" fill="#1F8A53"/>
+    <text x="120" y="1056" font-weight="bold" font-size="40" fill="#1a1a1a">인터넷지로 (giro.or.kr)</text>
+    <circle cx="90" cy="1107" r="9" fill="#1F8A53"/>
+    <text x="120" y="1121" font-weight="bold" font-size="40" fill="#1a1a1a">ARS · 은행창구 · CD/ATM · 편의점</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#5B6B7C">국세 0.8%/0.5% vs 재산세(지방세) 수수료 면제</text>
+</svg>

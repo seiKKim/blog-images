@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1F8A53"/>
+  <rect x="60" y="56" rx="26" ry="26" width="150" height="56" fill="#FFD23F"/>
+  <text x="135" y="95" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">세금/환급</text>
+  <text x="60" y="178" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="62" fill="#ffffff">전자고지+자동납부 세액공제</text>
+
+  <!-- 안내 줄 -->
+  <text x="60" y="300" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal" font-size="42" fill="#5B6B7C">신청 방식만 바꿔도 매년 자동으로 절세 (고지서 1장당)</text>
+
+  <!-- 행1 -->
+  <rect x="60" y="350" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="432" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">전자고지(전자송달)만</text>
+  <text x="1000" y="432" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="50" fill="#1F8A53" text-anchor="end">800원</text>
+
+  <!-- 행2 -->
+  <rect x="60" y="500" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="582" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">자동납부(자동이체)만</text>
+  <text x="1000" y="582" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="50" fill="#1F8A53" text-anchor="end">800원</text>
+
+  <!-- 행3 강조 -->
+  <rect x="60" y="650" width="960" height="170" rx="16" fill="#EAF6EF" stroke="#1F8A53" stroke-width="3"/>
+  <text x="100" y="752" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="50" fill="#1F8A53">둘 다 신청</text>
+  <text x="1000" y="752" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="72" fill="#1F8A53" text-anchor="end">1,600원</text>
+
+  <!-- 조건 박스 -->
+  <rect x="60" y="880" width="960" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="955" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a">신청 시 알아둘 점</text>
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <circle cx="115" cy="1015" r="8" fill="#1F8A53"/>
+    <text x="145" y="1028" font-weight="normal" font-size="38" fill="#2B3A30">대상은 지방세 정기분(재산세·자동차세 등)</text>
+    <circle cx="115" cy="1075" r="8" fill="#1F8A53"/>
+    <text x="145" y="1088" font-weight="normal" font-size="38" fill="#2B3A30">신청하면 다음 달부터 적용</text>
+    <circle cx="115" cy="1135" r="8" fill="#1F8A53"/>
+    <text x="145" y="1148" font-weight="normal" font-size="38" fill="#2B3A30">전자고지 신청 시 종이 고지서는 미발송</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#5B6B7C">서울 서초구청 기준 · 공제액은 자치단체별 상이</text>
+</svg>

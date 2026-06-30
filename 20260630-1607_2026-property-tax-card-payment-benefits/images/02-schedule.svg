@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1F8A53"/>
+  <rect x="60" y="56" rx="26" ry="26" width="150" height="56" fill="#FFD23F"/>
+  <text x="135" y="95" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">세금/환급</text>
+  <text x="60" y="178" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="62" fill="#ffffff">2026 재산세 납부 일정</text>
+
+  <!-- 1기분 카드 -->
+  <rect x="60" y="270" width="960" height="320" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="270" width="14" height="320" rx="7" fill="#1F8A53"/>
+  <text x="110" y="350" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="50" fill="#1F8A53">1기분</text>
+  <text x="110" y="445" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="64" fill="#1a1a1a">7월 16일 ~ 7월 31일</text>
+  <text x="110" y="520" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="40" fill="#5B6B7C">주택분 1/2 · 건축물 · 선박 · 항공기</text>
+
+  <!-- 2기분 카드 -->
+  <rect x="60" y="630" width="960" height="320" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="630" width="14" height="320" rx="7" fill="#9FBFA8"/>
+  <text x="110" y="710" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="50" fill="#1F8A53">2기분</text>
+  <text x="110" y="805" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="64" fill="#1a1a1a">9월 (통상 9/16~9/30)</text>
+  <text x="110" y="880" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="40" fill="#5B6B7C">주택분 나머지 1/2 · 토지</text>
+
+  <!-- 참고 박스 -->
+  <rect x="60" y="990" width="960" height="200" rx="20" fill="#EAF6EF" stroke="#BFE3CD" stroke-width="2"/>
+  <text x="100" y="1065" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="42" fill="#1F8A53">알아두기</text>
+  <text x="100" y="1130" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="40" fill="#2B3A30">주택분 연세액 20만원 이하는 7월에 전액 한 번에 부과</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#5B6B7C">정확한 날짜는 위택스 · 거주 지자체 고지로 확인</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#1F8A53"/>
+  <circle cx="980" cy="120" r="220" fill="#ffffff" opacity="0.07"/>
+
+  <rect x="60" y="56" rx="26" ry="26" width="150" height="56" fill="#FFD23F"/>
+  <text x="135" y="95" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">세금/환급</text>
+
+  <text x="60" y="200" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#E8EEF5">기한 넘기면? 가산세 주의</text>
+
+  <!-- 경고 박스 -->
+  <rect x="60" y="250" width="960" height="220" rx="24" fill="#ffffff"/>
+  <text x="110" y="345" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#1a1a1a">7월 31일 경과 즉시</text>
+  <text x="110" y="430" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#1a1a1a">납부지연가산세</text>
+  <text x="1000" y="430" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="110" fill="#E23B3B" text-anchor="end">3%</text>
+
+  <!-- 하단 안내 -->
+  <text x="60" y="555" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="40" fill="#E8EEF5">· 일정액 이상 장기 체납 시 매월 추가 가산</text>
+  <text x="60" y="615" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="40" fill="#E8EEF5">· 미납 지속 시 재산 압류 등 체납처분</text>
+
+  <text x="60" y="685" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="44" fill="#FFD23F">무조건 7월 31일 안에 납부하세요</text>
+</svg>
