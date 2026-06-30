@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F2F8FB"/>
+<rect width="1080" height="170" fill="#0E6E99"/>
+<text x="60" y="112" font-family="Noto Sans CJK KR" font-weight="900" font-size="58" fill="#ffffff">싱글덕트 vs 듀얼덕트</text>
+<rect x="60" y="230" width="450" height="940" rx="22" fill="#ffffff" stroke="#CFE3EC" stroke-width="2"/>
+<rect x="60" y="230" width="450" height="96" rx="22" fill="#8AA4B0"/>
+<text x="285" y="293" font-family="Noto Sans CJK KR" font-weight="900" font-size="50" fill="#ffffff" text-anchor="middle">싱글덕트</text>
+<text x="90" y="410" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#13303f">· 실내공기를 빨아</text>
+<text x="90" y="470" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#13303f">  응축열 식힘</text>
+<text x="90" y="560" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#C0392B">· 실내 음압 발생</text>
+<text x="90" y="640" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#13303f">· 더운 바깥공기</text>
+<text x="90" y="700" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#13303f">  문틈으로 유입</text>
+<text x="90" y="800" font-family="Noto Sans CJK KR" font-weight="900" font-size="40" fill="#C0392B">→ 효율 손해</text>
+<rect x="570" y="230" width="450" height="940" rx="22" fill="#ffffff" stroke="#0E6E99" stroke-width="3"/>
+<rect x="570" y="230" width="450" height="96" rx="22" fill="#0E6E99"/>
+<text x="795" y="293" font-family="Noto Sans CJK KR" font-weight="900" font-size="50" fill="#ffffff" text-anchor="middle">듀얼덕트</text>
+<text x="600" y="410" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#13303f">· 실외공기를</text>
+<text x="600" y="470" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#13303f">  흡입·배출</text>
+<text x="600" y="560" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#1F8A53">· 음압 적음</text>
+<text x="600" y="640" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#13303f">· 냉방 체감</text>
+<text x="600" y="700" font-family="Noto Sans CJK KR" font-weight="bold" font-size="38" fill="#13303f">  한 단계 위</text>
+<text x="600" y="800" font-family="Noto Sans CJK KR" font-weight="900" font-size="40" fill="#1F8A53">→ 효율 유리</text>
+<rect x="60" y="1000" width="960" height="150" rx="18" fill="#FFF7DC" stroke="#FFD23F" stroke-width="2"/>
+<text x="540" y="1070" font-family="Noto Sans CJK KR" font-weight="bold" font-size="40" fill="#13303f" text-anchor="middle">효율·체감 중시라면</text>
+<text x="540" y="1122" font-family="Noto Sans CJK KR" font-weight="900" font-size="44" fill="#0E6E99" text-anchor="middle">듀얼덕트 추천</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#D7EEF5"/>
+<text x="60" y="1320" font-family="Noto Sans CJK KR" font-size="30" fill="#4a6575">이동식 에어컨 구조 비교 · 정보 정리</text>
+</svg>
