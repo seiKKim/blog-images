@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="98" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">청년미래적금</text>
+  <text x="60" y="160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#FFD23F">신청 일정 · 가입조건</text>
+
+  <!-- 일정 박스 -->
+  <text x="60" y="280" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#243B6B">신청 일정</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="305" width="960" height="86" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="358" font-size="38" font-weight="bold" fill="#1a1a1a">출시일</text>
+    <text x="1000" y="358" font-size="38" font-weight="bold" fill="#243B6B" text-anchor="end">2026.6.22</text>
+
+    <rect x="60" y="401" width="960" height="86" rx="16" fill="#243B6B"/>
+    <text x="90" y="454" font-size="38" font-weight="bold" fill="#ffffff">신청기간</text>
+    <text x="1000" y="454" font-size="40" font-weight="bold" fill="#FFD23F" text-anchor="end">6.22 ~ 7.3 마감</text>
+
+    <rect x="60" y="497" width="960" height="86" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="550" font-size="38" font-weight="bold" fill="#1a1a1a">5부제</text>
+    <text x="1000" y="550" font-size="34" font-weight="bold" fill="#243B6B" text-anchor="end">6.22~6.26 / 6.29부터 해제</text>
+
+    <rect x="60" y="593" width="960" height="86" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="646" font-size="38" font-weight="bold" fill="#1a1a1a">계좌개설</text>
+    <text x="1000" y="646" font-size="38" font-weight="bold" fill="#243B6B" text-anchor="end">7.27 ~ 8.7</text>
+  </g>
+
+  <!-- 일반형/우대형 -->
+  <text x="60" y="770" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#243B6B">일반형 vs 우대형</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 일반형 -->
+    <rect x="60" y="800" width="465" height="430" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="800" width="465" height="80" rx="20" fill="#6B8CC4"/>
+    <rect x="60" y="840" width="465" height="40" fill="#6B8CC4"/>
+    <text x="292" y="855" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">일반형</text>
+    <text x="90" y="950" font-size="34" fill="#5B6B7C">개인소득</text>
+    <text x="90" y="996" font-size="38" font-weight="bold" fill="#1a1a1a">6,000만원 이하</text>
+    <text x="90" y="1066" font-size="34" fill="#5B6B7C">정부기여금</text>
+    <text x="90" y="1112" font-size="38" font-weight="bold" fill="#1a1a1a">납입액 6%</text>
+    <text x="90" y="1182" font-size="34" fill="#5B6B7C">월 최대 기여금</text>
+    <text x="90" y="1216" font-size="36" font-weight="bold" fill="#243B6B">3만원</text>
+
+    <!-- 우대형 -->
+    <rect x="555" y="800" width="465" height="430" rx="20" fill="#ffffff" stroke="#243B6B" stroke-width="3"/>
+    <rect x="555" y="800" width="465" height="80" rx="20" fill="#243B6B"/>
+    <rect x="555" y="840" width="465" height="40" fill="#243B6B"/>
+    <text x="787" y="855" font-size="42" font-weight="bold" fill="#FFD23F" text-anchor="middle">우대형</text>
+    <text x="585" y="950" font-size="34" fill="#5B6B7C">개인소득</text>
+    <text x="585" y="996" font-size="38" font-weight="bold" fill="#1a1a1a">3,600만원 이하</text>
+    <text x="585" y="1066" font-size="34" fill="#5B6B7C">정부기여금</text>
+    <text x="585" y="1112" font-size="38" font-weight="bold" fill="#1a1a1a">납입액 12%</text>
+    <text x="585" y="1182" font-size="34" fill="#5B6B7C">월 최대 기여금</text>
+    <text x="585" y="1216" font-size="36" font-weight="bold" fill="#243B6B">6만원</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">정확한 소득 상한·기준은 서민금융진흥원 공고·취급은행 앱에서 확인</text>
+</svg>

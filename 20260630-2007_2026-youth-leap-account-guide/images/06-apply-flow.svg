@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="160" fill="#243B6B"/>
+  <text x="60" y="78" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">청년미래적금 신청 절차</text>
+  <text x="60" y="132" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">취급은행 앱에서 3단계</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- STEP 1 -->
+    <rect x="60" y="260" width="290" height="320" rx="22" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="205" cy="350" r="50" fill="#243B6B"/>
+    <text x="205" y="368" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="205" y="460" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">가입 신청</text>
+    <text x="205" y="512" font-size="30" fill="#5B6B7C" text-anchor="middle">6/22~7/3</text>
+    <text x="205" y="550" font-size="30" fill="#5B6B7C" text-anchor="middle">취급은행 앱 (5부제)</text>
+
+    <!-- 화살표 -->
+    <text x="385" y="438" font-size="64" font-weight="bold" fill="#6B8CC4" text-anchor="middle">›</text>
+
+    <!-- STEP 2 -->
+    <rect x="395" y="260" width="290" height="320" rx="22" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="540" cy="350" r="50" fill="#243B6B"/>
+    <text x="540" y="368" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="540" y="460" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">자격심사</text>
+    <text x="540" y="512" font-size="30" fill="#5B6B7C" text-anchor="middle">서민금융진흥원</text>
+    <text x="540" y="550" font-size="30" fill="#5B6B7C" text-anchor="middle">소득·자격 확인</text>
+
+    <text x="720" y="438" font-size="64" font-weight="bold" fill="#6B8CC4" text-anchor="middle">›</text>
+
+    <!-- STEP 3 -->
+    <rect x="730" y="260" width="290" height="320" rx="22" fill="#243B6B"/>
+    <circle cx="875" cy="350" r="50" fill="#FFD23F"/>
+    <text x="875" y="368" font-size="52" font-weight="bold" fill="#243B6B" text-anchor="middle">3</text>
+    <text x="875" y="460" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">계좌개설</text>
+    <text x="875" y="512" font-size="30" fill="#E8EEF5" text-anchor="middle">7/27~8/7</text>
+    <text x="875" y="550" font-size="30" fill="#E8EEF5" text-anchor="middle">개설 후 납입 시작</text>
+  </g>
+
+  <text x="540" y="650" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C" text-anchor="middle">신청 마감 7/3 임박 · 신청 전 취급은행 앱에서 최신 기준 확인</text>
+</svg>

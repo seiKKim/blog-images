@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#243B6B"/>
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.07"/>
+  <circle cx="120" cy="980" r="210" fill="#ffffff" opacity="0.05"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="84" rx="34" ry="34" width="216" height="68" fill="#FFD23F"/>
+  <text x="188" y="130" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">금융/재테크</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="258" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#E8EEF5">청년도약계좌 신규 종료,</text>
+  <text x="80" y="328" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#E8EEF5">이제 가입은 후속 상품으로</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="490" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="118" fill="#ffffff">청년미래적금</text>
+  <text x="80" y="650" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="150" fill="#FFD23F">최고 연 8.0%</text>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="752" rx="20" ry="20" width="920" height="124" fill="#ffffff" opacity="0.14"/>
+  <text x="112" y="832" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="50" fill="#ffffff">신청 ~7/3 마감 · 월 50만원 · 3년</text>
+
+  <!-- 마감 강조 띠 -->
+  <rect x="80" y="908" rx="16" ry="16" width="430" height="86" fill="#E23B3B"/>
+  <text x="295" y="966" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff" text-anchor="middle">7월 3일 신청 마감</text>
+
+  <text x="560" y="966" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

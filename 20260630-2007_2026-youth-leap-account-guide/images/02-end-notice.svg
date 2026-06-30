@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="160" fill="#243B6B"/>
+  <text x="60" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">지금도 가입되나요?</text>
+
+  <!-- 종료 카드 -->
+  <rect x="60" y="220" width="960" height="300" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="540" y="318" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#1a1a1a" text-anchor="middle">청년도약계좌 신규 가입</text>
+
+  <!-- 마감 도장 -->
+  <rect x="300" y="360" width="480" height="118" rx="59" fill="#E23B3B"/>
+  <text x="540" y="440" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="66" fill="#ffffff" text-anchor="middle">2025.12.31 종료</text>
+
+  <!-- 하단 안내 -->
+  <text x="540" y="600" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#243B6B" text-anchor="middle">현재는 기존 가입자만 유지·만기 적용</text>
+  <text x="540" y="652" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#5B6B7C" text-anchor="middle">새 가입은 후속 상품 '청년미래적금'으로</text>
+</svg>
