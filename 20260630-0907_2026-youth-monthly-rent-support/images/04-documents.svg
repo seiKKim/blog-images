@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="60" y="52" rx="30" ry="30" width="190" height="60" fill="#FFD23F"/>
+  <text x="155" y="94" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="175" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">신청 필요서류 체크리스트</text>
+
+  <text x="60" y="280" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="40" fill="#1B5FA6">미리 챙기면 다음 모집 때 수월해요</text>
+
+  <!-- 체크리스트 항목 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 1 -->
+    <rect x="60" y="320" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="92" y="358" width="44" height="44" rx="8" fill="#1B5FA6"/>
+    <path d="M102 380 l9 9 l16 -18" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="170" y="395" font-weight="bold" font-size="42" fill="#1a1a1a">임대차계약서</text>
+
+    <!-- 2 -->
+    <rect x="60" y="460" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="92" y="498" width="44" height="44" rx="8" fill="#1B5FA6"/>
+    <path d="M102 520 l9 9 l16 -18" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="170" y="535" font-weight="bold" font-size="42" fill="#1a1a1a">월세 이체 증명서류</text>
+
+    <!-- 3 -->
+    <rect x="60" y="600" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="92" y="638" width="44" height="44" rx="8" fill="#1B5FA6"/>
+    <path d="M102 660 l9 9 l16 -18" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="170" y="675" font-weight="bold" font-size="42" fill="#1a1a1a">가족관계 증빙서류</text>
+
+    <!-- 4 -->
+    <rect x="60" y="740" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="92" y="778" width="44" height="44" rx="8" fill="#1B5FA6"/>
+    <path d="M102 800 l9 9 l16 -18" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="170" y="815" font-weight="bold" font-size="42" fill="#1a1a1a">본인 통장사본 · 신분 증빙</text>
+
+    <!-- 5 -->
+    <rect x="60" y="880" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="92" y="918" width="44" height="44" rx="8" fill="#1B5FA6"/>
+    <path d="M102 940 l9 9 l16 -18" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="170" y="955" font-weight="bold" font-size="42" fill="#1a1a1a">(방문 시) 소득·재산 신고서</text>
+  </g>
+
+  <!-- 팁 박스 -->
+  <rect x="60" y="1040" width="960" height="170" rx="16" fill="#FFF6D8" stroke="#FFD23F" stroke-width="3"/>
+  <text x="90" y="1100" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="36" fill="#9a7800">TIP</text>
+  <text x="90" y="1155" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a">월세는 매달 같은 날 계좌이체로</text>
+  <text x="90" y="1200" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="34" fill="#5B6B7C">납부 기록을 남겨두면 서류 준비가 쉬워요</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">출처: 복지로 / 국토교통부 청년월세 지원사업 안내</text>
+</svg>

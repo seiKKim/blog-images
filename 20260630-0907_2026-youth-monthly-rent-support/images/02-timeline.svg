@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1B5FA6"/>
+  <rect x="60" y="38" rx="26" ry="26" width="170" height="52" fill="#FFD23F"/>
+  <text x="145" y="74" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="128" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="50" fill="#ffffff">제도 변화 — 한시지원에서 상시(계속)사업으로</text>
+
+  <!-- 타임라인 베이스 라인 -->
+  <line x1="190" y1="370" x2="890" y2="370" stroke="#C4D2E2" stroke-width="8"/>
+
+  <!-- 노드 1: 한시 특별지원 -->
+  <circle cx="280" cy="370" r="26" fill="#8AA6C4"/>
+  <rect x="120" y="220" width="320" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="280" y="262" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a" text-anchor="middle">한시 특별지원</text>
+  <text x="280" y="302" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="30" fill="#5B6B7C" text-anchor="middle">2022~2024 (1·2차)</text>
+  <text x="280" y="445" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#5B6B7C" text-anchor="middle">최대 12개월 · 240만원</text>
+
+  <!-- 화살표 -->
+  <text x="540" y="385" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#1B5FA6" text-anchor="middle">→</text>
+
+  <!-- 노드 2: 계속사업 -->
+  <circle cx="800" cy="370" r="30" fill="#1B5FA6"/>
+  <rect x="620" y="210" width="360" height="120" rx="16" fill="#1B5FA6"/>
+  <text x="800" y="258" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="36" fill="#ffffff" text-anchor="middle">2026 계속(상시)사업</text>
+  <text x="800" y="304" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="32" fill="#FFD23F" text-anchor="middle">매년 정기 모집</text>
+  <text x="800" y="450" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="32" fill="#1B5FA6" text-anchor="middle">최대 24개월 · 480만원</text>
+
+  <!-- 하단 핵심 변화 띠 -->
+  <rect x="60" y="520" width="960" height="120" rx="16" fill="#EAF1F8" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="90" y="570" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#1B5FA6">핵심 변화</text>
+  <text x="90" y="612" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="30" fill="#1a1a1a">기간 확대(480만원) · 청약통장 요건 폐지 · 2026 신청자 5월분 소급</text>
+
+  <rect x="0" y="660" width="1080" height="60" fill="#E8EEF5"/>
+  <text x="60" y="700" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="28" fill="#5B6B7C">출처: 국토교통부 청년월세 지원사업 · 복지로</text>
+</svg>

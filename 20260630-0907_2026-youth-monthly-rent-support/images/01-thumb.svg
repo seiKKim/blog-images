@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1B5FA6"/>
+  <circle cx="950" cy="160" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="110" cy="1000" r="220" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="86" rx="34" ry="34" width="220" height="68" fill="#FFD23F"/>
+  <text x="190" y="132" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="280" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#E8EEF5">2026 청년월세 지원</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="430" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="76" fill="#ffffff">월 최대</text>
+  <text x="80" y="600" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="170" fill="#FFD23F">20만원</text>
+
+  <!-- 보조 숫자 라인 -->
+  <text x="80" y="710" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">×24개월 = 총 480만원</text>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="780" rx="20" ry="20" width="920" height="200" fill="#ffffff" opacity="0.14"/>
+  <text x="112" y="852" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="48" fill="#ffffff">대상: 만 19~34세 무주택 청년</text>
+  <text x="112" y="930" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="48" fill="#FFD23F">2026 신규 신청 5/29 마감</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1035" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="32" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
