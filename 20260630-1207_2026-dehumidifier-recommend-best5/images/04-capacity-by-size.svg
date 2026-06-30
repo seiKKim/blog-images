@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <rect x="60" y="86" rx="30" ry="30" width="250" height="60" fill="#FFD23F"/>
+  <text x="185" y="128" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#16324f" text-anchor="middle">제습기 추천</text>
+  <text x="60" y="195" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">평수별 추천 용량 가이드</text>
+
+  <text x="60" y="278" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#5B6B7C">아파트 기준 · 추천 제습용량(L/일)</text>
+
+  <!-- 표 헤더 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="310" width="600" height="80" rx="14" fill="#1B5FA6"/>
+    <text x="90" y="362" font-weight="bold" font-size="36" fill="#ffffff">사용 공간(아파트)</text>
+    <rect x="675" y="310" width="345" height="80" rx="14" fill="#37C7D4"/>
+    <text x="847" y="362" font-weight="bold" font-size="36" fill="#0E3A6B" text-anchor="middle">추천 용량</text>
+  </g>
+
+  <!-- 행들 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold">
+    <rect x="60" y="402" width="600" height="92" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="458" font-size="36" fill="#1a1a1a">5평 이하 원룸</text>
+    <rect x="675" y="402" width="345" height="92" rx="12" fill="#EAF2FB"/>
+    <text x="847" y="460" font-size="42" fill="#1B5FA6" text-anchor="middle">5~6L</text>
+
+    <rect x="60" y="506" width="600" height="92" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="562" font-size="36" fill="#1a1a1a">5~8평 원룸</text>
+    <rect x="675" y="506" width="345" height="92" rx="12" fill="#EAF2FB"/>
+    <text x="847" y="564" font-size="42" fill="#1B5FA6" text-anchor="middle">8~10L</text>
+
+    <rect x="60" y="610" width="600" height="92" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="666" font-size="36" fill="#1a1a1a">~10평 / 13평</text>
+    <rect x="675" y="610" width="345" height="92" rx="12" fill="#EAF2FB"/>
+    <text x="847" y="668" font-size="42" fill="#1B5FA6" text-anchor="middle">10L</text>
+
+    <rect x="60" y="714" width="600" height="92" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="770" font-size="36" fill="#1a1a1a">20평 / 거실+주방</text>
+    <rect x="675" y="714" width="345" height="92" rx="12" fill="#EAF2FB"/>
+    <text x="847" y="772" font-size="42" fill="#1B5FA6" text-anchor="middle">15~16L</text>
+
+    <rect x="60" y="818" width="600" height="92" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="874" font-size="36" fill="#1a1a1a">26평</text>
+    <rect x="675" y="818" width="345" height="92" rx="12" fill="#EAF2FB"/>
+    <text x="847" y="876" font-size="42" fill="#1B5FA6" text-anchor="middle">20L</text>
+
+    <rect x="60" y="922" width="600" height="92" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="978" font-size="36" fill="#1a1a1a">30평대 이상 / 전체</text>
+    <rect x="675" y="922" width="345" height="92" rx="12" fill="#37C7D4" opacity="0.30"/>
+    <text x="847" y="980" font-size="40" fill="#0E3A6B" text-anchor="middle">16~20L↑</text>
+  </g>
+
+  <!-- 보정 박스 -->
+  <rect x="60" y="1040" width="960" height="180" rx="20" fill="#FFF6D6" stroke="#FFD23F" stroke-width="3"/>
+  <text x="90" y="1098" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#8A6D00">실전 보정 포인트</text>
+  <text x="90" y="1148" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#6b5500">· 반지하·지하·환기 안 되는 구조·주택은 한 단계 위</text>
+  <text x="90" y="1192" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#8A6D00">· 애매하면 한 단계 위 용량이 후회가 적다</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">보조식: 아파트=평수×0.7~0.8L / 주택=평수×1.0L</text>
+</svg>

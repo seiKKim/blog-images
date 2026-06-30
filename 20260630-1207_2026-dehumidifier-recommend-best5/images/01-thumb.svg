@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B5FA6"/>
+      <stop offset="1" stop-color="#0E3A6B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식 도형 (물방울 느낌) -->
+  <circle cx="950" cy="170" r="250" fill="#37C7D4" opacity="0.12"/>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.06"/>
+  <circle cx="900" cy="900" r="120" fill="#37C7D4" opacity="0.10"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="86" rx="34" ry="34" width="280" height="68" fill="#FFD23F"/>
+  <text x="220" y="132" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#16324f" text-anchor="middle">제습기 추천</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="280" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#CDE7F2">장마 오기 전, 뭐 살까 고민 끝</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="430" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="900"
+        font-size="118" fill="#ffffff">제습기 추천</text>
+  <text x="80" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="900"
+        font-size="150" fill="#FFD23F">BEST 5</text>
+
+  <!-- 핵심 메시지 -->
+  <text x="80" y="660" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="50" fill="#ffffff">브랜드보다 <tspan fill="#FFD23F">평수별 용량</tspan>이 먼저!</text>
+
+  <!-- 용량 칩 4개 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="900" text-anchor="middle">
+    <rect x="80" y="712" rx="22" ry="22" width="210" height="120" fill="#ffffff" opacity="0.16"/>
+    <text x="185" y="772" font-size="58" fill="#ffffff">6L</text>
+    <text x="185" y="816" font-size="28" fill="#CDE7F2" font-weight="bold">원룸</text>
+
+    <rect x="312" y="712" rx="22" ry="22" width="210" height="120" fill="#ffffff" opacity="0.16"/>
+    <text x="417" y="772" font-size="58" fill="#ffffff">10L</text>
+    <text x="417" y="816" font-size="28" fill="#CDE7F2" font-weight="bold">~13평</text>
+
+    <rect x="544" y="712" rx="22" ry="22" width="210" height="120" fill="#ffffff" opacity="0.16"/>
+    <text x="649" y="772" font-size="58" fill="#ffffff">16L</text>
+    <text x="649" y="816" font-size="28" fill="#CDE7F2" font-weight="bold">20평대</text>
+
+    <rect x="776" y="712" rx="22" ry="22" width="210" height="120" fill="#37C7D4" opacity="0.30"/>
+    <text x="881" y="772" font-size="58" fill="#FFD23F">20L</text>
+    <text x="881" y="816" font-size="28" fill="#ffffff" font-weight="bold">30평~</text>
+  </g>
+
+  <!-- 디테일 -->
+  <rect x="80" y="868" rx="20" ry="20" width="906" height="100" fill="#ffffff" opacity="0.14"/>
+  <text x="110" y="930" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff">용량·전기세·빨래건조까지 한 번에 정리</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1024" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#CDE7F2" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <rect x="60" y="86" rx="30" ry="30" width="250" height="60" fill="#FFD23F"/>
+  <text x="185" y="128" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#16324f" text-anchor="middle">제습기 추천</text>
+  <text x="60" y="195" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">제습기 vs 에어컨 제습모드</text>
+
+  <!-- 컬럼 헤더 -->
+  <rect x="60" y="270" width="465" height="90" rx="18" fill="#1B5FA6"/>
+  <text x="292" y="328" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">제습기</text>
+  <rect x="555" y="270" width="465" height="90" rx="18" fill="#5B6B7C"/>
+  <text x="787" y="328" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">에어컨 제습모드</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 작동 기준 -->
+    <text x="540" y="430" font-weight="bold" font-size="30" fill="#9AA8B6" text-anchor="middle">작동 기준</text>
+    <rect x="60" y="450" width="465" height="100" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="292" y="512" font-size="36" font-weight="bold" fill="#1B5FA6" text-anchor="middle">희망 습도까지</text>
+    <rect x="555" y="450" width="465" height="100" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="787" y="512" font-size="36" font-weight="bold" fill="#5B6B7C" text-anchor="middle">희망 온도까지</text>
+
+    <!-- 바람 -->
+    <text x="540" y="605" font-weight="bold" font-size="30" fill="#9AA8B6" text-anchor="middle">바 람</text>
+    <rect x="60" y="625" width="465" height="100" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="292" y="687" font-size="34" fill="#1a1a1a" text-anchor="middle">고온 건조 바람</text>
+    <rect x="555" y="625" width="465" height="100" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="787" y="687" font-size="34" fill="#1a1a1a" text-anchor="middle">저온 건조 바람</text>
+
+    <!-- 빨래건조 -->
+    <text x="540" y="780" font-weight="bold" font-size="30" fill="#9AA8B6" text-anchor="middle">빨래건조</text>
+    <rect x="60" y="800" width="465" height="120" rx="14" fill="#EAF2FB" stroke="#D6E0EC"/>
+    <text x="292" y="855" font-size="40" font-weight="bold" fill="#1B5FA6" text-anchor="middle">유리 (더운 바람)</text>
+    <text x="292" y="898" font-size="28" fill="#5B6B7C" text-anchor="middle">13L 약 38~39℃ / 15L 약 40~41℃</text>
+    <rect x="555" y="800" width="465" height="120" rx="14" fill="#EFF1F4" stroke="#D6E0EC"/>
+    <text x="787" y="855" font-size="38" font-weight="bold" fill="#5B6B7C" text-anchor="middle">비권장</text>
+    <text x="787" y="898" font-size="28" fill="#5B6B7C" text-anchor="middle">전기료↑ · 날씨 영향 큼</text>
+
+    <!-- 제습 효율·전기료 -->
+    <text x="540" y="975" font-weight="bold" font-size="30" fill="#9AA8B6" text-anchor="middle">순수 제습 효율·전기료</text>
+    <rect x="60" y="995" width="465" height="100" rx="14" fill="#37C7D4" opacity="0.30"/>
+    <text x="292" y="1057" font-size="38" font-weight="bold" fill="#0E3A6B" text-anchor="middle">제습기 유리</text>
+    <rect x="555" y="995" width="465" height="100" rx="14" fill="#EFF1F4" stroke="#D6E0EC"/>
+    <text x="787" y="1057" font-size="32" fill="#5B6B7C" text-anchor="middle">상대적 불리</text>
+  </g>
+
+  <!-- 1등급 vs 3등급 전기세 -->
+  <rect x="60" y="1115" width="960" height="105" rx="20" fill="#FFF6D6" stroke="#FFD23F" stroke-width="3"/>
+  <text x="90" y="1170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#8A6D00">1등급 vs 3등급 월 전기요금 차이</text>
+  <text x="990" y="1170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="900"
+        font-size="40" fill="#8A6D00" text-anchor="end">최대 약 3~4천원</text>
+  <text x="90" y="1205" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="28" fill="#6b5500">※ 표준환경 월 171시간 사용 기준</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">순수 제습·빨래건조엔 제습기가 유리</text>
+</svg>

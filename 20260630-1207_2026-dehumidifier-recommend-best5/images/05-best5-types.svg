@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <rect x="60" y="86" rx="30" ry="30" width="250" height="60" fill="#FFD23F"/>
+  <text x="185" y="128" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#16324f" text-anchor="middle">제습기 추천</text>
+  <text x="60" y="195" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">용도별 추천 유형 BEST 5</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 카드 1 -->
+    <rect x="60" y="262" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="135" cy="352" r="44" fill="#1B5FA6"/>
+    <text x="135" y="368" font-weight="900" font-size="48" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="210" y="330" font-weight="bold" font-size="40" fill="#1a1a1a">인버터 대용량형</text>
+    <text x="210" y="378" font-size="32" fill="#5B6B7C">30평 아파트 · 빨래건조까지 한 대로</text>
+    <text x="210" y="420" font-weight="bold" font-size="32" fill="#1B5FA6">예: 21L + 6.3L 물통, 인버터 컴프레서</text>
+
+    <!-- 카드 2 -->
+    <rect x="60" y="458" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="135" cy="548" r="44" fill="#1B5FA6"/>
+    <text x="135" y="564" font-weight="900" font-size="48" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="210" y="526" font-weight="bold" font-size="40" fill="#1a1a1a">대형 공간 프리미엄형</text>
+    <text x="210" y="574" font-size="32" fill="#5B6B7C">정숙·고효율 우선 · 거실에 오래</text>
+    <text x="210" y="616" font-weight="bold" font-size="32" fill="#1B5FA6">예: 23L급, 5L물통+연속배수, 40만원대~</text>
+
+    <!-- 카드 3 -->
+    <rect x="60" y="654" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="135" cy="744" r="44" fill="#1B5FA6"/>
+    <text x="135" y="760" font-weight="900" font-size="48" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="210" y="722" font-weight="bold" font-size="40" fill="#1a1a1a">가성비 대용량형</text>
+    <text x="210" y="770" font-size="32" fill="#5B6B7C">같은 용량 더 저렴하게</text>
+    <text x="210" y="812" font-weight="bold" font-size="32" fill="#1B5FA6">예: 20L 약 26만원대(동급 대비 저렴)</text>
+
+    <!-- 카드 4 -->
+    <rect x="60" y="850" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="135" cy="940" r="44" fill="#1B5FA6"/>
+    <text x="135" y="956" font-weight="900" font-size="48" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="210" y="918" font-weight="bold" font-size="40" fill="#1a1a1a">가성비 중소형</text>
+    <text x="210" y="966" font-size="32" fill="#5B6B7C">원룸 · 자취방</text>
+    <text x="210" y="1008" font-weight="bold" font-size="32" fill="#1B5FA6">예: 10L 안팎, 10만원 안팎부터</text>
+
+    <!-- 카드 5 -->
+    <rect x="60" y="1046" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="135" cy="1136" r="44" fill="#1B5FA6"/>
+    <text x="135" y="1152" font-weight="900" font-size="48" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="210" y="1114" font-weight="bold" font-size="40" fill="#1a1a1a">의류건조 겸용·제습건조기</text>
+    <text x="210" y="1162" font-size="32" fill="#5B6B7C">빨래 많은 집 · 실내건조 비중↑</text>
+    <text x="210" y="1204" font-weight="bold" font-size="32" fill="#1B5FA6">강력 제습 + 빠른 건조 컨셉</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">※ 특정 모델 1위 단정 아님 · 내 상황에 맞는 유형 매칭</text>
+</svg>

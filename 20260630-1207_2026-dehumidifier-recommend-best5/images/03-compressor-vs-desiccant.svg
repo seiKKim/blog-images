@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <rect x="60" y="86" rx="30" ry="30" width="250" height="60" fill="#FFD23F"/>
+  <text x="185" y="128" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#16324f" text-anchor="middle">제습기 추천</text>
+  <text x="60" y="195" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">압축기식 vs 데시칸트식</text>
+
+  <!-- 두 컬럼 헤더 -->
+  <rect x="60" y="270" width="465" height="100" rx="18" fill="#1B5FA6"/>
+  <text x="292" y="320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">압축기(컴프레서)식</text>
+  <text x="292" y="356" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="28" fill="#FFD23F" text-anchor="middle">여름·장마 표준</text>
+
+  <rect x="555" y="270" width="465" height="100" rx="18" fill="#5B6B7C"/>
+  <text x="787" y="320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">데시칸트식</text>
+  <text x="787" y="356" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="28" fill="#E8EEF5" text-anchor="middle">저온·겨울 제습용</text>
+
+  <!-- 비교 행 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 원리 -->
+    <text x="540" y="445" font-weight="bold" font-size="30" fill="#9AA8B6" text-anchor="middle">원 리</text>
+    <rect x="60" y="465" width="465" height="105" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="80" y="510" font-size="31" fill="#1a1a1a">냉매 사이클로</text>
+    <text x="80" y="548" font-size="31" fill="#1a1a1a">수분 응결</text>
+    <rect x="555" y="465" width="465" height="105" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="575" y="510" font-size="31" fill="#1a1a1a">흡착제로 수분</text>
+    <text x="575" y="548" font-size="31" fill="#1a1a1a">흡착 후 가열 배출</text>
+
+    <!-- 적합 환경 -->
+    <text x="540" y="625" font-weight="bold" font-size="30" fill="#9AA8B6" text-anchor="middle">적합 환경</text>
+    <rect x="60" y="645" width="465" height="105" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="80" y="690" font-size="31" fill="#1B5FA6" font-weight="bold">여름·장마</text>
+    <text x="80" y="728" font-size="31" fill="#1a1a1a">(고온다습)에 최적</text>
+    <rect x="555" y="645" width="465" height="105" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="575" y="690" font-size="31" fill="#1a1a1a">저온(겨울·15℃ 이하)</text>
+    <text x="575" y="728" font-size="31" fill="#1a1a1a">에서도 제습</text>
+
+    <!-- 전력 -->
+    <text x="540" y="805" font-weight="bold" font-size="30" fill="#9AA8B6" text-anchor="middle">전 력</text>
+    <rect x="60" y="825" width="465" height="100" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="80" y="888" font-size="31" fill="#1B5FA6" font-weight="bold">소비전력 낮음</text>
+    <rect x="555" y="825" width="465" height="100" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="575" y="888" font-size="31" fill="#1a1a1a">소비전력 높은 편</text>
+
+    <!-- 약점 -->
+    <text x="540" y="980" font-weight="bold" font-size="30" fill="#9AA8B6" text-anchor="middle">약 점</text>
+    <rect x="60" y="1000" width="465" height="100" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="80" y="1063" font-size="31" fill="#1a1a1a">15℃ 이하 효율 저하</text>
+    <rect x="555" y="1000" width="465" height="100" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="575" y="1063" font-size="31" fill="#1a1a1a">전기료↑ · 발열↑</text>
+
+    <!-- 가격대 -->
+    <text x="540" y="1155" font-weight="bold" font-size="30" fill="#9AA8B6" text-anchor="middle">가격대</text>
+    <rect x="60" y="1175" width="465" height="80" rx="14" fill="#EAF2FB" stroke="#D6E0EC"/>
+    <text x="292" y="1227" font-size="34" font-weight="bold" fill="#1B5FA6" text-anchor="middle">10만원대~</text>
+    <rect x="555" y="1175" width="465" height="80" rx="14" fill="#EFF1F4" stroke="#D6E0EC"/>
+    <text x="787" y="1227" font-size="34" font-weight="bold" fill="#5B6B7C" text-anchor="middle">10~20만원대</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">여름 장마용 가정 표준 = 압축기(컴프레서)식</text>
+</svg>

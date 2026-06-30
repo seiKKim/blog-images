@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <rect x="60" y="86" rx="30" ry="30" width="250" height="60" fill="#FFD23F"/>
+  <text x="185" y="128" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#16324f" text-anchor="middle">제습기 추천</text>
+  <text x="60" y="195" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">2026 지역별 장마 예상 시기</text>
+
+  <text x="60" y="285" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#5B6B7C">※ 참고 전망치 · 기상청은 사후 분석으로 제공</text>
+
+  <!-- 타임라인 축 -->
+  <text x="120" y="370" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#1B5FA6">6월</text>
+  <text x="930" y="370" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#1B5FA6" text-anchor="end">7월 말</text>
+
+  <!-- 행: 제주 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <text x="60" y="470" font-weight="bold" font-size="44" fill="#1a1a1a">제주</text>
+    <rect x="60" y="500" width="960" height="90" rx="14" fill="#E3ECF5"/>
+    <rect x="60" y="500" width="700" height="90" rx="14" fill="#37C7D4" opacity="0.55"/>
+    <text x="90" y="557" font-weight="bold" font-size="38" fill="#0E3A6B">시작 6/19~21</text>
+    <text x="990" y="557" font-weight="bold" font-size="38" fill="#0E3A6B" text-anchor="end">종료 7/20</text>
+  </g>
+
+  <!-- 행: 남부 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <text x="60" y="680" font-weight="bold" font-size="44" fill="#1a1a1a">남부</text>
+    <rect x="60" y="710" width="960" height="90" rx="14" fill="#E3ECF5"/>
+    <rect x="130" y="710" width="800" height="90" rx="14" fill="#2E8FD0" opacity="0.55"/>
+    <text x="160" y="767" font-weight="bold" font-size="38" fill="#0E3A6B">시작 6/23~25</text>
+    <text x="990" y="767" font-weight="bold" font-size="38" fill="#0E3A6B" text-anchor="end">종료 7/24~25</text>
+  </g>
+
+  <!-- 행: 중부(수도권) -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <text x="60" y="895" font-weight="bold" font-size="44" fill="#1a1a1a">중부 <tspan font-size="30" fill="#5B6B7C">(수도권)</tspan></text>
+    <rect x="60" y="920" width="960" height="90" rx="14" fill="#E3ECF5"/>
+    <rect x="190" y="920" width="830" height="90" rx="14" fill="#1B5FA6" opacity="0.55"/>
+    <text x="220" y="977" font-weight="bold" font-size="38" fill="#0E3A6B">시작 6/25~27</text>
+    <text x="990" y="977" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="end">종료 7/26~말</text>
+  </g>
+
+  <!-- 핵심 메시지 박스 -->
+  <rect x="60" y="1080" width="960" height="130" rx="20" fill="#FFF6D6" stroke="#FFD23F" stroke-width="3"/>
+  <text x="100" y="1140" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#8A6D00">장마 본격화 직전인 지금이</text>
+  <text x="100" y="1190" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#8A6D00">재고·가격 면에서 구매 타이밍</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 본문 참고 전망치 (기상청 사후 분석 기준)</text>
+</svg>
