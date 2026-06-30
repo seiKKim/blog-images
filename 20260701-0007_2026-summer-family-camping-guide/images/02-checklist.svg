@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <text x="60" y="115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">캠핑 준비물 4대 분류 체크리스트</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 카드1 숙박 -->
+    <rect x="50" y="230" width="980" height="250" rx="20" fill="#ffffff" stroke="#EAD8C6"/>
+    <rect x="50" y="230" width="14" height="250" rx="7" fill="#E8722C"/>
+    <text x="100" y="300" font-size="44" font-weight="bold" fill="#1a1a1a">① 숙박 장비</text>
+    <text x="100" y="362" font-size="38" fill="#3a3a3a">텐트 · 타프 · 매트 · 침낭</text>
+    <text x="100" y="430" font-size="32" fill="#8a6a4a">메시창 일체형 텐트 / 타프는 차양+비가림</text>
+
+    <!-- 카드2 조리 -->
+    <rect x="50" y="510" width="980" height="250" rx="20" fill="#ffffff" stroke="#EAD8C6"/>
+    <rect x="50" y="510" width="14" height="250" rx="7" fill="#E8722C"/>
+    <text x="100" y="580" font-size="44" font-weight="bold" fill="#1a1a1a">② 조리 도구·식기</text>
+    <text x="100" y="642" font-size="38" fill="#3a3a3a">버너 · 아이스박스 · 식기류</text>
+    <text x="100" y="710" font-size="32" fill="#8a6a4a">출발 전 가스 잔량 확인 / 여름엔 쿨러 필수</text>
+
+    <!-- 카드3 생활안전 -->
+    <rect x="50" y="790" width="980" height="250" rx="20" fill="#ffffff" stroke="#EAD8C6"/>
+    <rect x="50" y="790" width="14" height="250" rx="7" fill="#E8722C"/>
+    <text x="100" y="860" font-size="44" font-weight="bold" fill="#1a1a1a">③ 생활·안전 용품</text>
+    <text x="100" y="922" font-size="38" fill="#3a3a3a">랜턴 · 의자/테이블 · 구급용품</text>
+    <text x="100" y="990" font-size="32" fill="#8a6a4a">메인+보조 랜턴 / 상비약·밴드·소독약</text>
+
+    <!-- 카드4 여름특화 -->
+    <rect x="50" y="1070" width="980" height="250" rx="20" fill="#ffffff" stroke="#EAD8C6"/>
+    <rect x="50" y="1070" width="14" height="250" rx="7" fill="#E8722C"/>
+    <text x="100" y="1140" font-size="44" font-weight="bold" fill="#1a1a1a">④ 여름 특화 필수템</text>
+    <text x="100" y="1202" font-size="38" fill="#3a3a3a">모기장 · 서큘레이터 · 자외선차단제</text>
+    <text x="100" y="1270" font-size="32" fill="#8a6a4a">핵심 6종: 텐트·타프·아이스박스·서큘레이터·모기장·랜턴</text>
+  </g>
+</svg>

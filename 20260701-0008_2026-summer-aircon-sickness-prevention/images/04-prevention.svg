@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" fill="#FFF4EC" opacity="1.0"/>
+<rect x="0" y="0" width="1080" height="190" rx="0" fill="#E8722C" opacity="1.0"/>
+<rect x="60" y="58" width="210" height="72" rx="36" fill="#FFD23F" opacity="1.0"/>
+<text x="165" y="108" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="36" font-weight="bold" fill="#1A1A1A" text-anchor="middle">생활꿀팁</text>
+<text x="60" y="165" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="60" font-weight="bold" fill="#FFFFFF" text-anchor="start">냉방병 예방 생활수칙</text>
+<rect x="60" y="270" width="960" height="150" rx="20" fill="#FFFFFF" opacity="1.0"/>
+<circle cx="140" cy="345" r="38" fill="#E8722C" opacity="1.0"/>
+<text x="140" y="362" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">✓</text>
+<text x="215" y="363" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="42" font-weight="bold" fill="#1A1A1A" text-anchor="start">실내외 온도차 5℃ 유지 (적정 22~26℃)</text>
+<rect x="60" y="442" width="960" height="150" rx="20" fill="#FFFFFF" opacity="1.0"/>
+<circle cx="140" cy="517" r="38" fill="#E8722C" opacity="1.0"/>
+<text x="140" y="534" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">✓</text>
+<text x="215" y="535" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="42" font-weight="bold" fill="#1A1A1A" text-anchor="start">2~4시간마다 5분 이상 환기하기</text>
+<rect x="60" y="614" width="960" height="150" rx="20" fill="#FFFFFF" opacity="1.0"/>
+<circle cx="140" cy="689" r="38" fill="#E8722C" opacity="1.0"/>
+<text x="140" y="706" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">✓</text>
+<text x="215" y="707" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="42" font-weight="bold" fill="#1A1A1A" text-anchor="start">찬바람 직접 쐬지 않기 · 긴소매 준비</text>
+<rect x="60" y="786" width="960" height="150" rx="20" fill="#FFFFFF" opacity="1.0"/>
+<circle cx="140" cy="861" r="38" fill="#E8722C" opacity="1.0"/>
+<text x="140" y="878" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">✓</text>
+<text x="215" y="879" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="42" font-weight="bold" fill="#1A1A1A" text-anchor="start">잘 때 배는 따뜻하게, 찬 음식 줄이기</text>
+<rect x="60" y="958" width="960" height="150" rx="20" fill="#FFFFFF" opacity="1.0"/>
+<circle cx="140" cy="1033" r="38" fill="#E8722C" opacity="1.0"/>
+<text x="140" y="1050" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">✓</text>
+<text x="215" y="1051" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="42" font-weight="bold" fill="#1A1A1A" text-anchor="start">에어컨 필터 최소 2주 1회 청소</text>
+<rect x="60" y="1130" width="960" height="150" rx="20" fill="#FFFFFF" opacity="1.0"/>
+<circle cx="140" cy="1205" r="38" fill="#E8722C" opacity="1.0"/>
+<text x="140" y="1222" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">✓</text>
+<text x="215" y="1223" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="42" font-weight="bold" fill="#1A1A1A" text-anchor="start">가벼운 스트레칭으로 혈액순환 돕기</text>
+<rect x="0" y="1270" width="1080" height="80" rx="0" fill="#F0E0D2" opacity="1.0"/>
+<text x="60" y="1322" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="34" font-weight="normal" fill="#6B5B4E" text-anchor="start">출처: 서울대학교병원 의학정보</text>
+</svg>

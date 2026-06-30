@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9FD2EC"/>
+      <stop offset="1" stop-color="#DCEFF7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="720" fill="url(#sky)"/>
+  <!-- 잔디 -->
+  <rect x="0" y="540" width="1080" height="180" fill="#7FB86A"/>
+  <rect x="0" y="540" width="1080" height="20" fill="#6FA85C"/>
+  <!-- 해 -->
+  <circle cx="930" cy="130" r="70" fill="#FFD23F" opacity="0.9"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="40" y="36" rx="28" width="320" height="58" fill="#E8722C"/>
+  <text x="200" y="76" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="32" fill="#ffffff" text-anchor="middle">여름 쾌적 캠핑 세팅</text>
+
+  <!-- 타프 -->
+  <polygon points="120,250 560,250 520,330 160,330" fill="#E8722C" opacity="0.92"/>
+  <rect x="138" y="328" width="10" height="220" fill="#7a5a3a"/>
+  <rect x="532" y="328" width="10" height="220" fill="#7a5a3a"/>
+
+  <!-- 텐트 (메시 이너텐트) -->
+  <polygon points="360,540 560,340 760,540" fill="#3E7CB1"/>
+  <polygon points="430,540 560,410 690,540" fill="#BFE3F2"/>
+  <!-- 메시 패턴 -->
+  <g stroke="#7FBEDB" stroke-width="3" opacity="0.8">
+    <line x1="460" y1="540" x2="560" y2="440"/>
+    <line x1="500" y1="540" x2="600" y2="440"/>
+    <line x1="540" y1="540" x2="620" y2="460"/>
+    <line x1="450" y1="500" x2="670" y2="500"/>
+    <line x1="470" y1="470" x2="650" y2="470"/>
+  </g>
+  <text x="560" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="26" font-weight="bold" fill="#1E6E94" text-anchor="middle">모기장 이너텐트</text>
+
+  <!-- 서큘레이터 -->
+  <g>
+    <rect x="800" y="470" width="14" height="70" fill="#444"/>
+    <circle cx="807" cy="445" r="48" fill="#ffffff" stroke="#888" stroke-width="6"/>
+    <g stroke="#E8722C" stroke-width="8" stroke-linecap="round">
+      <line x1="807" y1="445" x2="807" y2="410"/>
+      <line x1="807" y1="445" x2="838" y2="463"/>
+      <line x1="807" y1="445" x2="776" y2="463"/>
+    </g>
+    <!-- 바람 -->
+    <g stroke="#3E7CB1" stroke-width="5" fill="none" opacity="0.7" stroke-linecap="round">
+      <path d="M755 430 q-30 0 -40 15"/>
+      <path d="M760 455 q-35 5 -48 22"/>
+    </g>
+  </g>
+  <text x="807" y="585" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="26" font-weight="bold" fill="#1a1a1a" text-anchor="middle">서큘레이터</text>
+
+  <!-- 하단 카피 띠 -->
+  <rect x="0" y="640" width="1080" height="80" fill="#E8722C"/>
+  <text x="540" y="692" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">타프 + 서큘레이터 + 모기장 이너텐트로 열대야·벌레 차단</text>
+</svg>

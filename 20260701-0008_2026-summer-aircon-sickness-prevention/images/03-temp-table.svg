@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" fill="#FFF4EC" opacity="1.0"/>
+<rect x="0" y="0" width="1080" height="190" rx="0" fill="#E8722C" opacity="1.0"/>
+<rect x="60" y="58" width="210" height="72" rx="36" fill="#FFD23F" opacity="1.0"/>
+<text x="165" y="108" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="36" font-weight="bold" fill="#1A1A1A" text-anchor="middle">생활꿀팁</text>
+<text x="60" y="165" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="60" font-weight="bold" fill="#FFFFFF" text-anchor="start">외부 기온별 권장 냉방</text>
+<rect x="60" y="250" width="960" height="90" rx="16" fill="#C75E1E" opacity="1.0"/>
+<text x="330" y="310" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">바깥 기온</text>
+<text x="760" y="310" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">실내를 낮출 정도</text>
+<rect x="60" y="355" width="960" height="108" rx="12" fill="#FFFFFF" opacity="1.0"/>
+<text x="330" y="425" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="48" font-weight="bold" fill="#1A1A1A" text-anchor="middle">23℃ 이하</text>
+<text x="760" y="425" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="48" font-weight="bold" fill="#C75E1E" text-anchor="middle">1℃ 낮게</text>
+<rect x="60" y="473" width="960" height="108" rx="12" fill="#FBEADD" opacity="1.0"/>
+<text x="330" y="543" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="48" font-weight="bold" fill="#1A1A1A" text-anchor="middle">26~27℃</text>
+<text x="760" y="543" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="48" font-weight="bold" fill="#C75E1E" text-anchor="middle">2℃ 낮게</text>
+<rect x="60" y="591" width="960" height="108" rx="12" fill="#FFFFFF" opacity="1.0"/>
+<text x="330" y="661" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="48" font-weight="bold" fill="#1A1A1A" text-anchor="middle">28~29℃</text>
+<text x="760" y="661" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="48" font-weight="bold" fill="#C75E1E" text-anchor="middle">3℃ 낮게</text>
+<rect x="60" y="709" width="960" height="108" rx="12" fill="#FBEADD" opacity="1.0"/>
+<text x="330" y="779" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="48" font-weight="bold" fill="#1A1A1A" text-anchor="middle">30℃</text>
+<text x="760" y="779" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="48" font-weight="bold" fill="#C75E1E" text-anchor="middle">4℃ 낮게</text>
+<rect x="60" y="827" width="960" height="108" rx="12" fill="#FFFFFF" opacity="1.0"/>
+<text x="330" y="897" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="48" font-weight="bold" fill="#1A1A1A" text-anchor="middle">31~32℃</text>
+<text x="760" y="897" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="48" font-weight="bold" fill="#C75E1E" text-anchor="middle">5℃ 낮게</text>
+<rect x="60" y="945" width="960" height="108" rx="12" fill="#FBEADD" opacity="1.0"/>
+<text x="330" y="1015" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="48" font-weight="bold" fill="#1A1A1A" text-anchor="middle">33℃ 이상</text>
+<text x="760" y="1015" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="48" font-weight="bold" fill="#C75E1E" text-anchor="middle">6℃ 낮게</text>
+<rect x="60" y="1073" width="960" height="120" rx="18" fill="#FFD23F" opacity="1.0"/>
+<text x="540" y="1121" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46" font-weight="bold" fill="#1A1A1A" text-anchor="middle">온도차는 5℃ 안팎,</text>
+<text x="540" y="1171" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46" font-weight="bold" fill="#1A1A1A" text-anchor="middle">아무리 더워도 8℃ 이내!</text>
+<rect x="0" y="1270" width="1080" height="80" rx="0" fill="#F0E0D2" opacity="1.0"/>
+<text x="60" y="1322" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="34" font-weight="normal" fill="#6B5B4E" text-anchor="start">출처: 서울아산병원 질환백과</text>
+</svg>

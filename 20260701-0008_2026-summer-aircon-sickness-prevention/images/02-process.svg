@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect x="0" y="0" width="1080" height="1350" rx="0" fill="#FFF4EC" opacity="1.0"/>
+<rect x="0" y="0" width="1080" height="190" rx="0" fill="#E8722C" opacity="1.0"/>
+<rect x="60" y="58" width="210" height="72" rx="36" fill="#FFD23F" opacity="1.0"/>
+<text x="165" y="108" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="36" font-weight="bold" fill="#1A1A1A" text-anchor="middle">생활꿀팁</text>
+<text x="60" y="165" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="60" font-weight="bold" fill="#FFFFFF" text-anchor="start">냉방병은 왜 생길까</text>
+<rect x="60" y="270" width="960" height="180" rx="22" fill="#FFFFFF" opacity="1.0"/>
+<rect x="60" y="270" width="14" height="180" rx="22" fill="#E8722C" opacity="1.0"/>
+<text x="110" y="348" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="50" font-weight="bold" fill="#1A1A1A" text-anchor="start">실내외 온도차 5~8℃ 이상</text>
+<text x="110" y="408" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="40" font-weight="normal" fill="#6B5B4E" text-anchor="start">오래 노출되면</text>
+<text x="540" y="495" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46" font-weight="bold" fill="#C75E1E" text-anchor="middle">▼</text>
+<rect x="60" y="520" width="960" height="180" rx="22" fill="#FFFFFF" opacity="1.0"/>
+<rect x="60" y="520" width="14" height="180" rx="22" fill="#E8722C" opacity="1.0"/>
+<text x="110" y="598" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="50" font-weight="bold" fill="#1A1A1A" text-anchor="start">말초혈관 급격히 수축</text>
+<text x="110" y="658" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="40" font-weight="normal" fill="#6B5B4E" text-anchor="start">→ 혈액순환 이상</text>
+<text x="540" y="745" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46" font-weight="bold" fill="#C75E1E" text-anchor="middle">▼</text>
+<rect x="60" y="770" width="960" height="180" rx="22" fill="#FFFFFF" opacity="1.0"/>
+<rect x="60" y="770" width="14" height="180" rx="22" fill="#E8722C" opacity="1.0"/>
+<text x="110" y="848" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="50" font-weight="bold" fill="#1A1A1A" text-anchor="start">자율신경계 기능 변화</text>
+<text x="110" y="908" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="40" font-weight="normal" fill="#6B5B4E" text-anchor="start">체온·심박 조절 흔들림</text>
+<text x="540" y="995" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46" font-weight="bold" fill="#C75E1E" text-anchor="middle">▼</text>
+<rect x="60" y="1020" width="960" height="180" rx="22" fill="#FFFFFF" opacity="1.0"/>
+<rect x="60" y="1020" width="14" height="180" rx="22" fill="#E8722C" opacity="1.0"/>
+<text x="110" y="1098" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="50" font-weight="bold" fill="#1A1A1A" text-anchor="start">두통·피로·소화불량</text>
+<text x="110" y="1158" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="40" font-weight="normal" fill="#6B5B4E" text-anchor="start">으슬으슬 감기 증상</text>
+<rect x="0" y="1270" width="1080" height="80" rx="0" fill="#F0E0D2" opacity="1.0"/>
+<text x="60" y="1322" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="34" font-weight="normal" fill="#6B5B4E" text-anchor="start">출처: 서울아산병원 질환백과</text>
+</svg>

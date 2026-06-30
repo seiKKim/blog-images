@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <text x="60" y="115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">캠핑 안전사고 통계</text>
+
+  <!-- 메인 강조 -->
+  <rect x="60" y="240" width="960" height="300" rx="24" fill="#B24A38"/>
+  <text x="540" y="320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" font-weight="bold" fill="#F6D7D2" text-anchor="middle">확인된 392건 중</text>
+  <text x="540" y="450" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="140" font-weight="900" fill="#FFD23F" text-anchor="middle">61.2%</text>
+  <text x="540" y="515" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">만 13세 미만 어린이 (240건)</text>
+
+  <!-- 표 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="580" width="960" height="100" rx="14" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="100" y="642" font-size="38" font-weight="bold" fill="#1a1a1a">5년간(2020~2024) 접수</text>
+    <text x="980" y="642" font-size="40" font-weight="bold" fill="#E8722C" text-anchor="end">409건</text>
+
+    <rect x="60" y="690" width="960" height="100" rx="14" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="100" y="752" font-size="38" font-weight="bold" fill="#1a1a1a">사고 유형 1위 · 미끄러짐</text>
+    <text x="980" y="752" font-size="40" font-weight="bold" fill="#E8722C" text-anchor="end">21.1%(86건)</text>
+
+    <rect x="60" y="800" width="960" height="100" rx="14" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="100" y="862" font-size="38" font-weight="bold" fill="#1a1a1a">부상 1위 · 화상</text>
+    <text x="980" y="862" font-size="40" font-weight="bold" fill="#E8722C" text-anchor="end">30.0%(약113~114건)</text>
+
+    <rect x="60" y="910" width="960" height="100" rx="14" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="100" y="972" font-size="38" font-weight="bold" fill="#1a1a1a">부상 2위 · 열상(찢어짐)</text>
+    <text x="980" y="972" font-size="40" font-weight="bold" fill="#E8722C" text-anchor="end">29.2%(111건)</text>
+
+    <rect x="60" y="1020" width="960" height="100" rx="14" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="100" y="1082" font-size="38" font-weight="bold" fill="#1a1a1a">중독 · 전부 일산화탄소</text>
+    <text x="980" y="1082" font-size="40" font-weight="bold" fill="#E8722C" text-anchor="end">2.1%(8건)</text>
+  </g>
+
+  <rect x="60" y="1150" width="960" height="100" rx="16" fill="#2B2F36"/>
+  <text x="540" y="1212" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="bold" fill="#FFD23F" text-anchor="middle">⚠ 텐트 내 숯·장작·가스 난방 절대 금지</text>
+
+  <rect x="0" y="1280" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="1325" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 한국소비자원(2025.3 발표)</text>
+</svg>

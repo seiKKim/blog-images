@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <text x="60" y="115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">아이스박스 샌드위치식 적재법</text>
+
+  <!-- 아이스박스 단면 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 박스 외곽 -->
+    <rect x="180" y="270" width="720" height="780" rx="28" fill="#ffffff" stroke="#9FB7CC" stroke-width="10"/>
+    <!-- 뚜껑 -->
+    <rect x="160" y="240" width="760" height="60" rx="18" fill="#5B7186"/>
+
+    <!-- 위: 얼음/냉매 -->
+    <rect x="210" y="310" width="660" height="150" rx="14" fill="#BFE3F2" stroke="#7FBEDB"/>
+    <text x="540" y="402" font-size="46" font-weight="bold" fill="#1E6E94" text-anchor="middle">위 ▸ 얼음 / 냉매로 덮기</text>
+
+    <!-- 채소·과일 -->
+    <rect x="210" y="480" width="660" height="140" rx="14" fill="#D8EFD2" stroke="#9FCF94"/>
+    <text x="540" y="567" font-size="44" font-weight="bold" fill="#2E7D43" text-anchor="middle">채소 · 과일</text>
+
+    <!-- 고기·해산물·유제품 -->
+    <rect x="210" y="640" width="660" height="140" rx="14" fill="#F6D7D2" stroke="#E09A8E"/>
+    <text x="540" y="710" font-size="42" font-weight="bold" fill="#B24A38" text-anchor="middle">고기·해산물·유제품</text>
+    <text x="540" y="755" font-size="30" fill="#B24A38" text-anchor="middle">(이중밀봉)</text>
+
+    <!-- 아래: 아이스팩 -->
+    <rect x="210" y="800" width="660" height="150" rx="14" fill="#BFE3F2" stroke="#7FBEDB"/>
+    <text x="540" y="892" font-size="46" font-weight="bold" fill="#1E6E94" text-anchor="middle">아래 ▸ 아이스팩 깔기</text>
+
+    <!-- 적재 순서 화살표 -->
+    <text x="540" y="1015" font-size="38" font-weight="bold" fill="#1a1a1a" text-anchor="middle">아이스팩 → 고기 → 채소 → 얼음</text>
+  </g>
+
+  <!-- 포인트 박스 -->
+  <rect x="60" y="1070" width="960" height="200" rx="20" fill="#FFF3DE" stroke="#F0C97A"/>
+  <text x="100" y="1138" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="bold" fill="#1a1a1a">• 음식 사이사이 냉매, 빈 공간은 타올·음료로 채우기</text>
+  <text x="100" y="1198" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="bold" fill="#1a1a1a">• 직사광선 피해 그늘·타프 아래, 뚜껑 개폐 최소화</text>
+  <text x="100" y="1258" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="bold" fill="#B24A38">• 생고기는 아래, 채소·음료는 위 (교차오염 방지)</text>
+</svg>

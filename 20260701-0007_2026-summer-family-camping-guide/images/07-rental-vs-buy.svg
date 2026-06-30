@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <text x="60" y="115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">렌탈 vs 구매 비용 비교</text>
+
+  <!-- 막대 그래프 (대략 범위) -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 렌탈 -->
+    <text x="60" y="305" font-size="40" font-weight="bold" fill="#1a1a1a">텐트·타프 렌탈</text>
+    <rect x="60" y="330" width="220" height="80" rx="12" fill="#1F8A53"/>
+    <text x="300" y="385" font-size="42" font-weight="bold" fill="#1F8A53">약 5~10만원</text>
+
+    <!-- 중고 -->
+    <text x="60" y="500" font-size="40" font-weight="bold" fill="#1a1a1a">중고 (텐트)</text>
+    <rect x="60" y="525" width="480" height="80" rx="12" fill="#3E7CB1"/>
+    <text x="560" y="580" font-size="42" font-weight="bold" fill="#3E7CB1">신품의 50~70%</text>
+
+    <!-- 신품 -->
+    <text x="60" y="695" font-size="40" font-weight="bold" fill="#1a1a1a">텐트 신품</text>
+    <rect x="60" y="720" width="820" height="80" rx="12" fill="#E8722C"/>
+    <text x="60" y="855" font-size="42" font-weight="bold" fill="#E8722C">약 30~80만원</text>
+  </g>
+
+  <!-- 추천 시나리오 -->
+  <text x="60" y="960" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="46" font-weight="bold" fill="#1a1a1a">상황별 추천</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="1000" width="960" height="120" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="100" y="1052" font-size="38" font-weight="bold" fill="#1F8A53">첫 입문 · 월 1~2회</text>
+    <text x="100" y="1100" font-size="34" fill="#3a3a3a">렌탈 · 중고가 합리적</text>
+
+    <rect x="60" y="1140" width="960" height="120" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="100" y="1192" font-size="38" font-weight="bold" fill="#E8722C">월 여러 번 자주</text>
+    <text x="100" y="1240" font-size="34" fill="#3a3a3a">구매가 유리</text>
+  </g>
+
+  <rect x="0" y="1280" width="1080" height="70" fill="#FFF3DE"/>
+  <text x="540" y="1325" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" font-weight="bold" fill="#B24A38" text-anchor="middle">텐트·타프는 렌탈, 위생·쾌적템만 구매 (가격은 참고 범위)</text>
+</svg>
