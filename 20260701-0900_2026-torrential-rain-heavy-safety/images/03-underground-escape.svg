@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="220" fill="#2B2F36"/>
+  <rect x="60" y="60" rx="26" width="230" height="56" fill="#E23B3B"/>
+  <text x="175" y="99" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="32" fill="#ffffff" text-anchor="middle">지하공간 대피</text>
+  <text x="60" y="185" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">반지하·지하계단 즉시 탈출</text>
+
+  <!-- 계단 침수 일러스트 -->
+  <g transform="translate(60,300)">
+    <rect x="0" y="0" width="620" height="520" rx="20" fill="#E8EEF5"/>
+    <!-- 계단 -->
+    <g fill="#B9C7D6">
+      <rect x="40" y="120" width="140" height="360"/>
+      <rect x="180" y="200" width="140" height="280"/>
+      <rect x="320" y="280" width="140" height="200"/>
+      <rect x="460" y="360" width="120" height="120"/>
+    </g>
+    <!-- 물 (30~40cm 수위) -->
+    <rect x="40" y="360" width="540" height="120" fill="#3C6E9E" opacity="0.85"/>
+    <path d="M40 360 q30 -14 60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 v120 h-540 Z" fill="#3C6E9E" opacity="0.55"/>
+    <!-- 수위 표시 -->
+    <line x1="600" y1="360" x2="600" y2="480" stroke="#E23B3B" stroke-width="6"/>
+    <text x="470" y="345" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="40" fill="#E23B3B">30~40cm</text>
+    <!-- 탈출 화살표 -->
+    <path d="M120 250 L120 60 M120 60 L80 110 M120 60 L160 110" stroke="#1F8A53" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="20" y="40" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#1F8A53">지상으로</text>
+  </g>
+
+  <!-- 체크 항목 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="850" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="110" cy="915" r="14" fill="#E23B3B"/>
+    <text x="150" y="905" font-weight="bold" font-size="40" fill="#2B2F36">물이 조금이라도 차오르거나</text>
+    <text x="150" y="955" font-weight="normal" font-size="38" fill="#5B6B7C">하수구 역류 시 즉시 지상 대피</text>
+
+    <rect x="60" y="1000" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="110" cy="1065" r="14" fill="#E23B3B"/>
+    <text x="150" y="1055" font-weight="bold" font-size="40" fill="#2B2F36">30~40cm면 성인도 못 올라옴</text>
+    <text x="150" y="1105" font-weight="normal" font-size="38" fill="#5B6B7C">지하는 유입 시 5~10분 만에 침수</text>
+
+    <rect x="60" y="1150" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="110" cy="1215" r="14" fill="#E23B3B"/>
+    <text x="150" y="1205" font-weight="bold" font-size="40" fill="#2B2F36">방범창 막히면 절단기로 탈출</text>
+    <text x="150" y="1255" font-weight="normal" font-size="38" fill="#5B6B7C">절단기·손전등 평소 준비 · 지하차도 진입 금지</text>
+  </g>
+</svg>

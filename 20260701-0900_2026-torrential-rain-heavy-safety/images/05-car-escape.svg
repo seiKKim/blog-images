@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="220" fill="#2B2F36"/>
+  <rect x="60" y="60" rx="26" width="230" height="56" fill="#E23B3B"/>
+  <text x="175" y="99" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="32" fill="#ffffff" text-anchor="middle">침수차 탈출</text>
+  <text x="60" y="185" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">침수 차량 탈출 3단계</text>
+
+  <!-- STEP 1 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="290" width="960" height="300" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="170" cy="440" r="66" fill="#E23B3B"/>
+    <text x="170" y="465" font-weight="bold" font-size="72" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="280" y="410" font-weight="bold" font-size="52" fill="#2B2F36">타이어 2/3 잠기기 전 이동</text>
+    <text x="280" y="480" font-weight="normal" font-size="40" fill="#5B6B7C">잠기기 시작하면 지체 없이</text>
+    <text x="280" y="530" font-weight="normal" font-size="40" fill="#5B6B7C">안전한 곳으로 대피</text>
+  </g>
+
+  <!-- STEP 2 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="620" width="960" height="300" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="170" cy="770" r="66" fill="#E23B3B"/>
+    <text x="170" y="795" font-weight="bold" font-size="72" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="280" y="740" font-weight="bold" font-size="52" fill="#2B2F36">이동 어려우면 창문 개방</text>
+    <text x="280" y="810" font-weight="normal" font-size="40" fill="#5B6B7C">시동 꺼지기 전에 창문 또는</text>
+    <text x="280" y="860" font-weight="normal" font-size="40" fill="#5B6B7C">선루프를 미리 열어둡니다</text>
+  </g>
+
+  <!-- STEP 3 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="950" width="960" height="300" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="170" cy="1100" r="66" fill="#E23B3B"/>
+    <text x="170" y="1125" font-weight="bold" font-size="72" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="280" y="1070" font-weight="bold" font-size="52" fill="#2B2F36">헤드레스트로 유리 파괴</text>
+    <text x="280" y="1140" font-weight="normal" font-size="40" fill="#5B6B7C">목받침 철재봉으로 유리 모서리를</text>
+    <text x="280" y="1190" font-weight="normal" font-size="40" fill="#5B6B7C">치고 탈출 (수위차 30cm↓면 문 열림)</text>
+  </g>
+</svg>

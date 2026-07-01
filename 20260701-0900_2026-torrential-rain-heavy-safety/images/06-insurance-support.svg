@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="220" fill="#2B2F36"/>
+  <rect x="60" y="60" rx="26" width="230" height="56" fill="#E23B3B"/>
+  <text x="175" y="99" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="32" fill="#ffffff" text-anchor="middle">풍수해보험</text>
+  <text x="60" y="185" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">대상별 보험료 지원율 (주택)</text>
+
+  <text x="60" y="300" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="40" fill="#5B6B7C">정부·지자체가 보험료 상당 부분 지원</text>
+
+  <!-- 막대그래프 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 기준선 배경 -->
+    <!-- 최대폭 760px = 100% (x 300 ~ 1060) -->
+
+    <!-- 일반 55% -->
+    <text x="60" y="415" font-weight="bold" font-size="42" fill="#2B2F36">일반</text>
+    <rect x="300" y="380" width="760" height="60" rx="12" fill="#E1E8F0"/>
+    <rect x="300" y="380" width="418" height="60" rx="12" fill="#3C6E9E"/>
+    <text x="700" y="424" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="end">55% 이상</text>
+
+    <!-- 차상위 78% -->
+    <text x="60" y="555" font-weight="bold" font-size="42" fill="#2B2F36">차상위계층</text>
+    <rect x="300" y="520" width="760" height="60" rx="12" fill="#E1E8F0"/>
+    <rect x="300" y="520" width="593" height="60" rx="12" fill="#2F82C9"/>
+    <text x="875" y="564" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="end">약 78% 이상</text>
+
+    <!-- 수급자 87% -->
+    <text x="60" y="695" font-weight="bold" font-size="42" fill="#2B2F36">기초생활수급자</text>
+    <rect x="300" y="660" width="760" height="60" rx="12" fill="#E1E8F0"/>
+    <rect x="300" y="660" width="661" height="60" rx="12" fill="#1F8A53"/>
+    <text x="943" y="704" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="end">약 87% 이상</text>
+
+    <!-- 취약계층 100% -->
+    <text x="60" y="835" font-weight="bold" font-size="40" fill="#2B2F36">재해취약지역</text>
+    <text x="60" y="882" font-weight="bold" font-size="40" fill="#2B2F36">경제취약계층</text>
+    <rect x="300" y="800" width="760" height="60" rx="12" fill="#E1E8F0"/>
+    <rect x="300" y="800" width="760" height="60" rx="12" fill="#E23B3B"/>
+    <text x="1040" y="844" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="end">최대 100%</text>
+  </g>
+
+  <!-- 요약 박스 -->
+  <rect x="60" y="960" width="960" height="230" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="1040" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="44" fill="#2B2F36">보장: 태풍·홍수·호우·강풍·해일·대설·지진</text>
+  <text x="100" y="1105" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="40" fill="#5B6B7C">정부지원금은 자동 감면 — 감면된 보험료만 납부</text>
+  <text x="100" y="1160" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="40" fill="#5B6B7C">소상공인 상가·공장 55%↑ / 온실 70%↑ 지원</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#5B6B7C">출처: 정부24·국민재난안전포털 (시점·지자체별 변동 가능)</text>
+</svg>

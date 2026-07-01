@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="220" fill="#2B2F36"/>
+  <rect x="60" y="60" rx="26" width="230" height="56" fill="#E23B3B"/>
+  <text x="175" y="99" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="32" fill="#ffffff" text-anchor="middle">산사태 대피</text>
+  <text x="60" y="185" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">전조증상 4가지 — 하나라도 보이면</text>
+
+  <text x="60" y="300" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#E23B3B">예보 기다리지 말고 즉시 대피하세요</text>
+
+  <!-- 4개 카드 (2x2) -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 1 물 솟음 -->
+    <rect x="60" y="360" width="460" height="420" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="180" cy="500" r="80" fill="#E8F0F8"/>
+    <path d="M180 445 q40 55 40 85 a40 40 0 1 1 -80 0 q0 -30 40 -85 Z" fill="#3C6E9E"/>
+    <text x="290" y="480" font-weight="bold" font-size="120" fill="#E8EEF5">1</text>
+    <text x="100" y="680" font-weight="bold" font-size="44" fill="#2B2F36">경사면에서 갑자기</text>
+    <text x="100" y="736" font-weight="bold" font-size="44" fill="#2B2F36">물이 샘솟거나 멈춤</text>
+
+    <!-- 2 나무 흔들림 -->
+    <rect x="560" y="360" width="460" height="420" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="680" cy="500" r="80" fill="#E8F0F8"/>
+    <rect x="672" y="480" width="16" height="70" fill="#6b4a2a"/>
+    <circle cx="680" cy="460" r="46" fill="#1F8A53"/>
+    <text x="790" y="480" font-weight="bold" font-size="120" fill="#E8EEF5">2</text>
+    <text x="600" y="680" font-weight="bold" font-size="44" fill="#2B2F36">바람 없는데도</text>
+    <text x="600" y="736" font-weight="bold" font-size="44" fill="#2B2F36">나무가 흔들·넘어짐</text>
+
+    <!-- 3 흙탕물 -->
+    <rect x="60" y="820" width="460" height="420" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="180" cy="960" r="80" fill="#E8F0F8"/>
+    <path d="M120 940 q60 -30 120 0 q-20 50 -60 50 q-40 0 -60 -50 Z" fill="#8a5a2a"/>
+    <text x="290" y="940" font-weight="bold" font-size="120" fill="#E8EEF5">3</text>
+    <text x="100" y="1140" font-weight="bold" font-size="44" fill="#2B2F36">계곡 상류에서</text>
+    <text x="100" y="1196" font-weight="bold" font-size="44" fill="#2B2F36">과도한 흙탕물</text>
+
+    <!-- 4 땅울림 -->
+    <rect x="560" y="820" width="460" height="420" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="680" cy="960" r="80" fill="#E8F0F8"/>
+    <path d="M620 960 h30 l15 -35 l25 65 l15 -30 h35" stroke="#E23B3B" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="790" y="940" font-weight="bold" font-size="120" fill="#E8EEF5">4</text>
+    <text x="600" y="1140" font-weight="bold" font-size="44" fill="#2B2F36">땅울림·비탈면</text>
+    <text x="600" y="1196" font-weight="bold" font-size="44" fill="#2B2F36">부풀음·돌 굴러내림</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#5B6B7C">출처: 산림청 국민행동요령</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="220" fill="#2B2F36"/>
+  <rect x="60" y="60" rx="26" width="230" height="56" fill="#E23B3B"/>
+  <text x="175" y="99" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="32" fill="#ffffff" text-anchor="middle">호우특보 기준</text>
+  <text x="60" y="185" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">주의보 vs 경보 발효 기준</text>
+
+  <!-- 안내 문구 -->
+  <text x="60" y="300" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="40" fill="#5B6B7C">둘 중 하나만 예상돼도 발효됩니다</text>
+
+  <!-- 주의보 카드 -->
+  <rect x="60" y="350" width="960" height="380" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="350" width="960" height="96" rx="24" fill="#F1B24A"/>
+  <rect x="60" y="410" width="960" height="36" fill="#F1B24A"/>
+  <text x="100" y="415" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="52" fill="#3a2a00">호우주의보</text>
+
+  <text x="100" y="540" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#5B6B7C">3시간 강우량</text>
+  <text x="100" y="618" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="70" fill="#2B2F36">60mm 이상</text>
+  <text x="580" y="540" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#5B6B7C">또는 12시간</text>
+  <text x="580" y="618" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="70" fill="#2B2F36">110mm 이상</text>
+
+  <!-- 경보 카드 -->
+  <rect x="60" y="770" width="960" height="380" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="770" width="960" height="96" rx="24" fill="#E23B3B"/>
+  <rect x="60" y="830" width="960" height="36" fill="#E23B3B"/>
+  <text x="100" y="835" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">호우경보</text>
+
+  <text x="100" y="960" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#5B6B7C">3시간 강우량</text>
+  <text x="100" y="1038" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="70" fill="#E23B3B">90mm 이상</text>
+  <text x="580" y="960" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#5B6B7C">또는 12시간</text>
+  <text x="580" y="1038" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="70" fill="#E23B3B">180mm 이상</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#5B6B7C">출처: 기상청 호우특보 기준 (현행)</text>
+</svg>
