@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1B7A3D"/><stop offset="1" stop-color="#0E5128"/></linearGradient></defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <circle cx="930" cy="180" r="280" fill="#FFFFFF" opacity="0.07"/>
+  <circle cx="120" cy="960" r="240" fill="#FFD23F" opacity="0.10"/>
+  <rect x="80" y="92" rx="34" ry="34" width="210" height="68" fill="#E0556E"/>
+  <text x="185" y="138" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">7월 제철</text>
+  <text x="80" y="300" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFE9A8">7월 마트 가면 이것만 담으세요</text>
+  <text x="80" y="475" font-family="Malgun Gothic" font-weight="bold" font-size="122" fill="#ffffff">지금 안 먹으면</text>
+  <text x="80" y="650" font-family="Malgun Gothic" font-weight="bold" font-size="185" fill="#FFD23F">1년 뒤</text>
+  <rect x="80" y="730" rx="20" ry="20" width="820" height="110" fill="#ffffff" opacity="0.16"/>
+  <text x="110" y="802" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff">제철 과일·채소 고르는 법 + 보관 핵심</text>
+  <g transform="translate(760,980)">
+      <path d="M0,0 L120,-6.0 A120 120 0 0 0 -120,-6.0 Z" fill="#E63946"/>
+      <path d="M0,0 L129.60000000000002,-6.0 A129.60000000000002 129.60000000000002 0 0 0 -129.60000000000002,-6.0 Z" fill="none"/>
+      <path d="M0,0 L120,-6.0 A120 120 0 0 0 -120,-6.0 Z" fill="#E63946"/>
+      <path d="M-120,-6.0 A120 120 0 0 1 120,-6.0" fill="none" stroke="#2E7D32" stroke-width="19.2"/>
+      <path d="M-120,-6.0 A120 120 0 0 1 120,-6.0" fill="none" stroke="#A5D66A" stroke-width="7.199999999999999"/>
+      <circle cx="-42.0" cy="-54.0" r="6.0" fill="#222"/>
+      <circle cx="12.0" cy="-72.0" r="6.0" fill="#222"/>
+      <circle cx="54.0" cy="-48.0" r="6.0" fill="#222"/>
+      <circle cx="-6.0" cy="-36.0" r="6.0" fill="#222"/>
+    </g>
+  <g>
+      <path d="M513.8,890.0 Q484.4,980 526.4,1070.0" fill="#7CB342"/>
+      <path d="M606.2,890.0 Q635.6,980 593.6,1070.0" fill="#8BC34A"/>
+      <rect x="518.0" y="880.0" width="84.0" height="200" rx="42.0" fill="#F9D648"/>
+      <circle cx="533.12" cy="904.0" r="7.140000000000001" fill="#F4C430"/><circle cx="551.6" cy="904.0" r="7.140000000000001" fill="#F4C430"/><circle cx="570.08" cy="904.0" r="7.140000000000001" fill="#F4C430"/><circle cx="588.56" cy="904.0" r="7.140000000000001" fill="#F4C430"/><circle cx="533.12" cy="930.0" r="7.140000000000001" fill="#F4C430"/><circle cx="551.6" cy="930.0" r="7.140000000000001" fill="#F4C430"/><circle cx="570.08" cy="930.0" r="7.140000000000001" fill="#F4C430"/><circle cx="588.56" cy="930.0" r="7.140000000000001" fill="#F4C430"/><circle cx="533.12" cy="956.0" r="7.140000000000001" fill="#F4C430"/><circle cx="551.6" cy="956.0" r="7.140000000000001" fill="#F4C430"/><circle cx="570.08" cy="956.0" r="7.140000000000001" fill="#F4C430"/><circle cx="588.56" cy="956.0" r="7.140000000000001" fill="#F4C430"/><circle cx="533.12" cy="982.0" r="7.140000000000001" fill="#F4C430"/><circle cx="551.6" cy="982.0" r="7.140000000000001" fill="#F4C430"/><circle cx="570.08" cy="982.0" r="7.140000000000001" fill="#F4C430"/><circle cx="588.56" cy="982.0" r="7.140000000000001" fill="#F4C430"/><circle cx="533.12" cy="1008.0" r="7.140000000000001" fill="#F4C430"/><circle cx="551.6" cy="1008.0" r="7.140000000000001" fill="#F4C430"/><circle cx="570.08" cy="1008.0" r="7.140000000000001" fill="#F4C430"/><circle cx="588.56" cy="1008.0" r="7.140000000000001" fill="#F4C430"/><circle cx="533.12" cy="1034.0" r="7.140000000000001" fill="#F4C430"/><circle cx="551.6" cy="1034.0" r="7.140000000000001" fill="#F4C430"/><circle cx="570.08" cy="1034.0" r="7.140000000000001" fill="#F4C430"/><circle cx="588.56" cy="1034.0" r="7.140000000000001" fill="#F4C430"/>
+    </g>
+  <g><circle cx="960" cy="940" r="70" fill="#7B2D8E"/>
+      <path d="M960,870 Q946.0,940 960,1010" stroke="#4A1657" stroke-width="8.4" fill="none"/>
+      <ellipse cx="935.5" cy="912.0" rx="15.4" ry="8.4" fill="#C77DD6" opacity="0.7"/></g>
+  <text x="80" y="1012" font-family="Malgun Gothic" font-size="34" fill="#CFF0D8" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

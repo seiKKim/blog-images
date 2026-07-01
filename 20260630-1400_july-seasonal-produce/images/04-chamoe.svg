@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFFBEA"/>
+  <rect width="1080" height="150" fill="#F2C200"/>
+  <text x="60" y="95" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#5a4500">참외, 이렇게 고르세요</text>
+  <g><ellipse cx="250" cy="420" rx="150" ry="117.0" fill="#F2C200"/><line x1="100.0" y1="303.0" x2="100.0" y2="537.0" stroke="#FFFFFF" stroke-width="13.5"/><line x1="175.0" y1="303.0" x2="175.0" y2="537.0" stroke="#FFFFFF" stroke-width="13.5"/><line x1="250.0" y1="303.0" x2="250.0" y2="537.0" stroke="#FFFFFF" stroke-width="13.5"/><line x1="325.0" y1="303.0" x2="325.0" y2="537.0" stroke="#FFFFFF" stroke-width="13.5"/><line x1="400.0" y1="303.0" x2="400.0" y2="537.0" stroke="#FFFFFF" stroke-width="13.5"/></g>
+  <!-- 단면 -->
+  <g transform="translate(250,420)">
+    <ellipse cx="0" cy="220" rx="150" ry="118" fill="#F2C200"/>
+    <ellipse cx="0" cy="220" rx="120" ry="92" fill="#FFFDF2"/>
+    <ellipse cx="0" cy="220" rx="44" ry="60" fill="#F6E7A0"/>
+  </g>
+  <g font-family="Malgun Gothic">
+    <text x="500" y="300" font-weight="bold" font-size="44" fill="#7a5e00">✔ 진한 노란색 · 흰 골이 또렷·깊게</text>
+    <text x="500" y="385" font-weight="bold" font-size="44" fill="#7a5e00">✔ 들었을 때 묵직 = 수분 많음</text>
+    <text x="500" y="470" font-weight="bold" font-size="44" fill="#7a5e00">✔ 배꼽 작을수록 당도 ↑</text>
+    <text x="500" y="555" font-weight="bold" font-size="44" fill="#7a5e00">✔ 낱개 신문지·랩 → 냉장 1~2주</text>
+  </g>
+  <text x="60" y="690" font-family="Malgun Gothic" font-size="30" fill="#9a8230">blog.naver.com/trip_chocho</text>
+</svg>

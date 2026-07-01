@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B4F86"/>
+  <rect x="60" y="58" rx="34" ry="34" width="210" height="68" fill="#E8722C"/>
+  <text x="165.0" y="104" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="190" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">열대야란? 왜 25℃부터일까</text>
+
+  <!-- 큰 기준 숫자 -->
+  <text x="540" y="430" font-family="Malgun Gothic" font-weight="bold" font-size="80" fill="#1a1a1a" text-anchor="middle">밤사이 최저기온</text>
+  <text x="540" y="600" font-family="Malgun Gothic" font-weight="bold" font-size="200" fill="#E8722C" text-anchor="middle">25℃ 이상</text>
+
+  <!-- 온도 그래프 영역 -->
+  <rect x="60" y="700" width="960" height="430" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <!-- 25도 기준선 -->
+  <line x1="120" y1="820" x2="960" y2="820" stroke="#E8722C" stroke-width="5" stroke-dasharray="14 10"/>
+  <text x="960" y="805" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#E8722C" text-anchor="end">25℃ 기준선</text>
+  <!-- 기온 곡선 (기준선 위로 머무는 밤 = 열대야) -->
+  <path d="M120 870 C 260 760, 380 740, 540 770 S 820 880, 960 900" stroke="#2E72B8" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <text x="120" y="1090" font-family="Malgun Gothic" font-size="40" fill="#1a1a1a" font-weight="bold">집계 시간: 18:01 ~ 다음 날 09:00</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">출처: 기상청 열대야 기준</text>
+</svg>

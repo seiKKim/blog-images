@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="190" fill="#243B6B"/>
+  <rect x="80" y="44" rx="28" width="190" height="56" fill="#FFD23F"/>
+  <text x="175" y="83" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+  <text x="80" y="160" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#FFFFFF">현행 한도 vs 무산된 확대안</text>
+  <text x="60" y="252" font-family="Malgun Gothic" font-size="36" fill="#5B6B7C">검색·블로그에 떠도는 4,000만원·500만원은 현행이 아님</text>
+  <rect x="60" y="280" width="450" height="900" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="280" width="450" height="110" rx="20" fill="#1F8A53"/>
+  <rect x="60" y="350" width="450" height="40" fill="#1F8A53"/>
+  <text x="285" y="350" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#fff" text-anchor="middle">현행 (시행 중)</text>
+  <text x="285" y="470" font-family="Malgun Gothic" font-weight="bold" font-size="90" fill="#1F8A53" text-anchor="middle">O</text>
+  <text x="285" y="560" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">연 납입한도</text>
+  <text x="285" y="618" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">2,000만원</text>
+  <text x="285" y="710" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">총 한도(5년)</text>
+  <text x="285" y="768" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">1억원</text>
+  <text x="285" y="860" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">비과세(일반/서민)</text>
+  <text x="285" y="918" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">200만·400만</text>
+  <text x="285" y="1010" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">분리과세</text>
+  <text x="285" y="1068" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">9.9%</text>
+  <rect x="570" y="280" width="450" height="900" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="570" y="280" width="450" height="110" rx="20" fill="#E23B3B"/>
+  <rect x="570" y="350" width="450" height="40" fill="#E23B3B"/>
+  <text x="795" y="350" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#fff" text-anchor="middle">2024 확대안</text>
+  <text x="795" y="470" font-family="Malgun Gothic" font-weight="bold" font-size="90" fill="#E23B3B" text-anchor="middle">X</text>
+  <text x="795" y="560" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">연 납입한도</text>
+  <text x="795" y="618" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">4,000만원</text>
+  <text x="795" y="710" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">총 한도</text>
+  <text x="795" y="768" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">2억원</text>
+  <text x="795" y="860" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">비과세(일반/서민)</text>
+  <text x="795" y="918" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">500만·1,000만</text>
+  <text x="795" y="1010" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">상태</text>
+  <text x="795" y="1068" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">국회 무산</text>
+  <text x="60" y="1245" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">※ 2024년 발표됐으나 국회 통과 못해 무산 (7월 개정안 변동 가능)</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B4F86"/>
+  <rect x="60" y="58" rx="34" ry="34" width="210" height="68" fill="#E8722C"/>
+  <text x="165.0" y="104" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="190" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">잠 잘 자는 생활 습관 체크리스트</text>
+  <rect x="60" y="290" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="130" cy="340" r="34" fill="#E8722C"/>
+  <path d="M114 340 l14 16 l26 -30" stroke="#ffffff" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="356" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">음주 회피 — 자주 깨게 함</text>
+  <rect x="60" y="420" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="130" cy="470" r="34" fill="#E8722C"/>
+  <path d="M114 470 l14 16 l26 -30" stroke="#ffffff" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="486" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">카페인 회피 (커피·홍차·콜라)</text>
+  <rect x="60" y="550" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="130" cy="600" r="34" fill="#E8722C"/>
+  <path d="M114 600 l14 16 l26 -30" stroke="#ffffff" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="616" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">흡연 회피 — 니코틴은 각성</text>
+  <rect x="60" y="680" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="130" cy="730" r="34" fill="#E8722C"/>
+  <path d="M114 730 l14 16 l26 -30" stroke="#ffffff" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="746" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">취침 직전 스마트폰·태블릿 금지</text>
+  <rect x="60" y="810" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="130" cy="860" r="34" fill="#E8722C"/>
+  <path d="M114 860 l14 16 l26 -30" stroke="#ffffff" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="876" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">과식·과도한 야식 피하기</text>
+  <rect x="60" y="940" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="130" cy="990" r="34" fill="#E8722C"/>
+  <path d="M114 990 l14 16 l26 -30" stroke="#ffffff" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="1006" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">과도한 낮잠 피하기</text>
+  <rect x="60" y="1070" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="130" cy="1120" r="34" fill="#E8722C"/>
+  <path d="M114 1120 l14 16 l26 -30" stroke="#ffffff" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="1136" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">매일 같은 시각에 기상</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">출처: 수면장애 전문의 권고(메디칼타임즈)</text>
+</svg>

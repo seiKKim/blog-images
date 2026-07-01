@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1F8A53"/>
+  <text x="60" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff">2026 한전 고효율 가전 지원사업</text>
+
+  <g font-family="Malgun Gothic">
+    <rect x="60" y="200" width="960" height="86" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="253" font-weight="bold" font-size="40" fill="#33485f">신청 기간</text>
+    <text x="985" y="253" font-weight="bold" font-size="40" fill="#1F8A53" text-anchor="end">2026.2.9 ~ 12.31</text>
+
+    <rect x="60" y="300" width="960" height="86" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="353" font-weight="bold" font-size="40" fill="#33485f">신청 방법</text>
+    <text x="985" y="353" font-weight="bold" font-size="40" fill="#1F8A53" text-anchor="end">온라인 en-ter.co.kr</text>
+  </g>
+
+  <rect x="60" y="410" width="465" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="292" y="478" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#33485f" text-anchor="middle">복지할인가구</text>
+  <text x="292" y="556" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#1F8A53" text-anchor="middle">최대 30% / 15%</text>
+
+  <rect x="555" y="410" width="465" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="787" y="478" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#33485f" text-anchor="middle">소상공인</text>
+  <text x="787" y="556" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#1F8A53" text-anchor="middle">최대 40%</text>
+
+  <rect x="60" y="615" width="960" height="70" rx="18" fill="#C8423B"/>
+  <text x="540" y="662" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">예산 소진 시 신청기간 내라도 조기 마감</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1B5FA6"/>
+  <circle cx="950" cy="160" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <rect x="80" y="86" rx="34" width="220" height="68" fill="#FFD23F"/>
+  <text x="190" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="36"
+        fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <text x="80" y="270" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#E8EEF5">2026 으뜸효율 가전 환급</text>
+  <text x="80" y="372" font-family="Malgun Gothic" font-weight="bold" font-size="92" fill="#ffffff">지금 받을 수 있나?</text>
+  <rect x="80" y="404" width="430" height="10" rx="5" fill="#FFD23F"/>
+
+  <!-- 종료 카드 -->
+  <rect x="80" y="480" width="440" height="320" rx="24" fill="#ffffff"/>
+  <rect x="80" y="480" width="440" height="86" rx="24" fill="#C8423B"/>
+  <rect x="80" y="540" width="440" height="26" fill="#C8423B"/>
+  <text x="300" y="538" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">일반가구 국비</text>
+  <text x="300" y="650" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#C8423B" text-anchor="middle">종료</text>
+  <text x="300" y="720" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#33485f" text-anchor="middle">10% · 최대 30만원</text>
+  <text x="300" y="768" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C" text-anchor="middle">신청 2026.1.16 마감</text>
+
+  <!-- 진행 카드 -->
+  <rect x="560" y="480" width="440" height="320" rx="24" fill="#ffffff"/>
+  <rect x="560" y="480" width="440" height="86" rx="24" fill="#1F8A53"/>
+  <rect x="560" y="540" width="440" height="26" fill="#1F8A53"/>
+  <text x="780" y="538" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">한전 사업</text>
+  <text x="780" y="650" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#1F8A53" text-anchor="middle">진행중</text>
+  <text x="780" y="720" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#33485f" text-anchor="middle">복지할인·소상공인</text>
+  <text x="780" y="768" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C" text-anchor="middle">~2026.12.31 (대상 한정)</text>
+
+  <rect x="80" y="846" width="920" height="92" rx="20" fill="#ffffff" opacity="0.16"/>
+  <text x="540" y="905" font-family="Malgun Gothic" font-weight="bold" font-size="44"
+        fill="#ffffff" text-anchor="middle">대상 · 환급률 · 신청법 한눈에</text>
+</svg>

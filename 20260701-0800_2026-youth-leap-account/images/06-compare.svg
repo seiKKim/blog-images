@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#1B5FA6"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="60" y="44" rx="28" ry="28" width="190" height="60" fill="#FFD23F"/>
+  <text x="155" y="86" font-family="Malgun Gothic" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="156" font-family="Malgun Gothic" font-weight="bold"
+        font-size="52" fill="#ffffff">청년 자산형성 상품 3종 비교</text>
+
+  <!-- 표 헤더 -->
+  <g font-family="Malgun Gothic">
+    <rect x="40" y="210" width="280" height="110" fill="#243B6B"/>
+    <rect x="320" y="210" width="247" height="110" fill="#1B5FA6"/>
+    <rect x="567" y="210" width="227" height="110" fill="#6E8AAB"/>
+    <rect x="794" y="210" width="246" height="110" fill="#6E8AAB"/>
+    <text x="180" y="278" font-weight="bold" font-size="30" fill="#ffffff" text-anchor="middle">항목</text>
+    <text x="443" y="258" font-weight="bold" font-size="28" fill="#FFD23F" text-anchor="middle">청년미래적금</text>
+    <text x="443" y="296" font-weight="bold" font-size="24" fill="#ffffff" text-anchor="middle">(2026 신규)</text>
+    <text x="680" y="258" font-weight="bold" font-size="28" fill="#ffffff" text-anchor="middle">청년도약계좌</text>
+    <text x="680" y="296" font-weight="bold" font-size="24" fill="#E8EEF5" text-anchor="middle">(2025 종료)</text>
+    <text x="917" y="258" font-weight="bold" font-size="26" fill="#ffffff" text-anchor="middle">청년내일</text>
+    <text x="917" y="296" font-weight="bold" font-size="26" fill="#ffffff" text-anchor="middle">저축계좌</text>
+  </g>
+
+  <!-- 행 생성 -->
+  <g font-family="Malgun Gothic" font-size="26" fill="#1a1a1a">
+    <!-- 행1 신규가입 -->
+    <rect x="40" y="320" width="280" height="120" fill="#E8EEF5"/>
+    <rect x="320" y="320" width="247" height="120" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="567" y="320" width="227" height="120" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="794" y="320" width="246" height="120" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="180" y="388" font-weight="bold" text-anchor="middle">신규가입</text>
+    <text x="443" y="375" font-weight="bold" fill="#1B5FA6" text-anchor="middle">2026.6 출시</text>
+    <text x="443" y="408" font-weight="bold" fill="#1B5FA6" text-anchor="middle">(현재 가능)</text>
+    <text x="680" y="388" text-anchor="middle">2025.12 종료</text>
+    <text x="917" y="388" text-anchor="middle">별도(연 1회)</text>
+
+    <!-- 행2 만기 -->
+    <rect x="40" y="440" width="280" height="100" fill="#E8EEF5"/>
+    <rect x="320" y="440" width="247" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="567" y="440" width="227" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="794" y="440" width="246" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="180" y="498" font-weight="bold" text-anchor="middle">만기</text>
+    <text x="443" y="498" font-weight="bold" fill="#1B5FA6" text-anchor="middle">3년</text>
+    <text x="680" y="498" text-anchor="middle">5년</text>
+    <text x="917" y="498" text-anchor="middle">3년</text>
+
+    <!-- 행3 월 납입한도 -->
+    <rect x="40" y="540" width="280" height="100" fill="#E8EEF5"/>
+    <rect x="320" y="540" width="247" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="567" y="540" width="227" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="794" y="540" width="246" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="180" y="588" font-weight="bold" text-anchor="middle">월 납입</text>
+    <text x="180" y="618" font-weight="bold" text-anchor="middle">한도</text>
+    <text x="443" y="598" text-anchor="middle">최대 50만원</text>
+    <text x="680" y="598" text-anchor="middle">최대 70만원</text>
+    <text x="917" y="598" text-anchor="middle">10~50만원</text>
+
+    <!-- 행4 정부지원 -->
+    <rect x="40" y="640" width="280" height="100" fill="#E8EEF5"/>
+    <rect x="320" y="640" width="247" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="567" y="640" width="227" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="794" y="640" width="246" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="180" y="698" font-weight="bold" text-anchor="middle">정부지원</text>
+    <text x="443" y="698" font-weight="bold" fill="#1B5FA6" text-anchor="middle">기여금 6~12%</text>
+    <text x="680" y="698" text-anchor="middle">매칭 최대 6%</text>
+    <text x="917" y="688" font-size="24" text-anchor="middle">적립액 매칭</text>
+    <text x="917" y="718" font-size="24" text-anchor="middle">(저소득 두텁게)</text>
+
+    <!-- 행5 금리 -->
+    <rect x="40" y="740" width="280" height="100" fill="#E8EEF5"/>
+    <rect x="320" y="740" width="247" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="567" y="740" width="227" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="794" y="740" width="246" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="180" y="798" font-weight="bold" text-anchor="middle">금리</text>
+    <text x="443" y="788" font-size="24" fill="#1B5FA6" text-anchor="middle">기본 5%</text>
+    <text x="443" y="816" font-size="24" fill="#1B5FA6" text-anchor="middle">+우대 최고 8%</text>
+    <text x="680" y="798" text-anchor="middle">최대 6%</text>
+    <text x="917" y="788" font-size="24" text-anchor="middle">예금금리</text>
+    <text x="917" y="816" font-size="24" text-anchor="middle">+정부지원</text>
+
+    <!-- 행6 소득기준 -->
+    <rect x="40" y="840" width="280" height="120" fill="#E8EEF5"/>
+    <rect x="320" y="840" width="247" height="120" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="567" y="840" width="227" height="120" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="794" y="840" width="246" height="120" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="180" y="908" font-weight="bold" text-anchor="middle">소득기준</text>
+    <text x="443" y="892" font-size="24" text-anchor="middle">총급여 7,500만↓</text>
+    <text x="443" y="922" font-size="24" text-anchor="middle">중위 200%↓</text>
+    <text x="680" y="908" font-size="24" text-anchor="middle">총급여 7,500만↓</text>
+    <text x="917" y="892" font-size="23" text-anchor="middle">저소득 근로</text>
+    <text x="917" y="922" font-size="23" text-anchor="middle">청년 중심</text>
+
+    <!-- 행7 중도인출 -->
+    <rect x="40" y="960" width="280" height="100" fill="#E8EEF5"/>
+    <rect x="320" y="960" width="247" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="567" y="960" width="227" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="794" y="960" width="246" height="100" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="180" y="1018" font-weight="bold" text-anchor="middle">중도인출</text>
+    <text x="443" y="1018" text-anchor="middle">불가</text>
+    <text x="680" y="1018" text-anchor="middle">가능(부분)</text>
+    <text x="917" y="1018" text-anchor="middle">제한</text>
+  </g>
+
+  <!-- 요약 박스 -->
+  <rect x="40" y="1085" width="1000" height="150" rx="16" fill="#1B5FA6"/>
+  <text x="70" y="1145" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#ffffff">짧게(3년)·기여금 높게 → 청년미래적금</text>
+  <text x="70" y="1200" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#FFD23F">길게(5년)·부분인출 → 청년도약계좌 유지</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">2026년 7월 기준 · 정확한 본인 조건은 취급은행·공식 안내 확인</text>
+</svg>

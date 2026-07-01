@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="60" y="50" rx="28" ry="28" width="190" height="60" fill="#FFD23F"/>
+  <text x="155" y="92" font-family="Malgun Gothic" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="170" font-family="Malgun Gothic" font-weight="bold"
+        font-size="58" fill="#ffffff">금리 구조 (3년 고정)</text>
+
+  <!-- 금리 합산 스택 -->
+  <rect x="60" y="280" width="960" height="160" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="350" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">기본금리</text>
+  <text x="100" y="408" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">전 취급기관 동일</text>
+  <text x="980" y="385" font-family="Malgun Gothic" font-weight="bold" font-size="80" fill="#1B5FA6" text-anchor="end">연 5%</text>
+
+  <text x="540" y="500" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#1B5FA6" text-anchor="middle">+</text>
+
+  <rect x="60" y="540" width="960" height="160" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="610" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">우대금리</text>
+  <text x="100" y="668" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">기관별 우대 (최대)</text>
+  <text x="980" y="645" font-family="Malgun Gothic" font-weight="bold" font-size="80" fill="#1B5FA6" text-anchor="end">최대 3%p</text>
+
+  <text x="540" y="760" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#1B5FA6" text-anchor="middle">=</text>
+
+  <!-- 결과 강조 박스 -->
+  <rect x="60" y="800" width="960" height="180" rx="18" fill="#1B5FA6"/>
+  <text x="100" y="880" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#ffffff">최고 금리</text>
+  <text x="100" y="940" font-family="Malgun Gothic" font-size="32" fill="#E8EEF5">농협·신한·우리·하나·기업·국민·우정 7곳</text>
+  <text x="980" y="912" font-family="Malgun Gothic" font-weight="bold" font-size="100" fill="#FFD23F" text-anchor="end">연 8%</text>
+
+  <!-- 비과세 박스 -->
+  <rect x="60" y="1015" width="960" height="200" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="1080" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1B5FA6">비과세 실질효과 (금리 8% 기준)</text>
+  <text x="100" y="1140" font-family="Malgun Gothic" font-size="36" fill="#1a1a1a">일반형 약 13.2~14.4%</text>
+  <text x="100" y="1190" font-family="Malgun Gothic" font-size="36" fill="#1a1a1a">우대형 약 18.2~19.4% (단리 적금 수준)</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">이자소득세(15.4%) 전액 비과세 · 정부 홍보 기준</text>
+</svg>

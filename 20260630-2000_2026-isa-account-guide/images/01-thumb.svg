@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#243B6B"/>
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.06"/>
+  <circle cx="110" cy="980" r="210" fill="#ffffff" opacity="0.05"/>
+  <rect x="80" y="86" rx="34" ry="34" width="240" height="68" fill="#FFD23F"/>
+  <text x="200" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+  <text x="80" y="262" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#E8EEF5">2026년 6월 현행 기준</text>
+  <text x="80" y="372" font-family="Malgun Gothic" font-weight="bold" font-size="118" fill="#FFFFFF">ISA 계좌</text>
+  <text x="80" y="492" font-family="Malgun Gothic" font-weight="bold" font-size="92" fill="#FFD23F">한도·비과세 총정리</text>
+
+  <rect x="80" y="560" rx="22" width="440" height="180" fill="#ffffff" opacity="0.12"/>
+  <text x="110" y="628" font-family="Malgun Gothic" font-size="40" fill="#E8EEF5">연 납입한도</text>
+  <text x="110" y="700" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#FFFFFF">2,000만원</text>
+  <rect x="560" y="560" rx="22" width="440" height="180" fill="#ffffff" opacity="0.12"/>
+  <text x="590" y="628" font-family="Malgun Gothic" font-size="40" fill="#E8EEF5">총 납입한도(5년)</text>
+  <text x="590" y="700" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#FFFFFF">1억원</text>
+
+  <rect x="80" y="760" rx="22" width="440" height="180" fill="#ffffff" opacity="0.12"/>
+  <text x="110" y="828" font-family="Malgun Gothic" font-size="40" fill="#E8EEF5">비과세 한도</text>
+  <text x="110" y="900" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#FFD23F">200만·400만</text>
+  <rect x="560" y="760" rx="22" width="440" height="180" fill="#ffffff" opacity="0.12"/>
+  <text x="590" y="828" font-family="Malgun Gothic" font-size="40" fill="#E8EEF5">초과수익 분리과세</text>
+  <text x="590" y="900" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#FFD23F">9.9%</text>
+
+  <text x="80" y="1012" font-family="Malgun Gothic" font-size="34" fill="#E8EEF5" opacity="0.85">의무가입 3년 · blog.naver.com/trip_chocho</text>
+</svg>

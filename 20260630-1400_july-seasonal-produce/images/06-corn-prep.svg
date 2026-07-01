@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFFDF0"/>
+  <rect width="1080" height="150" fill="#F4C430"/>
+  <text x="60" y="95" font-family="Malgun Gothic" font-weight="bold" font-size="54" fill="#5a4500">초당옥수수, 받자마자 손질!</text>
+  <g>
+    <rect x="50" y="210" width="300" height="380" rx="24" fill="#ffffff" stroke="#EAD27A"/>
+    <rect x="390" y="210" width="300" height="380" rx="24" fill="#ffffff" stroke="#EAD27A"/>
+    <rect x="730" y="210" width="300" height="380" rx="24" fill="#ffffff" stroke="#EAD27A"/>
+  </g>
+  <text x="200" y="280" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#C8941A" text-anchor="middle">STEP 1</text>
+  <text x="540" y="280" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#C8941A" text-anchor="middle">STEP 2</text>
+  <text x="880" y="280" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#C8941A" text-anchor="middle">STEP 3</text>
+  <g>
+      <path d="M158.42000000000002,339.0 Q131.96,420 169.76,501.0" fill="#7CB342"/>
+      <path d="M241.57999999999998,339.0 Q268.03999999999996,420 230.24,501.0" fill="#8BC34A"/>
+      <rect x="162.2" y="330.0" width="75.6" height="180" rx="37.8" fill="#F9D648"/>
+      <circle cx="175.808" cy="351.6" r="6.426" fill="#F4C430"/><circle cx="192.44" cy="351.6" r="6.426" fill="#F4C430"/><circle cx="209.072" cy="351.6" r="6.426" fill="#F4C430"/><circle cx="225.70399999999998" cy="351.6" r="6.426" fill="#F4C430"/><circle cx="175.808" cy="375.0" r="6.426" fill="#F4C430"/><circle cx="192.44" cy="375.0" r="6.426" fill="#F4C430"/><circle cx="209.072" cy="375.0" r="6.426" fill="#F4C430"/><circle cx="225.70399999999998" cy="375.0" r="6.426" fill="#F4C430"/><circle cx="175.808" cy="398.40000000000003" r="6.426" fill="#F4C430"/><circle cx="192.44" cy="398.40000000000003" r="6.426" fill="#F4C430"/><circle cx="209.072" cy="398.40000000000003" r="6.426" fill="#F4C430"/><circle cx="225.70399999999998" cy="398.40000000000003" r="6.426" fill="#F4C430"/><circle cx="175.808" cy="421.8" r="6.426" fill="#F4C430"/><circle cx="192.44" cy="421.8" r="6.426" fill="#F4C430"/><circle cx="209.072" cy="421.8" r="6.426" fill="#F4C430"/><circle cx="225.70399999999998" cy="421.8" r="6.426" fill="#F4C430"/><circle cx="175.808" cy="445.20000000000005" r="6.426" fill="#F4C430"/><circle cx="192.44" cy="445.20000000000005" r="6.426" fill="#F4C430"/><circle cx="209.072" cy="445.20000000000005" r="6.426" fill="#F4C430"/><circle cx="225.70399999999998" cy="445.20000000000005" r="6.426" fill="#F4C430"/><circle cx="175.808" cy="468.6" r="6.426" fill="#F4C430"/><circle cx="192.44" cy="468.6" r="6.426" fill="#F4C430"/><circle cx="209.072" cy="468.6" r="6.426" fill="#F4C430"/><circle cx="225.70399999999998" cy="468.6" r="6.426" fill="#F4C430"/>
+    </g>
+  <g>
+      <path d="M498.42,339.0 Q471.96000000000004,420 509.76,501.0" fill="#7CB342"/>
+      <path d="M581.58,339.0 Q608.04,420 570.24,501.0" fill="#8BC34A"/>
+      <rect x="502.2" y="330.0" width="75.6" height="180" rx="37.8" fill="#F9D648"/>
+      <circle cx="515.808" cy="351.6" r="6.426" fill="#F4C430"/><circle cx="532.4399999999999" cy="351.6" r="6.426" fill="#F4C430"/><circle cx="549.072" cy="351.6" r="6.426" fill="#F4C430"/><circle cx="565.704" cy="351.6" r="6.426" fill="#F4C430"/><circle cx="515.808" cy="375.0" r="6.426" fill="#F4C430"/><circle cx="532.4399999999999" cy="375.0" r="6.426" fill="#F4C430"/><circle cx="549.072" cy="375.0" r="6.426" fill="#F4C430"/><circle cx="565.704" cy="375.0" r="6.426" fill="#F4C430"/><circle cx="515.808" cy="398.40000000000003" r="6.426" fill="#F4C430"/><circle cx="532.4399999999999" cy="398.40000000000003" r="6.426" fill="#F4C430"/><circle cx="549.072" cy="398.40000000000003" r="6.426" fill="#F4C430"/><circle cx="565.704" cy="398.40000000000003" r="6.426" fill="#F4C430"/><circle cx="515.808" cy="421.8" r="6.426" fill="#F4C430"/><circle cx="532.4399999999999" cy="421.8" r="6.426" fill="#F4C430"/><circle cx="549.072" cy="421.8" r="6.426" fill="#F4C430"/><circle cx="565.704" cy="421.8" r="6.426" fill="#F4C430"/><circle cx="515.808" cy="445.20000000000005" r="6.426" fill="#F4C430"/><circle cx="532.4399999999999" cy="445.20000000000005" r="6.426" fill="#F4C430"/><circle cx="549.072" cy="445.20000000000005" r="6.426" fill="#F4C430"/><circle cx="565.704" cy="445.20000000000005" r="6.426" fill="#F4C430"/><circle cx="515.808" cy="468.6" r="6.426" fill="#F4C430"/><circle cx="532.4399999999999" cy="468.6" r="6.426" fill="#F4C430"/><circle cx="549.072" cy="468.6" r="6.426" fill="#F4C430"/><circle cx="565.704" cy="468.6" r="6.426" fill="#F4C430"/>
+    </g>
+  <g>
+      <path d="M838.42,339.0 Q811.96,420 849.76,501.0" fill="#7CB342"/>
+      <path d="M921.58,339.0 Q948.04,420 910.24,501.0" fill="#8BC34A"/>
+      <rect x="842.2" y="330.0" width="75.6" height="180" rx="37.8" fill="#F9D648"/>
+      <circle cx="855.808" cy="351.6" r="6.426" fill="#F4C430"/><circle cx="872.4399999999999" cy="351.6" r="6.426" fill="#F4C430"/><circle cx="889.072" cy="351.6" r="6.426" fill="#F4C430"/><circle cx="905.704" cy="351.6" r="6.426" fill="#F4C430"/><circle cx="855.808" cy="375.0" r="6.426" fill="#F4C430"/><circle cx="872.4399999999999" cy="375.0" r="6.426" fill="#F4C430"/><circle cx="889.072" cy="375.0" r="6.426" fill="#F4C430"/><circle cx="905.704" cy="375.0" r="6.426" fill="#F4C430"/><circle cx="855.808" cy="398.40000000000003" r="6.426" fill="#F4C430"/><circle cx="872.4399999999999" cy="398.40000000000003" r="6.426" fill="#F4C430"/><circle cx="889.072" cy="398.40000000000003" r="6.426" fill="#F4C430"/><circle cx="905.704" cy="398.40000000000003" r="6.426" fill="#F4C430"/><circle cx="855.808" cy="421.8" r="6.426" fill="#F4C430"/><circle cx="872.4399999999999" cy="421.8" r="6.426" fill="#F4C430"/><circle cx="889.072" cy="421.8" r="6.426" fill="#F4C430"/><circle cx="905.704" cy="421.8" r="6.426" fill="#F4C430"/><circle cx="855.808" cy="445.20000000000005" r="6.426" fill="#F4C430"/><circle cx="872.4399999999999" cy="445.20000000000005" r="6.426" fill="#F4C430"/><circle cx="889.072" cy="445.20000000000005" r="6.426" fill="#F4C430"/><circle cx="905.704" cy="445.20000000000005" r="6.426" fill="#F4C430"/><circle cx="855.808" cy="468.6" r="6.426" fill="#F4C430"/><circle cx="872.4399999999999" cy="468.6" r="6.426" fill="#F4C430"/><circle cx="889.072" cy="468.6" r="6.426" fill="#F4C430"/><circle cx="905.704" cy="468.6" r="6.426" fill="#F4C430"/>
+    </g>
+  <text x="200" y="560" font-family="Malgun Gothic" font-size="34" fill="#444" text-anchor="middle">겉껍질·수염 제거</text>
+  <text x="540" y="540" font-family="Malgun Gothic" font-size="34" fill="#444" text-anchor="middle">안쪽 껍질 한 겹만</text>
+  <text x="540" y="578" font-family="Malgun Gothic" font-size="34" fill="#444" text-anchor="middle">남기고 물에 세척</text>
+  <text x="880" y="540" font-family="Malgun Gothic" font-size="34" fill="#444" text-anchor="middle">바로 냉장(3일내)</text>
+  <text x="880" y="578" font-family="Malgun Gothic" font-size="34" fill="#444" text-anchor="middle">or 손질 후 냉동</text>
+  <text x="60" y="670" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#C8941A">⏱ 상온에 두면 하루 만에 단맛이 뚝!</text>
+</svg>

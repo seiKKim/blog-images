@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="900" viewBox="0 0 1080 900">
+  <rect width="1080" height="900" fill="#F4F7FB"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="190" fill="#243B6B"/>
+  <rect x="60" y="80" rx="26" width="200" height="56" fill="#FFD23F"/>
+  <text x="160" y="119" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">금융/재테크</text>
+  <text x="60" y="172" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff">만기자금 연금계좌 이전 = 추가 세액공제</text>
+
+  <!-- 흐름 박스 -->
+  <g font-family="Malgun Gothic">
+    <!-- step 1 -->
+    <rect x="70" y="280" width="430" height="170" rx="22" fill="#ffffff" stroke="#243B6B" stroke-width="3"/>
+    <text x="285" y="345" font-weight="bold" font-size="40" fill="#243B6B" text-anchor="middle">ISA 의무기간 3년</text>
+    <text x="285" y="402" font-size="36" fill="#1a1a1a" text-anchor="middle">경과 후 만기 도래</text>
+
+    <!-- arrow -->
+    <text x="540" y="380" font-weight="bold" font-size="80" fill="#FFD23F" text-anchor="middle">→</text>
+
+    <!-- step 2 -->
+    <rect x="580" y="280" width="430" height="170" rx="22" fill="#ffffff" stroke="#243B6B" stroke-width="3"/>
+    <text x="795" y="345" font-weight="bold" font-size="40" fill="#243B6B" text-anchor="middle">만기일 60일 이내</text>
+    <text x="795" y="402" font-size="36" fill="#1a1a1a" text-anchor="middle">연금저축 · IRP로 이전</text>
+
+    <!-- down arrow -->
+    <text x="540" y="560" font-weight="bold" font-size="74" fill="#FFD23F" text-anchor="middle">↓</text>
+
+    <!-- result -->
+    <rect x="70" y="600" width="940" height="200" rx="24" fill="#243B6B"/>
+    <text x="540" y="678" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">이전금액의 10% · 최대 300만원</text>
+    <text x="540" y="748" font-weight="bold" font-size="52" fill="#FFD23F" text-anchor="middle">추가 세액공제</text>
+  </g>
+
+  <!-- 하단 안내 -->
+  <text x="60" y="858" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C">※ 연금계좌 세액공제(연 최대 900만원)와 별도 · 한도와 실제 환급액은 다름</text>
+</svg>

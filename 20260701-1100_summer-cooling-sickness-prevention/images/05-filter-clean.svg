@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF6EE"/>
+  <rect width="1080" height="150" fill="#E8722C"/>
+  <text x="60" y="97" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">에어컨 필터, 이렇게 관리</text>
+
+  <!-- 에어컨 아이콘 -->
+  <rect x="90" y="240" width="360" height="180" rx="24" fill="#FFFFFF" stroke="#EAD9CB" stroke-width="4"/>
+  <line x1="120" y1="300" x2="420" y2="300" stroke="#D9C4B2" stroke-width="8"/>
+  <line x1="120" y1="340" x2="420" y2="340" stroke="#D9C4B2" stroke-width="8"/>
+  <line x1="120" y1="380" x2="420" y2="380" stroke="#D9C4B2" stroke-width="8"/>
+  <text x="270" y="500" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="middle">필터 청소</text>
+
+  <!-- 수치 -->
+  <text x="520" y="330" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#1a1a1a">최소</text>
+  <text x="520" y="440" font-family="Malgun Gothic" font-weight="bold" font-size="110" fill="#B4531A">2주에 1회</text>
+  <text x="520" y="520" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">레지오넬라균 등 오염 억제</text>
+
+  <text x="60" y="686" font-family="Malgun Gothic" font-size="28" fill="#5B6B7C">냉방병 예방법 · 생활수칙</text>
+</svg>

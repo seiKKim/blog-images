@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EE"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="122" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">냉방병 vs 레지오넬라증</text>
+
+  <!-- 열 헤더 -->
+  <rect x="60" y="260" width="460" height="110" rx="16" fill="#B4531A"/>
+  <text x="290" y="330" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#FFFFFF" text-anchor="middle">냉방병</text>
+  <rect x="560" y="260" width="460" height="110" rx="16" fill="#B23B3B"/>
+  <text x="790" y="330" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#FFFFFF" text-anchor="middle">레지오넬라증</text>
+
+  <g font-family="Malgun Gothic" font-size="36" fill="#1a1a1a">
+    <!-- 성격 -->
+    <rect x="60" y="390" width="460" height="200" rx="16" fill="#FFFFFF" stroke="#EAD9CB"/>
+    <text x="90" y="450" font-weight="bold" fill="#5B6B7C" font-size="30">성격</text>
+    <text x="90" y="510" font-size="34">증상들의 총칭</text>
+    <text x="90" y="558" font-size="34">(단일 질병 아님)</text>
+    <rect x="560" y="390" width="460" height="200" rx="16" fill="#FFFFFF" stroke="#EAD9CB"/>
+    <text x="590" y="450" font-weight="bold" fill="#5B6B7C" font-size="30">성격</text>
+    <text x="590" y="510" font-size="34">냉각수·냉각탑 균에</text>
+    <text x="590" y="558" font-size="34">의한 감염병</text>
+
+    <!-- 증상 -->
+    <rect x="60" y="610" width="460" height="200" rx="16" fill="#FFFFFF" stroke="#EAD9CB"/>
+    <text x="90" y="670" font-weight="bold" fill="#5B6B7C" font-size="30">증상</text>
+    <text x="90" y="730" font-size="34">두통·몸살·권태감 등</text>
+    <text x="90" y="778" font-size="34">가벼운 감기 유사</text>
+    <rect x="560" y="610" width="460" height="200" rx="16" fill="#FFFFFF" stroke="#EAD9CB"/>
+    <text x="590" y="670" font-weight="bold" fill="#5B6B7C" font-size="30">증상</text>
+    <text x="590" y="730" font-size="34">기침·미열·몸살로 시작</text>
+    <text x="590" y="778" font-size="34">폐렴형으로 진행 가능</text>
+
+    <!-- 경과 -->
+    <rect x="60" y="830" width="460" height="200" rx="16" fill="#FFFFFF" stroke="#EAD9CB"/>
+    <text x="90" y="890" font-weight="bold" fill="#5B6B7C" font-size="30">경과</text>
+    <text x="90" y="950" font-size="34">환경 개선·휴식으로</text>
+    <text x="90" y="998" font-size="34">대개 호전</text>
+    <rect x="560" y="830" width="460" height="200" rx="16" fill="#FBECEC" stroke="#E7C6C6"/>
+    <text x="590" y="890" font-weight="bold" fill="#B23B3B" font-size="30">경과</text>
+    <text x="590" y="950" font-size="34">중증 진행 가능</text>
+    <text x="590" y="998" font-size="34">조기 진료 중요</text>
+  </g>
+
+  <!-- 경고 배너 -->
+  <rect x="60" y="1060" width="960" height="150" rx="18" fill="#FBECEC" stroke="#E7C6C6"/>
+  <text x="90" y="1122" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#B23B3B">고열·호흡곤란·폐렴 양상이면</text>
+  <text x="90" y="1176" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#B23B3B">냉방병으로 넘기지 말고 병원 진료</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F3E4D7"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 서울대학교병원·서울아산병원</text>
+</svg>

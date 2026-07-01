@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="190" fill="#243B6B"/>
+  <rect x="80" y="44" rx="28" width="190" height="56" fill="#FFD23F"/>
+  <text x="175" y="83" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+  <text x="80" y="160" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#FFFFFF">유형별 비과세 한도</text>
+  <text x="60" y="280" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C">소득 요건 충족 시 서민형이 2배 유리</text>
+  <rect x="60" y="330" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="400" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#1a1a1a">일반형</text>
+  <text x="100" y="450" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">만 19세 이상 거주자(소득 무관)</text>
+  <text x="1000" y="425" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#243B6B" text-anchor="end">200만원</text>
+  <rect x="60" y="500" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="570" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#1a1a1a">서민형</text>
+  <text x="100" y="620" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">총급여 5,000만원·종합소득 3,800만원 이하</text>
+  <text x="1000" y="595" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#1F8A53" text-anchor="end">400만원</text>
+  <rect x="60" y="670" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="740" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#1a1a1a">농어민형</text>
+  <text x="100" y="790" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">종합소득 3,800만원 이하 농어민</text>
+  <text x="1000" y="765" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#1F8A53" text-anchor="end">400만원</text>
+  <rect x="60" y="860" width="960" height="120" rx="18" fill="#E8EEF5"/>
+  <text x="100" y="935" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#243B6B">서민·농어민형은 비과세 한도가 일반형의 2배</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">2026년 6월 현행 기준</text>
+</svg>

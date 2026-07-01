@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="100" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#FFFFFF">용량, 인원·일수로 정한다</text>
+  <text x="60" y="160" font-family="Malgun Gothic" font-size="38" fill="#FFE6D2">같은 대형도 상황 따라 다르다</text>
+
+  
+    <rect x="135.0" y="440" width="170" height="160" rx="18" fill="#7FBCE3"/>
+    <rect x="135.0" y="440" width="170" height="34" rx="18" fill="#ffffff" opacity="0.25"/>
+    <text x="220" y="660" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#15324A" text-anchor="middle">20L 이하</text>
+    <text x="220" y="708" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">당일 2~4인</text>
+  
+    <rect x="425.0" y="340" width="230" height="260" rx="18" fill="#3E92CC"/>
+    <rect x="425.0" y="340" width="230" height="34" rx="18" fill="#ffffff" opacity="0.25"/>
+    <text x="540" y="660" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#15324A" text-anchor="middle">20~35L</text>
+    <text x="540" y="708" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">1박2일</text>
+  
+    <rect x="735.0" y="240" width="290" height="360" rx="18" fill="#1E6FB0"/>
+    <rect x="735.0" y="240" width="290" height="34" rx="18" fill="#ffffff" opacity="0.25"/>
+    <text x="880" y="660" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#15324A" text-anchor="middle">50L 이상</text>
+    <text x="880" y="708" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">4~6인 가족·2~3일</text>
+
+  <!-- 51L 환산 박스 -->
+  <rect x="60" y="930" width="960" height="300" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="540" y="1000" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#15324A" text-anchor="middle">대형 51L이면 이만큼 들어가요</text>
+  <text x="300" y="1110" font-family="Malgun Gothic" font-weight="bold" font-size="92" fill="#E8722C" text-anchor="middle">캔 72개</text>
+  <text x="300" y="1170" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">약</text>
+  <line x1="540" y1="1040" x2="540" y2="1180" stroke="#D6E0EC" stroke-width="3"/>
+  <text x="780" y="1110" font-family="Malgun Gothic" font-weight="bold" font-size="92" fill="#1E6FB0" text-anchor="middle">생수 50개</text>
+  <text x="780" y="1170" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">500ml 약</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">기준: 이글루 레거시 51L 제품 설명</text>
+</svg>

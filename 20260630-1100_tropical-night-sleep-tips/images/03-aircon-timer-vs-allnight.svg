@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B4F86"/>
+  <rect x="60" y="58" rx="34" ry="34" width="210" height="68" fill="#E8722C"/>
+  <text x="165.0" y="104" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="190" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">에어컨, 타이머 vs 밤새 켜기</text>
+
+  <!-- 타이머형 박스 -->
+  <rect x="60" y="270" width="960" height="370" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="270" width="14" height="370" rx="6" fill="#2E72B8"/>
+  <text x="110" y="350" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#2E72B8">타이머 / 끄기형</text>
+  <text x="110" y="430" font-family="Malgun Gothic" font-size="42" fill="#1a1a1a">· 자기 전 1~2시간 가동</text>
+  <text x="110" y="495" font-family="Malgun Gothic" font-size="42" fill="#1a1a1a">· 입면 후 끄고 새벽에 재가동</text>
+  <text x="110" y="585" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#5B6B7C">한번 잠들면 아침까지 잘 자는 분</text>
+
+  <!-- 켜고 자기형 박스 -->
+  <rect x="60" y="680" width="960" height="370" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="680" width="14" height="370" rx="6" fill="#E8722C"/>
+  <text x="110" y="760" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#E8722C">켜고 자기형</text>
+  <text x="110" y="840" font-family="Malgun Gothic" font-size="42" fill="#1a1a1a">· 밤새 가동</text>
+  <text x="110" y="905" font-family="Malgun Gothic" font-size="42" fill="#1a1a1a">· 단, 너무 낮은 온도 금지</text>
+  <text x="110" y="995" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#5B6B7C">더우면 자꾸 깨는 분</text>
+
+  <!-- 공통 합의점 띠 -->
+  <rect x="60" y="1090" width="960" height="120" rx="16" fill="#14263F"/>
+  <text x="540" y="1145" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFD23F" text-anchor="middle">공통: 24~26℃ · 실내외 5℃ 이내</text>
+  <text x="540" y="1190" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">과도하게 낮은 설정 금지 · 선풍기 병행</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">출처: 시사저널·메디칼타임즈 전문가 권고</text>
+</svg>

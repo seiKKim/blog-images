@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#E8722C"/>
+  <circle cx="960" cy="170" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="130" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="86" rx="34" ry="34" width="196" height="68" fill="#FFD23F"/>
+  <text x="178" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="270" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#FFF0E2">여름철 냉방병, 숫자로 예방하세요</text>
+
+  <!-- 메인 타이틀 -->
+  <text x="80" y="378" font-family="Malgun Gothic" font-weight="bold" font-size="86" fill="#FFFFFF">냉방병 예방</text>
+  <text x="80" y="474" font-family="Malgun Gothic" font-weight="bold" font-size="86" fill="#FFD23F">핵심 수치 3가지</text>
+
+  <!-- 수치 카드 3개 -->
+  <g font-family="Malgun Gothic">
+    <rect x="80" y="530" rx="24" width="920" height="132" fill="#ffffff" opacity="0.16"/>
+    <text x="112" y="600" font-weight="bold" font-size="42" fill="#FFF0E2">적정 실내온도</text>
+    <text x="968" y="608" font-weight="bold" font-size="66" fill="#FFD23F" text-anchor="end">22~26℃</text>
+
+    <rect x="80" y="678" rx="24" width="920" height="132" fill="#ffffff" opacity="0.16"/>
+    <text x="112" y="748" font-weight="bold" font-size="42" fill="#FFF0E2">실내외 온도차</text>
+    <text x="968" y="756" font-weight="bold" font-size="60" fill="#FFD23F" text-anchor="end">5~6℃ 이내</text>
+
+    <rect x="80" y="826" rx="24" width="920" height="132" fill="#ffffff" opacity="0.16"/>
+    <text x="112" y="896" font-weight="bold" font-size="42" fill="#FFF0E2">환기 주기</text>
+    <text x="968" y="904" font-weight="bold" font-size="52" fill="#FFD23F" text-anchor="end">2~4시간마다</text>
+  </g>
+
+  <text x="80" y="1012" font-family="Malgun Gothic" font-size="32" fill="#FFF0E2" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

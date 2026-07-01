@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F1FAF1"/>
+  <rect width="1080" height="150" fill="#4CAF50"/>
+  <text x="60" y="95" font-family="Malgun Gothic" font-weight="bold" font-size="54" fill="#ffffff">오이 보관, 물기 빼고 '세워서'</text>
+  <!-- 냉장고 칸 -->
+  <rect x="80" y="220" width="360" height="400" rx="20" fill="#ffffff" stroke="#BFE3C0" stroke-width="4"/>
+  <line x1="80" y1="500" x2="440" y2="500" stroke="#BFE3C0" stroke-width="4"/>
+  <!-- 세워둔 오이 3개 -->
+  <g>
+    <rect x="150" y="280" width="44" height="200" rx="22" fill="#4CAF50"/>
+    <rect x="240" y="280" width="44" height="200" rx="22" fill="#43A047"/>
+    <rect x="330" y="280" width="44" height="200" rx="22" fill="#4CAF50"/>
+  </g>
+  <text x="260" y="560" font-family="Malgun Gothic" font-size="34" fill="#2e7d32" text-anchor="middle">꼭지가 위로 ↑</text>
+  <g font-family="Malgun Gothic">
+    <text x="540" y="300" font-weight="bold" font-size="44" fill="#256b29">✔ 씻고 물기 완전 제거</text>
+    <text x="540" y="385" font-weight="bold" font-size="44" fill="#256b29">✔ 랩·비닐에 말아서</text>
+    <text x="540" y="470" font-weight="bold" font-size="44" fill="#256b29">✔ 꼭지 위로 '세워서' 냉장</text>
+    <text x="540" y="555" font-weight="bold" font-size="44" fill="#256b29">✔ 최적 10~12℃</text>
+  </g>
+  <text x="60" y="690" font-family="Malgun Gothic" font-size="30" fill="#5a8a5c">blog.naver.com/trip_chocho</text>
+</svg>

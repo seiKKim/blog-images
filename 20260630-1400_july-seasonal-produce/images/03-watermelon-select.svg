@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+  <marker id="ar" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto">
+    <path d="M0,0 L12,6 L0,12 Z" fill="#E63946"/>
+  </marker>
+</defs>
+  <rect width="1080" height="1350" fill="#F2FBF4"/>
+  <rect width="1080" height="210" fill="#1B7A3D"/>
+  <text x="60" y="100" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">잘 익은 수박 고르는 법</text>
+  <text x="60" y="165" font-family="Malgun Gothic" font-size="40" fill="#CFF0D8">'꼭지 두드리기'는 이제 옛말 (농진청)</text>
+  <!-- 수박 일러스트 -->
+  <g transform="translate(540,470)">
+    <circle cx="0" cy="0" r="180" fill="#2E7D32"/>
+    <path d="M-180,0 A180 180 0 0 1 180,0" fill="#1B5E20"/>
+    <g stroke="#0B3D14" stroke-width="14" fill="none">
+      <path d="M-120,-130 Q-90,0 -120,130"/><path d="M-40,-170 Q-20,0 -40,170"/>
+      <path d="M40,-170 Q20,0 40,170"/><path d="M120,-130 Q90,0 120,130"/>
+    </g>
+    <circle cx="0" cy="178" r="16" fill="#5D4037"/>
+  </g>
+  <line x1="300" y1="360" x2="430" y2="400" stroke="#E63946" stroke-width="6" marker-end="url(#ar)"/>
+  <line x1="780" y1="640" x2="560" y2="648" stroke="#E63946" stroke-width="6" marker-end="url(#ar)"/>
+  <!-- 항목 카드 -->
+  <g>
+    <rect x="60" y="720" width="960" height="160" rx="22" fill="#ffffff" stroke="#C8E6C9"/>
+    <text x="100" y="788" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#1B7A3D">① 줄무늬</text>
+    <text x="100" y="850" font-family="Malgun Gothic" font-size="40" fill="#333">진한 초록 줄무늬가 선명·굵고 대비가 뚜렷</text>
+    <rect x="60" y="900" width="960" height="160" rx="22" fill="#ffffff" stroke="#C8E6C9"/>
+    <text x="100" y="968" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#1B7A3D">② 배꼽</text>
+    <text x="100" y="1030" font-family="Malgun Gothic" font-size="40" fill="#333">줄기 반대편 배꼽이 작을수록 당도 ↑</text>
+    <rect x="60" y="1080" width="960" height="160" rx="22" fill="#ffffff" stroke="#C8E6C9"/>
+    <text x="100" y="1148" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#1B7A3D">③ 소리</text>
+    <text x="100" y="1210" font-family="Malgun Gothic" font-size="40" fill="#333">'통통' 청명 = 잘 익음 / '깡깡' = 덜 익음</text>
+  </g>
+  <text x="60" y="1320" font-family="Malgun Gothic" font-size="30" fill="#5B7C63">출처: 농촌진흥청 · blog.naver.com/trip_chocho</text>
+</svg>

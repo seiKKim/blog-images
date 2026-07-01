@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF6EE"/>
+  <rect width="1080" height="150" fill="#E8722C"/>
+  <text x="60" y="97" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">밀폐 냉방 공간, 환기가 기본</text>
+
+  <!-- 창문 아이콘 -->
+  <rect x="90" y="230" width="300" height="320" rx="18" fill="#5B8FB9"/>
+  <rect x="110" y="250" width="120" height="280" fill="#BEE0F5"/>
+  <rect x="250" y="250" width="120" height="280" fill="#BEE0F5"/>
+  <line x1="240" y1="250" x2="240" y2="530" stroke="#FFFFFF" stroke-width="10"/>
+  <text x="240" y="620" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="middle">창문 열기</text>
+
+  <!-- 수치 -->
+  <text x="470" y="330" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#1a1a1a">적어도</text>
+  <text x="470" y="430" font-family="Malgun Gothic" font-weight="bold" font-size="96" fill="#B4531A">2~4시간마다</text>
+  <text x="470" y="530" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#1a1a1a">5분 이상 환기</text>
+
+  <text x="60" y="686" font-family="Malgun Gothic" font-size="28" fill="#5B6B7C">냉방병 예방법 · 생활수칙</text>
+</svg>
