@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#243B6B"/>
+  <text x="60" y="112" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff">IRP 투자 비중 규칙</text>
+
+  <!-- 파이 차트 -->
+  <path d="M400 630 L400 350 A280 280 0 1 1 133.7 716.5 Z" fill="#243B6B"/>
+  <path d="M400 630 L133.7 716.5 A280 280 0 0 1 400 350 Z" fill="#FFD23F"/>
+  <text x="529" y="742" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#ffffff" text-anchor="middle">70%</text>
+  <text x="271" y="556" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#1a1a1a" text-anchor="middle">30%</text>
+
+  <!-- 범례 -->
+  <rect x="760" y="380" width="46" height="46" rx="8" fill="#243B6B"/>
+  <text x="822" y="416" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">위험자산</text>
+  <text x="760" y="470" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">주식형 펀드·ETF 등</text>
+  <text x="760" y="516" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#243B6B">최대 70%까지</text>
+
+  <rect x="760" y="600" width="46" height="46" rx="8" fill="#FFD23F"/>
+  <text x="822" y="636" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">안전자산</text>
+  <text x="760" y="690" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">원리금보장·채권형 등</text>
+  <text x="760" y="736" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">최소 30% 이상</text>
+
+  <text x="60" y="1000" font-family="Malgun Gothic" font-size="31" fill="#5B6B7C">※ 연금저축은 위험자산 100% 가능 · IRP만 70% 한도 적용</text>
+</svg>

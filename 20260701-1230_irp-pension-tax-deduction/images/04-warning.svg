@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#2B2F36"/>
+  <circle cx="960" cy="150" r="240" fill="#E23B3B" opacity="0.10"/>
+
+  <!-- 경고 뱃지 -->
+  <rect x="60" y="70" rx="30" width="300" height="66" fill="#E23B3B"/>
+  <text x="210" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">중도해지 주의</text>
+
+  <text x="60" y="270" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">해지하면 원금+수익 전체에</text>
+  <text x="60" y="390" font-family="Malgun Gothic" font-weight="bold" font-size="120" fill="#E23B3B">기타소득세 16.5%</text>
+
+  <!-- 비교 띠 -->
+  <rect x="60" y="470" rx="18" width="440" height="150" fill="#3A3F47"/>
+  <text x="90" y="530" font-family="Malgun Gothic" font-size="36" fill="#E8EEF5">공제받았던 세율</text>
+  <text x="90" y="595" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff">13.2 ~ 16.5%</text>
+
+  <rect x="580" y="470" rx="18" width="440" height="150" fill="#3A3F47"/>
+  <text x="610" y="530" font-family="Malgun Gothic" font-size="36" fill="#E8EEF5">해지 시 부과</text>
+  <text x="610" y="595" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#E23B3B">16.5%</text>
+
+  <text x="60" y="685" font-family="Malgun Gothic" font-size="30" fill="#B8C0CA">※ 13.2%만 공제받았다면 해지 시 오히려 손해가 될 수 있어요</text>
+</svg>

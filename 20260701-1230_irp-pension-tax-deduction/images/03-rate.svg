@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#243B6B"/>
+  <text x="60" y="112" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">소득 구간별 공제율 · 환급액</text>
+
+  <!-- 카드 1: 5,500만 이하 -->
+  <rect x="60" y="250" rx="24" width="960" height="330" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="250" rx="24" width="960" height="90" fill="#1F8A53"/>
+  <text x="100" y="312" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#ffffff">총급여 5,500만원 이하</text>
+  <text x="100" y="430" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">공제율</text>
+  <text x="980" y="430" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#1F8A53" text-anchor="end">16.5%</text>
+  <text x="100" y="530" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">900만원 납입 시</text>
+  <text x="980" y="530" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#1a1a1a" text-anchor="end">148만5천원</text>
+
+  <!-- 카드 2: 5,500만 초과 -->
+  <rect x="60" y="620" rx="24" width="960" height="330" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="620" rx="24" width="960" height="90" fill="#8A97A8"/>
+  <text x="100" y="682" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#ffffff">총급여 5,500만원 초과</text>
+  <text x="100" y="800" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">공제율</text>
+  <text x="980" y="800" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#5B6B7C" text-anchor="end">13.2%</text>
+  <text x="100" y="900" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">900만원 납입 시</text>
+  <text x="980" y="900" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#1a1a1a" text-anchor="end">118만8천원</text>
+
+  <text x="60" y="1030" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">※ 지방소득세 10% 포함 기준 · 종합소득 4,500만원 기준선과 동일</text>
+</svg>
