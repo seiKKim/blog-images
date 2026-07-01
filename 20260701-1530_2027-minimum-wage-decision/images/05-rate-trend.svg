@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F5F7"/>
+  <rect width="1080" height="140" fill="#2B2F36"/>
+  <text x="60" y="92" font-family="Malgun Gothic" font-weight="bold" font-size="54" fill="#ffffff">최저임금 인상률 추이 (2022~2026)</text>
+
+  <!-- 기준선 -->
+  <line x1="80" y1="560" x2="1010" y2="560" stroke="#C4CBD4" stroke-width="3"/>
+
+  <!-- 꺾은선 -->
+  <polyline points="120,200 340,204 560,382 780,439 1000,353" fill="none" stroke="#E23B3B" stroke-width="7"/>
+
+  <!-- 점 + 값 -->
+  <g font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#2B2F36" text-anchor="middle">
+    <circle cx="120" cy="200" r="12" fill="#E23B3B"/><text x="120" y="170">5.05%</text>
+    <circle cx="340" cy="204" r="12" fill="#E23B3B"/><text x="340" y="174">5.0%</text>
+    <circle cx="560" cy="382" r="12" fill="#E23B3B"/><text x="560" y="352">2.5%</text>
+    <circle cx="780" cy="439" r="12" fill="#E23B3B"/><text x="780" y="409">1.7%</text>
+    <circle cx="1000" cy="353" r="12" fill="#E23B3B"/><text x="1000" y="323">2.9%</text>
+  </g>
+
+  <!-- 연도 라벨 -->
+  <g font-family="Malgun Gothic" font-size="36" fill="#5B6B7C" text-anchor="middle">
+    <text x="120" y="615">2022</text>
+    <text x="340" y="615">2023</text>
+    <text x="560" y="615">2024</text>
+    <text x="780" y="615">2025</text>
+    <text x="1000" y="615">2026</text>
+  </g>
+
+  <text x="540" y="680" font-family="Malgun Gothic" font-size="34" fill="#E23B3B" font-weight="bold" text-anchor="middle">2024~2026, 3년 연속 1~2%대 저율 인상</text>
+</svg>

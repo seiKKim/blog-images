@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#2B2F36"/>
+  <circle cx="950" cy="180" r="280" fill="#E23B3B" opacity="0.14"/>
+  <circle cx="120" cy="980" r="220" fill="#ffffff" opacity="0.05"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="88" rx="34" ry="34" width="220" height="68" fill="#E23B3B"/>
+  <text x="190" y="134" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">오늘의 이슈</text>
+
+  <!-- 큰 물음표 아이콘 -->
+  <text x="900" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="360" fill="#E23B3B" opacity="0.35" text-anchor="middle">?</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="300" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#FFD23F">2027 최저임금</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="430" font-family="Malgun Gothic" font-weight="bold" font-size="118" fill="#ffffff">아직</text>
+  <text x="80" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="118" fill="#ffffff">안 정해졌습니다</text>
+
+  <!-- 대비 강조 박스 -->
+  <rect x="80" y="660" rx="24" ry="24" width="920" height="230" fill="#ffffff" opacity="0.10"/>
+  <text x="110" y="740" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#7FB2FF">노동계  1만1,900원</text>
+  <text x="110" y="740" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#7FB2FF"> </text>
+  <text x="110" y="818" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#FF8A8A">경영계  1만360원</text>
+  <text x="960" y="782" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#FFD23F" text-anchor="end">심의 중</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1010" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#B8C0CC">blog.naver.com/trip_chocho</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#2B2F36"/>
+  <circle cx="900" cy="600" r="260" fill="#E23B3B" opacity="0.14"/>
+
+  <rect x="60" y="70" rx="30" ry="30" width="300" height="64" fill="#E23B3B"/>
+  <text x="210" y="114" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#ffffff" text-anchor="middle">이번 심의 신규 쟁점</text>
+
+  <text x="60" y="270" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#ffffff">플랫폼 노동자 최저임금</text>
+  <text x="60" y="360" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#FFD23F">사상 첫 공식 논의</text>
+
+  <text x="60" y="450" font-family="Malgun Gothic" font-size="38" fill="#B8C0CC">배달라이더 · 대리기사 · 택배기사 · 학습지 교사 등</text>
+  <text x="60" y="502" font-family="Malgun Gothic" font-size="38" fill="#B8C0CC">도급제 노동자에게 최저임금 별도 적용할지 논의</text>
+
+  <!-- 오토바이 실루엣 (단순 도형) -->
+  <g transform="translate(640,540)" fill="#ffffff" opacity="0.85">
+    <circle cx="60" cy="120" r="52" fill="none" stroke="#ffffff" stroke-width="12"/>
+    <circle cx="300" cy="120" r="52" fill="none" stroke="#ffffff" stroke-width="12"/>
+    <path d="M60 120 L150 120 L200 60 L280 60 L300 120" fill="none" stroke="#ffffff" stroke-width="12" stroke-linejoin="round"/>
+    <rect x="255" y="35" width="70" height="30" rx="6"/>
+    <path d="M150 120 L190 120" stroke="#ffffff" stroke-width="12"/>
+  </g>
+
+  <text x="60" y="670" font-family="Malgun Gothic" font-size="30" fill="#E23B3B" font-weight="bold">※ 노사 대립 중 · 아직 결론 나지 않음</text>
+</svg>
