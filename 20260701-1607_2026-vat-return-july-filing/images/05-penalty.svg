@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">무신고·지연 가산세</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">미루면 오히려 손해입니다</text>
+
+  <!-- 표 헤더 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="250" width="640" height="80" rx="12" fill="#E8EEF5"/>
+    <text x="90" y="303" font-size="36" font-weight="bold" fill="#5B6B7C">가산세 종류</text>
+    <rect x="710" y="250" width="310" height="80" rx="12" fill="#E8EEF5"/>
+    <text x="990" y="303" font-size="36" font-weight="bold" fill="#5B6B7C" text-anchor="end">세율</text>
+  </g>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38">
+    <!-- row1 무신고 일반 -->
+    <rect x="60" y="345" width="640" height="100" rx="12" fill="#FDECEC" stroke="#E7B4B4"/>
+    <text x="90" y="407" font-weight="bold" fill="#1a1a1a">무신고 (일반)</text>
+    <rect x="710" y="345" width="310" height="100" rx="12" fill="#FDECEC" stroke="#E7B4B4"/>
+    <text x="990" y="407" font-weight="bold" fill="#B03A3A" text-anchor="end">20%</text>
+
+    <!-- row2 무신고 부당 -->
+    <rect x="60" y="455" width="640" height="100" rx="12" fill="#FDECEC" stroke="#E7B4B4"/>
+    <text x="90" y="517" font-weight="bold" fill="#1a1a1a">무신고 (부당)</text>
+    <rect x="710" y="455" width="310" height="100" rx="12" fill="#FDECEC" stroke="#E7B4B4"/>
+    <text x="990" y="517" font-weight="bold" fill="#B03A3A" text-anchor="end">40%</text>
+
+    <!-- row3 과소신고 -->
+    <rect x="60" y="565" width="640" height="100" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="627" font-weight="bold" fill="#1a1a1a">과소신고 (일반)</text>
+    <rect x="710" y="565" width="310" height="100" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="990" y="627" font-weight="bold" fill="#1F8A53" text-anchor="end">10%</text>
+
+    <!-- row4 납부지연 -->
+    <rect x="60" y="675" width="640" height="100" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="737" font-weight="bold" fill="#1a1a1a">납부지연</text>
+    <rect x="710" y="675" width="310" height="100" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="990" y="726" font-weight="bold" font-size="30" fill="#1F8A53" text-anchor="end">1일</text>
+    <text x="990" y="762" font-weight="bold" font-size="34" fill="#1F8A53" text-anchor="end">0.022%</text>
+
+    <!-- row5 세금계산서 미발급 -->
+    <rect x="60" y="785" width="640" height="100" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="847" font-weight="bold" font-size="34" fill="#1a1a1a">세금계산서 미발급</text>
+    <rect x="710" y="785" width="310" height="100" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="990" y="847" font-weight="bold" fill="#1F8A53" text-anchor="end">공급가액 2%</text>
+  </g>
+
+  <!-- 강조 박스 -->
+  <rect x="60" y="915" width="960" height="290" rx="18" fill="#1F8A53"/>
+  <text x="540" y="1000" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="46" font-weight="bold" fill="#FFD23F" text-anchor="middle">돈이 부족해도</text>
+  <text x="540" y="1070" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="58" font-weight="bold" fill="#ffffff" text-anchor="middle">신고는 기한 내에 먼저!</text>
+  <text x="540" y="1140" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#E8EEF5" text-anchor="middle">신고만 해두면 가벼운 납부지연 가산세만,</text>
+  <text x="540" y="1182" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#E8EEF5" text-anchor="middle">무신고하면 20~40%까지 동시에 부과</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 국세청 가산세 기준 정리 · blog.naver.com/trip_chocho</text>
+</svg>

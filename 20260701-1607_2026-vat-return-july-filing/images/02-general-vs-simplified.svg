@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">일반과세자 vs 간이과세자</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">신고 대상·세율·공제 차이</text>
+
+  <!-- 컬럼 헤더 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="250" width="360" height="90" rx="14" fill="#E8EEF5"/>
+    <text x="240" y="310" font-size="40" font-weight="bold" fill="#5B6B7C" text-anchor="middle">구분</text>
+    <rect x="430" y="250" width="290" height="90" rx="14" fill="#1F8A53"/>
+    <text x="575" y="310" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">일반과세자</text>
+    <rect x="730" y="250" width="290" height="90" rx="14" fill="#7FB79A"/>
+    <text x="875" y="310" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">간이과세자</text>
+  </g>
+
+  <!-- 행들 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34">
+    <!-- row1 매출 기준 -->
+    <rect x="60" y="360" width="360" height="140" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="80" y="425" font-weight="bold" fill="#1a1a1a">매출 기준</text>
+    <text x="80" y="470" font-size="28" fill="#5B6B7C">(직전연도)</text>
+    <rect x="430" y="360" width="290" height="140" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="575" y="415" font-weight="bold" fill="#1F8A53" text-anchor="middle">1억 400만원</text>
+    <text x="575" y="460" font-weight="bold" fill="#1F8A53" text-anchor="middle">이상</text>
+    <rect x="730" y="360" width="290" height="140" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="875" y="415" font-weight="bold" fill="#1a1a1a" text-anchor="middle">1억 400만원</text>
+    <text x="875" y="460" font-weight="bold" fill="#1a1a1a" text-anchor="middle">미만</text>
+
+    <!-- row2 세율 -->
+    <rect x="60" y="510" width="360" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="80" y="583" font-weight="bold" fill="#1a1a1a">세율</text>
+    <rect x="430" y="510" width="290" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="575" y="583" font-weight="bold" fill="#1F8A53" text-anchor="middle">10% 단일</text>
+    <rect x="730" y="510" width="290" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="875" y="583" font-weight="bold" fill="#1a1a1a" text-anchor="middle">1.5~4%</text>
+
+    <!-- row3 매입세액 공제 -->
+    <rect x="60" y="640" width="360" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="80" y="695" font-weight="bold" fill="#1a1a1a">매입세액</text>
+    <text x="80" y="735" font-weight="bold" fill="#1a1a1a">공제</text>
+    <rect x="430" y="640" width="290" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="575" y="713" font-weight="bold" fill="#1F8A53" text-anchor="middle">전액 공제</text>
+    <rect x="730" y="640" width="290" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="875" y="695" font-weight="bold" fill="#1a1a1a" text-anchor="middle">공급대가의</text>
+    <text x="875" y="735" font-weight="bold" fill="#1a1a1a" text-anchor="middle">0.5%만</text>
+
+    <!-- row4 환급 -->
+    <rect x="60" y="770" width="360" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="80" y="843" font-weight="bold" fill="#1a1a1a">환급</text>
+    <rect x="430" y="770" width="290" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="575" y="843" font-weight="bold" fill="#1F8A53" text-anchor="middle">가능</text>
+    <rect x="730" y="770" width="290" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="875" y="843" font-weight="bold" fill="#B03A3A" text-anchor="middle">불가</text>
+  </g>
+
+  <!-- 하이라이트 박스 -->
+  <rect x="60" y="930" width="960" height="280" rx="18" fill="#EAF5EF" stroke="#1F8A53" stroke-width="2"/>
+  <text x="90" y="1005" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" font-weight="bold" fill="#1F8A53">7월 확정신고 대상은?</text>
+  <text x="90" y="1070" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#1a1a1a">· 개인 일반과세자 = 전원 대상 (1.1~6.30)</text>
+  <text x="90" y="1128" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#1a1a1a">· 간이과세자 = 원칙적으로 대상 아님</text>
+  <text x="90" y="1186" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">  (단, 유형전환·세금계산서 발급 간이는 예외)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 국세청 기준 정리 · blog.naver.com/trip_chocho</text>
+</svg>

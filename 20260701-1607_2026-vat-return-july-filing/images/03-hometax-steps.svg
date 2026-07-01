@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">홈택스 부가세 전자신고</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">정기신고(확정) 단계별 안내</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- step 1 -->
+    <circle cx="115" cy="315" r="48" fill="#1F8A53"/>
+    <text x="115" y="332" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <rect x="185" y="255" width="835" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="215" y="308" font-size="38" font-weight="bold" fill="#1a1a1a">홈택스 접속 → 로그인</text>
+    <text x="215" y="352" font-size="30" fill="#5B6B7C">공동인증서 또는 간편인증</text>
+
+    <!-- step 2 -->
+    <circle cx="115" cy="465" r="48" fill="#1F8A53"/>
+    <text x="115" y="482" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <rect x="185" y="405" width="835" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="215" y="458" font-size="38" font-weight="bold" fill="#1a1a1a">신고/납부 → 부가가치세</text>
+    <text x="215" y="502" font-size="30" fill="#5B6B7C">정기신고(확정) 선택</text>
+
+    <!-- step 3 -->
+    <circle cx="115" cy="615" r="48" fill="#1F8A53"/>
+    <text x="115" y="632" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <rect x="185" y="555" width="835" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="215" y="608" font-size="38" font-weight="bold" fill="#1a1a1a">사업자등록번호 입력</text>
+    <text x="215" y="652" font-size="30" fill="#5B6B7C">기본 정보 자동 조회</text>
+
+    <!-- step 4 -->
+    <circle cx="115" cy="765" r="48" fill="#1F8A53"/>
+    <text x="115" y="782" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <rect x="185" y="705" width="835" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="215" y="758" font-size="38" font-weight="bold" fill="#1a1a1a">매출 항목 입력</text>
+    <text x="215" y="802" font-size="30" fill="#5B6B7C">세금계산서·신용카드·현금영수증 매출</text>
+
+    <!-- step 5 -->
+    <circle cx="115" cy="915" r="48" fill="#1F8A53"/>
+    <text x="115" y="932" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+    <rect x="185" y="855" width="835" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="215" y="908" font-size="38" font-weight="bold" fill="#1a1a1a">매입 항목 입력</text>
+    <text x="215" y="952" font-size="30" fill="#5B6B7C">전자세금계산서·카드 자료 상당 부분 자동</text>
+
+    <!-- step 6 -->
+    <circle cx="115" cy="1065" r="48" fill="#FFB300"/>
+    <text x="115" y="1082" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">6</text>
+    <rect x="185" y="1005" width="835" height="120" rx="16" fill="#EAF5EF" stroke="#1F8A53"/>
+    <text x="215" y="1058" font-size="38" font-weight="bold" fill="#1F8A53">공제·경감세액 확인 → 제출·납부</text>
+    <text x="215" y="1102" font-size="30" fill="#5B6B7C">모두채움·간편신고, 모바일 손택스도 가능</text>
+  </g>
+
+  <text x="60" y="1210" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">※ 매출이 없어도 신고 의무 → 홈택스에서 무실적 신고</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 홈택스(hometax.go.kr) 절차 정리 · blog.naver.com/trip_chocho</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="160" fill="#1F8A53"/>
+  <text x="60" y="88" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">매입세액 공제받는 적격증빙 3가지</text>
+  <text x="60" y="135" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#E8EEF5">이 증빙이 있어야만 부가세를 덜 냅니다</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- card 1 -->
+    <rect x="55" y="210" width="310" height="330" rx="20" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+    <circle cx="210" cy="300" r="55" fill="#EAF5EF"/>
+    <text x="210" y="318" font-size="56" text-anchor="middle">📄</text>
+    <text x="210" y="415" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">(전자)</text>
+    <text x="210" y="465" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">세금계산서</text>
+
+    <!-- card 2 -->
+    <rect x="385" y="210" width="310" height="330" rx="20" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+    <circle cx="540" cy="300" r="55" fill="#EAF5EF"/>
+    <text x="540" y="318" font-size="56" text-anchor="middle">💳</text>
+    <text x="540" y="415" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">신용·체크카드</text>
+    <text x="540" y="465" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">매출전표</text>
+
+    <!-- card 3 -->
+    <rect x="715" y="210" width="310" height="330" rx="20" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+    <circle cx="870" cy="300" r="55" fill="#EAF5EF"/>
+    <text x="870" y="318" font-size="56" text-anchor="middle">🧾</text>
+    <text x="870" y="405" font-size="38" font-weight="bold" fill="#1a1a1a" text-anchor="middle">현금영수증</text>
+    <text x="870" y="452" font-size="34" font-weight="bold" fill="#1F8A53" text-anchor="middle">(지출증빙용)</text>
+    <text x="870" y="493" font-size="26" fill="#5B6B7C" text-anchor="middle">소득공제용 아님 주의</text>
+  </g>
+
+  <rect x="55" y="565" width="970" height="90" rx="16" fill="#FFF4D6" stroke="#FFB300" stroke-width="2"/>
+  <text x="80" y="622" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="bold" fill="#8A5A00">간이영수증·증빙 없는 현금 지출은 공제 불가!</text>
+
+  <text x="60" y="700" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">출처: 국세청 기준 정리 · blog.naver.com/trip_chocho</text>
+</svg>
