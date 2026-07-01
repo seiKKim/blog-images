@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F9F6"/>
+  <rect width="1080" height="170" fill="#1F8A53"/>
+  <rect x="60" y="64" width="10" height="46" rx="5" fill="#FFD23F"/>
+  <text x="92" y="118" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">홈택스 경정청구 신청 절차</text>
+  <text x="60" y="240" font-family="Malgun Gothic" font-size="34" fill="#5B6B62">온라인으로 6단계면 신청 완료 (손택스도 가능)</text>
+  <rect x="60" y="280" width="960" height="140" rx="20" fill="#ffffff" stroke="#CFE3D7" stroke-width="3"/>
+  <circle cx="150" cy="350" r="46" fill="#1F8A53"/>
+  <text x="150" y="366" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="238" y="342" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#176B40">홈택스 로그인</text>
+  <text x="238" y="392" font-family="Malgun Gothic" font-size="30" fill="#5B6B62">hometax.go.kr 접속 후 로그인</text>
+  <rect x="60" y="445" width="960" height="140" rx="20" fill="#ffffff" stroke="#CFE3D7" stroke-width="3"/>
+  <circle cx="150" cy="515" r="46" fill="#1F8A53"/>
+  <text x="150" y="531" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="238" y="507" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#176B40">경정청구 메뉴 이동</text>
+  <text x="238" y="557" font-family="Malgun Gothic" font-size="30" fill="#5B6B62">세금신고 > 종합소득세(근로소득) 신고</text>
+  <rect x="60" y="610" width="960" height="140" rx="20" fill="#ffffff" stroke="#CFE3D7" stroke-width="3"/>
+  <circle cx="150" cy="680" r="46" fill="#1F8A53"/>
+  <text x="150" y="696" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="238" y="672" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#176B40">대상 연도 선택</text>
+  <text x="238" y="722" font-family="Malgun Gothic" font-size="30" fill="#5B6B62">당초 신고 내역 불러오기</text>
+  <rect x="60" y="775" width="960" height="140" rx="20" fill="#ffffff" stroke="#CFE3D7" stroke-width="3"/>
+  <circle cx="150" cy="845" r="46" fill="#1F8A53"/>
+  <text x="150" y="861" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">4</text>
+  <text x="238" y="837" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#176B40">누락 공제 입력·수정</text>
+  <text x="238" y="887" font-family="Malgun Gothic" font-size="30" fill="#5B6B62">공제 · 감면 항목을 직접 입력</text>
+  <rect x="60" y="940" width="960" height="140" rx="20" fill="#ffffff" stroke="#CFE3D7" stroke-width="3"/>
+  <circle cx="150" cy="1010" r="46" fill="#1F8A53"/>
+  <text x="150" y="1026" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">5</text>
+  <text x="238" y="1002" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#176B40">증빙 파일 첨부</text>
+  <text x="238" y="1052" font-family="Malgun Gothic" font-size="30" fill="#5B6B62">영수증 · 계약서 등 스캔 첨부</text>
+  <rect x="60" y="1105" width="960" height="140" rx="20" fill="#ffffff" stroke="#CFE3D7" stroke-width="3"/>
+  <circle cx="150" cy="1175" r="46" fill="#1F8A53"/>
+  <text x="150" y="1191" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">6</text>
+  <text x="238" y="1167" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#176B40">신청서 제출</text>
+  <text x="238" y="1217" font-family="Malgun Gothic" font-size="30" fill="#5B6B62">진행 상황은 민원 처리 조회에서 확인</text>
+
+  <rect x="0" y="1280" width="1080" height="70" fill="#E8F3EC"/>
+  <text x="60" y="1326" font-family="Malgun Gothic" font-size="30" fill="#5B6B62">blog.naver.com/trip_chocho</text>
+</svg>

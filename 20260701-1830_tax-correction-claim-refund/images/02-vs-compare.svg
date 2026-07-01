@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F9F6"/>
+  <rect width="1080" height="170" fill="#1F8A53"/>
+  <rect x="60" y="64" width="10" height="46" rx="5" fill="#FFD23F"/>
+  <text x="92" y="118" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">경정청구 vs 수정신고 vs 기한후신고</text>
+  <text x="60" y="240" font-family="Malgun Gothic" font-size="34" fill="#5B6B62">헷갈리기 쉬운 세 제도, 한눈에 구분하기</text>
+  <rect x="60" y="300" width="960" height="230" fill="#1F8A53" stroke="#CFE3D7" stroke-width="2"/>
+  <text x="200" y="429" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#FFFFFF" text-anchor="middle">구분</text>
+  <text x="600" y="429" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#FFFFFF" text-anchor="middle">언제 쓰나</text>
+  <text x="925" y="429" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#FFFFFF" text-anchor="middle">방향</text>
+  <rect x="60" y="530" width="960" height="230" fill="#FFFFFF" stroke="#CFE3D7" stroke-width="2"/>
+  <text x="200" y="659" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#176B40" text-anchor="middle">경정청구</text>
+  <text x="600" y="627" font-family="Malgun Gothic" font-size="34" fill="#1A2A22" text-anchor="middle">이미 신고했는데</text>
+  <text x="600" y="679" font-family="Malgun Gothic" font-size="34" fill="#1A2A22" text-anchor="middle">세금을 더 냈을 때</text>
+  <text x="925" y="627" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#176B40" text-anchor="middle">돌려받음</text>
+  <text x="925" y="679" font-family="Malgun Gothic" font-size="30" fill="#176B40" text-anchor="middle">(환급)</text>
+  <rect x="60" y="760" width="960" height="230" fill="#EEF6F0" stroke="#CFE3D7" stroke-width="2"/>
+  <text x="200" y="889" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#176B40" text-anchor="middle">수정신고</text>
+  <text x="600" y="857" font-family="Malgun Gothic" font-size="34" fill="#1A2A22" text-anchor="middle">이미 신고했는데</text>
+  <text x="600" y="909" font-family="Malgun Gothic" font-size="34" fill="#1A2A22" text-anchor="middle">세금을 적게 냈을 때</text>
+  <text x="925" y="857" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#176B40" text-anchor="middle">더 냄</text>
+  <text x="925" y="909" font-family="Malgun Gothic" font-size="30" fill="#176B40" text-anchor="middle">(추가납부)</text>
+  <rect x="60" y="990" width="960" height="230" fill="#FFFFFF" stroke="#CFE3D7" stroke-width="2"/>
+  <text x="200" y="1119" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#176B40" text-anchor="middle">기한 후 신고</text>
+  <text x="600" y="1087" font-family="Malgun Gothic" font-size="34" fill="#1A2A22" text-anchor="middle">신고 자체를</text>
+  <text x="600" y="1139" font-family="Malgun Gothic" font-size="34" fill="#1A2A22" text-anchor="middle">안 했을 때</text>
+  <text x="925" y="1119" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#176B40" text-anchor="middle">새로 신고</text>
+
+  <rect x="60" y="1230" width="960" height="60" fill="#E8F3EC"/>
+  <text x="60" y="1272" font-family="Malgun Gothic" font-size="30" fill="#5B6B62">출처: 국세기본법 제45조의2 · 국세청 안내 기준</text>
+</svg>
