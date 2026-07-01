@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EE"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <rect x="60" y="60" rx="30" ry="30" width="200" height="60" fill="#FFD23F"/>
+  <text x="160" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#5A3410" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="176" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">실내 습도 구간별 상태</text>
+
+  <!-- 습도 막대 게이지 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 게이지 바 -->
+    <rect x="60" y="300" width="300" height="110" rx="12" fill="#4FA3D1"/>
+    <rect x="360" y="300" width="360" height="110" fill="#2FA36B"/>
+    <rect x="720" y="300" width="300" height="110" rx="0" fill="#D64B45"/>
+    <rect x="720" y="300" width="300" height="110" fill="#D64B45"/>
+    <path d="M1008 300 h-288 v110 h288 a12 12 0 0 0 12 -12 v-86 a12 12 0 0 0 -12 -12 Z" fill="#D64B45"/>
+
+    <!-- 구간 라벨(바 위) -->
+    <text x="210" y="368" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">건조</text>
+    <text x="540" y="368" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">쾌적</text>
+    <text x="870" y="368" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">위험</text>
+
+    <!-- 눈금 -->
+    <text x="360" y="460" font-weight="bold" font-size="38" fill="#5B4636" text-anchor="middle">40%</text>
+    <text x="720" y="460" font-weight="bold" font-size="38" fill="#5B4636" text-anchor="middle">60%</text>
+    <text x="1010" y="460" font-weight="bold" font-size="38" fill="#5B4636" text-anchor="end">70%↑</text>
+  </g>
+
+  <!-- 3개 설명 카드 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 건조 -->
+    <rect x="60" y="530" width="960" height="200" rx="20" fill="#ffffff" stroke="#E3D3C4"/>
+    <rect x="60" y="530" width="16" height="200" rx="8" fill="#4FA3D1"/>
+    <text x="110" y="600" font-weight="bold" font-size="46" fill="#2E6E93">40% 이하 · 건조</text>
+    <text x="110" y="662" font-size="38" fill="#4A4A4A">정전기·피부 건조·호흡기 불편이</text>
+    <text x="110" y="710" font-size="38" fill="#4A4A4A">생길 수 있어요 (너무 낮아도 안 좋음)</text>
+
+    <!-- 쾌적 -->
+    <rect x="60" y="750" width="960" height="200" rx="20" fill="#ffffff" stroke="#E3D3C4"/>
+    <rect x="60" y="750" width="16" height="200" rx="8" fill="#2FA36B"/>
+    <text x="110" y="820" font-weight="bold" font-size="46" fill="#1F8A53">40~60% · 쾌적</text>
+    <text x="110" y="882" font-size="38" fill="#4A4A4A">사람이 지내기 좋은 적정 습도.</text>
+    <text x="110" y="930" font-size="38" fill="#4A4A4A">곰팡이·진드기 억제엔 40~50%대 권장</text>
+
+    <!-- 위험 -->
+    <rect x="60" y="970" width="960" height="200" rx="20" fill="#ffffff" stroke="#E3D3C4"/>
+    <rect x="60" y="970" width="16" height="200" rx="8" fill="#D64B45"/>
+    <text x="110" y="1040" font-weight="bold" font-size="46" fill="#C13A34">70% 이상 · 위험</text>
+    <text x="110" y="1102" font-size="38" fill="#4A4A4A">곰팡이 발생 가능성 급증. 진드기는</text>
+    <text x="110" y="1150" font-size="38" fill="#4A4A4A">습도 75~80%에서 가장 활발히 번식</text>
+  </g>
+
+  <!-- 하단 요약 띠 -->
+  <rect x="0" y="1210" width="1080" height="140" fill="#E8722C"/>
+  <text x="540" y="1298" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff" text-anchor="middle">목표는 &#8220;바싹 말리기&#8221;가 아닌 40~60% 유지</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F08A3E"/>
+      <stop offset="1" stop-color="#E8722C"/>
+    </linearGradient>
+  </defs>
+  <!-- 배경 -->
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식 도형 -->
+  <circle cx="960" cy="170" r="250" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="960" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="86" rx="34" ry="34" width="220" height="68" fill="#FFD23F"/>
+  <text x="190" y="132" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#5A3410" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="278" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#FFF1E2">2026 장마철, 급하게 사면 후회</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="430" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="128" fill="#ffffff">제습기</text>
+  <text x="80" y="570" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="128" fill="#FFD23F">고르는 법</text>
+
+  <!-- 순서 요약 박스 -->
+  <rect x="80" y="638" rx="24" ry="24" width="700" height="118" fill="#ffffff" opacity="0.16"/>
+  <text x="110" y="712" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="50" fill="#ffffff">평수 → 용량 → 방식 → 옵션</text>
+
+  <!-- 창문 + 물방울 아이콘 (우하단) -->
+  <g transform="translate(720,650)">
+    <rect x="0" y="0" width="270" height="300" rx="16" fill="#ffffff" opacity="0.15"/>
+    <rect x="18" y="18" width="234" height="264" rx="8" fill="#BFE3F2" opacity="0.55"/>
+    <line x1="135" y1="18" x2="135" y2="282" stroke="#ffffff" stroke-width="8" opacity="0.6"/>
+    <line x1="18" y1="150" x2="252" y2="150" stroke="#ffffff" stroke-width="8" opacity="0.6"/>
+    <!-- 물방울 -->
+    <path d="M60 70 C60 58 78 40 78 40 C78 40 96 58 96 70 A18 18 0 1 1 60 70 Z" fill="#ffffff" opacity="0.85"/>
+    <path d="M180 110 C180 100 194 86 194 86 C194 86 208 100 208 110 A14 14 0 1 1 180 110 Z" fill="#ffffff" opacity="0.8"/>
+    <path d="M95 205 C95 197 106 184 106 184 C106 184 117 197 117 205 A11 11 0 1 1 95 205 Z" fill="#ffffff" opacity="0.75"/>
+    <path d="M195 220 C195 210 209 195 209 195 C209 195 223 210 223 220 A14 14 0 1 1 195 220 Z" fill="#ffffff" opacity="0.8"/>
+  </g>
+
+  <!-- 하단 디테일 띠 -->
+  <rect x="80" y="800" rx="20" ry="20" width="920" height="120" fill="#ffffff" opacity="0.14"/>
+  <text x="110" y="878" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">여름엔 컴프레서식 · 표기값은 40~70%만</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1002" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#FFF1E2" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

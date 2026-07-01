@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EE"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <rect x="60" y="60" rx="30" ry="30" width="200" height="60" fill="#FFD23F"/>
+  <text x="160" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#5A3410" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="176" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">컴프레서식 vs 데시칸트식</text>
+
+  <!-- 두 방식 헤더 카드 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="240" width="465" height="150" rx="20" fill="#E8722C"/>
+    <text x="292" y="308" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">컴프레서식</text>
+    <text x="292" y="360" font-weight="bold" font-size="36" fill="#FFE7CF" text-anchor="middle">여름·장마 표준</text>
+
+    <rect x="555" y="240" width="465" height="150" rx="20" fill="#8A6A55"/>
+    <text x="787" y="308" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">데시칸트식</text>
+    <text x="787" y="360" font-weight="bold" font-size="36" fill="#EBDDD1" text-anchor="middle">저온·겨울 강점</text>
+  </g>
+
+  <!-- 비교 항목 (좌: 라벨, 컴프 / 데시칸트) -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 행 템플릿: 라벨 pill + 두 값 -->
+    <!-- 원리 -->
+    <text x="540" y="452" font-weight="bold" font-size="34" fill="#9A6A3A" text-anchor="middle">■ 원리</text>
+    <rect x="60" y="470" width="465" height="120" rx="16" fill="#ffffff" stroke="#E3D3C4"/>
+    <rect x="555" y="470" width="465" height="120" rx="16" fill="#ffffff" stroke="#E3D3C4"/>
+    <text x="292" y="524" font-size="33" fill="#3A3A3A" text-anchor="middle">냉매로 수분 응결</text>
+    <text x="292" y="566" font-size="33" fill="#3A3A3A" text-anchor="middle">(에어컨과 유사)</text>
+    <text x="787" y="524" font-size="33" fill="#3A3A3A" text-anchor="middle">건조제 흡착 후</text>
+    <text x="787" y="566" font-size="33" fill="#3A3A3A" text-anchor="middle">히터로 증발·회수</text>
+
+    <!-- 온도 효율 -->
+    <text x="540" y="638" font-weight="bold" font-size="34" fill="#9A6A3A" text-anchor="middle">■ 온도 효율</text>
+    <rect x="60" y="656" width="465" height="100" rx="16" fill="#ffffff" stroke="#E3D3C4"/>
+    <rect x="555" y="656" width="465" height="100" rx="16" fill="#ffffff" stroke="#E3D3C4"/>
+    <text x="292" y="718" font-size="33" fill="#3A3A3A" text-anchor="middle">실온 높을수록 효율↑</text>
+    <text x="787" y="718" font-size="33" fill="#3A3A3A" text-anchor="middle">저온에도 안정적</text>
+
+    <!-- 전기료 -->
+    <text x="540" y="804" font-weight="bold" font-size="34" fill="#9A6A3A" text-anchor="middle">■ 전기료</text>
+    <rect x="60" y="822" width="465" height="100" rx="16" fill="#EAF6EF" stroke="#BFE3CE"/>
+    <rect x="555" y="822" width="465" height="100" rx="16" fill="#F7ECE6" stroke="#E3D3C4"/>
+    <text x="292" y="884" font-weight="bold" font-size="34" fill="#1F8A53" text-anchor="middle">낮은 편</text>
+    <text x="787" y="884" font-weight="bold" font-size="34" fill="#C13A34" text-anchor="middle">히터로 높은 편</text>
+
+    <!-- 실온 변화 -->
+    <text x="540" y="970" font-weight="bold" font-size="34" fill="#9A6A3A" text-anchor="middle">■ 실온 변화</text>
+    <rect x="60" y="988" width="465" height="100" rx="16" fill="#ffffff" stroke="#E3D3C4"/>
+    <rect x="555" y="988" width="465" height="100" rx="16" fill="#ffffff" stroke="#E3D3C4"/>
+    <text x="292" y="1050" font-size="33" fill="#3A3A3A" text-anchor="middle">약 1~5℃ 상승</text>
+    <text x="787" y="1050" font-size="33" fill="#3A3A3A" text-anchor="middle">더 오름(여름 부적합)</text>
+
+    <!-- 소음·무게 -->
+    <text x="540" y="1136" font-weight="bold" font-size="34" fill="#9A6A3A" text-anchor="middle">■ 소음·무게</text>
+    <rect x="60" y="1154" width="465" height="100" rx="16" fill="#ffffff" stroke="#E3D3C4"/>
+    <rect x="555" y="1154" width="465" height="100" rx="16" fill="#ffffff" stroke="#E3D3C4"/>
+    <text x="292" y="1216" font-size="33" fill="#3A3A3A" text-anchor="middle">무겁고 40dB↑</text>
+    <text x="787" y="1216" font-size="33" fill="#3A3A3A" text-anchor="middle">경량·저소음</text>
+  </g>
+
+  <!-- 하단 요약 띠 -->
+  <rect x="0" y="1284" width="1080" height="66" fill="#E8722C"/>
+  <text x="540" y="1329" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">여름·장마철 습도 관리엔 컴프레서식이 표준</text>
+</svg>
