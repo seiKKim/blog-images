@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <rect x="60" y="70" rx="26" ry="26" width="240" height="60" fill="#FFD23F"/>
+  <text x="180" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#14477D" text-anchor="middle">여름 절전 습관</text>
+  <text x="60" y="185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">전기요금 줄이는 체크리스트</text>
+
+  <!-- 큰 숫자 강조 : 설정온도 -->
+  <rect x="60" y="270" width="960" height="230" rx="20" fill="#14477D"/>
+  <text x="100" y="355" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#E8EEF5">에어컨 설정온도</text>
+  <text x="100" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#FFD23F">24~26도</text>
+  <text x="620" y="420" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff">실내외 온도차</text>
+  <text x="620" y="475" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff">5도 이내로</text>
+
+  <!-- 체크리스트 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="540" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="130" cy="605" r="30" fill="#1B5FA6"/>
+    <text x="130" y="620" font-size="40" fill="#fff" text-anchor="middle" font-weight="bold">✓</text>
+    <text x="185" y="620" font-size="42" fill="#1a1a1a" font-weight="bold">인버터는 껐다 켰다 말고 계속 트기</text>
+
+    <rect x="60" y="690" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="130" cy="755" r="30" fill="#1B5FA6"/>
+    <text x="130" y="770" font-size="40" fill="#fff" text-anchor="middle" font-weight="bold">✓</text>
+    <text x="185" y="770" font-size="42" fill="#1a1a1a" font-weight="bold">선풍기·서큘레이터 함께 돌려 순환</text>
+
+    <rect x="60" y="840" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="130" cy="905" r="30" fill="#1B5FA6"/>
+    <text x="130" y="920" font-size="40" fill="#fff" text-anchor="middle" font-weight="bold">✓</text>
+    <text x="185" y="920" font-size="42" fill="#1a1a1a" font-weight="bold">에어컨 용량을 방 평수에 맞추기</text>
+
+    <rect x="60" y="990" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="130" cy="1055" r="30" fill="#1B5FA6"/>
+    <text x="130" y="1070" font-size="40" fill="#fff" text-anchor="middle" font-weight="bold">✓</text>
+    <text x="185" y="1070" font-size="40" fill="#1a1a1a" font-weight="bold">1·3등급 10년 요금차 약 16만원</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">참고: 여름철 냉방 전기 절약 팁</text>
+</svg>

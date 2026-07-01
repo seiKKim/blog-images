@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B5FA6"/>
+      <stop offset="1" stop-color="#14477D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식 도형 (태양 느낌) -->
+  <circle cx="960" cy="170" r="270" fill="#FFD23F" opacity="0.14"/>
+  <circle cx="960" cy="170" r="150" fill="#FFD23F" opacity="0.16"/>
+  <circle cx="110" cy="990" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="230" height="68" fill="#FFD23F"/>
+  <text x="195" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#14477D" text-anchor="middle">정부지원금</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="290" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#E8EEF5">2026 에너지바우처 · 여름 냉방비</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="440" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#ffffff">연 최대</text>
+  <text x="80" y="580" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="150" fill="#FFD23F">70만1,300원</text>
+  <text x="80" y="660" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#E8EEF5">4인 이상 세대 연 총액 (여름·겨울 통합)</text>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="740" rx="20" ry="20" width="920" height="150" fill="#ffffff" opacity="0.14"/>
+  <text x="112" y="800" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">7월 1일 사용 시작 · ~12/31 신청</text>
+  <text x="112" y="858" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#FFD23F">여름엔 전기요금 자동 차감</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1000" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <rect x="60" y="70" rx="26" ry="26" width="240" height="60" fill="#FFD23F"/>
+  <text x="180" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#14477D" text-anchor="middle">절전형 냉방용품</text>
+  <text x="60" y="185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">냉방비 더 줄이는 3가지</text>
+
+  <!-- 카드 1 : 에어컨 -->
+  <rect x="60" y="270" width="960" height="270" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="90" y="300" width="130" height="130" rx="20" fill="#E8F0F9"/>
+  <text x="155" y="393" font-size="72" text-anchor="middle">❄</text>
+  <text x="260" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#1a1a1a">1등급 인버터 에어컨</text>
+  <text x="260" y="425" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#3a4a5a">용량을 방 평수에 정확히 맞추기</text>
+  <text x="260" y="483" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#1B5FA6">설정온도로 계속 트는 게 약 35% 저렴</text>
+
+  <!-- 카드 2 : 서큘레이터 -->
+  <rect x="60" y="570" width="960" height="270" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="90" y="600" width="130" height="130" rx="20" fill="#E8F0F9"/>
+  <text x="155" y="695" font-size="66" text-anchor="middle">🌀</text>
+  <text x="260" y="660" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#1a1a1a">서큘레이터 · 선풍기</text>
+  <text x="260" y="725" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#3a4a5a">에어컨과 병행해 공기 순환</text>
+  <text x="260" y="783" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#1B5FA6">설정온도 높여도 시원함 유지</text>
+
+  <!-- 카드 3 : 제습기 -->
+  <rect x="60" y="870" width="960" height="270" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="90" y="900" width="130" height="130" rx="20" fill="#E8F0F9"/>
+  <text x="155" y="995" font-size="66" text-anchor="middle">💧</text>
+  <text x="260" y="960" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#1a1a1a">제습기</text>
+  <text x="260" y="1025" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#3a4a5a">소비전력은 에어컨의 약 25% 수준</text>
+  <text x="260" y="1083" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#1B5FA6">에너지효율 1등급 여부 확인</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">참고: 냉방용품 절전 팁 (냉방용품은 바우처 직접 구매 불가)</text>
+</svg>
