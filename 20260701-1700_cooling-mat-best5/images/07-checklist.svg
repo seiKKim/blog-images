@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F2FAFD"/>
+  <rect width="1080" height="230" fill="#0F86B8"/>
+  <rect x="60" y="52" rx="26" ry="26" width="190" height="56" fill="#FFD23F"/>
+  <text x="155" y="91" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#14323F" text-anchor="middle">추천아이템</text>
+  <text x="60" y="170" font-family="Malgun Gothic" font-weight="bold" font-size="62" fill="#FFFFFF">쿨매트 고를 때 6가지 체크</text>
+  <text x="60" y="212" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#DFF3FA">유형을 정했다면 이 기준으로 좁히기</text>
+  <g>
+    <rect x="60" y="300" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="352" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">소재</text>
+    <text x="96" y="396" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">강한 냉감=젤/금속 · 세탁·위생=냉감원단 · 밤새=수냉식</text>
+    <rect x="60" y="428" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="480" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">사이즈</text>
+    <text x="96" y="524" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">침대 규격(싱글/퀸/킹), 유아·펫·방석은 별도 규격</text>
+    <rect x="60" y="556" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="608" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">세탁</text>
+    <text x="96" y="652" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">젤/물=내부 불가(표면만) · 냉감원단=세탁 가능</text>
+    <rect x="60" y="684" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="736" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">소음·전기료</text>
+    <text x="96" y="780" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">수냉식=펌프 미세 소음·전기 사용 / 젤·원단=0원</text>
+    <rect x="60" y="812" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="864" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">통풍·수명</text>
+    <text x="96" y="908" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">통기성(메시 우수), 매년 새로 사면 총비용↑ 주의</text>
+  </g>
+  
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEEF5"/>
+  <text x="60" y="1320" font-family="Malgun Gothic" font-size="28" fill="#5B7280">출처: 한국소비자원·업계 자료 정리 / blog.naver.com/trip_chocho</text>
+</svg>

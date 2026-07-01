@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F2FAFD"/>
+  <rect width="1080" height="230" fill="#0F86B8"/>
+  <rect x="60" y="52" rx="26" ry="26" width="190" height="56" fill="#FFD23F"/>
+  <text x="155" y="91" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#14323F" text-anchor="middle">추천아이템</text>
+  <text x="60" y="170" font-family="Malgun Gothic" font-weight="bold" font-size="62" fill="#FFFFFF">④ 반려동물용</text>
+  <text x="60" y="212" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#DFF3FA">무는 아이라면 젤은 피하세요</text>
+  <g>
+    <rect x="60" y="300" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="352" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">젤 타입</text>
+    <text x="96" y="396" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">부드럽지만 무는 아이는 내부 젤 삼킴 위험 → 금물</text>
+    <rect x="60" y="428" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="480" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">대리석</text>
+    <text x="96" y="524" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">냉감·관리 우수하나 비싸고 무거움</text>
+    <rect x="60" y="556" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="608" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">알루미늄</text>
+    <text x="96" y="652" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">냉감 좋고 가볍지만 긁는 소리·흠집 가능</text>
+    <rect x="60" y="684" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="736" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">대략 가격대</text>
+    <text x="96" y="780" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">대부분 1~2만원대 가성비 제품</text>
+    <rect x="60" y="812" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="864" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">팁</text>
+    <text x="96" y="908" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">확신 없으면 2만원 이하로 반응 테스트 후 결정</text>
+  </g>
+  
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEEF5"/>
+  <text x="60" y="1320" font-family="Malgun Gothic" font-size="28" fill="#5B7280">출처: 한국소비자원·업계 자료 정리 / blog.naver.com/trip_chocho</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F2FAFD"/>
+  <rect width="1080" height="230" fill="#0F86B8"/>
+  <rect x="60" y="52" rx="26" ry="26" width="190" height="56" fill="#FFD23F"/>
+  <text x="155" y="91" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#14323F" text-anchor="middle">추천아이템</text>
+  <text x="60" y="170" font-family="Malgun Gothic" font-weight="bold" font-size="62" fill="#FFFFFF">② 프리미엄 수냉식</text>
+  <text x="60" y="212" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#DFF3FA">열대야에 진심인 분·사계절용 가정</text>
+  <g>
+    <rect x="60" y="300" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="352" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">이런 분께</text>
+    <text x="96" y="396" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">열대야 불면, 더위 많이 타는 분, 냉·온 겸용 원하는 가정</text>
+    <rect x="60" y="428" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="480" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">원리</text>
+    <text x="96" y="524" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">본체(슬립허브)에서 찬물을 매트로 순환 → 밤새 온도 유지</text>
+    <rect x="60" y="556" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="608" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">장점</text>
+    <text x="96" y="652" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">밤새 지속 냉감('1시간 뒤 미지근' 해소), 사계절 활용</text>
+    <rect x="60" y="684" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="736" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">단점</text>
+    <text x="96" y="780" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">전기 사용, 물통·펌프 관리, 펌프 미세 소음 가능</text>
+    <rect x="60" y="812" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CDE7F1"/>
+    <text x="96" y="864" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#14323F">대략 가격대</text>
+    <text x="96" y="908" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#4A6675">수십만 원대 프리미엄 (정확가는 제품·시점별)</text>
+  </g>
+  <text x="60" y="1218" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#0A5C80">※ 구매 전 '저소음·무소음' 표기와 실사용 후기 확인 권장</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEEF5"/>
+  <text x="60" y="1320" font-family="Malgun Gothic" font-size="28" fill="#5B7280">출처: 한국소비자원·업계 자료 정리 / blog.naver.com/trip_chocho</text>
+</svg>
