@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <rect x="60" y="52" rx="30" ry="30" width="196" height="60" fill="#FFD23F"/>
+  <text x="158" y="93" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+  <text x="60" y="176" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">인터넷은행 3사 파킹통장 금리</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 토스뱅크 -->
+    <rect x="60" y="270" width="960" height="220" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="270" width="14" height="220" rx="7" fill="#243B6B"/>
+    <text x="110" y="345" font-size="46" font-weight="bold" fill="#1a1a1a">토스뱅크 통장(파킹)</text>
+    <text x="1000" y="345" font-size="60" font-weight="bold" fill="#243B6B" text-anchor="end">연 3% 내외</text>
+    <text x="110" y="410" font-size="34" fill="#5B6B7C">· 조건 없이 전 금액 단일 고금리</text>
+    <text x="110" y="460" font-size="34" fill="#5B6B7C">· 매일 자동(일 단위) 이자</text>
+
+    <!-- 케이뱅크 -->
+    <rect x="60" y="510" width="960" height="240" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="510" width="14" height="240" rx="7" fill="#243B6B"/>
+    <text x="110" y="585" font-size="46" font-weight="bold" fill="#1a1a1a">케이뱅크 플러스박스</text>
+    <text x="1000" y="585" font-size="52" font-weight="bold" fill="#243B6B" text-anchor="end">연 1.7~2.2%</text>
+    <text x="110" y="650" font-size="34" fill="#5B6B7C">· 5천만원 이하 1.7% / 초과분 2.2%(기본)</text>
+    <text x="110" y="700" font-size="34" fill="#5B6B7C">· 1인 최대 10개 개설 · 매일 바로이자받기</text>
+    <text x="110" y="740" font-size="30" fill="#E8722C">· 0.3%p 우대쿠폰 시 최대 연 2.5%(2026.6.10~)</text>
+
+    <!-- 카카오뱅크 -->
+    <rect x="60" y="770" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="770" width="14" height="200" rx="7" fill="#243B6B"/>
+    <text x="110" y="845" font-size="46" font-weight="bold" fill="#1a1a1a">카카오뱅크 세이프박스</text>
+    <text x="1000" y="845" font-size="60" font-weight="bold" fill="#243B6B" text-anchor="end">연 1.60%</text>
+    <text x="110" y="910" font-size="34" fill="#5B6B7C">· 기본 1천만원 → 최대 1억원 증액</text>
+    <text x="110" y="955" font-size="34" fill="#5B6B7C">· 매일 계산 · 세전 기준</text>
+  </g>
+
+  <!-- 팁 띠 -->
+  <rect x="60" y="1000" width="960" height="230" rx="20" fill="#243B6B"/>
+  <text x="90" y="1070" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F">조건 부담 적어 가장 대중적</text>
+  <text x="90" y="1132" font-family="'Noto Sans KR','Malgun Gothic',sans-serif"
+        font-size="36" fill="#ffffff">큰돈은 토스뱅크처럼 전 금액 단일금리형이</text>
+  <text x="90" y="1182" font-family="'Noto Sans KR','Malgun Gothic',sans-serif"
+        font-size="36" fill="#ffffff">실질 수익에 유리합니다.</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">※ 확인 시점(2026.7 초) 기준 · 변동금리 · 가입 전 각 은행 앱 확인</text>
+</svg>

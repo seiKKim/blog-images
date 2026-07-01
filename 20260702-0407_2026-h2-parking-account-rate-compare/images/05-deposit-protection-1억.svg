@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#243B6B"/>
+  <circle cx="980" cy="120" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <rect x="60" y="56" rx="30" ry="30" width="196" height="60" fill="#FFD23F"/>
+  <text x="158" y="97" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+
+  <text x="60" y="210" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="52" fill="#E8EEF5">예금자보호 한도 상향</text>
+
+  <!-- before -->
+  <rect x="60" y="270" width="380" height="220" rx="24" fill="#ffffff" opacity="0.12"/>
+  <text x="250" y="345" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="36" fill="#E8EEF5" text-anchor="middle">이전</text>
+  <text x="250" y="440" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="82" fill="#ffffff" text-anchor="middle" text-decoration="line-through">5천만원</text>
+  <line x1="120" y1="418" x2="380" y2="418" stroke="#E23B3B" stroke-width="8"/>
+
+  <!-- arrow -->
+  <text x="510" y="410" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="90" fill="#FFD23F" text-anchor="middle">→</text>
+
+  <!-- after -->
+  <rect x="580" y="270" width="440" height="220" rx="24" fill="#FFD23F"/>
+  <text x="800" y="345" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="36" fill="#243B6B" text-anchor="middle" font-weight="bold">2025.9.1부터</text>
+  <text x="800" y="450" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="96" fill="#243B6B" text-anchor="middle">1억원</text>
+
+  <rect x="60" y="540" width="960" height="110" rx="20" fill="#ffffff" opacity="0.14"/>
+  <text x="90" y="590" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff">은행·저축은행 원금+이자 합산 1인당 1억원까지</text>
+  <text x="90" y="632" font-family="'Noto Sans KR','Malgun Gothic',sans-serif"
+        font-size="32" fill="#E8EEF5">단, CMA·MMF 등 투자형은 보호 대상 아님</text>
+</svg>

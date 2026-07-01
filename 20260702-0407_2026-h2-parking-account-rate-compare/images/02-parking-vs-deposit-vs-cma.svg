@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <rect x="60" y="52" rx="30" ry="30" width="196" height="60" fill="#FFD23F"/>
+  <text x="158" y="93" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+  <text x="60" y="176" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">파킹통장 vs 정기예금 vs CMA</text>
+
+  <!-- 3열 헤더 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="250" width="300" height="100" rx="16" fill="#243B6B"/>
+    <rect x="390" y="250" width="300" height="100" rx="16" fill="#3A5691"/>
+    <rect x="720" y="250" width="300" height="100" rx="16" fill="#5B6B7C"/>
+    <text x="210" y="313" font-size="40" fill="#ffffff" text-anchor="middle" font-weight="bold">파킹통장</text>
+    <text x="540" y="313" font-size="40" fill="#ffffff" text-anchor="middle" font-weight="bold">정기예금</text>
+    <text x="870" y="313" font-size="40" fill="#ffffff" text-anchor="middle" font-weight="bold">CMA</text>
+  </g>
+
+  <!-- 행: 항목 라벨 + 3칸 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="35" fill="#1a1a1a">
+    <!-- 라벨 띠 -->
+    <text x="70" y="418" font-size="30" fill="#5B6B7C" font-weight="bold">입출금</text>
+    <rect x="60" y="435" width="300" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="390" y="435" width="300" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="720" y="435" width="300" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="210" y="502" text-anchor="middle" font-weight="bold" fill="#1F8A53">자유</text>
+    <text x="540" y="502" text-anchor="middle" font-weight="bold" fill="#E23B3B">만기까지 묶음</text>
+    <text x="870" y="502" text-anchor="middle" font-weight="bold" fill="#1F8A53">자유</text>
+
+    <text x="70" y="608" font-size="30" fill="#5B6B7C" font-weight="bold">하루이자</text>
+    <rect x="60" y="625" width="300" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="390" y="625" width="300" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="720" y="625" width="300" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="210" y="692" text-anchor="middle" font-weight="bold" fill="#1F8A53">O</text>
+    <text x="540" y="692" text-anchor="middle" font-weight="bold" fill="#5B6B7C">만기이자</text>
+    <text x="870" y="692" text-anchor="middle" font-weight="bold" fill="#1F8A53">O</text>
+
+    <text x="70" y="798" font-size="30" fill="#5B6B7C" font-weight="bold">예금자보호</text>
+    <rect x="60" y="815" width="300" height="110" rx="16" fill="#EAF6EF" stroke="#B7E0C7"/>
+    <rect x="390" y="815" width="300" height="110" rx="16" fill="#EAF6EF" stroke="#B7E0C7"/>
+    <rect x="720" y="815" width="300" height="110" rx="16" fill="#FBEBEB" stroke="#F0C2C2"/>
+    <text x="210" y="882" text-anchor="middle" font-weight="bold" fill="#1F8A53">1억까지 O</text>
+    <text x="540" y="882" text-anchor="middle" font-weight="bold" fill="#1F8A53">1억까지 O</text>
+    <text x="870" y="870" text-anchor="middle" font-weight="bold" fill="#E23B3B" font-size="32">원칙 미보호 X</text>
+    <text x="870" y="908" text-anchor="middle" fill="#E23B3B" font-size="26">(종금형만 예외)</text>
+
+    <text x="70" y="988" font-size="30" fill="#5B6B7C" font-weight="bold">취급 기관</text>
+    <rect x="60" y="1005" width="300" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="390" y="1005" width="300" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="720" y="1005" width="300" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="210" y="1064" text-anchor="middle" font-weight="bold" font-size="30">은행·저축은행</text>
+    <text x="540" y="1064" text-anchor="middle" font-weight="bold" font-size="30">은행·저축은행</text>
+    <text x="870" y="1072" text-anchor="middle" font-weight="bold">증권사</text>
+  </g>
+
+  <!-- 핵심 강조 띠 -->
+  <rect x="60" y="1150" width="960" height="90" rx="16" fill="#243B6B"/>
+  <text x="540" y="1207" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F" text-anchor="middle">핵심 차이 = 예금자보호 여부</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">※ 확인 시점(2026.7 초) 기준 · 가입 전 각 사 앱·공시 확인</text>
+</svg>
