@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="56" fill="#ffffff">소득유형별 본인부담금</text>
+  <text x="60" y="176" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="34" fill="#E8EEF5">시간제 기본형(12,790원) · 만 2세 이하 기준 · 시간당</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 가형 -->
+    <text x="60" y="330" font-size="42" font-weight="bold" fill="#1a1a1a">가형</text>
+    <rect x="200" y="298" width="78" height="52" rx="8" fill="#FFD23F"/>
+    <text x="298" y="337" font-size="38" font-weight="bold" fill="#1B5FA6">1,918원</text>
+
+    <!-- 나형 -->
+    <text x="60" y="450" font-size="42" font-weight="bold" fill="#1a1a1a">나형</text>
+    <rect x="200" y="418" width="208" height="52" rx="8" fill="#4A88C4"/>
+    <text x="428" y="457" font-size="38" font-weight="bold" fill="#1a1a1a">5,116원</text>
+
+    <!-- 다형 -->
+    <text x="60" y="570" font-size="42" font-weight="bold" fill="#1a1a1a">다형</text>
+    <rect x="200" y="538" width="364" height="52" rx="8" fill="#2E70B0"/>
+    <text x="584" y="577" font-size="38" font-weight="bold" fill="#1a1a1a">8,952원</text>
+
+    <!-- 라형 -->
+    <text x="60" y="690" font-size="42" font-weight="bold" fill="#1a1a1a">라형</text>
+    <rect x="200" y="658" width="442" height="52" rx="8" fill="#1B5FA6"/>
+    <text x="662" y="697" font-size="38" font-weight="bold" fill="#1a1a1a">10,870원</text>
+
+    <!-- 마형 -->
+    <text x="60" y="810" font-size="42" font-weight="bold" fill="#5B6B7C">마형</text>
+    <rect x="200" y="778" width="520" height="52" rx="8" fill="#8FA4B8"/>
+    <text x="740" y="810" font-size="30" font-weight="bold" fill="#5B6B7C">12,790원</text>
+    <text x="740" y="842" font-size="24" fill="#8FA0B0">전액 본인부담</text>
+  </g>
+
+  <!-- 강조 박스 -->
+  <rect x="60" y="900" width="960" height="110" rx="18" fill="#EAF2FA" stroke="#C7DBEF"/>
+  <text x="90" y="948" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="bold" fill="#1B5FA6">가형이면 시간당 약 1,918원부터 이용 가능</text>
+  <text x="90" y="990" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" fill="#5B6B7C">실제 부담은 소득유형·아동 연령·서비스 종류·할증에 따라 달라짐</text>
+
+  <text x="60" y="1055" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" fill="#8FA0B0">출처: 아이돌봄서비스 누리집(idolbom.go.kr)</text>
+</svg>

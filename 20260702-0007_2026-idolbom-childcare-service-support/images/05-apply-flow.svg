@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <text x="60" y="120" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="60" fill="#ffffff">신청 절차 4단계</text>
+  <text x="60" y="178" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="36" fill="#E8EEF5">자격 판정부터 국민행복카드 결제까지</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- STEP 1 -->
+    <rect x="60" y="270" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="150" cy="370" r="52" fill="#1B5FA6"/>
+    <text x="150" y="388" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="240" y="352" font-size="42" font-weight="bold" fill="#1a1a1a">정부지원 자격 판정 신청</text>
+    <text x="240" y="410" font-size="32" fill="#5B6B7C">복지로(bokjiro.go.kr) 온라인 또는</text>
+    <text x="240" y="450" font-size="32" fill="#5B6B7C">읍·면·동 행정복지센터 방문</text>
+
+    <!-- 화살표 -->
+    <text x="540" y="512" font-size="44" fill="#1B5FA6" text-anchor="middle">▼</text>
+
+    <!-- STEP 2 -->
+    <rect x="60" y="530" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="150" cy="630" r="52" fill="#1B5FA6"/>
+    <text x="150" y="648" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="240" y="612" font-size="42" font-weight="bold" fill="#1a1a1a">소득 판별 후 적격 통보</text>
+    <text x="240" y="670" font-size="32" fill="#5B6B7C">구청/시군구에서 판정</text>
+    <rect x="700" y="632" width="290" height="66" rx="14" fill="#FFF6DA" stroke="#F0D98A"/>
+    <text x="845" y="675" font-size="34" font-weight="bold" fill="#8A6D1A" text-anchor="middle">처리기한 14일</text>
+
+    <text x="540" y="772" font-size="44" fill="#1B5FA6" text-anchor="middle">▼</text>
+
+    <!-- STEP 3 -->
+    <rect x="60" y="790" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="150" cy="890" r="52" fill="#1B5FA6"/>
+    <text x="150" y="908" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="240" y="872" font-size="42" font-weight="bold" fill="#1a1a1a">누리집 회원가입·서비스 등록</text>
+    <text x="240" y="930" font-size="32" fill="#5B6B7C">아이돌봄서비스 누리집</text>
+    <text x="240" y="970" font-size="32" fill="#5B6B7C">(idolbom.go.kr)에서 신청</text>
+
+    <text x="540" y="1032" font-size="44" fill="#1B5FA6" text-anchor="middle">▼</text>
+
+    <!-- STEP 4 -->
+    <rect x="60" y="1050" width="960" height="160" rx="20" fill="#1B5FA6"/>
+    <circle cx="150" cy="1130" r="52" fill="#FFD23F"/>
+    <text x="150" y="1148" font-size="52" font-weight="bold" fill="#1a1a1a" text-anchor="middle">4</text>
+    <text x="240" y="1112" font-size="42" font-weight="bold" fill="#ffffff">국민행복카드로 결제</text>
+    <text x="240" y="1168" font-size="32" fill="#E8EEF5">이용요금 결제 후 서비스 이용</text>
+  </g>
+
+  <rect x="60" y="1236" width="960" height="0" />
+  <text x="60" y="1280" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">TIP. 자격 판정 신청자·홈페이지 회원·카드 명의자는 모두 같은 사람이어야 합니다.</text>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#8FA0B0">출처: 아이돌봄서비스 누리집 · 복지로 · 콜센터 1577-2514</text>
+</svg>

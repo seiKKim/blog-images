@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1B5FA6"/>
+  <text x="60" y="95" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="54" fill="#ffffff">방학 낮 시간, 아이 준비물</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 카드 1: 물놀이·외출 -->
+    <rect x="60" y="200" width="465" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="130" cy="270" r="36" fill="#EAF2FA"/>
+    <text x="130" y="286" font-size="40" text-anchor="middle">☀</text>
+    <text x="190" y="285" font-size="38" font-weight="bold" fill="#1B5FA6">외출·물놀이</text>
+    <text x="90" y="345" font-size="30" fill="#5B6B7C">래시가드 · 물놀이용품</text>
+    <text x="90" y="385" font-size="30" fill="#5B6B7C">자외선차단제 · 모자 · 선풍기</text>
+
+    <!-- 카드 2: 실내 안전 -->
+    <rect x="555" y="200" width="465" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="625" cy="270" r="36" fill="#EAF2FA"/>
+    <text x="625" y="285" font-size="38" text-anchor="middle">🛡</text>
+    <text x="685" y="285" font-size="38" font-weight="bold" fill="#1B5FA6">실내 안전</text>
+    <text x="585" y="345" font-size="30" fill="#5B6B7C">콘센트 안전덮개 · 모서리 보호대</text>
+    <text x="585" y="385" font-size="30" fill="#5B6B7C">안전문</text>
+
+    <!-- 카드 3: 생활용품 (전폭) -->
+    <rect x="60" y="430" width="960" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="130" cy="505" r="36" fill="#EAF2FA"/>
+    <text x="130" y="520" font-size="38" text-anchor="middle">🍽</text>
+    <text x="190" y="490" font-size="38" font-weight="bold" fill="#1B5FA6">생활용품</text>
+    <text x="190" y="540" font-size="30" fill="#5B6B7C">아동용 식판 · 물병 · 놀이매트</text>
+  </g>
+
+  <text x="60" y="660" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#8FA0B0">방학 준비물은 최신가로 확인하고 필요한 것만 미리 갖춰두세요</text>
+</svg>
