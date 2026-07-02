@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#F1F8FA"/>
+<rect width="1080" height="180" fill="#1E6B7A"/>
+<text x="60" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">표기 제습량 ≠ 실제 제습량</text>
+<text x="60" y="252" font-family="Malgun Gothic" font-size="38" fill="#3B5560">제조사 표기는 30℃·습도 80% 기준.</text>
+<text x="60" y="304" font-family="Malgun Gothic" font-size="38" fill="#3B5560">실제 여름 방(25℃·60%)에선 약 55~65% 수준</text>
+<!-- 축 -->
+<line x1="180" y1="900" x2="980" y2="900" stroke="#B9CED4" stroke-width="4"/>
+<!-- 표기 바 (10L) -->
+<rect x="300" y="360" width="180" height="540" rx="10" fill="#3FA9C9"/>
+<text x="390" y="330" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#1E6B7A" text-anchor="middle">10L</text>
+<text x="390" y="960" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#3B5560" text-anchor="middle">제조사 표기</text>
+<!-- 실제 바 (약 6L) -->
+<rect x="640" y="576" width="180" height="324" rx="10" fill="#FFD23F"/>
+<text x="730" y="546" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#C8901A" text-anchor="middle">약 6L</text>
+<text x="730" y="960" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#3B5560" text-anchor="middle">실제 사용환경</text>
+<!-- 화살표 메모 -->
+<text x="540" y="1030" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1E6B7A" text-anchor="middle">→ 애매하면 한 단계 큰 용량이 안전</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F1F8FA"/>
+<rect width="1080" height="210" fill="#1E6B7A"/>
+<text x="60" y="105" font-family="Malgun Gothic" font-weight="bold" font-size="62" fill="#ffffff">원룸·소형 (7~15평)</text>
+<text x="60" y="168" font-family="Malgun Gothic" font-weight="bold" font-size="54" fill="#FFD23F">추천 10~13L</text>
+<g font-family="Malgun Gothic" font-size="46" fill="#173039">
+<rect x="60" y="290" width="960" height="130" rx="16" fill="#ffffff" stroke="#CFE2E7"/>
+<text x="100" y="372" font-weight="bold">제습량</text><text x="1000" y="372" font-weight="bold" fill="#1E6B7A" text-anchor="end">10~13L</text>
+<rect x="60" y="440" width="960" height="130" rx="16" fill="#ffffff" stroke="#CFE2E7"/>
+<text x="100" y="522" font-weight="bold">적정 평수</text><text x="1000" y="522" font-weight="bold" fill="#1E6B7A" text-anchor="end">7~15평(방 한 칸)</text>
+<rect x="60" y="590" width="960" height="130" rx="16" fill="#ffffff" stroke="#CFE2E7"/>
+<text x="100" y="656" font-weight="bold">핵심 스펙</text><text x="100" y="702" font-size="36" fill="#3B5560">연속배수·습도표시·인버터 저소음</text>
+<rect x="60" y="740" width="960" height="130" rx="16" fill="#ffffff" stroke="#CFE2E7"/>
+<text x="100" y="822" font-weight="bold">가격대</text><text x="1000" y="822" font-weight="bold" fill="#1E6B7A" text-anchor="end">7~10만원대~</text>
+</g>
+<rect x="60" y="920" width="960" height="330" rx="20" fill="#0E3A44"/>
+<text x="100" y="1000" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#FFD23F">이럴 땐 한 단계 위로</text>
+<text x="100" y="1070" font-family="Malgun Gothic" font-size="40" fill="#ffffff">· 습한 저층(반지하·1층)</text>
+<text x="100" y="1130" font-family="Malgun Gothic" font-size="40" fill="#ffffff">· 환기 안 되는 구조</text>
+<text x="100" y="1190" font-family="Malgun Gothic" font-size="40" fill="#ffffff">· 빨래를 자주 실내 건조</text>
+</svg>

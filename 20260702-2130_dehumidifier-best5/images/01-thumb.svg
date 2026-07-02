@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#3FA9C9"/><stop offset="0.5" stop-color="#1E6B7A"/><stop offset="1" stop-color="#0E3A44"/>
+</linearGradient>
+</defs>
+<rect width="1080" height="1080" fill="url(#bg)"/>
+<circle cx="930" cy="200" r="250" fill="#ffffff" opacity="0.08"/>
+<circle cx="120" cy="960" r="200" fill="#ffffff" opacity="0.06"/>
+<path d="M150 300 q-14 22 0 34 q14 -12 0 -34 Z" fill="#ffffff" opacity="0.18"/><path d="M360 220 q-14 22 0 34 q14 -12 0 -34 Z" fill="#ffffff" opacity="0.18"/><path d="M560 340 q-14 22 0 34 q14 -12 0 -34 Z" fill="#ffffff" opacity="0.18"/><path d="M760 250 q-14 22 0 34 q14 -12 0 -34 Z" fill="#ffffff" opacity="0.18"/><path d="M960 320 q-14 22 0 34 q14 -12 0 -34 Z" fill="#ffffff" opacity="0.18"/><path d="M260 430 q-14 22 0 34 q14 -12 0 -34 Z" fill="#ffffff" opacity="0.18"/><path d="M660 470 q-14 22 0 34 q14 -12 0 -34 Z" fill="#ffffff" opacity="0.18"/><path d="M880 440 q-14 22 0 34 q14 -12 0 -34 Z" fill="#ffffff" opacity="0.18"/>
+<rect x="72" y="84" rx="34" ry="34" width="200" height="70" fill="#FFD23F"/><text x="172" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#0C2A31" text-anchor="middle">추천아이템</text>
+<text x="76" y="252" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#DFF3F7">장마철, 리터·전기세로 딱!</text>
+<text x="72" y="404" font-family="Malgun Gothic" font-weight="bold" font-size="150" fill="#FFFFFF">제습기</text>
+<text x="72" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="150" fill="#FFD23F">추천 BEST 5</text>
+<!-- 용량 칩 3개 -->
+<g font-family="Malgun Gothic" font-weight="bold" text-anchor="middle">
+<rect x="72" y="648" rx="22" width="272" height="120" fill="#ffffff" opacity="0.16"/>
+<text x="208" y="712" font-size="58" fill="#ffffff">원룸</text><text x="208" y="758" font-size="40" fill="#FFD23F">10~13L</text>
+<rect x="404" y="648" rx="22" width="272" height="120" fill="#ffffff" opacity="0.16"/>
+<text x="540" y="712" font-size="58" fill="#ffffff">거실</text><text x="540" y="758" font-size="40" fill="#FFD23F">16~23L</text>
+<rect x="736" y="648" rx="22" width="272" height="120" fill="#ffffff" opacity="0.16"/>
+<text x="872" y="712" font-size="58" fill="#ffffff">지하</text><text x="872" y="758" font-size="40" fill="#FFD23F">+연속배수</text>
+</g>
+<rect x="72" y="820" rx="26" width="740" height="112" fill="#FFD23F"/>
+<text x="442" y="894" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#0C2A31" text-anchor="middle">우리 집 평수엔 몇 리터?</text>
+<text x="76" y="1004" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#DBF1EA" opacity="0.92">blog.naver.com/trip_chocho</text>
+</svg>

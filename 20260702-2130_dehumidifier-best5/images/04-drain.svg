@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect width="1080" height="720" fill="#0E3A44"/>
+<text x="60" y="110" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">연속배수 = 물통 비우기 끝</text>
+<text x="60" y="172" font-family="Malgun Gothic" font-size="38" fill="#DFF3F7">호스로 베란다·화장실 배수구에 바로 흘려보내기</text>
+<!-- 제습기 본체 -->
+<rect x="120" y="280" width="300" height="360" rx="26" fill="#3FA9C9"/>
+<rect x="150" y="320" width="240" height="120" rx="12" fill="#ffffff" opacity="0.3"/>
+<text x="270" y="500" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">제습기</text>
+<!-- 호스 -->
+<path d="M420 560 C620 640 760 620 900 560" fill="none" stroke="#FFD23F" stroke-width="22" stroke-linecap="round"/>
+<!-- 배수구 -->
+<rect x="840" y="540" width="180" height="140" rx="12" fill="#20515C"/>
+<ellipse cx="930" cy="560" rx="70" ry="20" fill="#0A2A31"/>
+<text x="930" y="640" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#DFF3F7" text-anchor="middle">배수구</text>
+<text x="540" y="690" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFD23F" text-anchor="middle">지하·의류건조용이면 거의 필수</text>
+</svg>

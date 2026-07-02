@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F1F8FA"/>
+<rect width="1080" height="210" fill="#1E6B7A"/>
+<text x="60" y="105" font-family="Malgun Gothic" font-weight="bold" font-size="62" fill="#ffffff">거실·대형 (20~40평대)</text>
+<text x="60" y="168" font-family="Malgun Gothic" font-weight="bold" font-size="54" fill="#FFD23F">추천 16~23L</text>
+<g font-family="Malgun Gothic" font-size="46" fill="#173039">
+<rect x="60" y="290" width="960" height="130" rx="16" fill="#ffffff" stroke="#CFE2E7"/>
+<text x="100" y="372" font-weight="bold">제습량</text><text x="1000" y="372" font-weight="bold" fill="#1E6B7A" text-anchor="end">16~23L</text>
+<rect x="60" y="440" width="960" height="130" rx="16" fill="#ffffff" stroke="#CFE2E7"/>
+<text x="100" y="522" font-weight="bold">적정 평수</text><text x="1000" y="522" font-weight="bold" fill="#1E6B7A" text-anchor="end">20~40평대(거실)</text>
+<rect x="60" y="590" width="960" height="130" rx="16" fill="#ffffff" stroke="#CFE2E7"/>
+<text x="100" y="656" font-weight="bold">핵심 스펙</text><text x="100" y="702" font-size="36" fill="#3B5560">인버터·큰 물통(5~6L)/연속배수·의류건조</text>
+<rect x="60" y="740" width="960" height="130" rx="16" fill="#ffffff" stroke="#CFE2E7"/>
+<text x="100" y="822" font-weight="bold">가격대</text><text x="1000" y="822" font-weight="bold" fill="#1E6B7A" text-anchor="end">20만원 전후~30만원↑</text>
+</g>
+<rect x="60" y="920" width="960" height="330" rx="20" fill="#0E3A44"/>
+<text x="100" y="1000" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#FFD23F">물통 용량도 체크</text>
+<text x="100" y="1075" font-family="Malgun Gothic" font-size="40" fill="#ffffff">일 16L · 물통 4L → 하루 약 5회 비움</text>
+<text x="100" y="1150" font-family="Malgun Gothic" font-size="40" fill="#ffffff">큰 물통·연속배수면 번거로움 확↓</text>
+<text x="100" y="1215" font-family="Malgun Gothic" font-size="36" fill="#DFF3F7">용량 부족하면 종일 풀가동 → 전기세 더↑</text>
+</svg>

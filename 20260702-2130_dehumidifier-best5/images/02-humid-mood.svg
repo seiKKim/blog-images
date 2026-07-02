@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<defs>
+<linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#2B5A66"/><stop offset="1" stop-color="#0E3A44"/></linearGradient>
+</defs>
+<rect width="1080" height="720" fill="url(#g2)"/>
+<!-- 창틀 -->
+<rect x="120" y="90" width="840" height="540" rx="14" fill="#6E8A90" opacity="0.35"/>
+<rect x="150" y="120" width="360" height="480" rx="8" fill="#9FC4CC" opacity="0.28"/>
+<rect x="570" y="120" width="360" height="480" rx="8" fill="#9FC4CC" opacity="0.28"/>
+<line x1="540" y1="90" x2="540" y2="630" stroke="#6E8A90" stroke-width="14" opacity="0.5"/>
+<!-- 결로 물방울 -->
+<g fill="#DFF3F7" opacity="0.8">
+<path d="M240 200 q-16 26 0 40 q16 -14 0 -40 Z"/><path d="M420 260 q-18 30 0 46 q18 -16 0 -46 Z"/>
+<path d="M330 360 q-14 22 0 34 q14 -12 0 -34 Z"/><path d="M660 220 q-18 30 0 46 q18 -16 0 -46 Z"/>
+<path d="M820 300 q-16 26 0 40 q16 -14 0 -40 Z"/><path d="M700 420 q-14 22 0 34 q14 -12 0 -34 Z"/>
+</g>
+<!-- 흘러내린 자국 -->
+<g stroke="#DFF3F7" stroke-width="3" opacity="0.35">
+<line x1="240" y1="240" x2="240" y2="400"/><line x1="660" y1="266" x2="660" y2="440"/>
+<line x1="420" y1="306" x2="420" y2="470"/>
+</g>
+<text x="540" y="678" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#FFFFFF" text-anchor="middle">벽지에 물방울, 안 마르는 빨래… 장마철이 왔어요</text>
+</svg>

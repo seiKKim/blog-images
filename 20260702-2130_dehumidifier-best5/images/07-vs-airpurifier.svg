@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#F1F8FA"/>
+<rect width="1080" height="170" fill="#1E6B7A"/>
+<text x="540" y="110" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff" text-anchor="middle">역할이 아예 달라요</text>
+<!-- 제습기 -->
+<rect x="60" y="240" width="440" height="620" rx="24" fill="#3FA9C9"/>
+<text x="280" y="330" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">제습기</text>
+<circle cx="280" cy="480" r="90" fill="#ffffff" opacity="0.9"/>
+<path d="M280 430 q-40 60 0 90 q40 -30 0 -90 Z" fill="#3FA9C9"/>
+<text x="280" y="670" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#FFD23F" text-anchor="middle">습도 ↓</text>
+<text x="280" y="750" font-family="Malgun Gothic" font-size="38" fill="#ffffff" text-anchor="middle">수분을 응축해 제거</text>
+<!-- vs -->
+<text x="540" y="580" font-family="Malgun Gothic" font-weight="bold" font-size="70" fill="#1E6B7A" text-anchor="middle">vs</text>
+<!-- 공기청정기 -->
+<rect x="580" y="240" width="440" height="620" rx="24" fill="#4C7A86"/>
+<text x="800" y="330" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">공기청정기</text>
+<circle cx="800" cy="480" r="90" fill="#ffffff" opacity="0.9"/>
+<g fill="#4C7A86"><circle cx="770" cy="460" r="10"/><circle cx="820" cy="450" r="8"/><circle cx="805" cy="500" r="11"/><circle cx="765" cy="505" r="7"/></g>
+<text x="800" y="670" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#FFD23F" text-anchor="middle">먼지 ↓</text>
+<text x="800" y="750" font-family="Malgun Gothic" font-size="38" fill="#ffffff" text-anchor="middle">미세먼지·냄새 제거</text>
+<text x="540" y="960" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#173039" text-anchor="middle">서로 대체 불가 · 둘 다 필요하면 겸용도 OK</text>
+<text x="540" y="1020" font-family="Malgun Gothic" font-size="34" fill="#3B5560" text-anchor="middle">제습기는 습도를 낮춰 공기청정기와 상호보완</text>
+</svg>
