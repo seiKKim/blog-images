@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E0556E"/>
+      <stop offset="1" stop-color="#F4837E"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2BB6C9"/>
+      <stop offset="1" stop-color="#1C8FA8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 배경 -->
+  <rect width="1080" height="1080" fill="url(#sky)"/>
+  <circle cx="880" cy="230" r="120" fill="#FFD23F" opacity="0.95"/>
+  <circle cx="150" cy="150" r="220" fill="#ffffff" opacity="0.08"/>
+
+  <!-- 바다 -->
+  <path d="M0 760 Q270 720 540 760 T1080 760 V1080 H0 Z" fill="url(#sea)"/>
+  <path d="M0 820 Q200 795 420 820 T900 820 T1080 820" stroke="#ffffff" stroke-width="6" fill="none" opacity="0.5"/>
+  <path d="M0 900 Q260 875 520 900 T1080 900" stroke="#ffffff" stroke-width="6" fill="none" opacity="0.4"/>
+  <!-- 백사장 -->
+  <path d="M0 760 Q270 720 540 760 T1080 760 V800 Q540 780 0 800 Z" fill="#FDECC8" opacity="0.9"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="200" height="68" fill="#FFD23F"/>
+  <text x="180" y="136" font-family="Malgun Gothic" font-weight="bold"
+        font-size="36" fill="#7A2B3A" text-anchor="middle">여름 · 시즌</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="300" font-family="Malgun Gothic" font-weight="bold"
+        font-size="66" fill="#FFF3F1">올여름, 어디로 떠날까?</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="440" font-family="Malgun Gothic" font-weight="bold"
+        font-size="128" fill="#ffffff">2026</text>
+  <text x="80" y="580" font-family="Malgun Gothic" font-weight="bold"
+        font-size="128" fill="#FFD23F">국내 여행지</text>
+
+  <!-- 디테일 -->
+  <rect x="80" y="640" rx="20" ry="20" width="720" height="86" fill="#ffffff" opacity="0.18"/>
+  <text x="108" y="698" font-family="Malgun Gothic" font-weight="bold"
+        font-size="44" fill="#ffffff">강원 1위 · '힐링·쉼' 54% 로 좁혔다</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1030" font-family="Malgun Gothic" font-weight="normal"
+        font-size="32" fill="#FFF3F1" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

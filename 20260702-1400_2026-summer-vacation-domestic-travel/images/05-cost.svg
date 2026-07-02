@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF3F5"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#E0556E"/>
+  <text x="60" y="105" font-family="Malgun Gothic" font-weight="bold"
+        font-size="60" fill="#ffffff">언제 가야 덜 비쌀까?</text>
+  <text x="60" y="170" font-family="Malgun Gothic" font-weight="normal"
+        font-size="40" fill="#FFE1E6">비용 부담 1위는 '성수기 숙박요금 인상'</text>
+
+  <!-- 6월: 얼리 휴가 -->
+  <rect x="60" y="280" width="960" height="300" rx="20" fill="#ffffff" stroke="#E7C9D0"/>
+  <rect x="60" y="280" width="16" height="300" rx="8" fill="#2E9E5B"/>
+  <text x="110" y="360" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#1a1a1a">6월 · 얼리 휴가</text>
+  <rect x="760" y="315" width="220" height="66" rx="33" fill="#E3F5E9"/>
+  <text x="870" y="360" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#207A45" text-anchor="middle">경비 ↓</text>
+  <text x="110" y="440" font-family="Malgun Gothic" font-size="42" fill="#444">· 성수기 직전이라 상대적으로 저렴</text>
+  <text x="110" y="510" font-family="Malgun Gothic" font-size="42" fill="#444">· 혼잡·주차난이 덜하다</text>
+
+  <!-- 7월말~8월중순: 극성수기 -->
+  <rect x="60" y="620" width="960" height="300" rx="20" fill="#ffffff" stroke="#E7C9D0"/>
+  <rect x="60" y="620" width="16" height="300" rx="8" fill="#E23B3B"/>
+  <text x="110" y="700" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#1a1a1a">7월말~8월중순 · 극성수기</text>
+  <rect x="760" y="655" width="220" height="66" rx="33" fill="#FBE0E0"/>
+  <text x="870" y="700" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#C42B2B" text-anchor="middle">경비 ↑↑</text>
+  <text x="110" y="780" font-family="Malgun Gothic" font-size="42" fill="#444">· 요금 가장 비싸고 예약 경쟁 치열</text>
+  <text x="110" y="850" font-family="Malgun Gothic" font-size="42" fill="#444">· 특별한 이유 없으면 피하는 게 유리</text>
+
+  <!-- 팁 박스 -->
+  <rect x="60" y="960" width="960" height="250" rx="20" fill="#E0556E"/>
+  <text x="110" y="1040" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#FFD23F">TIP</text>
+  <text x="110" y="1110" font-family="Malgun Gothic" font-size="42" fill="#ffffff">평일로 살짝 비켜 가고, 항공권은 조기 발권!</text>
+  <text x="110" y="1175" font-family="Malgun Gothic" font-size="42" fill="#ffffff">'숙박세일 페스타' 등 지원 제도도 활용하세요</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#F1D9DF"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#8A5A64">참고: 2026 여름휴가 트렌드 · 성수기 예약 팁</text>
+</svg>

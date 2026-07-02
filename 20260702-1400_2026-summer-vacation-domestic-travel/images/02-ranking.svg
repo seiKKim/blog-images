@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF3F5"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#E0556E"/>
+  <text x="60" y="105" font-family="Malgun Gothic" font-weight="bold"
+        font-size="60" fill="#ffffff">국내 여행지 선호도 순위</text>
+  <text x="60" y="170" font-family="Malgun Gothic" font-weight="normal"
+        font-size="40" fill="#FFE1E6">2026 여름휴가 · 어디로 가고 싶나요?</text>
+
+  <!-- 막대 그래프: 강원 33.0(최대)을 기준폭 840으로 스케일 -->
+  <g font-family="Malgun Gothic">
+    <!-- 강원도 33.0% -->
+    <text x="60" y="330" font-size="44" font-weight="bold" fill="#1a1a1a">강원도</text>
+    <rect x="60" y="350" width="840" height="72" rx="14" fill="#E0556E"/>
+    <text x="880" y="401" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="end">33.0%</text>
+
+    <!-- 제주도 18.9% -->
+    <text x="60" y="490" font-size="44" font-weight="bold" fill="#1a1a1a">제주도</text>
+    <rect x="60" y="510" width="481" height="72" rx="14" fill="#EE7E8F"/>
+    <text x="561" y="561" font-size="44" font-weight="bold" fill="#B23A4C">18.9%</text>
+
+    <!-- 부산 9.0% -->
+    <text x="60" y="650" font-size="44" font-weight="bold" fill="#1a1a1a">부산</text>
+    <rect x="60" y="670" width="229" height="72" rx="14" fill="#F09FAC"/>
+    <text x="309" y="721" font-size="44" font-weight="bold" fill="#B23A4C">9.0%</text>
+
+    <!-- 서울 5.9% -->
+    <text x="60" y="810" font-size="44" font-weight="bold" fill="#1a1a1a">서울</text>
+    <rect x="60" y="830" width="150" height="72" rx="14" fill="#F4B7C1"/>
+    <text x="230" y="881" font-size="44" font-weight="bold" fill="#B23A4C">5.9%</text>
+
+    <!-- 여수 5.0% -->
+    <text x="60" y="970" font-size="44" font-weight="bold" fill="#1a1a1a">여수</text>
+    <rect x="60" y="990" width="127" height="72" rx="14" fill="#F4B7C1"/>
+    <text x="207" y="1041" font-size="44" font-weight="bold" fill="#B23A4C">5.0%</text>
+
+    <!-- 통영 4.0% -->
+    <text x="60" y="1130" font-size="44" font-weight="bold" fill="#1a1a1a">통영</text>
+    <rect x="60" y="1150" width="102" height="72" rx="14" fill="#F4B7C1"/>
+    <text x="182" y="1201" font-size="44" font-weight="bold" fill="#B23A4C">4.0%</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#F1D9DF"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#8A5A64">출처: 피앰아이(PMI) 여름휴가 설문 · 2026.6</text>
+</svg>
