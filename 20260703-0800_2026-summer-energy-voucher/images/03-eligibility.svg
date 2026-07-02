@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#1B5FA6"/>
+  <rect x="60" y="70" width="10" height="60" fill="#FFD23F"/>
+  <text x="90" y="122" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">신청 대상 — 둘 다 충족</text>
+  <rect x="60" y="250" width="440" height="560" rx="24" fill="#ffffff" stroke="#1B5FA6" stroke-width="4"/>
+  <rect x="60" y="250" width="440" height="90" rx="24" fill="#1B5FA6"/>
+  <text x="280" y="310" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">① 소득기준</text>
+  <text x="100" y="410" font-family="Malgun Gothic" font-size="40" fill="#1a2b3c">· 생계급여 수급</text>
+  <text x="100" y="480" font-family="Malgun Gothic" font-size="40" fill="#1a2b3c">· 의료급여 수급</text>
+  <text x="100" y="550" font-family="Malgun Gothic" font-size="40" fill="#1a2b3c">· 주거급여 수급</text>
+  <text x="100" y="620" font-family="Malgun Gothic" font-size="40" fill="#1a2b3c">· 교육급여 수급</text>
+  <text x="100" y="720" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C">4개 급여 모두 대상</text>
+
+  <rect x="580" y="250" width="440" height="560" rx="24" fill="#ffffff" stroke="#1B5FA6" stroke-width="4"/>
+  <rect x="580" y="250" width="440" height="90" rx="24" fill="#1B5FA6"/>
+  <text x="800" y="310" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">② 세대원 특성</text>
+  <text x="620" y="400" font-family="Malgun Gothic" font-size="34" fill="#1a2b3c">· 노인 · 영유아</text>
+  <text x="620" y="458" font-family="Malgun Gothic" font-size="34" fill="#1a2b3c">· 장애인 · 임산부</text>
+  <text x="620" y="516" font-family="Malgun Gothic" font-size="34" fill="#1a2b3c">· 중증·희귀질환자</text>
+  <text x="620" y="574" font-family="Malgun Gothic" font-size="34" fill="#1a2b3c">· 한부모 · 소년소녀</text>
+  <text x="620" y="632" font-family="Malgun Gothic" font-size="34" fill="#1a2b3c">· 다자녀(19세미만 2명↑)</text>
+  <text x="620" y="720" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C">하나 이상 해당</text>
+
+  <circle cx="540" cy="530" r="60" fill="#FFD23F"/>
+  <text x="540" y="550" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">AND</text>
+
+  <rect x="60" y="870" width="960" height="130" rx="20" fill="#1B5FA6"/>
+  <text x="540" y="952" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">둘 다 충족해야 지원 대상</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 에너지바우처 공식 · 복지로</text>
+</svg>

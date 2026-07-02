@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#1B5FA6"/>
+  <rect x="60" y="70" width="10" height="60" fill="#FFD23F"/>
+  <text x="90" y="122" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">잔액조회 · 고객번호 확인</text>
+  <rect x="60" y="250" width="960" height="330" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="330" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1B5FA6">잔액조회</text>
+  <text x="100" y="410" font-family="Malgun Gothic" font-size="40" fill="#1a2b3c">· 홈페이지 energyv.or.kr</text>
+  <text x="140" y="470" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C">성명 · 생년월일 · 주소 3가지 모두 입력</text>
+  <text x="100" y="540" font-family="Malgun Gothic" font-size="40" fill="#1a2b3c">· 콜센터 1600-3190</text>
+
+  <rect x="60" y="620" width="960" height="330" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="700" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1B5FA6">고객번호 확인</text>
+  <text x="100" y="780" font-family="Malgun Gothic" font-size="40" fill="#1a2b3c">· 요금 고지서의 공급사 고객번호</text>
+  <text x="100" y="850" font-family="Malgun Gothic" font-size="40" fill="#1a2b3c">· 전기요금 문의: 한전 국번없이 123</text>
+  <text x="100" y="920" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C">아파트 단일계약은 관리사무소에 문의</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 에너지바우처 공식(energyv.or.kr)</text>
+</svg>
