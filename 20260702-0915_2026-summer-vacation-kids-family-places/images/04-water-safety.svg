@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF2F4"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="210" fill="#E0556E"/>
+  <rect x="60" y="52" rx="26" ry="26" width="210" height="56" fill="#FFD23F"/>
+  <text x="165" y="91" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">여름방학 · 시즌</text>
+  <text x="60" y="175" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">어린이 물놀이 안전수칙</text>
+
+  <!-- 3대 원칙 카드 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 구명조끼 -->
+    <rect x="60" y="270" width="960" height="200" rx="20" fill="#ffffff" stroke="#F1C6CF"/>
+    <circle cx="160" cy="370" r="58" fill="#FDE8EC"/>
+    <text x="160" y="392" font-size="60" text-anchor="middle">🦺</text>
+    <text x="260" y="358" font-weight="bold" font-size="46" fill="#E0556E">구명조끼 착용</text>
+    <text x="260" y="418" font-size="34" fill="#333">몸에 맞는 사이즈 · KC 안전인증 확인</text>
+
+    <!-- 보호자 감독 -->
+    <rect x="60" y="490" width="960" height="200" rx="20" fill="#ffffff" stroke="#F1C6CF"/>
+    <circle cx="160" cy="590" r="58" fill="#FDE8EC"/>
+    <text x="160" y="612" font-size="60" text-anchor="middle">👀</text>
+    <text x="260" y="578" font-weight="bold" font-size="46" fill="#E0556E">보호자 감독</text>
+    <text x="260" y="638" font-size="34" fill="#333">아이를 물가에 혼자 두지 않기</text>
+
+    <!-- 안전요원 상주 -->
+    <rect x="60" y="710" width="960" height="200" rx="20" fill="#ffffff" stroke="#F1C6CF"/>
+    <circle cx="160" cy="810" r="58" fill="#FDE8EC"/>
+    <text x="160" y="832" font-size="60" text-anchor="middle">🛟</text>
+    <text x="260" y="798" font-weight="bold" font-size="46" fill="#E0556E">안전요원 상주 장소</text>
+    <text x="260" y="858" font-size="34" fill="#333">위험·금지구역 출입 금지</text>
+  </g>
+
+  <!-- 위급 시 대처 -->
+  <rect x="60" y="945" width="960" height="290" rx="20" fill="#2B2F36"/>
+  <text x="90" y="1025" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#FFD23F">물에 빠진 사람을 봤다면</text>
+  <text x="90" y="1095" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#ffffff">직접 뛰어들지 말고</text>
+  <text x="90" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#ffffff">튜브·아이스박스 등 던져주기</text>
+  <text x="90" y="1205" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#FF6B6B">즉시 119 신고</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1275" width="1080" height="75" fill="#F1D7DC"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#8A5560">출처: 행정안전부 · 질병관리청 · 정책브리핑 어린이 물놀이 안전수칙</text>
+</svg>

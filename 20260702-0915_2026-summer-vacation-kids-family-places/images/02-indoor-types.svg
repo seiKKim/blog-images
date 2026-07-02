@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF2F4"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#E0556E"/>
+  <rect x="60" y="52" rx="26" ry="26" width="210" height="56" fill="#FFD23F"/>
+  <text x="165" y="91" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">여름방학 · 시즌</text>
+  <text x="60" y="175" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">실내 나들이 유형별 비교</text>
+
+  <!-- 헤더 행 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#ffffff" font-weight="bold">
+    <rect x="60" y="270" width="470" height="72" rx="14" fill="#C13F5C"/>
+    <text x="90" y="317">유형</text>
+    <rect x="545" y="270" width="270" height="72" rx="14" fill="#C13F5C"/>
+    <text x="680" y="317" text-anchor="middle">대략 요금</text>
+    <rect x="830" y="270" width="190" height="72" rx="14" fill="#C13F5C"/>
+    <text x="925" y="317" text-anchor="middle">예약</text>
+  </g>
+
+  <!-- 데이터 행 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" fill="#1a1a1a">
+    <!-- 과학관 -->
+    <rect x="60" y="358" width="960" height="220" rx="18" fill="#ffffff" stroke="#F1C6CF"/>
+    <text x="90" y="428" font-weight="bold" font-size="42" fill="#E0556E">과학관</text>
+    <text x="90" y="482" font-size="30">국립과천과학관 기준</text>
+    <text x="90" y="530" font-size="28" fill="#5B6B7C">미취학 무료 · 수요일 반값</text>
+    <text x="680" y="475" font-size="34" font-weight="bold" text-anchor="middle">성인 약 4,000원</text>
+    <text x="925" y="455" font-size="28" text-anchor="middle" fill="#5B6B7C">현장 발권</text>
+    <text x="925" y="495" font-size="26" text-anchor="middle" fill="#5B6B7C">(체험 예약)</text>
+
+    <!-- 박물관 -->
+    <rect x="60" y="594" width="960" height="220" rx="18" fill="#ffffff" stroke="#F1C6CF"/>
+    <text x="90" y="664" font-weight="bold" font-size="42" fill="#E0556E">어린이박물관</text>
+    <text x="90" y="718" font-size="30">국립중앙박물관 기준</text>
+    <text x="90" y="766" font-size="28" fill="#5B6B7C">36개월 미만도 전원 예약</text>
+    <text x="680" y="711" font-size="40" font-weight="bold" text-anchor="middle">무료</text>
+    <text x="925" y="711" font-size="30" text-anchor="middle" font-weight="bold" fill="#E0556E">필수</text>
+
+    <!-- 아쿠아리움 -->
+    <rect x="60" y="830" width="960" height="220" rx="18" fill="#ffffff" stroke="#F1C6CF"/>
+    <text x="90" y="900" font-weight="bold" font-size="42" fill="#E0556E">아쿠아리움</text>
+    <text x="90" y="954" font-size="30">코엑스 아쿠아리움 기준</text>
+    <text x="90" y="1002" font-size="28" fill="#5B6B7C">36개월 이하 무료</text>
+    <text x="680" y="935" font-size="30" font-weight="bold" text-anchor="middle">성인 약 33,000원</text>
+    <text x="680" y="978" font-size="28" text-anchor="middle" fill="#5B6B7C">어린이 약 23,000원</text>
+    <text x="925" y="947" font-size="27" text-anchor="middle" fill="#5B6B7C">온라인 할인</text>
+
+    <!-- 실내워터파크 -->
+    <rect x="60" y="1066" width="960" height="220" rx="18" fill="#ffffff" stroke="#F1C6CF"/>
+    <text x="90" y="1136" font-weight="bold" font-size="42" fill="#E0556E">실내워터파크</text>
+    <text x="90" y="1190" font-size="30">캐리비안베이 · 웅진플레이도시</text>
+    <text x="90" y="1238" font-size="28" fill="#5B6B7C">날씨 무관 · 예약 할인 폭 큼</text>
+    <text x="680" y="1183" font-size="32" font-weight="bold" text-anchor="middle">정가 높은 편</text>
+    <text x="925" y="1171" font-size="27" text-anchor="middle" fill="#E0556E" font-weight="bold">예약 할인</text>
+    <text x="925" y="1205" font-size="26" text-anchor="middle" fill="#5B6B7C">권장</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1300" width="1080" height="50" fill="#F1D7DC"/>
+  <text x="60" y="1333" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" fill="#8A5560">요금·조건은 변동될 수 있어 방문 전 공식 홈페이지 확인 필수</text>
+</svg>

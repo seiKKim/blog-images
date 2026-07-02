@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <defs>
+    <linearGradient id="wbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E0556E"/>
+      <stop offset="1" stop-color="#C13F5C"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8FD3E8"/>
+      <stop offset="1" stop-color="#4FA9C9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="720" fill="url(#wbg)"/>
+  <circle cx="960" cy="120" r="180" fill="#ffffff" opacity="0.10"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="60" y="56" rx="26" ry="26" width="210" height="56" fill="#FFD23F"/>
+  <text x="165" y="95" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">여름방학 · 시즌</text>
+
+  <!-- 메인 카피 -->
+  <text x="60" y="230" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="72" fill="#ffffff">장마철에도 물놀이는 OK</text>
+  <text x="60" y="320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="72" fill="#FFD23F">실내·사계절 워터파크</text>
+
+  <!-- 물결 -->
+  <path d="M0 470 Q135 430 270 470 T540 470 T810 470 T1080 470 V720 H0 Z" fill="url(#water)" opacity="0.9"/>
+  <path d="M0 510 Q135 470 270 510 T540 510 T810 510 T1080 510 V720 H0 Z" fill="#3E93B4" opacity="0.55"/>
+
+  <!-- 아이/튜브 아이콘 -->
+  <g transform="translate(760,560)">
+    <circle cx="0" cy="0" r="86" fill="none" stroke="#FFD23F" stroke-width="30"/>
+    <circle cx="0" cy="0" r="86" fill="none" stroke="#ffffff" stroke-width="30" stroke-dasharray="45 45"/>
+    <circle cx="0" cy="-6" r="30" fill="#ffffff"/>
+  </g>
+
+  <!-- 포인트 문구 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#ffffff">
+    <rect x="60" y="560" rx="20" ry="20" width="430" height="72" fill="#ffffff" opacity="0.18"/>
+    <text x="90" y="608">날씨 무관 · 예약 할인 필수</text>
+  </g>
+</svg>

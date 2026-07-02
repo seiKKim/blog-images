@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E0556E"/>
+      <stop offset="1" stop-color="#C13F5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식 도형 -->
+  <circle cx="950" cy="170" r="260" fill="#ffffff" opacity="0.10"/>
+  <circle cx="120" cy="990" r="210" fill="#ffffff" opacity="0.07"/>
+  <circle cx="880" cy="960" r="120" fill="#FFD23F" opacity="0.12"/>
+
+  <!-- 카테고리 뱃지 (좌상단) -->
+  <rect x="80" y="90" rx="34" ry="34" width="270" height="68" fill="#FFD23F"/>
+  <text x="215" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">여름방학 · 시즌</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#E8EEF5">장마 · 폭염에도 걱정 없이</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="132" fill="#ffffff">2026 여름방학</text>
+  <text x="80" y="620" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="132" fill="#FFD23F">아이와 갈 곳</text>
+
+  <!-- 실내 유형 알약들 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#C13F5C">
+    <rect x="80"  y="700" rx="24" ry="24" width="200" height="72" fill="#ffffff"/>
+    <text x="180" y="748" text-anchor="middle">과학관</text>
+    <rect x="300" y="700" rx="24" ry="24" width="270" height="72" fill="#ffffff"/>
+    <text x="435" y="748" text-anchor="middle">아쿠아리움</text>
+    <rect x="590" y="700" rx="24" ry="24" width="360" height="72" fill="#ffffff"/>
+    <text x="770" y="748" text-anchor="middle">실내워터파크</text>
+  </g>
+
+  <!-- 디테일 -->
+  <rect x="80" y="812" rx="20" ry="20" width="920" height="120" fill="#ffffff" opacity="0.16"/>
+  <text x="112" y="890" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#ffffff">입장료 · 예약 · 물놀이 안전까지 총정리</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1010" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
