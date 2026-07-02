@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">어디에 쓸 수 있나요?</text>
+  <text x="60" y="170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">전국 가맹점 약 3만 5천여 개</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 4 카드 -->
+    <!-- 도서 -->
+    <rect x="60" y="270" width="460" height="300" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="230" y="330" width="120" height="90" rx="10" fill="#1B5FA6"/>
+    <rect x="290" y="330" width="8" height="90" fill="#ffffff"/>
+    <text x="290" y="500" font-size="52" font-weight="bold" fill="#1a1a1a" text-anchor="middle">도서 구매</text>
+    <text x="290" y="545" font-size="34" fill="#4a5a6a" text-anchor="middle">온라인 지정 서점 포함</text>
+
+    <!-- 영화/공연/전시 -->
+    <rect x="560" y="270" width="460" height="300" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="730" y="330" width="120" height="90" rx="10" fill="#1B5FA6"/>
+    <circle cx="750" cy="350" r="8" fill="#ffffff"/>
+    <circle cx="750" cy="400" r="8" fill="#ffffff"/>
+    <circle cx="830" cy="350" r="8" fill="#ffffff"/>
+    <circle cx="830" cy="400" r="8" fill="#ffffff"/>
+    <text x="790" y="500" font-size="52" font-weight="bold" fill="#1a1a1a" text-anchor="middle">영화·공연·전시</text>
+    <text x="790" y="545" font-size="34" fill="#4a5a6a" text-anchor="middle">관람</text>
+
+    <!-- 국내여행 -->
+    <rect x="60" y="600" width="460" height="300" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <path d="M230 700 l120 -40 l0 30 l-120 40 z" fill="#1B5FA6"/>
+    <rect x="245" y="720" width="90" height="14" rx="7" fill="#1B5FA6"/>
+    <text x="290" y="830" font-size="52" font-weight="bold" fill="#1a1a1a" text-anchor="middle">국내 여행</text>
+
+    <!-- 프로스포츠 -->
+    <rect x="560" y="600" width="460" height="300" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="790" cy="700" r="46" fill="#1B5FA6"/>
+    <path d="M744 700 h92 M790 654 v92" stroke="#ffffff" stroke-width="6"/>
+    <text x="790" y="830" font-size="48" font-weight="bold" fill="#1a1a1a" text-anchor="middle">4대 프로스포츠</text>
+    <text x="790" y="875" font-size="32" fill="#4a5a6a" text-anchor="middle">축구·농구·야구·배구</text>
+  </g>
+
+  <!-- 주의 박스 -->
+  <rect x="60" y="940" width="960" height="260" rx="20" fill="#FDEBEB" stroke="#E23B3B" stroke-width="3"/>
+  <text x="100" y="1015" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" font-weight="bold" fill="#E23B3B">사용 불가 주의</text>
+  <text x="100" y="1085" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" font-weight="bold" fill="#1a1a1a">쿠팡·G마켓·옥션 등 종합몰 결제 불가</text>
+  <text x="100" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" fill="#4a5a6a">도서는 지정 온라인 서점에서만 가능</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 문화누리 공식 사용안내</text>
+</svg>
