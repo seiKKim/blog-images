@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4FBF7"/>
+  <rect width="1080" height="180" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff">카드 무이자할부 혜택</text>
+  <text x="60" y="158" font-family="Malgun Gothic" font-size="34" fill="#E8F5EC">인터넷지로 공지 기준</text>
+
+  <!-- 핵심 강조 -->
+  <rect x="60" y="240" width="960" height="150" rx="20" fill="#1F8A53"/>
+  <text x="540" y="320" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">지방세 재산세 카드 수수료 0원</text>
+  <text x="540" y="365" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#FFD23F" text-anchor="middle">납세자가 수수료 부담하지 않음</text>
+
+  <!-- 표 -->
+  <rect x="60" y="430" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="480" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">행사 기간</text>
+  <text x="990" y="480" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1F8A53" text-anchor="end">2026.7.1 ~ 7.31</text>
+  <text x="100" y="530" font-family="Malgun Gothic" font-size="28" fill="#5B6B7C">인터넷지로 공지 기준</text>
+
+  <rect x="60" y="570" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="620" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">참여 카드사</text>
+  <text x="100" y="680" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1F8A53">우리·현대·하나·KB국민·신한·삼성 등</text>
+
+  <rect x="60" y="740" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="790" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">롯데카드</text>
+  <text x="100" y="850" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1F8A53">일시불 / 6·10·12개월 부분무이자</text>
+
+  <!-- 주의 -->
+  <rect x="60" y="920" width="960" height="290" rx="20" fill="#FFF6E0"/>
+  <text x="100" y="985" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#B8860B">· 무이자 개월수·조건은 카드사·채널마다 다름</text>
+  <text x="100" y="1045" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#B8860B">  → 납부 직전 카드사·채널 이벤트 재확인</text>
+  <text x="100" y="1110" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#B8860B">· 법인·체크·하이브리드카드는 제외 많음</text>
+  <text x="100" y="1170" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#B8860B">· 지방세 납부액은 포인트·마일리지 제외 많음</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">세부 조건은 각 카드사·납부채널 이벤트 페이지에서 확인</text>
+</svg>

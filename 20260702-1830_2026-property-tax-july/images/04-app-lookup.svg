@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4FBF7"/>
+  <rect width="1080" height="180" fill="#1F8A53"/>
+  <text x="60" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">앱으로 재산세 조회하기</text>
+
+  <!-- 폰 목업 -->
+  <rect x="330" y="250" width="420" height="860" rx="52" fill="#1a1a1a"/>
+  <rect x="352" y="290" width="376" height="780" rx="26" fill="#ffffff"/>
+  <rect x="440" y="268" width="200" height="16" rx="8" fill="#3a3a3a"/>
+
+  <!-- 앱 헤더 -->
+  <rect x="352" y="290" width="376" height="90" fill="#1F8A53"/>
+  <text x="540" y="348" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#ffffff" text-anchor="middle">지방세 납부</text>
+
+  <!-- 항목 카드 -->
+  <rect x="382" y="420" width="316" height="90" rx="14" fill="#F4FBF7" stroke="#D6E0EC"/>
+  <text x="410" y="465" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C">세목</text>
+  <text x="670" y="465" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="end">재산세</text>
+
+  <rect x="382" y="530" width="316" height="90" rx="14" fill="#F4FBF7" stroke="#D6E0EC"/>
+  <text x="410" y="575" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C">구분</text>
+  <text x="670" y="575" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="end">주택분 1기분</text>
+
+  <rect x="382" y="640" width="316" height="110" rx="14" fill="#E8F5EC" stroke="#1F8A53"/>
+  <text x="410" y="685" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C">납부금액</text>
+  <text x="670" y="720" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1F8A53" text-anchor="end">조회 후 표시</text>
+
+  <rect x="382" y="770" width="316" height="90" rx="14" fill="#F4FBF7" stroke="#D6E0EC"/>
+  <text x="410" y="805" font-family="Malgun Gothic" font-size="26" fill="#5B6B7C">전자납부번호</text>
+  <text x="670" y="838" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="end">고지서 확인</text>
+
+  <!-- 납부 버튼 -->
+  <rect x="382" y="900" width="316" height="110" rx="20" fill="#1F8A53"/>
+  <text x="540" y="970" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">납부하기</text>
+
+  <rect x="60" y="1150" width="960" height="60" rx="16" fill="#E8F5EC"/>
+  <text x="540" y="1192" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1F8A53" text-anchor="middle">위택스 앱 · 서울 STAX 등에서 조회·납부</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C">설명용 예시 이미지(직접 제작) · 실제 앱 화면과 다를 수 있음</text>
+</svg>

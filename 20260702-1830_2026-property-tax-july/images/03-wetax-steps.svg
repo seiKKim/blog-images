@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4FBF7"/>
+  <rect width="1080" height="180" fill="#1F8A53"/>
+  <text x="60" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">위택스 재산세 납부 5단계</text>
+
+  <!-- 브라우저 목업 힌트 -->
+  <rect x="60" y="230" width="960" height="70" rx="14" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="100" cy="265" r="10" fill="#E23B3B"/>
+  <circle cx="132" cy="265" r="10" fill="#FFD23F"/>
+  <circle cx="164" cy="265" r="10" fill="#1F8A53"/>
+  <text x="210" y="278" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">wetax.go.kr</text>
+
+  <!-- 단계 -->
+  <g font-family="Malgun Gothic">
+    <circle cx="110" cy="400" r="40" fill="#1F8A53"/>
+    <text x="110" y="415" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="180" y="415" font-weight="bold" font-size="44" fill="#1a1a1a">위택스(wetax.go.kr) 접속</text>
+
+    <circle cx="110" cy="540" r="40" fill="#1F8A53"/>
+    <text x="110" y="555" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="180" y="555" font-weight="bold" font-size="44" fill="#1a1a1a">공동인증서 · 간편인증 로그인</text>
+
+    <circle cx="110" cy="680" r="40" fill="#1F8A53"/>
+    <text x="110" y="695" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="180" y="695" font-weight="bold" font-size="44" fill="#1a1a1a">납부(지방세 조회·납부) 메뉴</text>
+
+    <circle cx="110" cy="820" r="40" fill="#1F8A53"/>
+    <text x="110" y="835" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="180" y="820" font-weight="bold" font-size="44" fill="#1a1a1a">재산세 항목에서 납부금액 ·</text>
+    <text x="180" y="872" font-weight="bold" font-size="44" fill="#1a1a1a">전자납부번호 확인</text>
+
+    <circle cx="110" cy="1000" r="40" fill="#1F8A53"/>
+    <text x="110" y="1015" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="180" y="1015" font-weight="bold" font-size="44" fill="#1a1a1a">카드 · 계좌이체로 납부</text>
+  </g>
+
+  <rect x="60" y="1090" width="960" height="120" rx="20" fill="#E8F5EC"/>
+  <text x="100" y="1145" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1F8A53">서울 거주자는 ETAX(etax.seoul.go.kr),</text>
+  <text x="100" y="1190" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1F8A53">전화 납부는 ARS도 이용 가능</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C">설명용 예시 이미지(직접 제작) · 실제 화면·메뉴 위치는 사이트에서 확인</text>
+</svg>

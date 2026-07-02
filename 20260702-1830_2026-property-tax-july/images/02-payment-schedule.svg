@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4FBF7"/>
+  <rect width="1080" height="180" fill="#1F8A53"/>
+  <text x="60" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">2026 재산세 납부기간</text>
+
+  <!-- 1기분 블록 -->
+  <rect x="60" y="240" width="960" height="360" rx="24" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+  <rect x="60" y="240" width="960" height="96" rx="24" fill="#1F8A53"/>
+  <rect x="60" y="290" width="960" height="46" fill="#1F8A53"/>
+  <text x="100" y="303" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#ffffff">1기분</text>
+  <text x="990" y="303" font-family="Malgun Gothic" font-weight="bold" font-size="54" fill="#FFD23F" text-anchor="end">2026.7.16 ~ 7.31</text>
+  <text x="100" y="430" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">대상</text>
+  <text x="100" y="500" font-family="Malgun Gothic" font-size="40" fill="#333333">· 주택분 1/2</text>
+  <text x="100" y="560" font-family="Malgun Gothic" font-size="40" fill="#333333">· 주택 외 건축물 · 선박 · 항공기</text>
+
+  <!-- 2기분 블록 -->
+  <rect x="60" y="650" width="960" height="360" rx="24" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+  <rect x="60" y="650" width="960" height="96" rx="24" fill="#1F8A53"/>
+  <rect x="60" y="700" width="960" height="46" fill="#1F8A53"/>
+  <text x="100" y="713" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#ffffff">2기분</text>
+  <text x="990" y="713" font-family="Malgun Gothic" font-weight="bold" font-size="54" fill="#FFD23F" text-anchor="end">2026.9.16 ~ 9.30</text>
+  <text x="100" y="840" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">대상</text>
+  <text x="100" y="910" font-family="Malgun Gothic" font-size="40" fill="#333333">· 주택분 나머지 1/2</text>
+  <text x="100" y="970" font-family="Malgun Gothic" font-size="40" fill="#333333">· 토지분</text>
+
+  <!-- 참고 박스 -->
+  <rect x="60" y="1060" width="960" height="150" rx="20" fill="#E8F5EC"/>
+  <text x="100" y="1130" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1F8A53">주택분 연 부과세액 20만 원 이하면</text>
+  <text x="100" y="1185" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1F8A53">7월에 전액 한 번에 부과 가능</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">정확한 납기는 본인 고지서·위택스(wetax.go.kr)에서 확인</text>
+</svg>
