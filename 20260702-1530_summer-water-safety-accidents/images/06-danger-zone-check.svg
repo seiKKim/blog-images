@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="0" width="16" height="200" fill="#E23B3B"/>
+  <text x="60" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">위험구역, 떠나기 전 확인법</text>
+
+  <g>
+    
+    <rect x="60" y="270" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="332" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#E23B3B">하천·계곡</text>
+    <text x="90" y="388" font-family="Malgun Gothic" font-size="36" fill="#333333">생활안전지도 safemap.go.kr → 물놀이 관리지역</text>
+    
+    <rect x="60" y="440" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="502" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#E23B3B">국립공원 계곡</text>
+    <text x="90" y="558" font-family="Malgun Gothic" font-size="36" fill="#333333">국립공원공단 안내(출입허용 110곳/금지 100곳)</text>
+    
+    <rect x="60" y="610" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="672" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#E23B3B">해수욕장·연안</text>
+    <text x="90" y="728" font-family="Malgun Gothic" font-size="36" fill="#333333">앱 '안전해(海)' · 국립해양조사원 khoa.go.kr</text>
+    
+    <rect x="60" y="780" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="842" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#E23B3B">현장에서</text>
+    <text x="90" y="898" font-family="Malgun Gothic" font-size="36" fill="#333333">금지구역 표지판 · 안전요원 유무 확인</text>
+  </g>
+
+  <rect x="60" y="960" width="960" height="200" rx="20" fill="#2B2F36"/>
+  <text x="540" y="1035" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">2026년 안전요원 5,700여 명 배치</text>
+  <text x="540" y="1095" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#FFD23F" text-anchor="middle">그래도 결국, 지정구역·구명조끼·금주</text>
+  <text x="540" y="1140" font-family="Malgun Gothic" font-size="32" fill="#E8EEF5" text-anchor="middle">(전년 대비 340명 증가)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 행정안전부 · 국립공원공단 · 해양수산부</text>
+</svg>

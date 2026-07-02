@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="220" fill="#2B2F36"/>
+  <rect x="0" y="0" width="16" height="220" fill="#E23B3B"/>
+  <text x="60" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">여름철 물놀이 사망, 어디서?</text>
+  <text x="60" y="178" font-family="Malgun Gothic" font-size="38" fill="#E8EEF5">최근 5년(2020~2024) 사망 112명 · 장소별</text>
+
+  <g>
+    
+    <text x="60" y="352" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#E23B3B">하천(강)</text>
+    <rect x="300" y="318" width="400" height="52" rx="10" fill="#E23B3B"/>
+    <text x="720" y="358" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#E23B3B">39명 · 35%</text>
+    
+    <text x="60" y="482" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#E23B3B">계곡</text>
+    <rect x="300" y="448" width="342" height="52" rx="10" fill="#E23B3B"/>
+    <text x="662" y="488" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#E23B3B">33명 · 30%</text>
+    
+    <text x="60" y="612" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">해수욕장</text>
+    <rect x="300" y="578" width="251" height="52" rx="10" fill="#7A8290"/>
+    <text x="571" y="618" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">25명 · 22%</text>
+    
+    <text x="60" y="742" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1a1a1a">바닷가</text>
+    <rect x="300" y="708" width="148" height="52" rx="10" fill="#7A8290"/>
+    <text x="468" y="748" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1a1a1a">15명 · 13%</text>
+  </g>
+
+  <rect x="60" y="850" width="960" height="180" rx="20" fill="#E23B3B"/>
+  <text x="540" y="930" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff" text-anchor="middle">하천 + 계곡 = <tspan fill="#FFD23F">65%</tspan></text>
+  <text x="540" y="992" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">바다보다 안전요원 없는 곳이 더 위험</text>
+
+  <text x="60" y="1110" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#2B2F36">시기: 7월 하순 최다(31명) · 8월에 약 47~48% 집중</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 행정안전부(2020~2024) · 정책브리핑(korea.kr)</text>
+</svg>

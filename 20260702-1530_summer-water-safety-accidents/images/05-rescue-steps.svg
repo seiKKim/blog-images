@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="0" width="16" height="200" fill="#E23B3B"/>
+  <text x="60" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">익수사고 응급처치 순서</text>
+
+  <g>
+    
+    <rect x="60" y="260" width="960" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="260" width="120" height="140" rx="16" fill="#2B2F36"/>
+    <text x="120" y="352" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#FFD23F" text-anchor="middle">1</text>
+    <text x="215" y="347" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a">직접 뛰어들지 말고 119 신고</text>
+    
+    <rect x="60" y="420" width="960" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="420" width="120" height="140" rx="16" fill="#2B2F36"/>
+    <text x="120" y="512" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#FFD23F" text-anchor="middle">2</text>
+    <text x="215" y="507" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a">물에 뜨는 물체를 건넨다</text>
+    
+    <rect x="60" y="580" width="960" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="580" width="120" height="140" rx="16" fill="#2B2F36"/>
+    <text x="120" y="672" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#FFD23F" text-anchor="middle">3</text>
+    <text x="215" y="667" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a">막대·로프로 끌어당긴다</text>
+    
+    <rect x="60" y="740" width="960" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="740" width="120" height="140" rx="16" fill="#2B2F36"/>
+    <text x="120" y="832" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#FFD23F" text-anchor="middle">4</text>
+    <text x="215" y="827" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a">의식 없으면 기도 확보 → CPR</text>
+  </g>
+
+  <rect x="60" y="920" width="960" height="150" rx="20" fill="#E23B3B"/>
+  <text x="540" y="995" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">"물부터 빼기"는 잘못된 상식!</text>
+  <text x="540" y="1050" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFD23F" text-anchor="middle">복부 압박 금지 · 호흡 없으면 바로 CPR</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 중앙응급의료센터(E-GEN)</text>
+</svg>

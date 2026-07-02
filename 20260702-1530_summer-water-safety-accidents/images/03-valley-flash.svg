@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#2B2F36"/>
+  <rect x="0" y="0" width="16" height="720" fill="#E23B3B"/>
+  <circle cx="960" cy="120" r="220" fill="#E23B3B" opacity="0.10"/>
+
+  <text x="60" y="140" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#FFD23F">⚠ 계곡이 무서운 진짜 이유</text>
+
+  <text x="60" y="285" font-family="Malgun Gothic" font-weight="bold" font-size="80" fill="#ffffff">상류에 비가 오면</text>
+  <text x="60" y="385" font-family="Malgun Gothic" font-weight="bold" font-size="80" fill="#FFD23F">3~10분 만에 급류로</text>
+
+  <rect x="60" y="470" width="960" height="170" rx="20" fill="#ffffff" opacity="0.12"/>
+  <text x="90" y="545" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff">내가 선 곳이 맑아도,</text>
+  <text x="90" y="605" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff">상류에 비 오면 순식간에 불어납니다</text>
+
+  <text x="60" y="695" font-family="Malgun Gothic" font-size="30" fill="#E8EEF5" opacity="0.85">blog.naver.com/trip_chocho</text>
+</svg>

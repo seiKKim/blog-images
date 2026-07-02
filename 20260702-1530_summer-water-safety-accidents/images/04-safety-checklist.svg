@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="0" width="16" height="200" fill="#E23B3B"/>
+  <text x="60" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">꼭 지킬 물놀이 안전수칙</text>
+
+  <g>
+    
+    <rect x="60" y="270" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="130" cy="335" r="34" fill="#E23B3B"/>
+    <text x="130" y="350" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">✓</text>
+    <text x="195" y="352" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">구명조끼는 수심과 상관없이 필수</text>
+    
+    <rect x="60" y="420" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="130" cy="485" r="34" fill="#E23B3B"/>
+    <text x="130" y="500" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">✓</text>
+    <text x="195" y="502" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">음주 후·야간에는 절대 입수 금지</text>
+    
+    <rect x="60" y="570" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="130" cy="635" r="34" fill="#E23B3B"/>
+    <text x="130" y="650" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">✓</text>
+    <text x="195" y="652" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">입수 전 충분한 준비운동</text>
+    
+    <rect x="60" y="720" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="130" cy="785" r="34" fill="#E23B3B"/>
+    <text x="130" y="800" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">✓</text>
+    <text x="195" y="802" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">어린이는 보호자가 항상 동반</text>
+    
+    <rect x="60" y="870" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="130" cy="935" r="34" fill="#E23B3B"/>
+    <text x="130" y="950" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">✓</text>
+    <text x="195" y="952" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">안전요원 상주 지정구역만 이용</text>
+  </g>
+
+  <rect x="60" y="1030" width="960" height="150" rx="20" fill="#E23B3B"/>
+  <text x="540" y="1105" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">최근 물놀이 사망 32명,</text>
+  <text x="540" y="1160" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#FFD23F" text-anchor="middle">전원 구명조끼 미착용</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 행정안전부 · 소방청</text>
+</svg>

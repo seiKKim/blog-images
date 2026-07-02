@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#2B2F36"/>
+  <circle cx="950" cy="170" r="280" fill="#E23B3B" opacity="0.10"/>
+  <circle cx="120" cy="980" r="220" fill="#ffffff" opacity="0.05"/>
+  <rect x="0" y="0" width="16" height="1080" fill="#E23B3B"/>
+
+  <rect x="80" y="86" rx="34" ry="34" width="220" height="68" fill="#E23B3B"/>
+  <text x="190" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">오늘의 이슈</text>
+
+  <text x="80" y="300" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#E8EEF5">올여름, 가장 위험한 순간</text>
+
+  <text x="80" y="490" font-family="Malgun Gothic" font-weight="bold" font-size="118" fill="#ffffff">평온하던 계곡이</text>
+  <text x="80" y="640" font-family="Malgun Gothic" font-weight="bold" font-size="118" fill="#FFD23F">3분이면 급류로</text>
+
+  <rect x="80" y="770" rx="20" ry="20" width="920" height="160" fill="#E23B3B"/>
+  <text x="540" y="838" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff" text-anchor="middle">물놀이 사망 <tspan fill="#FFD23F">65%</tspan>가</text>
+  <text x="540" y="902" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff" text-anchor="middle">하천·계곡에서</text>
+
+  <text x="80" y="1015" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
