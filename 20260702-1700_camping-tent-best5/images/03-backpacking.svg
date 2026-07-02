@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1FAF7"/>
+  <rect width="1080" height="230" fill="#1E6B5C"/>
+  <rect x="60" y="52" rx="26" ry="26" width="190" height="56" fill="#FFC93C"/>
+  <text x="155" y="91" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#123028" text-anchor="middle">추천아이템</text>
+  <text x="60" y="172" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#FFFFFF">유형 2. 백패킹 경량 텐트</text>
+  <text x="60" y="214" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#DBF1EA">짐이 곧 체력일 때 — 초경량·소형 수납</text>
+  <g>
+    <rect x="60" y="300" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <text x="96" y="350" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#123028">경량 기준</text>
+    <text x="96" y="394" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#4A6B62">통상 1~1.5kg 이하를 경량으로 분류</text>
+    <rect x="60" y="428" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <text x="96" y="478" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#123028">무게 범위</text>
+    <text x="96" y="522" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#4A6B62">가장 가벼운 1인용 약 1kg대 ~ 무거운 축 약 2.6kg</text>
+    <rect x="60" y="556" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <text x="96" y="606" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#123028">수납 부피</text>
+    <text x="96" y="650" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#4A6B62">1인용 중 수납 길이 약 50cm로 접히는 제품도</text>
+    <rect x="60" y="684" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <text x="96" y="734" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#123028">장·단점</text>
+    <text x="96" y="778" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#4A6B62">초경량·작은 부피 / 공간 좁고 편의성보다 무게 우선</text>
+    <rect x="60" y="812" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <text x="96" y="862" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#123028">가격대(예시)</text>
+    <text x="96" y="906" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#4A6B62">2인용(그라운드시트 포함) 10만원 미만 ~ 2.6kg 모델 10만원대</text>
+  </g>
+  <text x="60" y="1218" font-family="Malgun Gothic" font-weight="bold" font-size="29" fill="#155447">※ 공간은 포기하되 이동성은 확실 — 솔로·미니멀 커플에 적합</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEEE8"/>
+  <text x="60" y="1320" font-family="Malgun Gothic" font-size="27" fill="#5B7280">출처: 업계·판매처 예시가 정리(제품·시점별 상이) / blog.naver.com/trip_chocho</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1FAF7"/>
+  <rect width="1080" height="230" fill="#1E6B5C"/>
+  <rect x="60" y="52" rx="26" ry="26" width="230" height="56" fill="#FFC93C"/>
+  <text x="175" y="91" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#123028" text-anchor="middle">사기 전 체크</text>
+  <text x="60" y="172" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#FFFFFF">딱 4가지만 체크하세요</text>
+  <text x="60" y="214" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#DBF1EA">유형을 정했다면 구매 전 최종 점검</text>
+  <g>
+    <rect x="60" y="300" width="464" height="400" rx="22" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <rect x="60" y="300" width="464" height="86" rx="22" fill="#1E6B5C"/>
+    <rect x="60" y="350" width="464" height="36" fill="#1E6B5C"/>
+    <text x="96" y="356" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFC93C">방수</text>
+    <text x="488" y="356" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#FFFFFF" text-anchor="end">내수압</text>
+    <text x="96" y="468" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">일반비 1,500mm↑</text><text x="96" y="510" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">폭우 대비 3,000mm↑</text><text x="96" y="552" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">바닥 5,000mm↑</text><text x="96" y="594" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">(가이드 통용 권장치)</text><text x="96" y="636" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">심실링 처리 확인</text>
+    <rect x="556" y="300" width="464" height="400" rx="22" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <rect x="556" y="300" width="464" height="86" rx="22" fill="#1E6B5C"/>
+    <rect x="556" y="350" width="464" height="36" fill="#1E6B5C"/>
+    <text x="592" y="356" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFC93C">통풍</text>
+    <text x="984" y="356" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#FFFFFF" text-anchor="end">여름 통풍</text>
+    <text x="592" y="468" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">메시 패널·통풍구가</text><text x="592" y="510" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">넉넉한지 확인</text><text x="592" y="552" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">아침 결로는 창 열어</text><text x="592" y="594" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">통풍으로 감소</text>
+    <rect x="60" y="736" width="464" height="400" rx="22" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <rect x="60" y="736" width="464" height="86" rx="22" fill="#1E6B5C"/>
+    <rect x="60" y="786" width="464" height="36" fill="#1E6B5C"/>
+    <text x="96" y="792" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFC93C">설치</text>
+    <text x="488" y="792" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#FFFFFF" text-anchor="end">설치 난이도</text>
+    <text x="96" y="904" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">초보=원터치+전실 무난</text><text x="96" y="946" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">장박(2박↑)은 폴대형</text><text x="96" y="988" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">→ 1박이냐 장박이냐로</text><text x="96" y="1030" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">갈림</text>
+    <rect x="556" y="736" width="464" height="400" rx="22" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <rect x="556" y="736" width="464" height="86" rx="22" fill="#1E6B5C"/>
+    <rect x="556" y="786" width="464" height="36" fill="#1E6B5C"/>
+    <text x="592" y="792" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFC93C">건조</text>
+    <text x="984" y="792" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#FFFFFF" text-anchor="end">건조·보관</text>
+    <text x="592" y="904" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">그늘에서 완전 건조 철칙</text><text x="592" y="946" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">습하면 24시간 내 곰팡이</text><text x="592" y="988" font-family="Malgun Gothic" font-weight="normal" font-size="29" fill="#4A6B62">제습제와 함께 보관</text>
+  </g>
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEEE8"/>
+  <text x="60" y="1320" font-family="Malgun Gothic" font-size="27" fill="#5B7280">출처: 업계·판매처 예시가 정리(제품·시점별 상이) / blog.naver.com/trip_chocho</text>
+</svg>

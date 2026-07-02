@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1FAF7"/>
+  <rect width="1080" height="230" fill="#1E6B5C"/>
+  <rect x="60" y="52" rx="26" ry="26" width="190" height="56" fill="#FFC93C"/>
+  <text x="155" y="91" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#123028" text-anchor="middle">추천아이템</text>
+  <text x="60" y="172" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#FFFFFF">유형 3. 차박형 텐트</text>
+  <text x="60" y="214" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#DBF1EA">차가 곧 방이 되는 — 도킹·팝업 결합</text>
+  <g>
+    <rect x="60" y="300" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <text x="96" y="350" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#123028">형태</text>
+    <text x="96" y="394" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#4A6B62">차량 트렁크 도킹형 · 큐브형 원터치 팝업 등</text>
+    <rect x="60" y="428" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <text x="96" y="478" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#123028">장점</text>
+    <text x="96" y="522" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#4A6B62">차량 활용, 간편 설치, 좋은 기동성</text>
+    <rect x="60" y="556" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <text x="96" y="606" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#123028">단점</text>
+    <text x="96" y="650" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#4A6B62">자동식 무게·부피, 도킹 호환 확인 필요</text>
+    <rect x="60" y="684" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <text x="96" y="734" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#123028">예시 스펙</text>
+    <text x="96" y="778" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#4A6B62">큐브형 원터치 팝업 200×200×200cm · 약 9kg 소개 예시</text>
+    <rect x="60" y="812" width="960" height="112" rx="18" fill="#FFFFFF" stroke="#CFE9E1"/>
+    <text x="96" y="862" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#123028">가격대</text>
+    <text x="96" y="906" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#4A6B62">제품·형태별 편차 큼 (온라인몰에서 확인)</text>
+  </g>
+  <text x="60" y="1218" font-family="Malgun Gothic" font-weight="bold" font-size="29" fill="#155447">※ 핵심은 차량과의 도킹 호환 — 차종·트렁크 규격 매칭 필수</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEEE8"/>
+  <text x="60" y="1320" font-family="Malgun Gothic" font-size="27" fill="#5B7280">출처: 업계·판매처 예시가 정리(제품·시점별 상이) / blog.naver.com/trip_chocho</text>
+</svg>

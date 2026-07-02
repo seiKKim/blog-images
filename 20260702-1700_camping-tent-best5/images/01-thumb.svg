@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F2764B"/>
+      <stop offset="0.32" stop-color="#C9633F"/>
+      <stop offset="0.62" stop-color="#2C6D5E"/>
+      <stop offset="1" stop-color="#0C3A31"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFE39A" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#FFE39A" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#sky)"/>
+  <!-- 저무는 해 -->
+  <circle cx="820" cy="470" r="230" fill="url(#sun)"/>
+
+  <!-- 스트링라이트 줄 -->
+  <path d="M60 470 Q300 560 540 500 T1020 470" fill="none" stroke="#0C3A31" stroke-width="4" opacity="0.5"/>
+  <g fill="#FFC93C" filter="url(#glow)">
+    <circle cx="150" cy="500" r="9"/><circle cx="300" cy="540" r="9"/>
+    <circle cx="450" cy="522" r="9"/><circle cx="600" cy="498" r="9"/>
+    <circle cx="750" cy="486" r="9"/><circle cx="900" cy="480" r="9"/>
+  </g>
+
+  <!-- 지면 -->
+  <rect x="0" y="820" width="1080" height="260" fill="#0A322A"/>
+  <!-- 텐트(대형 쉘터) 실루엣 -->
+  <path d="M560 820 L740 560 L920 820 Z" fill="#08312A"/>
+  <path d="M740 560 L740 820" stroke="#0A322A" stroke-width="6"/>
+  <path d="M700 820 L740 640 L780 820 Z" fill="#123F35"/>
+  <!-- 텐트 안 불빛 -->
+  <path d="M720 820 L740 700 L760 820 Z" fill="#FFC93C" opacity="0.85"/>
+
+  <!-- 배지 -->
+  <rect x="72" y="84" rx="34" ry="34" width="230" height="70" fill="#FFC93C"/>
+  <text x="187" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#123028" text-anchor="middle">추천아이템</text>
+
+  <!-- 서브 후크 -->
+  <text x="76" y="252" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#FFE7CF">5가지 유형만 알면 안 헤맵니다</text>
+
+  <!-- 메인 카피(큰 흰색) -->
+  <text x="72" y="392" font-family="Malgun Gothic" font-weight="bold" font-size="150" fill="#FFFFFF">텐트부터</text>
+  <text x="72" y="548" font-family="Malgun Gothic" font-weight="bold" font-size="150" fill="#FFFFFF">정하세요</text>
+
+  <!-- 오른쪽 하단 강한 색대비 배너 -->
+  <rect x="452" y="898" rx="26" ry="26" width="556" height="112" fill="#FFC93C"/>
+  <text x="730" y="972" font-family="Malgun Gothic" font-weight="bold" font-size="62" fill="#123028" text-anchor="middle">여름 캠핑 BEST 5</text>
+
+  <text x="76" y="1000" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#DBF1EA" opacity="0.92">blog.naver.com/trip_chocho</text>
+</svg>
