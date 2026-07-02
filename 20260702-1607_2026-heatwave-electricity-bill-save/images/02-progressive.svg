@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">여름철 누진구간, 이만큼 넓어져요</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="40" fill="#FFE6D0">평상시 vs 여름철(7~8월) 완화 비교</text>
+
+  <!-- 범례 -->
+  <rect x="60" y="256" width="36" height="36" rx="8" fill="#C9CED6"/>
+  <text x="108" y="285" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#3A3F47">평상시</text>
+  <rect x="300" y="256" width="36" height="36" rx="8" fill="#E8722C"/>
+  <text x="348" y="285" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#3A3F47">여름철(7~8월)</text>
+
+  <!-- 1단계 그룹 -->
+  <text x="60" y="380" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a">1단계</text>
+  <!-- 평상시 0~200 -->
+  <rect x="60" y="404" width="460" height="70" rx="12" fill="#C9CED6"/>
+  <text x="80" y="450" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#3A3F47">0~200kWh</text>
+  <!-- 여름 0~300 -->
+  <rect x="60" y="484" width="690" height="70" rx="12" fill="#E8722C"/>
+  <text x="80" y="530" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#ffffff">0~300kWh</text>
+  <text x="770" y="530" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#E8722C">+100kWh</text>
+
+  <!-- 2단계 그룹 -->
+  <text x="60" y="650" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a">2단계</text>
+  <rect x="60" y="674" width="560" height="70" rx="12" fill="#C9CED6"/>
+  <text x="80" y="720" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#3A3F47">201~400kWh</text>
+  <rect x="60" y="754" width="660" height="70" rx="12" fill="#E8722C"/>
+  <text x="80" y="800" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#ffffff">301~450kWh</text>
+  <text x="740" y="800" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#E8722C">+50kWh</text>
+
+  <!-- 3단계 그룹 -->
+  <text x="60" y="920" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a">3단계</text>
+  <rect x="60" y="944" width="460" height="70" rx="12" fill="#C9CED6"/>
+  <text x="80" y="990" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#3A3F47">400kWh 초과</text>
+  <rect x="60" y="1024" width="530" height="70" rx="12" fill="#E8722C"/>
+  <text x="80" y="1070" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#ffffff">450kWh 초과</text>
+
+  <!-- 핵심 메시지 -->
+  <rect x="60" y="1150" width="960" height="96" rx="18" fill="#FFF2CC"/>
+  <text x="90" y="1210" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#7A3B10">여름엔 더 많이 써도 낮은 단가 구간이 유지돼요</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE3D6"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#7A5B44">출처: KDI 정책자료 · 한전 요금표 기준</text>
+</svg>

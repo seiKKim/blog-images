@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F08A3C"/>
+      <stop offset="1" stop-color="#E8722C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식 도형 -->
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="110" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 태양 아이콘 (우상단) -->
+  <g opacity="0.9">
+    <circle cx="905" cy="200" r="62" fill="#FFD23F"/>
+    <g stroke="#FFD23F" stroke-width="12" stroke-linecap="round">
+      <line x1="905" y1="90" x2="905" y2="122"/>
+      <line x1="905" y1="278" x2="905" y2="310"/>
+      <line x1="795" y1="200" x2="827" y2="200"/>
+      <line x1="983" y1="200" x2="1015" y2="200"/>
+      <line x1="828" y1="123" x2="851" y2="146"/>
+      <line x1="959" y1="254" x2="982" y2="277"/>
+      <line x1="982" y1="123" x2="959" y2="146"/>
+      <line x1="851" y1="254" x2="828" y2="277"/>
+    </g>
+  </g>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="96" rx="34" ry="34" width="200" height="68" fill="#FFD23F"/>
+  <text x="180" y="142" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#7A3B10" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#FFF3E6">에어컨 켜도 요금 덜 나오는</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#ffffff">2026 여름</text>
+  <text x="80" y="610" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#FFD23F">누진구간 완화</text>
+
+  <!-- 핵심 숫자 강조 박스 -->
+  <rect x="80" y="676" rx="24" ry="24" width="920" height="150" fill="#ffffff"/>
+  <text x="118" y="772" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="76" fill="#5B3010">1단계</text>
+  <text x="360" y="772" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="76" fill="#9A6A44">200 →</text>
+  <text x="618" y="774" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="88" fill="#E8722C">300kWh</text>
+
+  <!-- 디테일 -->
+  <text x="82" y="912" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">여름철 7~8월 한시 완화 · 에어컨 전기료 절약 총정리</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1012" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#FFF3E6" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

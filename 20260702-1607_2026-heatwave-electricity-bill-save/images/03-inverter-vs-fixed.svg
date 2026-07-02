@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">에어컨, 운전 방식이 정반대!</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="40" fill="#FFE6D0">내 에어컨 타입부터 확인하세요</text>
+
+  <!-- 인버터 카드 -->
+  <rect x="60" y="266" width="960" height="470" rx="24" fill="#ffffff" stroke="#F0C9AC" stroke-width="3"/>
+  <rect x="60" y="266" width="960" height="96" rx="24" fill="#E8722C"/>
+  <rect x="60" y="320" width="960" height="42" fill="#E8722C"/>
+  <text x="96" y="330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="52" fill="#ffffff">인버터 에어컨</text>
+  <text x="984" y="330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#FFD23F" text-anchor="end">2011년 이후 多</text>
+
+  <text x="96" y="452" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="60" fill="#E8722C">연속운전 (계속 켜두기)</text>
+  <!-- 그래프: 초기 급상승 후 낮게 유지 -->
+  <polyline points="96,690 96,560 180,470 320,560 440,570 600,566 800,568 984,566"
+            fill="none" stroke="#E8722C" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="96" y1="690" x2="984" y2="690" stroke="#D6C4B4" stroke-width="4"/>
+  <text x="96" y="590" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#8A6A50">설정온도 도달 후 최소 전력 유지</text>
+
+  <!-- 정속형 카드 -->
+  <rect x="60" y="766" width="960" height="470" rx="24" fill="#ffffff" stroke="#C9CED6" stroke-width="3"/>
+  <rect x="60" y="766" width="960" height="96" rx="24" fill="#5B6B7C"/>
+  <rect x="60" y="820" width="960" height="42" fill="#5B6B7C"/>
+  <text x="96" y="830" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="52" fill="#ffffff">정속형(구형) 에어컨</text>
+
+  <text x="96" y="952" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="60" fill="#5B6B7C">껐다 켰다 (도달 시 OFF)</text>
+  <!-- 그래프: on/off 톱니 -->
+  <polyline points="96,1190 96,1010 260,1010 260,1160 360,1160 360,1010 520,1010 520,1160 620,1160 620,1010 780,1010 780,1160 880,1160 880,1010 984,1010"
+            fill="none" stroke="#5B6B7C" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="96" y1="1190" x2="984" y2="1190" stroke="#D6C4B4" stroke-width="4"/>
+  <text x="96" y="1090" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#7A8A9A">계속 틀면 불필요한 전력 소모 큼</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE3D6"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#7A5B44">전력 사용 개념도 (실제 곡선은 모델별 상이)</text>
+</svg>

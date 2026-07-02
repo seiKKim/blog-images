@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">2026 에너지바우처 지원</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="40" fill="#FFE6D0">취약계층 대상 · 에너지공단 공식</text>
+
+  <!-- 세대원수별 금액 소제목 -->
+  <text x="60" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#7A3B10">2026년 지원금액 (세대원수별)</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="46">
+    <rect x="60" y="330" width="960" height="110" rx="16" fill="#ffffff" stroke="#F0C9AC" stroke-width="2"/>
+    <text x="100" y="400" font-weight="bold" fill="#1a1a1a">1인 가구</text>
+    <text x="1000" y="400" font-weight="bold" fill="#E8722C" text-anchor="end">295,200원</text>
+
+    <rect x="60" y="452" width="960" height="110" rx="16" fill="#ffffff" stroke="#F0C9AC" stroke-width="2"/>
+    <text x="100" y="522" font-weight="bold" fill="#1a1a1a">2인 가구</text>
+    <text x="1000" y="522" font-weight="bold" fill="#E8722C" text-anchor="end">407,500원</text>
+
+    <rect x="60" y="574" width="960" height="110" rx="16" fill="#ffffff" stroke="#F0C9AC" stroke-width="2"/>
+    <text x="100" y="644" font-weight="bold" fill="#1a1a1a">3인 가구</text>
+    <text x="1000" y="644" font-weight="bold" fill="#E8722C" text-anchor="end">532,700원</text>
+
+    <rect x="60" y="696" width="960" height="110" rx="16" fill="#ffffff" stroke="#F0C9AC" stroke-width="2"/>
+    <text x="100" y="766" font-weight="bold" fill="#1a1a1a">4인 이상</text>
+    <text x="1000" y="766" font-weight="bold" fill="#E8722C" text-anchor="end">701,300원</text>
+  </g>
+
+  <!-- 신청기간/사용기간 박스 -->
+  <rect x="60" y="850" width="960" height="330" rx="20" fill="#FFF2CC"/>
+  <text x="96" y="920" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#7A3B10">신청기간</text>
+  <text x="1000" y="920" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#3A3F47" text-anchor="end">2026.06.15 ~ 12.31</text>
+
+  <text x="96" y="1000" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#7A3B10">하절기 사용</text>
+  <text x="1000" y="1000" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#3A3F47" text-anchor="end">2026.07.01 ~ 09.30</text>
+
+  <text x="96" y="1080" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#7A3B10">대상</text>
+  <text x="1000" y="1080" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#3A3F47" text-anchor="end">기초수급 + 노인·영유아 등 포함</text>
+
+  <text x="96" y="1152" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#7A3B10">문의</text>
+  <text x="1000" y="1152" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#3A3F47" text-anchor="end">1600-3190 · energyv.or.kr</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE3D6"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#7A5B44">출처: 에너지바우처 공식(에너지공단) · 세대구성에 따라 상이</text>
+</svg>
