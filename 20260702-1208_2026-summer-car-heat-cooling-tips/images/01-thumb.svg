@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F0872F"/>
+      <stop offset="1" stop-color="#D9611F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 태양 장식 -->
+  <circle cx="930" cy="180" r="150" fill="#FFD23F" opacity="0.9"/>
+  <g stroke="#FFD23F" stroke-width="14" stroke-linecap="round" opacity="0.55">
+    <line x1="930" y1="-10" x2="930" y2="30"/>
+    <line x1="1090" y1="180" x2="1050" y2="180"/>
+    <line x1="1045" y1="65" x2="1015" y2="95"/>
+    <line x1="1045" y1="295" x2="1015" y2="265"/>
+  </g>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.07"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="200" height="68" fill="#FFD23F"/>
+  <text x="180" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#7A3A05" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#FFF3DE">여름 땡볕 주차, 차 안은 사우나</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="96" fill="#ffffff">실내온도 최대</text>
+  <text x="80" y="640" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="900"
+        font-size="200" fill="#FFD23F">92도</text>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="740" rx="24" ry="24" width="920" height="210" fill="#ffffff" opacity="0.15"/>
+  <text x="112" y="815" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="50" fill="#ffffff">빠르게 식히는 순서 &amp; 차량 관리 꿀팁</text>
+  <text x="112" y="895" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#FFD23F">문 여닫기 → 외기순환 → 내기순환</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1015" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#FFF3DE" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

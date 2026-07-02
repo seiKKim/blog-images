@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EC"/>
+  <rect width="1080" height="230" fill="#E8722C"/>
+  <text x="60" y="115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">주차 후 차량 부위별 실내온도</text>
+  <text x="60" y="180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFE7CC">기온 35도 · 4시간 주차 기준</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- row1 -->
+    <rect x="60" y="300" width="960" height="150" rx="18" fill="#ffffff" stroke="#F0D6BC"/>
+    <text x="100" y="382" font-size="46" font-weight="bold" fill="#1a1a1a">앞유리(대시보드) 부근</text>
+    <text x="990" y="390" font-size="72" font-weight="900" fill="#D9611F" text-anchor="end">92도</text>
+    <!-- row2 -->
+    <rect x="60" y="470" width="960" height="150" rx="18" fill="#ffffff" stroke="#F0D6BC"/>
+    <text x="100" y="552" font-size="46" font-weight="bold" fill="#1a1a1a">뒷유리 부근</text>
+    <text x="990" y="560" font-size="72" font-weight="900" fill="#E8722C" text-anchor="end">78도</text>
+    <!-- row3 -->
+    <rect x="60" y="640" width="960" height="150" rx="18" fill="#ffffff" stroke="#F0D6BC"/>
+    <text x="100" y="722" font-size="46" font-weight="bold" fill="#1a1a1a">차량 평균 실내</text>
+    <text x="900" y="730" font-size="62" font-weight="900" fill="#E8722C" text-anchor="end">70도↑</text>
+    <!-- row4 -->
+    <rect x="60" y="810" width="960" height="150" rx="18" fill="#ffffff" stroke="#F0D6BC"/>
+    <text x="100" y="892" font-size="46" font-weight="bold" fill="#1a1a1a">조수석·뒷좌석</text>
+    <text x="990" y="900" font-size="72" font-weight="900" fill="#F0872F" text-anchor="end">62도</text>
+  </g>
+
+  <!-- 강조 박스 -->
+  <rect x="60" y="1010" width="960" height="180" rx="20" fill="#FFEFD6"/>
+  <text x="100" y="1085" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#B24A10">외부 30도만 넘어도</text>
+  <text x="100" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#B24A10">직사광선 차 안은 10분에 40~50도</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F3E2D0"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8A6A4E">출처: 한국교통안전공단·도로교통공단 실험</text>
+</svg>

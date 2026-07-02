@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EC"/>
+  <rect width="1080" height="230" fill="#E8722C"/>
+  <text x="60" y="115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">차 안에 두면 위험한 물건</text>
+  <text x="60" y="180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFE7CC">실내 80~90도, 내릴 때 꼭 챙기세요</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="290" width="960" height="150" rx="18" fill="#ffffff" stroke="#F0D6BC"/>
+    <text x="100" y="352" font-size="44" font-weight="bold" fill="#1a1a1a">라이터·부탄가스</text>
+    <text x="100" y="405" font-size="34" fill="#6B5B4A">50도부터 압력 상승, 82도서 라이터 폭발</text>
+
+    <rect x="60" y="460" width="960" height="150" rx="18" fill="#ffffff" stroke="#F0D6BC"/>
+    <text x="100" y="522" font-size="44" font-weight="bold" fill="#1a1a1a">탄산음료 캔·페트병</text>
+    <text x="100" y="575" font-size="34" fill="#6B5B4A">78도서 대시보드 위 캔 파열, 전자장비 고장</text>
+
+    <rect x="60" y="630" width="960" height="150" rx="18" fill="#ffffff" stroke="#F0D6BC"/>
+    <text x="100" y="692" font-size="44" font-weight="bold" fill="#1a1a1a">리튬이온 보조배터리·폰</text>
+    <text x="100" y="745" font-size="34" fill="#6B5B4A">60도 이상서 부풀거나 열폭주 폭발 위험</text>
+
+    <rect x="60" y="800" width="960" height="150" rx="18" fill="#ffffff" stroke="#F0D6BC"/>
+    <text x="100" y="862" font-size="44" font-weight="bold" fill="#1a1a1a">스프레이류·손 소독제</text>
+    <text x="100" y="915" font-size="34" fill="#6B5B4A">가스 팽창 파열, 알코올은 가연성</text>
+
+    <rect x="60" y="970" width="960" height="150" rx="18" fill="#ffffff" stroke="#F0D6BC"/>
+    <text x="100" y="1032" font-size="44" font-weight="bold" fill="#1a1a1a">선글라스·돋보기</text>
+    <text x="100" y="1085" font-size="34" fill="#6B5B4A">렌즈 집광으로 시트 태운 해외 사례</text>
+  </g>
+
+  <rect x="60" y="1145" width="960" height="90" rx="16" fill="#FFEFD6"/>
+  <text x="540" y="1203" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#B24A10" text-anchor="middle">실내 90도↑ 도달 시 폭발 위험</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F3E2D0"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8A6A4E">출처: 정부 정책브리핑(korea.kr)</text>
+</svg>

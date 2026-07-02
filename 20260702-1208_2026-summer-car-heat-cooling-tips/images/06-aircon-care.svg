@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF6EC"/>
+  <rect width="1080" height="150" fill="#E8722C"/>
+  <text x="60" y="95" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">에어컨 곰팡이·냄새 잡는 법</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="195" width="960" height="140" rx="18" fill="#ffffff" stroke="#F0D6BC"/>
+    <text x="100" y="255" font-size="44" font-weight="bold" fill="#E8722C">송풍 건조</text>
+    <text x="100" y="308" font-size="36" fill="#4A4A4A">도착 2~3분 전 에어컨 끄고 송풍으로 수분 말리기</text>
+
+    <rect x="60" y="355" width="960" height="140" rx="18" fill="#ffffff" stroke="#F0D6BC"/>
+    <text x="100" y="415" font-size="44" font-weight="bold" fill="#E8722C">필터 교체</text>
+    <text x="100" y="468" font-size="36" fill="#4A4A4A">연 1~2회, 냄새 나면 주기 전이라도 교체</text>
+
+    <rect x="60" y="515" width="960" height="140" rx="18" fill="#ffffff" stroke="#F0D6BC"/>
+    <text x="100" y="575" font-size="44" font-weight="bold" fill="#E8722C">습기·시야 관리</text>
+    <text x="100" y="628" font-size="36" fill="#4A4A4A">차량용 제습제·김서림 방지제·와이퍼 점검</text>
+  </g>
+
+  <text x="1000" y="705" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#A0866A" text-anchor="end">출처: 정부 정책브리핑(korea.kr)</text>
+</svg>

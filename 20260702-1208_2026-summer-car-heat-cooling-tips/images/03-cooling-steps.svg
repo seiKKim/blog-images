@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EC"/>
+  <rect width="1080" height="230" fill="#E8722C"/>
+  <text x="60" y="115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">실내온도 빠르게 낮추는 순서</text>
+  <text x="60" y="180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFE7CC">타자마자 시원하게 4단계</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- step1 -->
+    <rect x="60" y="290" width="960" height="220" rx="20" fill="#ffffff" stroke="#F0D6BC"/>
+    <circle cx="150" cy="400" r="50" fill="#E8722C"/>
+    <text x="150" y="418" font-size="56" font-weight="900" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="240" y="380" font-size="46" font-weight="bold" fill="#1a1a1a">창문 열고 문 여닫기</text>
+    <text x="240" y="445" font-size="36" fill="#6B5B4A">조수석 창 내린 뒤 운전석 문 4~10회 여닫기</text>
+
+    <!-- step2 -->
+    <rect x="60" y="530" width="960" height="220" rx="20" fill="#ffffff" stroke="#F0D6BC"/>
+    <circle cx="150" cy="640" r="50" fill="#E8722C"/>
+    <text x="150" y="658" font-size="56" font-weight="900" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="240" y="620" font-size="46" font-weight="bold" fill="#1a1a1a">외기순환 에어컨</text>
+    <text x="240" y="685" font-size="36" fill="#6B5B4A">뒷좌석 창 10cm 개방, 뜨거운 공기 배출</text>
+
+    <!-- step3 -->
+    <rect x="60" y="770" width="960" height="220" rx="20" fill="#ffffff" stroke="#F0D6BC"/>
+    <circle cx="150" cy="880" r="50" fill="#E8722C"/>
+    <text x="150" y="898" font-size="56" font-weight="900" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="240" y="860" font-size="46" font-weight="bold" fill="#1a1a1a">내기순환 전환</text>
+    <text x="240" y="925" font-size="36" fill="#6B5B4A">식으면 전환, 처음엔 강하게 틀어 빠르게 냉방</text>
+
+    <!-- step4 -->
+    <rect x="60" y="1010" width="960" height="220" rx="20" fill="#ffffff" stroke="#F0D6BC"/>
+    <circle cx="150" cy="1120" r="50" fill="#E8722C"/>
+    <text x="150" y="1138" font-size="56" font-weight="900" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="240" y="1100" font-size="46" font-weight="bold" fill="#1a1a1a">주행 중 대각선 창 열기</text>
+    <text x="240" y="1165" font-size="36" fill="#6B5B4A">운전석 창 + 대각선 뒤쪽 창으로 열기 배출</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F3E2D0"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8A6A4E">출처: GS칼텍스·오토트리뷴 등 정리</text>
+</svg>

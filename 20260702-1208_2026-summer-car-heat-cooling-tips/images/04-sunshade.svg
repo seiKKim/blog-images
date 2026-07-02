@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF6EC"/>
+  <rect width="1080" height="150" fill="#E8722C"/>
+  <text x="60" y="95" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">햇빛가리개, 대시보드 약 20도↓</text>
+
+  <!-- 없을 때 -->
+  <rect x="60" y="200" width="440" height="360" rx="24" fill="#F7C9A0"/>
+  <text x="280" y="270" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#8A3A05" text-anchor="middle">가리개 없이</text>
+  <text x="280" y="420" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="900"
+        font-size="130" fill="#D9611F" text-anchor="middle">92도</text>
+  <text x="280" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#8A3A05" text-anchor="middle">대시보드 부근</text>
+
+  <!-- 화살표 -->
+  <text x="540" y="400" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="900"
+        font-size="90" fill="#E8722C" text-anchor="middle">→</text>
+
+  <!-- 있을 때 -->
+  <rect x="580" y="200" width="440" height="360" rx="24" fill="#FFE7CC"/>
+  <text x="800" y="270" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#8A3A05" text-anchor="middle">선셰이드 장착</text>
+  <text x="800" y="420" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="900"
+        font-size="120" fill="#1F8A53" text-anchor="middle">약 20도</text>
+  <text x="800" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1F8A53" text-anchor="middle">낮춰줌</text>
+
+  <text x="60" y="635" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#8A6A4E">창문 1cm 개방 약 6도↓ · 뒷부분 햇빛 주차 약 10도↓</text>
+  <text x="60" y="695" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#A0866A">출처: 도로교통공단 실험</text>
+</svg>
