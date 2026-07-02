@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EF"/>
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <rect x="64" y="70" rx="28" ry="28" width="190" height="58" fill="#FFD23F"/>
+  <text x="159" y="110" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#7a3a10" text-anchor="middle">생활꿀팁</text>
+  <text x="64" y="185" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">햇빛가리개, 어디를 식힐까?</text>
+
+  <!-- 대시보드(표면) 카드 -->
+  <rect x="64" y="280" width="952" height="380" rx="22" fill="#ffffff" stroke="#F0D6C4"/>
+  <rect x="64" y="280" width="952" height="90" rx="22" fill="#E8722C"/>
+  <rect x="64" y="330" width="952" height="40" fill="#E8722C"/>
+  <text x="100" y="343" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff">대시보드 등 표면 온도</text>
+  <text x="540" y="500" font-family="Malgun Gothic" font-weight="bold" font-size="150" fill="#E23B3B" text-anchor="middle">20℃ ↓</text>
+  <text x="540" y="600" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#666" text-anchor="middle">직사광선 받는 표면, 큰 폭 감소</text>
+
+  <!-- 실내 공기 카드 -->
+  <rect x="64" y="700" width="952" height="380" rx="22" fill="#ffffff" stroke="#F0D6C4"/>
+  <rect x="64" y="700" width="952" height="90" rx="22" fill="#3FA9C9"/>
+  <rect x="64" y="750" width="952" height="40" fill="#3FA9C9"/>
+  <text x="100" y="763" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff">실내(공기) 온도</text>
+  <text x="540" y="920" font-family="Malgun Gothic" font-weight="bold" font-size="150" fill="#3FA9C9" text-anchor="middle">약 2℃ ↓</text>
+  <text x="540" y="1020" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#666" text-anchor="middle">공기 자체는 소폭 감소</text>
+
+  <!-- 요약 -->
+  <rect x="64" y="1120" width="952" height="110" rx="18" fill="#FFD23F"/>
+  <text x="540" y="1188" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#7a3a10" text-anchor="middle">표면 과열 차단용 · 공기 냉방은 별도</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F3E2D6"/>
+  <text x="64" y="1322" font-family="Malgun Gothic" font-size="32" fill="#8a6a55">출처: 한국교통안전공단(TS) 실험</text>
+</svg>

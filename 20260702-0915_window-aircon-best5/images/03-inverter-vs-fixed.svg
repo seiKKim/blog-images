@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#FFF3E9"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <text x="60" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">인버터 vs 정속형</text>
+
+  <text x="60" y="255" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C">월 전기요금 (하루 8시간 사용 기준)</text>
+
+  <g font-family="Malgun Gothic">
+    <text x="80" y="330" font-size="46" font-weight="bold" fill="#1a1a1a">인버터 1등급</text>
+    <rect x="80" y="352" width="340" height="86" rx="14" fill="#E8722C"/>
+    <text x="440" y="412" font-size="50" font-weight="bold" fill="#E8722C">월 2만~2.5만원</text>
+
+    <text x="80" y="510" font-size="46" font-weight="bold" fill="#1a1a1a">정속형 5등급</text>
+    <rect x="80" y="532" width="720" height="86" rx="14" fill="#9aa5b1"/>
+    <text x="80" y="592" font-size="50" font-weight="bold" fill="#ffffff" dx="20">월 4만~5만원</text>
+  </g>
+
+  <rect x="60" y="680" width="960" height="290" rx="20" fill="#ffffff" stroke="#F0D6C2"/>
+  <text x="90" y="750" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#1a1a1a">소음도 세대 차이가 큽니다</text>
+  <text x="90" y="818" font-family="Malgun Gothic" font-size="38" fill="#1a1a1a">· 신형 인버터(2024년~) : 30dB대 초중반</text>
+  <text x="90" y="878" font-family="Malgun Gothic" font-size="38" fill="#1a1a1a">· 오래된 저가 정속형 : 60dB 수준 언급</text>
+  <text x="90" y="938" font-family="Malgun Gothic" font-size="36" fill="#E23B3B" font-weight="bold">30만원대 재고떨이는 구형 정속형 주의!</text>
+
+  <rect x="0" y="1000" width="1080" height="80" fill="#F0E0D2"/>
+  <text x="60" y="1052" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">수치: 2026년 리뷰·구매가이드 매체 기준값 (참고용)</text>
+</svg>

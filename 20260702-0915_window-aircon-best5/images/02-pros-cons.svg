@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#FFF3E9"/>
+  <rect width="1080" height="180" fill="#E8722C"/>
+  <text x="60" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">사기 전 장점 vs 단점</text>
+
+  <!-- 좌 장점 -->
+  <rect x="55" y="240" width="470" height="620" rx="24" fill="#ffffff" stroke="#CDEBD9" stroke-width="3"/>
+  <rect x="55" y="240" width="470" height="90" rx="24" fill="#1F8A53"/>
+  <text x="290" y="302" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">이래서 삽니다</text>
+  <text x="90" y="430" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#1F8A53">O</text><text x="142" y="430" font-family="Malgun Gothic" font-size="40" fill="#1a1a1a">실외기·벽 타공 불필요</text>
+  <text x="90" y="550" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#1F8A53">O</text><text x="142" y="550" font-family="Malgun Gothic" font-size="40" fill="#1a1a1a">이사 시 이전 쉬움</text>
+  <text x="90" y="670" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#1F8A53">O</text><text x="142" y="670" font-family="Malgun Gothic" font-size="40" fill="#1a1a1a">작은 방 냉방 빠름</text>
+  <text x="90" y="785" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C">벽걸이 이전 설치 30~50만원 언급</text>
+
+  <!-- 우 단점 -->
+  <rect x="555" y="240" width="470" height="620" rx="24" fill="#ffffff" stroke="#F5C9C9" stroke-width="3"/>
+  <rect x="555" y="240" width="470" height="90" rx="24" fill="#E23B3B"/>
+  <text x="790" y="302" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">여기서 후회</text>
+  <text x="590" y="430" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#E23B3B">X</text><text x="642" y="430" font-family="Malgun Gothic" font-size="40" fill="#1a1a1a">압축기 내장 → 소음</text>
+  <text x="590" y="550" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#E23B3B">X</text><text x="642" y="550" font-family="Malgun Gothic" font-size="40" fill="#1a1a1a">본체 약 20cm 돌출</text>
+  <text x="590" y="670" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#E23B3B">X</text><text x="642" y="670" font-family="Malgun Gothic" font-size="40" fill="#1a1a1a">창문 규격 제약</text>
+  <text x="590" y="785" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C">"방 좁아 보인다" 후기 빈번</text>
+
+  <rect x="0" y="960" width="1080" height="120" fill="#F0E0D2"/>
+  <text x="540" y="1032" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">소음 + 창문 규격만 잡으면 후회 90% 예방</text>
+</svg>

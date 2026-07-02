@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EF"/>
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <rect x="64" y="70" rx="28" ry="28" width="190" height="58" fill="#FFD23F"/>
+  <text x="159" y="110" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#7a3a10" text-anchor="middle">생활꿀팁</text>
+  <text x="64" y="185" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">폭염철 차량 점검 체크리스트</text>
+
+  <g font-family="Malgun Gothic">
+    <!-- 타이어 -->
+    <rect x="64" y="280" width="952" height="150" rx="18" fill="#ffffff" stroke="#F0D6C4"/>
+    <rect x="90" y="330" width="52" height="52" rx="10" fill="#E8722C"/>
+    <text x="116" y="372" font-size="40" font-weight="bold" fill="#fff" text-anchor="middle">✓</text>
+    <text x="176" y="345" font-size="44" font-weight="bold" fill="#333">타이어 공기압</text>
+    <text x="176" y="400" font-size="34" fill="#888">제조사 권장 적정 공기압 유지·점검</text>
+
+    <!-- 냉각수 -->
+    <rect x="64" y="446" width="952" height="150" rx="18" fill="#ffffff" stroke="#F0D6C4"/>
+    <rect x="90" y="496" width="52" height="52" rx="10" fill="#E8722C"/>
+    <text x="116" y="538" font-size="40" font-weight="bold" fill="#fff" text-anchor="middle">✓</text>
+    <text x="176" y="511" font-size="44" font-weight="bold" fill="#333">냉각수(부동액)</text>
+    <text x="176" y="566" font-size="34" fill="#888">엔진이 완전히 식은 뒤 점검</text>
+
+    <!-- 에어컨 필터 -->
+    <rect x="64" y="612" width="952" height="150" rx="18" fill="#ffffff" stroke="#F0D6C4"/>
+    <rect x="90" y="662" width="52" height="52" rx="10" fill="#E8722C"/>
+    <text x="116" y="704" font-size="40" font-weight="bold" fill="#fff" text-anchor="middle">✓</text>
+    <text x="176" y="677" font-size="44" font-weight="bold" fill="#333">에어컨 필터·가스</text>
+    <text x="176" y="732" font-size="34" fill="#888">정기 점검·교체, 냉매 상태 확인</text>
+
+    <!-- 배터리 -->
+    <rect x="64" y="778" width="952" height="150" rx="18" fill="#ffffff" stroke="#F0D6C4"/>
+    <rect x="90" y="828" width="52" height="52" rx="10" fill="#E8722C"/>
+    <text x="116" y="870" font-size="40" font-weight="bold" fill="#fff" text-anchor="middle">✓</text>
+    <text x="176" y="843" font-size="44" font-weight="bold" fill="#333">배터리</text>
+    <text x="176" y="898" font-size="34" fill="#888">고온은 성능 저하·방전 가속</text>
+
+    <!-- 소화기 -->
+    <rect x="64" y="944" width="952" height="150" rx="18" fill="#ffffff" stroke="#F0D6C4"/>
+    <rect x="90" y="994" width="52" height="52" rx="10" fill="#E8722C"/>
+    <text x="116" y="1036" font-size="40" font-weight="bold" fill="#fff" text-anchor="middle">✓</text>
+    <text x="176" y="1009" font-size="44" font-weight="bold" fill="#333">차량용 소화기</text>
+    <text x="176" y="1064" font-size="34" fill="#888">트렁크 말고 손 닿기 쉬운 곳에</text>
+  </g>
+
+  <rect x="64" y="1120" width="952" height="110" rx="18" fill="#FFD23F"/>
+  <text x="540" y="1188" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#7a3a10" text-anchor="middle">출발 전 5가지만 챙기세요</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F3E2D6"/>
+  <text x="64" y="1322" font-family="Malgun Gothic" font-size="32" fill="#8a6a55">출처: 한국교통안전공단(TS) 여름철 수칙</text>
+</svg>

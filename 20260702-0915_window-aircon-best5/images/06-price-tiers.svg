@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF3E9"/>
+  <rect width="1080" height="190" fill="#E8722C"/>
+  <text x="60" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">2026년 가격대 감 잡기</text>
+
+  <rect x="60" y="250" width="960" height="200" rx="20" fill="#ffffff" stroke="#F0D6C2" stroke-width="2"/><rect x="60" y="250" width="14" height="200" rx="7" fill="#E8722C"/><text x="100" y="320" font-family="Malgun Gothic" font-size="46" font-weight="bold" fill="#1a1a1a">가성비</text><text x="1000" y="320" font-family="Malgun Gothic" font-size="46" font-weight="bold" fill="#E8722C" text-anchor="end">50만원대 후반~60만원대</text><text x="100" y="390" font-family="Malgun Gothic" font-size="36" fill="#5B6B7C">파세코 듀얼 인버터2 59.9만원</text>
+  <rect x="60" y="480" width="960" height="200" rx="20" fill="#ffffff" stroke="#F0D6C2" stroke-width="2"/><rect x="60" y="480" width="14" height="200" rx="7" fill="#C75A1A"/><text x="100" y="550" font-family="Malgun Gothic" font-size="46" font-weight="bold" fill="#1a1a1a">중급</text><text x="1000" y="550" font-family="Malgun Gothic" font-size="46" font-weight="bold" fill="#C75A1A" text-anchor="end">60만원대 후반~70만원</text><text x="100" y="620" font-family="Malgun Gothic" font-size="36" fill="#5B6B7C">귀뚜라미 인버터 5.4평 69.9만원</text>
+  <rect x="60" y="710" width="960" height="200" rx="20" fill="#ffffff" stroke="#F0D6C2" stroke-width="2"/><rect x="60" y="710" width="14" height="200" rx="7" fill="#2B2F36"/><text x="100" y="780" font-family="Malgun Gothic" font-size="46" font-weight="bold" fill="#1a1a1a">프리미엄</text><text x="1000" y="780" font-family="Malgun Gothic" font-size="46" font-weight="bold" fill="#2B2F36" text-anchor="end">70만원대 중반~80만원대</text><text x="100" y="850" font-family="Malgun Gothic" font-size="36" fill="#5B6B7C">삼성 무풍 윈도우핏 79.7만원</text>
+
+  <rect x="60" y="960" width="960" height="150" rx="20" fill="#FDE7E7" stroke="#F5C9C9"/>
+  <text x="90" y="1025" font-family="Malgun Gothic" font-size="40" font-weight="bold" fill="#E23B3B">저가/재고 30만원대~ 는 주의</text>
+  <text x="90" y="1080" font-family="Malgun Gothic" font-size="34" fill="#1a1a1a">정속형·구형 재고가 많습니다 (1등급 인버터 확인)</text>
+
+  <rect x="60" y="1140" width="960" height="110" rx="20" fill="#ffffff" stroke="#F0D6C2"/>
+  <text x="540" y="1210" font-family="Malgun Gothic" font-size="38" font-weight="bold" fill="#1a1a1a" text-anchor="middle">삼성·LG가 파세코·캐리어보다 30~40만원↑</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0E0D2"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">가격: 2026년 리뷰 매체 기준값 (판매처·시기 따라 변동)</text>
+</svg>

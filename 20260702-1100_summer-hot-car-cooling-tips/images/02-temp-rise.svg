@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EF"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <rect x="64" y="70" rx="28" ry="28" width="190" height="58" fill="#FFD23F"/>
+  <text x="159" y="110" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#7a3a10" text-anchor="middle">생활꿀팁</text>
+  <text x="64" y="185" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">주차 차량, 이렇게 뜨거워집니다</text>
+
+  <!-- NHTSA 블록 -->
+  <text x="64" y="300" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#E8722C">미국 도로교통안전국(NHTSA) · 외기 35℃</text>
+  <g font-family="Malgun Gothic">
+    <rect x="64" y="330" width="952" height="96" rx="16" fill="#ffffff" stroke="#F0D6C4"/>
+    <text x="100" y="390" font-size="44" font-weight="bold" fill="#333">10분 후</text>
+    <text x="992" y="390" font-size="46" font-weight="bold" fill="#E8722C" text-anchor="end">44℃</text>
+
+    <rect x="64" y="438" width="952" height="96" rx="16" fill="#ffffff" stroke="#F0D6C4"/>
+    <text x="100" y="498" font-size="44" font-weight="bold" fill="#333">30분 후</text>
+    <text x="992" y="498" font-size="46" font-weight="bold" fill="#E8722C" text-anchor="end">54℃</text>
+
+    <rect x="64" y="546" width="952" height="96" rx="16" fill="#ffffff" stroke="#F0D6C4"/>
+    <text x="100" y="606" font-size="44" font-weight="bold" fill="#333">1시간 후</text>
+    <text x="992" y="606" font-size="46" font-weight="bold" fill="#E8722C" text-anchor="end">65℃ 초과</text>
+  </g>
+
+  <!-- 서울소방 블록 -->
+  <text x="64" y="740" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#E8722C">서울시 소방재난본부 · 외기 33℃</text>
+  <g font-family="Malgun Gothic">
+    <rect x="64" y="770" width="952" height="96" rx="16" fill="#ffffff" stroke="#F0D6C4"/>
+    <text x="100" y="830" font-size="44" font-weight="bold" fill="#333">5분 후</text>
+    <text x="992" y="830" font-size="46" font-weight="bold" fill="#E8722C" text-anchor="end">40℃</text>
+
+    <rect x="64" y="878" width="952" height="96" rx="16" fill="#ffffff" stroke="#F0D6C4"/>
+    <text x="100" y="938" font-size="44" font-weight="bold" fill="#333">15분 후</text>
+    <text x="992" y="938" font-size="46" font-weight="bold" fill="#E8722C" text-anchor="end">50℃</text>
+
+    <rect x="64" y="986" width="952" height="96" rx="16" fill="#ffffff" stroke="#F0D6C4"/>
+    <text x="100" y="1046" font-size="44" font-weight="bold" fill="#333">30분 후</text>
+    <text x="992" y="1046" font-size="46" font-weight="bold" fill="#E8722C" text-anchor="end">60℃ 근접</text>
+  </g>
+
+  <!-- 강조 띠 -->
+  <rect x="64" y="1120" width="952" height="110" rx="18" fill="#FFD23F"/>
+  <text x="540" y="1188" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#7a3a10" text-anchor="middle">단 5분 만에 40℃ 도달</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#F3E2D6"/>
+  <text x="64" y="1322" font-family="Malgun Gothic" font-size="32" fill="#8a6a55">출처: NHTSA, 서울시 소방재난본부</text>
+</svg>

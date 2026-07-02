@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF6EF"/>
+  <rect width="1080" height="210" fill="#E23B3B"/>
+  <rect x="64" y="70" rx="28" ry="28" width="190" height="58" fill="#FFD23F"/>
+  <text x="159" y="110" font-family="Malgun Gothic" font-weight="bold" font-size="32" fill="#7a3a10" text-anchor="middle">생활꿀팁</text>
+  <text x="64" y="185" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">차 안에 두면 위험한 물건</text>
+
+  <g font-family="Malgun Gothic">
+    <!-- 라이터 -->
+    <rect x="64" y="280" width="952" height="150" rx="18" fill="#ffffff" stroke="#F0C4C4"/>
+    <text x="100" y="345" font-size="44" font-weight="bold" fill="#333">일회용 라이터</text>
+    <text x="100" y="405" font-size="34" fill="#888">82℃ 도달 시 (실험)</text>
+    <text x="992" y="373" font-size="44" font-weight="bold" fill="#E23B3B" text-anchor="end">가스 폭발</text>
+
+    <!-- 부탄가스 -->
+    <rect x="64" y="446" width="952" height="150" rx="18" fill="#ffffff" stroke="#F0C4C4"/>
+    <text x="100" y="511" font-size="44" font-weight="bold" fill="#333">부탄가스</text>
+    <text x="100" y="571" font-size="34" fill="#888">50℃ 이상</text>
+    <text x="992" y="539" font-size="44" font-weight="bold" fill="#E23B3B" text-anchor="end">압력 급상승 폭발</text>
+
+    <!-- 탄산음료 -->
+    <rect x="64" y="612" width="952" height="150" rx="18" fill="#ffffff" stroke="#F0C4C4"/>
+    <text x="100" y="677" font-size="44" font-weight="bold" fill="#333">탄산음료 캔·페트병</text>
+    <text x="100" y="737" font-size="34" fill="#888">외기 35℃·4시간 → 차내 78℃</text>
+    <text x="992" y="705" font-size="44" font-weight="bold" fill="#E23B3B" text-anchor="end">캔 파열</text>
+
+    <!-- 보조배터리 -->
+    <rect x="64" y="778" width="952" height="150" rx="18" fill="#ffffff" stroke="#F0C4C4"/>
+    <text x="100" y="843" font-size="44" font-weight="bold" fill="#333">보조배터리·노트북·휴대폰</text>
+    <text x="100" y="903" font-size="34" fill="#888">고온</text>
+    <text x="992" y="871" font-size="44" font-weight="bold" fill="#E23B3B" text-anchor="end">발화·변형</text>
+
+    <!-- 손소독제 -->
+    <rect x="64" y="944" width="952" height="150" rx="18" fill="#ffffff" stroke="#F0C4C4"/>
+    <text x="100" y="1009" font-size="44" font-weight="bold" fill="#333">손 소독제(에탄올)</text>
+    <text x="100" y="1069" font-size="34" fill="#888">고온</text>
+    <text x="992" y="1037" font-size="44" font-weight="bold" fill="#E23B3B" text-anchor="end">가연성 증기 화재</text>
+  </g>
+
+  <rect x="64" y="1120" width="952" height="110" rx="18" fill="#FFD23F"/>
+  <text x="540" y="1188" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#7a3a10" text-anchor="middle">폭발·가연성 물품은 꼭 빼두세요</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F3E2D6"/>
+  <text x="64" y="1322" font-family="Malgun Gothic" font-size="32" fill="#8a6a55">출처: 소방·기관 실험 사례</text>
+</svg>

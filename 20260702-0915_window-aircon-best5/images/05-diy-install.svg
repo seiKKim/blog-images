@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF3E9"/>
+  <rect width="1080" height="170" fill="#E8722C"/>
+  <text x="60" y="108" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff">자가설치는 세로형 브라켓</text>
+
+  <g font-family="Malgun Gothic">
+    <rect x="60" y="230" width="300" height="290" rx="20" fill="#ffffff" stroke="#F0D6C2"/>
+    <text x="210" y="300" font-size="40" font-weight="bold" fill="#E8722C" text-anchor="middle">장점</text>
+    <text x="210" y="375" font-size="34" fill="#1a1a1a" text-anchor="middle">미닫이창 대응</text>
+    <text x="210" y="425" font-size="34" fill="#1a1a1a" text-anchor="middle">전용 브라켓 제공</text>
+    <text x="210" y="475" font-size="34" fill="#1a1a1a" text-anchor="middle">분리·재설치 쉬움</text>
+
+    <rect x="390" y="230" width="300" height="290" rx="20" fill="#ffffff" stroke="#F0D6C2"/>
+    <text x="540" y="300" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">체크</text>
+    <text x="540" y="375" font-size="34" fill="#1a1a1a" text-anchor="middle">최소 설치 높이</text>
+    <text x="540" y="425" font-size="34" fill="#1a1a1a" text-anchor="middle">(파세코 77cm 언급)</text>
+    <text x="540" y="475" font-size="34" fill="#1a1a1a" text-anchor="middle">창틀 강도·규격</text>
+
+    <rect x="720" y="230" width="300" height="290" rx="20" fill="#ffffff" stroke="#F5C9C9"/>
+    <text x="870" y="300" font-size="40" font-weight="bold" fill="#E23B3B" text-anchor="middle">주의</text>
+    <text x="870" y="375" font-size="34" fill="#1a1a1a" text-anchor="middle">가격 가로형의</text>
+    <text x="870" y="425" font-size="34" fill="#E23B3B" font-weight="bold" text-anchor="middle">약 2배</text>
+    <text x="870" y="475" font-size="34" fill="#1a1a1a" text-anchor="middle">규격 애매하면 서비스</text>
+  </g>
+
+  <rect x="0" y="600" width="1080" height="120" fill="#F0E0D2"/>
+  <text x="540" y="672" font-family="Malgun Gothic" font-size="38" font-weight="bold" fill="#1a1a1a" text-anchor="middle">창틀이 약하거나 규격이 애매하면 무리하지 마세요</text>
+</svg>
