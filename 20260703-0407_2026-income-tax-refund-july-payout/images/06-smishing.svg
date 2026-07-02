@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">환급 사칭 스미싱 주의</text>
+
+  <!-- 가짜 문자 (왼쪽) -->
+  <rect x="60" y="270" width="460" height="640" rx="24" fill="#ffffff" stroke="#E23B3B" stroke-width="3"/>
+  <rect x="60" y="270" width="460" height="86" rx="24" fill="#E23B3B"/>
+  <rect x="60" y="326" width="460" height="30" fill="#E23B3B"/>
+  <text x="290" y="326" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">✕ 사칭 문자</text>
+  <rect x="90" y="390" width="400" height="230" rx="18" fill="#FFECEC"/>
+  <text x="115" y="450" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#1a1a1a">[국세청] 환급금이</text>
+  <text x="115" y="495" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#1a1a1a">있습니다. 계좌번호를</text>
+  <text x="115" y="540" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#1a1a1a">입력하세요 →</text>
+  <text x="115" y="590" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" fill="#2B6BE0" text-decoration="underline">http://bit.ly/xxxx</text>
+  <text x="290" y="700" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#E23B3B" text-anchor="middle">링크 클릭 절대 금지</text>
+  <text x="290" y="750" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="28" fill="#5B6B7C" text-anchor="middle">국세청은 문자로 계좌·</text>
+  <text x="290" y="790" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="28" fill="#5B6B7C" text-anchor="middle">비밀번호를 요구 안 함</text>
+
+  <!-- 진짜 경로 (오른쪽) -->
+  <rect x="560" y="270" width="460" height="640" rx="24" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+  <rect x="560" y="270" width="460" height="86" rx="24" fill="#1F8A53"/>
+  <rect x="560" y="326" width="460" height="30" fill="#1F8A53"/>
+  <text x="790" y="326" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">✓ 진짜 확인</text>
+  <rect x="590" y="390" width="400" height="230" rx="18" fill="#E8F5EC"/>
+  <text x="615" y="450" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="30" fill="#1a1a1a">홈택스·손택스에</text>
+  <text x="615" y="495" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="30" fill="#1a1a1a">직접 접속해</text>
+  <text x="615" y="540" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="30" fill="#1a1a1a">환급금 조회</text>
+  <text x="615" y="590" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="28" fill="#1F8A53">hometax.go.kr</text>
+  <text x="790" y="700" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1F8A53" text-anchor="middle">공식 발신 주소</text>
+  <text x="790" y="750" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="28" fill="#5B6B7C" text-anchor="middle">@nts.go.kr</text>
+  <text x="790" y="790" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="28" fill="#5B6B7C" text-anchor="middle">hometax.go.kr</text>
+
+  <!-- 신고 번호 박스 -->
+  <rect x="60" y="950" width="960" height="260" rx="20" fill="#2B2F36"/>
+  <text x="100" y="1025" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#FFD23F">피해·의심 시 신고</text>
+  <text x="100" y="1095" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#ffffff">경찰 112(긴급) · 182(민원상담)</text>
+  <text x="100" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#ffffff">국세상담센터 126 · 보호나라(KISA)</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 국세청 안내 · 스미싱 신고 안내 기준</text>
+</svg>

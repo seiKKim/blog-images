@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">신고 기한 &amp; 환급 시점</text>
+
+  <!-- 단계 1: 신고 기한 -->
+  <rect x="60" y="270" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="270" width="14" height="200" rx="7" fill="#1F8A53"/>
+  <text x="110" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#5B6B7C">종합소득세 기본 신고 기한</text>
+  <text x="110" y="425" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="66" fill="#1F8A53">2026년 6월 1일까지</text>
+  <text x="1000" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#8896A5" text-anchor="end">STEP 1</text>
+
+  <!-- 화살표 -->
+  <text x="540" y="540" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#1F8A53" text-anchor="middle">▼</text>
+
+  <!-- 단계 2: 국세 환급 -->
+  <rect x="60" y="580" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="580" width="14" height="200" rx="7" fill="#1F8A53"/>
+  <text x="110" y="655" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#5B6B7C">국세(종합소득세) 환급 입금</text>
+  <text x="110" y="735" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="66" fill="#1F8A53">통상 6월 말~7월 초</text>
+  <text x="1000" y="655" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#8896A5" text-anchor="end">STEP 2</text>
+
+  <!-- 화살표 -->
+  <text x="540" y="850" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#1F8A53" text-anchor="middle">▼</text>
+
+  <!-- 단계 3: 지방세 -->
+  <rect x="60" y="890" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="890" width="14" height="200" rx="7" fill="#FFB020"/>
+  <text x="110" y="965" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#5B6B7C">개인지방소득세(약 10%) 별도 입금</text>
+  <text x="110" y="1045" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#C77800">국세 뒤 1~4주 후(7월 말경)</text>
+  <text x="1000" y="965" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#8896A5" text-anchor="end">STEP 3</text>
+
+  <!-- 안내 문구 -->
+  <text x="60" y="1185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#E23B3B">※ 전 국민 공통 지급일은 정해져 있지 않아요(개인별 차이)</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 국세청 홈택스(hometax.go.kr) 안내 기준</text>
+</svg>

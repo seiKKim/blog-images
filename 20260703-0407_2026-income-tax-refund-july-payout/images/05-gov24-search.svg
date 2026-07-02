@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">정부24 미환급금 통합조회</text>
+
+  <!-- 검색창 목업 -->
+  <rect x="60" y="270" width="960" height="110" rx="20" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+  <circle cx="130" cy="325" r="24" fill="none" stroke="#1F8A53" stroke-width="6"/>
+  <line x1="148" y1="343" x2="168" y2="363" stroke="#1F8A53" stroke-width="6" stroke-linecap="round"/>
+  <text x="200" y="342" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1a1a1a">미환급금 조회</text>
+
+  <text x="60" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#5B6B7C">한 번에 조회되는 항목</text>
+
+  <!-- 항목 카드 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="510" width="465" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="292" y="590" font-size="44" font-weight="bold" fill="#1F8A53" text-anchor="middle">국세</text>
+    <text x="292" y="645" font-size="34" font-weight="bold" fill="#5B6B7C" text-anchor="middle">미환급금</text>
+
+    <rect x="555" y="510" width="465" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="787" y="590" font-size="44" font-weight="bold" fill="#1F8A53" text-anchor="middle">지방세</text>
+    <text x="787" y="645" font-size="34" font-weight="bold" fill="#5B6B7C" text-anchor="middle">환급금</text>
+
+    <rect x="60" y="710" width="465" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="292" y="790" font-size="44" font-weight="bold" fill="#1F8A53" text-anchor="middle">건강보험</text>
+    <text x="292" y="845" font-size="34" font-weight="bold" fill="#5B6B7C" text-anchor="middle">미환급금</text>
+
+    <rect x="555" y="710" width="465" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="787" y="790" font-size="44" font-weight="bold" fill="#1F8A53" text-anchor="middle">국민연금</text>
+    <text x="787" y="845" font-size="34" font-weight="bold" fill="#5B6B7C" text-anchor="middle">과오납금</text>
+  </g>
+
+  <!-- 안내 박스 -->
+  <rect x="60" y="930" width="960" height="280" rx="20" fill="#FFF3F3" stroke="#E23B3B" stroke-width="2"/>
+  <text x="100" y="1005" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#E23B3B">소멸시효 주의</text>
+  <text x="100" y="1075" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#5B6B7C">국세 환급금은 결정일로부터 5년 이내</text>
+  <text x="100" y="1130" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#5B6B7C">찾지 않으면 소멸(국고 귀속)됩니다</text>
+  <text x="100" y="1185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1F8A53">→ 홈택스·손택스는 최대 5년치 조회 가능</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 정부24(gov.kr) 미환급금 통합조회</text>
+</svg>

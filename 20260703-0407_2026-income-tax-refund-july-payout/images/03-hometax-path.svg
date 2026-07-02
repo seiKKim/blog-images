@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">홈택스 환급금 조회 경로</text>
+
+  <!-- 브라우저 창 목업 -->
+  <rect x="60" y="270" width="960" height="700" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="270" width="960" height="90" rx="24" fill="#EAF3ED"/>
+  <rect x="60" y="336" width="960" height="24" fill="#EAF3ED"/>
+  <circle cx="110" cy="315" r="12" fill="#E0556E"/>
+  <circle cx="150" cy="315" r="12" fill="#FFB020"/>
+  <circle cx="190" cy="315" r="12" fill="#1F8A53"/>
+  <text x="260" y="328" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1F8A53">hometax.go.kr</text>
+
+  <!-- 경로 단계 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="110" y="410" width="860" height="90" rx="14" fill="#F4F7FB"/>
+    <circle cx="160" cy="455" r="26" fill="#1F8A53"/>
+    <text x="160" y="470" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="210" y="470" font-size="40" font-weight="bold" fill="#1a1a1a">로그인 (간편·공동·금융인증)</text>
+
+    <rect x="110" y="520" width="860" height="90" rx="14" fill="#F4F7FB"/>
+    <circle cx="160" cy="565" r="26" fill="#1F8A53"/>
+    <text x="160" y="580" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="210" y="580" font-size="40" font-weight="bold" fill="#1a1a1a">상단 [납부·고지·환급]</text>
+
+    <rect x="110" y="630" width="860" height="90" rx="14" fill="#E8F5EC"/>
+    <circle cx="160" cy="675" r="26" fill="#1F8A53"/>
+    <text x="160" y="690" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="210" y="690" font-size="40" font-weight="bold" fill="#1F8A53">[환급금] → [국세환급금 찾기]</text>
+
+    <rect x="110" y="740" width="860" height="90" rx="14" fill="#F4F7FB"/>
+    <circle cx="160" cy="785" r="26" fill="#1F8A53"/>
+    <text x="160" y="800" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="210" y="800" font-size="40" font-weight="bold" fill="#1a1a1a">이름·주민번호 입력 후 조회</text>
+
+    <rect x="110" y="850" width="860" height="90" rx="14" fill="#F4F7FB"/>
+    <circle cx="160" cy="895" r="26" fill="#1F8A53"/>
+    <text x="160" y="910" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="210" y="910" font-size="40" font-weight="bold" fill="#1a1a1a">결정일자·세목·금액 확인</text>
+  </g>
+
+  <!-- 팁 박스 -->
+  <rect x="60" y="1010" width="960" height="200" rx="20" fill="#FFF7E0" stroke="#FFD23F" stroke-width="2"/>
+  <text x="100" y="1080" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#C77800">TIP  메뉴가 안 보이면?</text>
+  <text x="100" y="1140" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#5B6B7C">My홈택스 → 환급·고지·체납·과오납 조회</text>
+  <text x="100" y="1185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#5B6B7C">→ 환급금 조회 경로로도 확인 (최대 5년치)</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 국세청 홈택스(hometax.go.kr)</text>
+</svg>
