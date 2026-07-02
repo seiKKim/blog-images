@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#243B6B"/>
+  <text x="60" y="98" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff">청약통장 소득공제 흐름</text>
+
+  <!-- 박스1 -->
+  <rect x="50" y="270" width="300" height="200" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="3"/>
+  <text x="200" y="340" font-family="Malgun Gothic" font-size="36" fill="#5B6B7C" text-anchor="middle">연 납입액</text>
+  <text x="200" y="420" font-family="Malgun Gothic" font-weight="bold" font-size="64" fill="#243B6B" text-anchor="middle">300만원</text>
+  <text x="200" y="465" font-family="Malgun Gothic" font-size="28" fill="#5B6B7C" text-anchor="middle">월 25만원 × 12</text>
+
+  <text x="392" y="390" font-family="Malgun Gothic" font-weight="bold" font-size="80" fill="#3E5C93" text-anchor="middle">→</text>
+
+  <!-- 박스2 -->
+  <rect x="435" y="270" width="240" height="200" rx="24" fill="#3E5C93"/>
+  <text x="555" y="340" font-family="Malgun Gothic" font-size="36" fill="#E8EEF5" text-anchor="middle">공제율</text>
+  <text x="555" y="425" font-family="Malgun Gothic" font-weight="bold" font-size="76" fill="#ffffff" text-anchor="middle">40%</text>
+
+  <text x="717" y="390" font-family="Malgun Gothic" font-weight="bold" font-size="80" fill="#3E5C93" text-anchor="middle">→</text>
+
+  <!-- 박스3 -->
+  <rect x="760" y="270" width="270" height="200" rx="24" fill="#243B6B"/>
+  <text x="895" y="340" font-family="Malgun Gothic" font-size="36" fill="#E8EEF5" text-anchor="middle">최대 공제</text>
+  <text x="895" y="425" font-family="Malgun Gothic" font-weight="bold" font-size="68" fill="#FFD23F" text-anchor="middle">120만원</text>
+
+  <text x="540" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="middle">총급여 7,000만원 이하 · 무주택 세대주 대상</text>
+  <rect x="0" y="640" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="692" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 국세청 주택마련저축 소득공제 (한도 240만 → 300만원 확대)</text>
+</svg>

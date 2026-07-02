@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#243B6B"/>
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.07"/>
+  <circle cx="110" cy="990" r="210" fill="#ffffff" opacity="0.05"/>
+  <rect x="80" y="86" rx="34" width="250" height="68" fill="#FFD23F"/>
+  <text x="205" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">금융/재테크</text>
+  <text x="80" y="248" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#E8EEF5">2026년 청약통장</text>
+  <text x="80" y="322" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#FFFFFF">핵심 세 숫자 총정리</text>
+  
+  <rect x="80" y="392" rx="24" width="920" height="184" fill="#ffffff" opacity="0.12"/>
+  <text x="118" y="464" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#E8EEF5">금리 최고</text>
+  <text x="960" y="520" font-family="Malgun Gothic" font-weight="bold" font-size="96" fill="#FFD23F" text-anchor="end">연 3.1%</text>
+  
+  <rect x="80" y="596" rx="24" width="920" height="184" fill="#ffffff" opacity="0.12"/>
+  <text x="118" y="668" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#E8EEF5">월 납입 인정액</text>
+  <text x="960" y="724" font-family="Malgun Gothic" font-weight="bold" font-size="96" fill="#FFFFFF" text-anchor="end">25만원</text>
+  
+  <rect x="80" y="800" rx="24" width="920" height="184" fill="#ffffff" opacity="0.12"/>
+  <text x="118" y="872" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#E8EEF5">소득공제 한도</text>
+  <text x="960" y="928" font-family="Malgun Gothic" font-weight="bold" font-size="96" fill="#FFD23F" text-anchor="end">연 300만원</text>
+  <text x="80" y="1030" font-family="Malgun Gothic" font-size="32" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

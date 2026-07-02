@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="170" fill="#243B6B"/>
+  <text x="60" y="108" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">1,500만원 인정까지 걸리는 기간</text>
+  <text x="60" y="238" font-family="Malgun Gothic" font-size="36" fill="#5B6B7C">월 납입 인정액이 10만원 → 25만원으로 오르면</text>
+
+  <!-- 왼쪽: 월 10만원 -->
+  <rect x="70" y="300" width="450" height="620" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="3"/>
+  <text x="295" y="400" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#5B6B7C" text-anchor="middle">과거 · 월 10만원</text>
+  <text x="295" y="530" font-family="Malgun Gothic" font-size="44" fill="#5B6B7C" text-anchor="middle">약</text>
+  <text x="295" y="670" font-family="Malgun Gothic" font-weight="bold" font-size="150" fill="#9FB2CC" text-anchor="middle">12년</text>
+  <line x1="150" y1="740" x2="440" y2="740" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="295" y="820" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C" text-anchor="middle">적립 속도 느림</text>
+
+  <!-- 오른쪽: 월 25만원 -->
+  <rect x="560" y="300" width="450" height="620" rx="24" fill="#243B6B"/>
+  <text x="785" y="400" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#E8EEF5" text-anchor="middle">현재 · 월 25만원</text>
+  <text x="785" y="530" font-family="Malgun Gothic" font-size="44" fill="#E8EEF5" text-anchor="middle">단 5년(60개월)</text>
+  <text x="785" y="680" font-family="Malgun Gothic" font-weight="bold" font-size="160" fill="#FFD23F" text-anchor="middle">5년</text>
+  <line x1="640" y1="740" x2="930" y2="740" stroke="#4A6396" stroke-width="2"/>
+  <text x="785" y="820" font-family="Malgun Gothic" font-size="38" fill="#E8EEF5" text-anchor="middle">적립 속도 크게 빨라짐</text>
+
+  <rect x="0" y="1000" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1052" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">인정액 상향 2024.11.1 시행 · 공공주택 순위 산정 기준</text>
+</svg>

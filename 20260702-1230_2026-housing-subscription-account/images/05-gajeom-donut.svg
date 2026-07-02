@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <text x="540" y="90" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#243B6B" text-anchor="middle">민영주택 청약 가점제 84점</text>
+  <text x="540" y="150" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C" text-anchor="middle">무주택기간 + 부양가족수 + 청약통장 가입기간</text>
+  <path d="M 540.00 260.00 A 300 300 0 0 1 744.05 779.92 L 654.27 683.15 A 168 168 0 0 0 540.00 392.00 Z" fill="#243B6B"/>
+  <path d="M 744.05 779.92 A 300 300 0 0 1 253.33 471.57 L 379.46 510.48 A 168 168 0 0 0 654.27 683.15 Z" fill="#3E5C93"/>
+  <path d="M 253.33 471.57 A 300 300 0 0 1 540.00 260.00 L 540.00 392.00 A 168 168 0 0 0 379.46 510.48 Z" fill="#FFD23F"/>
+  <text x="540" y="550" font-family="Malgun Gothic" font-weight="bold" font-size="96" fill="#243B6B" text-anchor="middle">84점</text>
+  <text x="540" y="612" font-family="Malgun Gothic" font-size="38" fill="#5B6B7C" text-anchor="middle">만점</text>
+  <text x="759" y="474" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">32점</text>
+  <text x="415" y="759" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">35점</text>
+  <text x="400" y="371" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#243B6B" text-anchor="middle">17점</text>
+
+  <rect x="90" y="990" width="34" height="34" rx="8" fill="#243B6B"/>
+  <text x="138" y="1019" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#1a1a1a">무주택기간 32</text>
+  <rect x="430" y="990" width="34" height="34" rx="8" fill="#3E5C93"/>
+  <text x="478" y="1019" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#1a1a1a">부양가족수 35</text>
+  <rect x="770" y="990" width="34" height="34" rx="8" fill="#FFD23F"/>
+  <text x="818" y="1019" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#1a1a1a">가입기간 17</text>
+  <text x="540" y="1058" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C" text-anchor="middle">출처: 하나은행(주택도시기금 위탁) 안내</text>
+</svg>
