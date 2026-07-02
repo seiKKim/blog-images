@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#243B6B"/>
+  <text x="60" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">달러 투자 4가지 방법 비교</text>
+
+  <g font-family="Malgun Gothic">
+    <!-- 카드1 외화예금 -->
+    <rect x="50" y="230" width="980" height="250" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="130" cy="310" r="42" fill="#243B6B"/>
+    <text x="130" y="325" font-size="46" font-weight="bold" fill="#FFD23F" text-anchor="middle">①</text>
+    <text x="200" y="325" font-size="48" font-weight="bold" fill="#1a1a1a">외화예금</text>
+    <text x="90" y="405" font-size="32" fill="#5B6B7C">수익원  <tspan fill="#1a1a1a" font-weight="bold">이자 + 환차익</tspan></text>
+    <text x="90" y="452" font-size="32" fill="#5B6B7C">세금  <tspan fill="#1F8A53" font-weight="bold">환차익 비과세</tspan></text>
+    <rect x="720" y="368" width="280" height="72" rx="18" fill="#EAF4EE"/>
+    <text x="860" y="416" font-size="34" font-weight="bold" fill="#1F8A53" text-anchor="middle">예금보호 O</text>
+
+    <!-- 카드2 외화 RP -->
+    <rect x="50" y="500" width="980" height="250" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="130" cy="580" r="42" fill="#243B6B"/>
+    <text x="130" y="595" font-size="46" font-weight="bold" fill="#FFD23F" text-anchor="middle">②</text>
+    <text x="200" y="595" font-size="48" font-weight="bold" fill="#1a1a1a">외화 RP·발행어음</text>
+    <text x="90" y="675" font-size="32" fill="#5B6B7C">수익원  <tspan fill="#1a1a1a" font-weight="bold">이자 + 환차익</tspan></text>
+    <text x="90" y="722" font-size="32" fill="#5B6B7C">세금  <tspan fill="#1F8A53" font-weight="bold">환차익 비과세</tspan></text>
+    <rect x="720" y="638" width="280" height="72" rx="18" fill="#FBEAEA"/>
+    <text x="860" y="686" font-size="34" font-weight="bold" fill="#E23B3B" text-anchor="middle">예금보호 X</text>
+
+    <!-- 카드3 달러 ETF -->
+    <rect x="50" y="770" width="980" height="250" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="130" cy="850" r="42" fill="#243B6B"/>
+    <text x="130" y="865" font-size="46" font-weight="bold" fill="#FFD23F" text-anchor="middle">③</text>
+    <text x="200" y="865" font-size="48" font-weight="bold" fill="#1a1a1a">국내 달러 ETF</text>
+    <text x="90" y="945" font-size="32" fill="#5B6B7C">수익원  <tspan fill="#1a1a1a" font-weight="bold">환율/지수 변동</tspan></text>
+    <text x="90" y="992" font-size="32" fill="#5B6B7C">세금  <tspan fill="#1a1a1a" font-weight="bold">매매차익 15.4%</tspan></text>
+    <rect x="720" y="908" width="280" height="72" rx="18" fill="#FBEAEA"/>
+    <text x="860" y="956" font-size="34" font-weight="bold" fill="#E23B3B" text-anchor="middle">예금보호 X</text>
+
+    <!-- 카드4 해외 ETF·주식 -->
+    <rect x="50" y="1040" width="980" height="250" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="130" cy="1120" r="42" fill="#243B6B"/>
+    <text x="130" y="1135" font-size="46" font-weight="bold" fill="#FFD23F" text-anchor="middle">④</text>
+    <text x="200" y="1135" font-size="48" font-weight="bold" fill="#1a1a1a">해외 ETF·미국주식</text>
+    <text x="90" y="1215" font-size="32" fill="#5B6B7C">수익원  <tspan fill="#1a1a1a" font-weight="bold">시세차익+배당+환차익</tspan></text>
+    <text x="90" y="1262" font-size="32" fill="#5B6B7C">세금  <tspan fill="#1a1a1a" font-weight="bold">양도세 22%</tspan></text>
+    <rect x="720" y="1178" width="280" height="72" rx="18" fill="#FBEAEA"/>
+    <text x="860" y="1226" font-size="34" font-weight="bold" fill="#E23B3B" text-anchor="middle">예금보호 X</text>
+  </g>
+</svg>

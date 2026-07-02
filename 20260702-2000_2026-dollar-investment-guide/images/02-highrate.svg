@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#243B6B"/>
+  <text x="60" y="97" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff">2026년 원/달러 고환율 국면</text>
+
+  <!-- 차트 영역 -->
+  <g font-family="Malgun Gothic">
+    <!-- 기준선 -->
+    <line x1="230" y1="240" x2="1010" y2="240" stroke="#D6E0EC" stroke-width="2"/>
+    <line x1="230" y1="360" x2="1010" y2="360" stroke="#D6E0EC" stroke-width="2"/>
+    <line x1="230" y1="480" x2="1010" y2="480" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="200" y="252" font-size="30" fill="#5B6B7C" text-anchor="end">1,500원대</text>
+    <text x="200" y="372" font-size="30" fill="#5B6B7C" text-anchor="end">1,400원대</text>
+    <text x="200" y="492" font-size="30" fill="#5B6B7C" text-anchor="end">1,300원대</text>
+
+    <!-- 우상향 변동성 라인 -->
+    <polyline points="230,470 330,430 430,455 530,390 630,410 730,330 830,360 930,250 1010,270"
+      fill="none" stroke="#243B6B" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="930" cy="250" r="12" fill="#E23B3B"/>
+    <text x="930" y="215" font-size="30" font-weight="bold" fill="#E23B3B" text-anchor="middle">고점권</text>
+
+    <!-- 화살표(우상향) -->
+    <text x="270" y="560" font-size="34" fill="#243B6B" font-weight="bold">우상향 추세 + 큰 변동성</text>
+  </g>
+
+  <!-- 하단 메시지 -->
+  <rect x="0" y="610" width="1080" height="110" fill="#243B6B"/>
+  <text x="540" y="678" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#FFD23F" text-anchor="middle">1,400~1,500원대 · 신규 매수 환차손 위험 ↑</text>
+</svg>

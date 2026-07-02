@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#243B6B"/>
+  <circle cx="960" cy="170" r="270" fill="#ffffff" opacity="0.07"/>
+  <circle cx="110" cy="990" r="220" fill="#ffffff" opacity="0.05"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="84" rx="34" ry="34" width="250" height="68" fill="#FFD23F"/>
+  <text x="205" y="130" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="262" font-family="Malgun Gothic" font-weight="bold" font-size="54" fill="#E8EEF5">초보 환전부터 세금까지 총정리</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="392" font-family="Malgun Gothic" font-weight="bold" font-size="104" fill="#ffffff">달러 투자 방법</text>
+  <text x="80" y="512" font-family="Malgun Gothic" font-weight="bold" font-size="118" fill="#FFD23F">4가지 비교</text>
+
+  <!-- 4칸 방법 그리드 -->
+  <g font-family="Malgun Gothic">
+    <rect x="80" y="616" rx="22" ry="22" width="440" height="150" fill="#ffffff" opacity="0.12"/>
+    <text x="112" y="695" font-weight="bold" font-size="44" fill="#FFD23F">①</text>
+    <text x="168" y="695" font-weight="bold" font-size="46" fill="#ffffff">외화예금</text>
+    <text x="112" y="742" font-size="30" fill="#C9D6E8">환차익 비과세·예금보호</text>
+
+    <rect x="560" y="616" rx="22" ry="22" width="440" height="150" fill="#ffffff" opacity="0.12"/>
+    <text x="592" y="695" font-weight="bold" font-size="44" fill="#FFD23F">②</text>
+    <text x="648" y="695" font-weight="bold" font-size="46" fill="#ffffff">외화 RP</text>
+    <text x="592" y="742" font-size="30" fill="#C9D6E8">이자 상대적 높음</text>
+
+    <rect x="80" y="786" rx="22" ry="22" width="440" height="150" fill="#ffffff" opacity="0.12"/>
+    <text x="112" y="865" font-weight="bold" font-size="44" fill="#FFD23F">③</text>
+    <text x="168" y="865" font-weight="bold" font-size="46" fill="#ffffff">달러 ETF</text>
+    <text x="112" y="912" font-size="30" fill="#C9D6E8">실시간·소액 매매</text>
+
+    <rect x="560" y="786" rx="22" ry="22" width="440" height="150" fill="#ffffff" opacity="0.12"/>
+    <text x="592" y="865" font-weight="bold" font-size="44" fill="#FFD23F">④</text>
+    <text x="648" y="865" font-weight="bold" font-size="46" fill="#ffffff">해외주식</text>
+    <text x="592" y="912" font-size="30" fill="#C9D6E8">시세차익+배당</text>
+  </g>
+
+  <text x="80" y="1012" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#C9D6E8" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
