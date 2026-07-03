@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#2B2F36"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="56" fill="#ffffff">소아 심폐소생술 순서</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="34" fill="#C8CDD4">익수·심정지 시 골든타임을 살리는 기초</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1 반응확인 -->
+    <rect x="60" y="270" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="140" cy="340" r="46" fill="#2B2F36"/>
+    <text x="140" y="356" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="220" y="330" font-weight="bold" font-size="40" fill="#1a1a1a">반응 확인</text>
+    <text x="220" y="378" font-weight="normal" font-size="31" fill="#6B7A8C">어깨 흔들기 / 영아는 발바닥 때려 확인</text>
+
+    <!-- 2 119신고 -->
+    <rect x="60" y="430" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="140" cy="500" r="46" fill="#E23B3B"/>
+    <text x="140" y="516" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="220" y="490" font-weight="bold" font-size="40" fill="#E23B3B">119 신고</text>
+    <text x="220" y="538" font-weight="normal" font-size="31" fill="#6B7A8C">즉시 신고 + AED(자동심장충격기) 요청</text>
+
+    <!-- 3 가슴압박 -->
+    <rect x="60" y="590" width="960" height="180" rx="18" fill="#FFF4D6" stroke="#FFD23F" stroke-width="3"/>
+    <circle cx="140" cy="680" r="46" fill="#B36A00"/>
+    <text x="140" y="696" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="220" y="662" font-weight="bold" font-size="40" fill="#1a1a1a">가슴압박 (1세 이상 소아)</text>
+    <text x="220" y="712" font-weight="normal" font-size="31" fill="#6B5A2A">양 젖꼭지 잇는 선 정중앙 아래 · 한 손</text>
+    <text x="220" y="752" font-weight="bold" font-size="34" fill="#B36A00">깊이 4~5cm 이상 · 분당 100~120회 이상 · 30회</text>
+
+    <!-- 4 영아 -->
+    <rect x="60" y="790" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="140" cy="860" r="46" fill="#2B2F36"/>
+    <text x="140" y="876" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="220" y="850" font-weight="bold" font-size="40" fill="#1a1a1a">영아(1세 미만)</text>
+    <text x="220" y="898" font-weight="normal" font-size="31" fill="#6B7A8C">깊이 약 4cm · 검지·중지 두 손가락 · 30회</text>
+
+    <!-- 5 인공호흡 -->
+    <rect x="60" y="950" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="140" cy="1020" r="46" fill="#2B2F36"/>
+    <text x="140" y="1036" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="220" y="1010" font-weight="bold" font-size="40" fill="#1a1a1a">인공호흡</text>
+    <text x="220" y="1058" font-weight="normal" font-size="31" fill="#6B7A8C">가슴이 올라올 정도로 2회</text>
+  </g>
+
+  <!-- 반복 배너 -->
+  <rect x="60" y="1110" width="960" height="130" rx="18" fill="#2B2F36"/>
+  <text x="540" y="1172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">반복: 가슴압박 30 : 인공호흡 2</text>
+  <text x="540" y="1218" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="30" fill="#C8CDD4" text-anchor="middle">119 도착·AED 사용 시까지 계속</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">참고: 소아 심폐소생술 기초 · 실제 교육 이수 권장</text>
+</svg>

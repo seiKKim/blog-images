@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B6FA6"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="58" fill="#ffffff">물놀이 준비물 체크리스트</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="34" fill="#CFE3F2">가방 싸기 전 이 순서대로 챙기기</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 안전장비 -->
+    <rect x="60" y="270" width="960" height="180" rx="18" fill="#FFF4D6" stroke="#FFD23F" stroke-width="3"/>
+    <text x="90" y="330" font-weight="bold" font-size="38" fill="#B36A00">1순위 · 안전장비</text>
+    <text x="90" y="392" font-weight="bold" font-size="40" fill="#1a1a1a">KC인증 고정식 구명조끼</text>
+    <text x="90" y="435" font-weight="normal" font-size="32" fill="#6B5A2A">아쿠아슈즈(발 보호) · 튜브·암링재킷(보조 부력)</text>
+
+    <!-- 의류 -->
+    <rect x="60" y="470" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="90" y="528" font-weight="bold" font-size="36" fill="#1B6FA6">의류</text>
+    <text x="90" y="585" font-weight="normal" font-size="34" fill="#1a1a1a">수영복 · 래시가드(지퍼형) · 모자 · 물안경</text>
+
+    <!-- 자외선 -->
+    <rect x="60" y="640" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="90" y="698" font-weight="bold" font-size="36" fill="#1B6FA6">자외선 차단</text>
+    <text x="90" y="755" font-weight="normal" font-size="34" fill="#1a1a1a">워터프루프 선크림 (2~3시간마다 덧바르기)</text>
+
+    <!-- 방수 정리 -->
+    <rect x="60" y="810" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="90" y="868" font-weight="bold" font-size="36" fill="#1B6FA6">방수·정리</text>
+    <text x="90" y="925" font-weight="normal" font-size="34" fill="#1a1a1a">방수팩(폰·지갑) · 비닐봉투 · 방수 백팩</text>
+
+    <!-- 편의 비상 -->
+    <rect x="60" y="980" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="90" y="1038" font-weight="bold" font-size="36" fill="#1B6FA6">편의·비상</text>
+    <text x="90" y="1095" font-weight="normal" font-size="34" fill="#1a1a1a">대형 타월·여벌옷 · 보조배터리 · 비상약 · 아이스박스</text>
+  </g>
+
+  <!-- 주의 배너 -->
+  <rect x="60" y="1150" width="960" height="90" rx="16" fill="#F6DADA" stroke="#E23B3B" stroke-width="2"/>
+  <text x="90" y="1207" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#E23B3B">튜브·암링재킷은 구명조끼를 대체할 수 없어요</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">2026 여름 아이 물놀이 준비물 정리</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2A8CC7"/>
+      <stop offset="1" stop-color="#1B6FA6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 물결 장식 -->
+  <path d="M0 900 Q135 855 270 900 T540 900 T810 900 T1080 900 V1080 H0 Z" fill="#ffffff" opacity="0.10"/>
+  <path d="M0 960 Q135 915 270 960 T540 960 T810 960 T1080 960 V1080 H0 Z" fill="#ffffff" opacity="0.08"/>
+  <circle cx="940" cy="180" r="250" fill="#ffffff" opacity="0.07"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="64" y="80" rx="34" ry="34" width="230" height="68" fill="#FFD23F"/>
+  <text x="179" y="126" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">여름 안전</text>
+
+  <!-- 서브 카피 -->
+  <text x="64" y="270" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="56" fill="#E8F3FB">2026 아이 물놀이</text>
+  <text x="64" y="342" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="56" fill="#E8F3FB">안전수칙·준비물</text>
+
+  <!-- 메인 카피 -->
+  <text x="64" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="118" fill="#ffffff">사망사고 최다</text>
+  <text x="64" y="628" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="140" fill="#FFD23F">7월 하순</text>
+
+  <!-- 원인 강조 박스 -->
+  <rect x="64" y="708" rx="22" ry="22" width="952" height="150" fill="#ffffff" opacity="0.15"/>
+  <text x="92" y="772" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#ffffff">원인 1위 = 구명조끼 미착용 등</text>
+  <text x="92" y="832" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#FFD23F">안전 부주의 37%</text>
+
+  <!-- 하단 -->
+  <text x="64" y="988" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#ffffff">놓치면 큰일 나는 것 총정리</text>
+  <text x="64" y="1036" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="30" fill="#E8F3FB" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

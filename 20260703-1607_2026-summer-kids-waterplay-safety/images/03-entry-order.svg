@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B6FA6"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="58" fill="#ffffff">물에 들어가는 순서</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="34" fill="#CFE3F2">심장에서 먼 곳부터 천천히 · 경련 예방</text>
+
+  <!-- 준비운동 안내 -->
+  <rect x="60" y="270" width="960" height="110" rx="18" fill="#FFF4D6" stroke="#FFD23F" stroke-width="3"/>
+  <text x="90" y="338" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#B36A00">먼저 간단한 준비운동으로 몸 풀기</text>
+
+  <!-- 단계 카드들 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1 다리 -->
+    <rect x="60" y="430" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="140" cy="500" r="48" fill="#1B6FA6"/>
+    <text x="140" y="516" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="230" y="518" font-weight="bold" font-size="52" fill="#1a1a1a">다리</text>
+    <text x="500" y="518" font-weight="normal" font-size="34" fill="#6B7A8C">발·종아리에 물을 적신다</text>
+
+    <!-- 2 팔 -->
+    <rect x="60" y="590" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="140" cy="660" r="48" fill="#2A8CC7"/>
+    <text x="140" y="676" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="230" y="678" font-weight="bold" font-size="52" fill="#1a1a1a">팔</text>
+    <text x="500" y="678" font-weight="normal" font-size="34" fill="#6B7A8C">손·팔에 물을 적신다</text>
+
+    <!-- 3 얼굴 -->
+    <rect x="60" y="750" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="140" cy="820" r="48" fill="#59A9D6"/>
+    <text x="140" y="836" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="230" y="838" font-weight="bold" font-size="52" fill="#1a1a1a">얼굴</text>
+    <text x="500" y="838" font-weight="normal" font-size="34" fill="#6B7A8C">얼굴에 물을 적신다</text>
+
+    <!-- 4 가슴 -->
+    <rect x="60" y="910" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="140" cy="980" r="48" fill="#8FC5E4"/>
+    <text x="140" y="996" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="230" y="998" font-weight="bold" font-size="52" fill="#1a1a1a">가슴</text>
+    <text x="500" y="998" font-weight="normal" font-size="34" fill="#6B7A8C">가슴까지 적신 뒤 천천히 입수</text>
+  </g>
+
+  <!-- 주의 -->
+  <rect x="60" y="1090" width="960" height="130" rx="18" fill="#F6DADA" stroke="#E23B3B" stroke-width="2"/>
+  <text x="90" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#E23B3B">어린이는 구명조끼 착용 후 입수 · 눈 떼지 않기</text>
+  <text x="90" y="1195" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="32" fill="#8A2A2A">음주 후·식후·공복 시 입수 자제</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">출처: 행정안전부 물놀이 안전수칙</text>
+</svg>
