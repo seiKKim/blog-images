@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">어린이집 이용 시 현금 차액</text>
+  <text x="60" y="160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">바우처보다 부모급여가 크면 차액을 현금 지급</text>
+
+  <!-- 만 0세 카드 -->
+  <rect x="60" y="260" width="960" height="420" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="260" width="960" height="90" rx="20" fill="#1B5FA6"/>
+  <rect x="60" y="320" width="960" height="30" fill="#1B5FA6"/>
+  <text x="100" y="322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="48" fill="#ffffff">만 0세 (0~11개월)</text>
+
+  <text x="100" y="435" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" fill="#1a1a1a">부모급여</text>
+  <text x="980" y="435" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="end">100만 원</text>
+  <text x="100" y="510" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" fill="#1a1a1a">− 기본보육료 바우처</text>
+  <text x="980" y="510" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#5B6B7C" text-anchor="end">58만 4천 원</text>
+  <line x1="100" y1="545" x2="980" y2="545" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="625" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="48" fill="#1B5FA6">현금 차액</text>
+  <text x="980" y="630" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="58" fill="#1B5FA6" text-anchor="end">41만 6천 원</text>
+
+  <!-- 만 1세 카드 -->
+  <rect x="60" y="720" width="960" height="420" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="720" width="960" height="90" rx="20" fill="#5B7C99"/>
+  <rect x="60" y="780" width="960" height="30" fill="#5B7C99"/>
+  <text x="100" y="782" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="48" fill="#ffffff">만 1세 (12~23개월)</text>
+
+  <text x="100" y="895" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" fill="#1a1a1a">부모급여</text>
+  <text x="980" y="895" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="end">50만 원</text>
+  <text x="100" y="970" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" fill="#1a1a1a">− 기본보육료 바우처</text>
+  <text x="980" y="970" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#5B6B7C" text-anchor="end">51만 5천 원</text>
+  <line x1="100" y1="1005" x2="980" y2="1005" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="1085" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="48" fill="#5B6B7C">현금 차액</text>
+  <text x="980" y="1090" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="52" fill="#5B6B7C" text-anchor="end">없음 (전액 충당)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 대한민국 정책브리핑(korea.kr)</text>
+</svg>

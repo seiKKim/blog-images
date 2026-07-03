@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">부모급여(만 0세) 변화 추이</text>
+  <text x="60" y="160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">2023~2026년 월 지급액 · 2025년부터 동결</text>
+
+  <!-- 기준선 -->
+  <line x1="120" y1="1050" x2="1000" y2="1050" stroke="#B9C7D6" stroke-width="3"/>
+
+  <!-- 2023: 70만 (막대높이 420) -->
+  <rect x="150" y="630" width="170" height="420" rx="10" fill="#9BB6D1"/>
+  <text x="235" y="595" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="middle">70만</text>
+  <text x="235" y="1105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#5B6B7C" text-anchor="middle">2023</text>
+
+  <!-- 2024: 100만 (막대높이 600) -->
+  <rect x="380" y="450" width="170" height="600" rx="10" fill="#1B5FA6"/>
+  <text x="465" y="415" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1B5FA6" text-anchor="middle">100만</text>
+  <text x="465" y="1105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#5B6B7C" text-anchor="middle">2024</text>
+
+  <!-- 2025: 100만 -->
+  <rect x="610" y="450" width="170" height="600" rx="10" fill="#1B5FA6"/>
+  <text x="695" y="415" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1B5FA6" text-anchor="middle">100만</text>
+  <text x="695" y="1105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#5B6B7C" text-anchor="middle">2025</text>
+
+  <!-- 2026: 100만 강조 -->
+  <rect x="840" y="450" width="170" height="600" rx="10" fill="#FFD23F"/>
+  <text x="925" y="415" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="middle">100만</text>
+  <text x="925" y="1105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1B5FA6" text-anchor="middle">2026</text>
+
+  <text x="540" y="1210" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="middle">2026년은 인상 없이 동결 (만 1세는 월 50만 원)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 대한민국 정책브리핑(korea.kr)</text>
+</svg>

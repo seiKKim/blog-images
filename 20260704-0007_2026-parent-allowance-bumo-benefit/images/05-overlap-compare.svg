@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">세 제도 중복 수령 가능</text>
+  <text x="60" y="160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">서로 별개 제도 · 요건 맞으면 각각 신청해 모두 수령</text>
+
+  <!-- 부모급여 -->
+  <rect x="60" y="260" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="260" width="16" height="230" rx="8" fill="#1B5FA6"/>
+  <text x="110" y="330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">부모급여</text>
+  <text x="110" y="390" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">만 2세 미만 (0~23개월)</text>
+  <text x="110" y="450" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1B5FA6">만 0세 월 100만 · 만 1세 월 50만</text>
+
+  <!-- 아동수당 -->
+  <rect x="60" y="530" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="530" width="16" height="230" rx="8" fill="#1B5FA6"/>
+  <text x="110" y="600" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">아동수당</text>
+  <text x="110" y="660" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">0세~만 8세 미만 (0~95개월)</text>
+  <text x="110" y="720" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1B5FA6">월 10만 원 (기본액) · 매월 25일</text>
+
+  <!-- 첫만남이용권 -->
+  <rect x="60" y="800" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="800" width="16" height="230" rx="8" fill="#1B5FA6"/>
+  <text x="110" y="870" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">첫만남이용권</text>
+  <text x="110" y="930" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">2024년 이후 출생아 · 1회성 바우처</text>
+  <text x="110" y="990" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1B5FA6">첫째 200만 · 둘째 이상 300만</text>
+
+  <!-- 합산 예시 -->
+  <rect x="60" y="1070" width="960" height="150" rx="20" fill="#FFD23F"/>
+  <text x="100" y="1140" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">만 0세 예시: 매달 부모급여 100만</text>
+  <text x="100" y="1195" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">+ 아동수당 10만 함께 수령</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 복지로 · 대한민국 정책브리핑(korea.kr)</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">부모급여 신청방법 3가지</text>
+  <text x="60" y="160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">대상: 만 2세 미만(0~23개월) · 소득·재산 요건 없음</text>
+
+  <!-- 카드1 -->
+  <rect x="60" y="260" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="150" cy="360" r="46" fill="#1B5FA6"/>
+  <text x="150" y="378" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="230" y="340" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="48" fill="#1a1a1a">온라인 신청</text>
+  <text x="230" y="405" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#5B6B7C">복지로 · 정부24 홈페이지/앱 간편인증</text>
+
+  <!-- 카드2 -->
+  <rect x="60" y="500" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="150" cy="600" r="46" fill="#1B5FA6"/>
+  <text x="150" y="618" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="230" y="580" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="48" fill="#1a1a1a">방문 신청</text>
+  <text x="230" y="645" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#5B6B7C">주소지 관할 읍·면·동 행정복지센터</text>
+
+  <!-- 카드3 -->
+  <rect x="60" y="740" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="150" cy="840" r="46" fill="#1B5FA6"/>
+  <text x="150" y="858" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="230" y="820" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="48" fill="#1a1a1a">행복출산 원스톱</text>
+  <text x="230" y="885" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#5B6B7C">출생신고 시 출산혜택 일괄 신청</text>
+
+  <!-- 기한 경고 박스 -->
+  <rect x="60" y="990" width="960" height="220" rx="20" fill="#FFF3D6" stroke="#FFD23F" stroke-width="3"/>
+  <text x="100" y="1075" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="48" fill="#C0392B">⚠ 신청 기한이 가장 중요</text>
+  <text x="100" y="1145" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">출생일 포함 60일 이내 → 출생 월부터 소급</text>
+  <text x="100" y="1195" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#5B6B7C">늦으면 신청한 달부터만 지급(앞선 달치 못 받음)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 복지로 · 정부24</text>
+</svg>
