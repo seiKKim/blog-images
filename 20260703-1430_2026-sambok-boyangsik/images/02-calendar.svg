@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF3F5"/>
+  <rect width="1080" height="210" fill="#E0556E"/>
+  <text x="60" y="130" font-family="Malgun Gothic" font-weight="bold" font-size="62" fill="#ffffff">2026년 삼복 날짜</text>
+
+  <!-- 초복 -->
+  <rect x="60" y="280" width="960" height="220" rx="24" fill="#ffffff" stroke="#F0C6CF" stroke-width="2"/>
+  <circle cx="180" cy="390" r="70" fill="#E0556E"/>
+  <text x="180" y="378" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">초복</text>
+  <text x="180" y="422" font-family="Malgun Gothic" font-weight="normal" font-size="26" fill="#FFE3E9" text-anchor="middle">初伏</text>
+  <text x="300" y="378" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#1a1a1a">7월 15일 <tspan font-size="46" fill="#E0556E">(수)</tspan></text>
+  <text x="302" y="448" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#7C6B70">하지 이후 세 번째 경일</text>
+
+  <!-- 중복 -->
+  <rect x="60" y="530" width="960" height="220" rx="24" fill="#ffffff" stroke="#F0C6CF" stroke-width="2"/>
+  <circle cx="180" cy="640" r="70" fill="#E0556E"/>
+  <text x="180" y="628" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">중복</text>
+  <text x="180" y="672" font-family="Malgun Gothic" font-weight="normal" font-size="26" fill="#FFE3E9" text-anchor="middle">中伏</text>
+  <text x="300" y="628" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#1a1a1a">7월 25일 <tspan font-size="46" fill="#E0556E">(토)</tspan></text>
+  <text x="302" y="698" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#7C6B70">하지 이후 네 번째 경일</text>
+
+  <!-- 말복 -->
+  <rect x="60" y="780" width="960" height="220" rx="24" fill="#ffffff" stroke="#F0C6CF" stroke-width="2"/>
+  <circle cx="180" cy="890" r="70" fill="#E0556E"/>
+  <text x="180" y="878" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">말복</text>
+  <text x="180" y="922" font-family="Malgun Gothic" font-weight="normal" font-size="26" fill="#FFE3E9" text-anchor="middle">末伏</text>
+  <text x="300" y="878" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#1a1a1a">8월 14일 <tspan font-size="46" fill="#E0556E">(금)</tspan></text>
+  <text x="302" y="948" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#7C6B70">입추 이후 첫 번째 경일</text>
+
+  <!-- 월복 강조 띠 -->
+  <rect x="60" y="1040" width="960" height="150" rx="24" fill="#FFF6DA" stroke="#FFD23F" stroke-width="3"/>
+  <text x="100" y="1108" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#B5892A">올해는 '월복'의 해</text>
+  <text x="100" y="1162" font-family="Malgun Gothic" font-weight="normal" font-size="36" fill="#8A6E2E">삼복더위가 평년 20일 → 약 30일로 열흘 더 깁니다</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F4DDE2"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#9A6B74">출처: 한국천문연구원 역서 · 삼복 계산 기준</text>
+</svg>

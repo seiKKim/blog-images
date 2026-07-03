@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <!-- 하늘 -->
+  <rect width="1080" height="720" fill="#DCEBF2"/>
+  <rect width="1080" height="470" fill="#C9E4EE"/>
+  <circle cx="880" cy="150" r="90" fill="#FFF3C4" opacity="0.85"/>
+
+  <!-- 먼 산 -->
+  <path d="M0 470 L230 300 L430 470 Z" fill="#8FB6A6"/>
+  <path d="M300 470 L560 270 L820 470 Z" fill="#7BA793"/>
+  <path d="M640 470 L900 320 L1080 470 L1080 470 Z" fill="#8FB6A6"/>
+  <!-- 나무 -->
+  <ellipse cx="150" cy="430" rx="60" ry="70" fill="#5E9478"/>
+  <rect x="140" y="450" width="20" height="40" fill="#6B4A34"/>
+
+  <!-- 계곡 물 -->
+  <rect x="0" y="470" width="1080" height="250" fill="#7FC5D9"/>
+  <path d="M0 470 Q270 500 540 470 T1080 470 L1080 520 Q810 500 540 520 T0 520 Z" fill="#9AD3E3" opacity="0.7"/>
+  <path d="M120 560 q40 -14 80 0" stroke="#ffffff" stroke-width="6" fill="none" opacity="0.6" stroke-linecap="round"/>
+  <path d="M760 610 q40 -14 80 0" stroke="#ffffff" stroke-width="6" fill="none" opacity="0.6" stroke-linecap="round"/>
+  <path d="M470 640 q40 -14 80 0" stroke="#ffffff" stroke-width="6" fill="none" opacity="0.6" stroke-linecap="round"/>
+
+  <!-- 돌 -->
+  <ellipse cx="330" cy="512" rx="70" ry="26" fill="#B9AEA3"/>
+  <ellipse cx="330" cy="505" rx="70" ry="24" fill="#CFC6BC"/>
+
+  <!-- 발(탁족) -->
+  <g>
+    <ellipse cx="300" cy="470" rx="26" ry="60" fill="#F4CBA6"/>
+    <ellipse cx="360" cy="470" rx="26" ry="60" fill="#F4CBA6"/>
+    <ellipse cx="300" cy="512" rx="26" ry="20" fill="#7FC5D9" opacity="0.55"/>
+    <ellipse cx="360" cy="512" rx="26" ry="20" fill="#7FC5D9" opacity="0.55"/>
+  </g>
+
+  <!-- 텍스트 박스 -->
+  <rect x="560" y="120" width="470" height="230" rx="24" fill="#ffffff" opacity="0.9"/>
+  <text x="590" y="205" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#2E6B7C">삼복더위 피서법</text>
+  <text x="590" y="272" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#E0556E">옛사람들의 '탁족'</text>
+  <text x="590" y="322" font-family="Malgun Gothic" font-weight="normal" font-size="30" fill="#5B6B72">계곡물에 발 담그고 더위를 식혔죠</text>
+</svg>

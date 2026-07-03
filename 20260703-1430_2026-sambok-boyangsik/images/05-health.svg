@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF3F5"/>
+  <rect width="1080" height="210" fill="#E0556E"/>
+  <text x="60" y="100" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">긴 삼복더위 건강수칙</text>
+  <text x="62" y="160" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#FFE3E9">보양식만큼 중요한 여름나기 기본</text>
+
+  <g font-family="Malgun Gothic">
+    <!-- 1 수분 -->
+    <rect x="60" y="270" width="960" height="180" rx="24" fill="#ffffff" stroke="#F0C6CF" stroke-width="2"/>
+    <circle cx="150" cy="360" r="52" fill="#E0556E"/>
+    <text x="150" y="378" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="245" y="345" font-weight="bold" font-size="44" fill="#1a1a1a">수분은 자주 조금씩</text>
+    <text x="245" y="405" font-size="32" fill="#7C6B70">한 번에 몰아 마시지 말고 생수·이온음료로</text>
+
+    <!-- 2 냉방병 -->
+    <rect x="60" y="480" width="960" height="180" rx="24" fill="#ffffff" stroke="#F0C6CF" stroke-width="2"/>
+    <circle cx="150" cy="570" r="52" fill="#E0556E"/>
+    <text x="150" y="588" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="245" y="555" font-weight="bold" font-size="44" fill="#1a1a1a">실내외 온도차 5℃ 내외</text>
+    <text x="245" y="615" font-size="32" fill="#7C6B70">냉방병 예방, 주기적으로 환기하기</text>
+
+    <!-- 3 한낮 -->
+    <rect x="60" y="690" width="960" height="180" rx="24" fill="#ffffff" stroke="#F0C6CF" stroke-width="2"/>
+    <circle cx="150" cy="780" r="52" fill="#E0556E"/>
+    <text x="150" y="798" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="245" y="765" font-weight="bold" font-size="44" fill="#1a1a1a">한낮 야외활동 줄이기</text>
+    <text x="245" y="825" font-size="32" fill="#7C6B70">가장 더운 시간대 피하고 모자·통풍옷</text>
+
+    <!-- 4 온열질환 -->
+    <rect x="60" y="900" width="960" height="180" rx="24" fill="#ffffff" stroke="#F0C6CF" stroke-width="2"/>
+    <circle cx="150" cy="990" r="52" fill="#E0556E"/>
+    <text x="150" y="1008" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="245" y="975" font-weight="bold" font-size="44" fill="#1a1a1a">온열질환 초기 신호 주의</text>
+    <text x="245" y="1035" font-size="32" fill="#7C6B70">어지럼·두통·메스꺼움 오면 즉시 휴식·수분</text>
+  </g>
+
+  <rect x="60" y="1110" width="960" height="110" rx="24" fill="#FFF6DA" stroke="#FFD23F" stroke-width="3"/>
+  <text x="540" y="1178" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#8A6E2E" text-anchor="middle">찬 음식·냉음료 과식은 배탈 주의!</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F4DDE2"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="30" fill="#9A6B74">출처: 공공기관 폭염·온열질환 예방수칙</text>
+</svg>

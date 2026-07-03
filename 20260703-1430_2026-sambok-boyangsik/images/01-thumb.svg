@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#E0556E"/>
+  <circle cx="960" cy="170" r="250" fill="#ffffff" opacity="0.09"/>
+  <circle cx="120" cy="1000" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="86" rx="34" ry="34" width="270" height="68" fill="#FFD23F"/>
+  <text x="215" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#7A1F30" text-anchor="middle">가정의달 · 시즌</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="300" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFE3E9">올해 복날 날짜 · 삼복 보양식</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="460" font-family="Malgun Gothic" font-weight="bold" font-size="128" fill="#ffffff">2026 초복</text>
+  <text x="80" y="618" font-family="Malgun Gothic" font-weight="bold" font-size="150" fill="#FFD23F">7월 15일</text>
+
+  <!-- 디테일 알약 -->
+  <rect x="80" y="690" rx="22" ry="22" width="920" height="104" fill="#ffffff" opacity="0.16"/>
+  <text x="110" y="758" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff">중복 7/25 · 말복 8/14 · 올핸 '월복'</text>
+
+  <!-- 삼계탕 뚝배기 일러스트 -->
+  <g>
+    <!-- 김 -->
+    <path d="M470 900 C452 866 500 852 480 818" stroke="#ffffff" stroke-width="9" fill="none" stroke-linecap="round" opacity="0.75"/>
+    <path d="M545 902 C527 862 575 848 555 810" stroke="#ffffff" stroke-width="9" fill="none" stroke-linecap="round" opacity="0.75"/>
+    <path d="M620 900 C602 866 650 852 630 818" stroke="#ffffff" stroke-width="9" fill="none" stroke-linecap="round" opacity="0.75"/>
+    <!-- 국물 -->
+    <ellipse cx="545" cy="930" rx="180" ry="42" fill="#FFF3D6"/>
+    <!-- 닭 -->
+    <ellipse cx="545" cy="922" rx="92" ry="46" fill="#F4D8A8"/>
+    <ellipse cx="510" cy="912" rx="30" ry="22" fill="#EBC58A"/>
+    <!-- 뚝배기 -->
+    <path d="M355 930 C355 1010 430 1050 545 1050 C660 1050 735 1010 735 930 Z" fill="#3A2A20"/>
+    <path d="M355 930 C355 948 430 964 545 964 C660 964 735 948 735 930" fill="#4A362A"/>
+  </g>
+
+  <!-- 채널 -->
+  <text x="80" y="1032" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#FFE3E9" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

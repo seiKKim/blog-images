@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF3F5"/>
+  <rect width="1080" height="210" fill="#E0556E"/>
+  <text x="60" y="100" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">복날 대표 보양식 6</text>
+  <text x="62" y="160" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#FFE3E9">초복·중복·말복 골라 먹는 여름 한 그릇</text>
+
+  <!-- 6개 카드 (2열 x 3행) -->
+  <g font-family="Malgun Gothic">
+    <!-- 삼계탕 -->
+    <rect x="60" y="270" width="460" height="300" rx="24" fill="#ffffff" stroke="#F0C6CF" stroke-width="2"/>
+    <circle cx="290" cy="360" r="52" fill="#FBE4D0"/>
+    <text x="290" y="470" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">삼계탕</text>
+    <text x="290" y="520" font-size="30" fill="#7C6B70" text-anchor="middle">이열치열 대표 · 기력 보충</text>
+
+    <!-- 장어 -->
+    <rect x="560" y="270" width="460" height="300" rx="24" fill="#ffffff" stroke="#F0C6CF" stroke-width="2"/>
+    <circle cx="790" cy="360" r="52" fill="#E7D8C2"/>
+    <text x="790" y="470" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">장어구이</text>
+    <text x="790" y="520" font-size="30" fill="#7C6B70" text-anchor="middle">단백질·비타민A 원기 보충</text>
+
+    <!-- 전복죽 -->
+    <rect x="60" y="600" width="460" height="300" rx="24" fill="#ffffff" stroke="#F0C6CF" stroke-width="2"/>
+    <circle cx="290" cy="690" r="52" fill="#D9E7CE"/>
+    <text x="290" y="800" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">전복죽</text>
+    <text x="290" y="850" font-size="30" fill="#7C6B70" text-anchor="middle">타우린 풍부 · 소화 부담↓</text>
+
+    <!-- 오리백숙 -->
+    <rect x="560" y="600" width="460" height="300" rx="24" fill="#ffffff" stroke="#F0C6CF" stroke-width="2"/>
+    <circle cx="790" cy="690" r="52" fill="#F3DDD0"/>
+    <text x="790" y="800" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">오리백숙</text>
+    <text x="790" y="850" font-size="30" fill="#7C6B70" text-anchor="middle">불포화지방산 · 열 식힘</text>
+
+    <!-- 추어탕 -->
+    <rect x="60" y="930" width="460" height="300" rx="24" fill="#ffffff" stroke="#F0C6CF" stroke-width="2"/>
+    <circle cx="290" cy="1020" r="52" fill="#E4DCC5"/>
+    <text x="290" y="1130" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">추어탕</text>
+    <text x="290" y="1180" font-size="30" fill="#7C6B70" text-anchor="middle">칼슘·아미노산 원기 회복</text>
+
+    <!-- 콩국수 -->
+    <rect x="560" y="930" width="460" height="300" rx="24" fill="#ffffff" stroke="#F0C6CF" stroke-width="2"/>
+    <circle cx="790" cy="1020" r="52" fill="#EFEFDF"/>
+    <text x="790" y="1130" font-weight="bold" font-size="46" fill="#1a1a1a" text-anchor="middle">콩국수</text>
+    <text x="790" y="1180" font-size="30" fill="#7C6B70" text-anchor="middle">입맛 없을 때 시원한 대안</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F4DDE2"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="30" fill="#9A6B74">※ 효능은 일반적으로 알려진 영양 상식 수준입니다</text>
+</svg>
