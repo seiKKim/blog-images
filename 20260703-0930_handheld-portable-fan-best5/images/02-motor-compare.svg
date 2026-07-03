@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#F1F8FA"/>
+<rect width="1080" height="180" fill="#1E6B7A"/>
+<text x="60" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">BLDC 모터 vs 일반 DC 모터</text>
+<!-- 헤더 행 -->
+<g font-family="Malgun Gothic" font-weight="bold" text-anchor="middle">
+<rect x="60" y="250" width="300" height="96" rx="14" fill="#E3EEF1"/>
+<text x="210" y="312" font-size="40" fill="#3B5560">항목</text>
+<rect x="372" y="250" width="324" height="96" rx="14" fill="#3FA9C9"/>
+<text x="534" y="312" font-size="44" fill="#ffffff">BLDC(브러시리스)</text>
+<rect x="708" y="250" width="312" height="96" rx="14" fill="#C9D8DC"/>
+<text x="864" y="312" font-size="44" fill="#3B5560">일반 DC</text>
+</g>
+<g font-family="Malgun Gothic" font-size="42" fill="#3B5560">
+<!-- 수명 -->
+<rect x="60" y="360" width="960" height="130" rx="14" fill="#ffffff" stroke="#D6E4E8"/>
+<text x="100" y="440" font-weight="bold">수명</text>
+<text x="534" y="440" font-weight="bold" fill="#1E6B7A" text-anchor="middle">3~5배 길다</text>
+<text x="864" y="440" text-anchor="middle">짧은 편</text>
+<!-- 소음 -->
+<rect x="60" y="504" width="960" height="130" rx="14" fill="#ffffff" stroke="#D6E4E8"/>
+<text x="100" y="584" font-weight="bold">소음</text>
+<text x="534" y="584" font-weight="bold" fill="#1E6B7A" text-anchor="middle">확연히 조용</text>
+<text x="864" y="584" text-anchor="middle">상대적 큼</text>
+<!-- 마찰부품 -->
+<rect x="60" y="648" width="960" height="130" rx="14" fill="#ffffff" stroke="#D6E4E8"/>
+<text x="100" y="728" font-weight="bold">마찰 부품</text>
+<text x="534" y="728" font-weight="bold" fill="#1E6B7A" text-anchor="middle">없음</text>
+<text x="864" y="728" text-anchor="middle">있음(마모)</text>
+</g>
+<rect x="60" y="820" width="960" height="150" rx="20" fill="#FFD23F"/>
+<text x="540" y="895" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#0C2A31" text-anchor="middle">무소음을 찾는다면</text>
+<text x="540" y="948" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#0C2A31" text-anchor="middle">BLDC는 사실상 필수 조건</text>
+</svg>

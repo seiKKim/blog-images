@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#3FA9C9"/><stop offset="0.5" stop-color="#1E6B7A"/><stop offset="1" stop-color="#0E3A44"/>
+</linearGradient>
+</defs>
+<rect width="1080" height="1080" fill="url(#bg)"/>
+<circle cx="930" cy="200" r="250" fill="#ffffff" opacity="0.08"/>
+<circle cx="120" cy="960" r="200" fill="#ffffff" opacity="0.06"/>
+<rect x="72" y="84" rx="34" ry="34" width="200" height="70" fill="#FFD23F"/>
+<text x="172" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#0C2A31" text-anchor="middle">추천아이템</text>
+<rect x="700" y="84" rx="30" ry="30" width="308" height="70" fill="#ffffff" opacity="0.16"/>
+<text x="854" y="130" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#ffffff" text-anchor="middle">2026 기내반입 규정 포함</text>
+<text x="76" y="288" font-family="Malgun Gothic" font-weight="bold" font-size="54" fill="#DFF3F7">5천원 ~ 15만원, 30배 차이</text>
+<text x="72" y="440" font-family="Malgun Gothic" font-weight="bold" font-size="150" fill="#FFFFFF">손풍기</text>
+<text x="72" y="600" font-family="Malgun Gothic" font-weight="bold" font-size="132" fill="#FFD23F">이렇게 고르세요</text>
+<!-- 핵심 기준 칩 3개 -->
+<g font-family="Malgun Gothic" font-weight="bold" text-anchor="middle">
+<rect x="72" y="672" rx="22" width="288" height="128" fill="#ffffff" opacity="0.16"/>
+<text x="216" y="738" font-size="52" fill="#ffffff">모터</text><text x="216" y="786" font-size="44" fill="#FFD23F">BLDC</text>
+<rect x="396" y="672" rx="22" width="288" height="128" fill="#ffffff" opacity="0.16"/>
+<text x="540" y="738" font-size="52" fill="#ffffff">배터리</text><text x="540" y="786" font-size="44" fill="#FFD23F">4000mAh↑</text>
+<rect x="720" y="672" rx="22" width="288" height="128" fill="#ffffff" opacity="0.16"/>
+<text x="864" y="738" font-size="52" fill="#ffffff">무게</text><text x="864" y="786" font-size="44" fill="#FFD23F">200g↓</text>
+</g>
+<rect x="72" y="836" rx="26" width="936" height="112" fill="#FFD23F"/>
+<text x="540" y="908" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#0C2A31" text-anchor="middle">무소음·강풍, 뭘 골라야 손해 안 볼까?</text>
+<text x="76" y="1008" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#DBF1EA" opacity="0.92">blog.naver.com/trip_chocho</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#F1F8FA"/>
+<rect width="1080" height="180" fill="#1E6B7A"/>
+<text x="60" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">리튬배터리 안전 체크</text>
+<g font-family="Malgun Gothic">
+<text x="60" y="290" font-weight="bold" font-size="44" fill="#1E6B7A">구매할 때</text>
+<text x="90" y="356" font-size="40" fill="#3B5560">☑ KC마크·전자파·배터리 인증 3종 표기 확인</text>
+<text x="90" y="410" font-size="40" fill="#3B5560">☑ 보호망 촘촘·날개 부드러운 재질</text>
+<text x="60" y="510" font-weight="bold" font-size="44" fill="#1E6B7A">사용할 때</text>
+<text x="90" y="576" font-size="40" fill="#3B5560">☑ 지정 전압 초과 충전 금지</text>
+<text x="90" y="630" font-size="40" fill="#3B5560">☑ 충전 끝나면 USB 커넥터 분리</text>
+<text x="90" y="684" font-size="40" fill="#3B5560">☑ 3~4시간 연속 사용 후 잠깐 멈추기</text>
+<text x="60" y="784" font-weight="bold" font-size="44" fill="#1E6B7A">보관·폐기</text>
+<text x="90" y="850" font-size="40" fill="#C0392B">☒ 여름철 차량 안 방치 금지 · 냉장 보관 금지</text>
+<text x="90" y="904" font-size="40" fill="#3B5560">☑ 다 쓴 배터리는 방전 후 분리배출</text>
+</g>
+<rect x="0" y="1000" width="1080" height="80" fill="#E3EEF1"/>
+<text x="60" y="1052" font-family="Malgun Gothic" font-size="34" fill="#5B6B7C">여름철마다 발열·발화 사고가 반복됩니다</text>
+</svg>
