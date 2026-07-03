@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="200" width="1080" height="8" fill="#E23B3B"/>
+  <text x="60" y="112" font-family="Malgun Gothic" font-weight="bold"
+        font-size="58" fill="#ffffff">호우 긴급재난문자, 언제 오나</text>
+  <text x="60" y="168" font-family="Malgun Gothic" font-weight="normal"
+        font-size="36" fill="#E8EEF5">상시 기준 + 2026 신규를 구분해서</text>
+
+  <!-- 카드 1: 상시 기준 -->
+  <rect x="60" y="260" width="960" height="440" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="260" width="960" height="88" rx="24" fill="#2B2F36"/>
+  <rect x="60" y="316" width="960" height="32" fill="#2B2F36"/>
+  <text x="100" y="320" font-family="Malgun Gothic" font-weight="bold"
+        font-size="44" fill="#ffffff">① 상시 극한호우 재난문자</text>
+
+  <text x="100" y="430" font-family="Malgun Gothic" font-weight="bold"
+        font-size="42" fill="#1a1a1a">조건 ①·② 중 하나만 관측돼도 발송</text>
+
+  <rect x="100" y="470" width="880" height="86" rx="14" fill="#EEF3F9"/>
+  <text x="130" y="524" font-family="Malgun Gothic" font-weight="bold"
+        font-size="40" fill="#2B2F36">1시간 50mm + 3시간 90mm</text>
+  <rect x="100" y="568" width="880" height="86" rx="14" fill="#EEF3F9"/>
+  <text x="130" y="622" font-family="Malgun Gothic" font-weight="bold"
+        font-size="40" fill="#2B2F36">또는  1시간 72mm 이상</text>
+  <text x="100" y="686" font-family="Malgun Gothic" font-weight="normal"
+        font-size="32" fill="#5B6B7C">→ 기상청 직접 발송 · 2025.5.15부터 전국 확대</text>
+
+  <!-- 카드 2: 2026 신규 -->
+  <rect x="60" y="740" width="960" height="360" rx="24" fill="#ffffff" stroke="#E23B3B" stroke-width="3"/>
+  <rect x="60" y="740" width="960" height="88" rx="24" fill="#E23B3B"/>
+  <rect x="60" y="796" width="960" height="32" fill="#E23B3B"/>
+  <text x="100" y="800" font-family="Malgun Gothic" font-weight="bold"
+        font-size="44" fill="#ffffff">② 2026 신규 '재난성 호우'</text>
+
+  <text x="100" y="920" font-family="Malgun Gothic" font-weight="bold"
+        font-size="64" fill="#E23B3B">시간당 100mm급</text>
+  <rect x="100" y="960" width="880" height="86" rx="14" fill="#FDECEC"/>
+  <text x="130" y="1014" font-family="Malgun Gothic" font-weight="bold"
+        font-size="38" fill="#2B2F36">읍·면·동 단위로 추가 발송</text>
+
+  <!-- 요약 띠 -->
+  <rect x="60" y="1140" width="960" height="110" rx="18" fill="#2B2F36"/>
+  <text x="540" y="1208" font-family="Malgun Gothic" font-weight="bold"
+        font-size="40" fill="#FFD23F" text-anchor="middle">기존 문자에 초강력 호우용이 하나 더 얹힌 구조</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1290" width="1080" height="60" fill="#E8EEF5"/>
+  <text x="60" y="1330" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C">출처: 기상청 · 행정안전부</text>
+</svg>

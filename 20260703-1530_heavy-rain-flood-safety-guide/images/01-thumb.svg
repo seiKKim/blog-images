@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <!-- 배경: 오늘의 이슈 차콜 -->
+  <rect width="1080" height="1080" fill="#2B2F36"/>
+  <!-- 상단 경고 레드 띠 -->
+  <rect x="0" y="0" width="1080" height="14" fill="#E23B3B"/>
+  <!-- 장식 도형 (빗물 느낌 원) -->
+  <circle cx="940" cy="180" r="250" fill="#E23B3B" opacity="0.12"/>
+  <circle cx="140" cy="980" r="210" fill="#ffffff" opacity="0.05"/>
+
+  <!-- 카테고리 뱃지 (좌상단) -->
+  <rect x="80" y="96" rx="34" ry="34" width="230" height="68" fill="#E23B3B"/>
+  <text x="195" y="142" font-family="Malgun Gothic" font-weight="bold"
+        font-size="36" fill="#ffffff" text-anchor="middle">오늘의 이슈</text>
+
+  <!-- 서브 카피 (경고) -->
+  <text x="80" y="300" font-family="Malgun Gothic" font-weight="bold"
+        font-size="62" fill="#FFD23F">⚠ 시간당 100mm 물폭탄</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="430" font-family="Malgun Gothic" font-weight="bold"
+        font-size="92" fill="#ffffff">차 안에 갇혔다면</text>
+
+  <!-- 핵심 숫자 (가장 크게) -->
+  <text x="80" y="640" font-family="Malgun Gothic" font-weight="bold"
+        font-size="230" fill="#E23B3B">딱 30cm</text>
+  <text x="80" y="760" font-family="Malgun Gothic" font-weight="bold"
+        font-size="88" fill="#ffffff">만 기억하세요</text>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="820" rx="20" ry="20" width="920" height="140" fill="#ffffff" opacity="0.10"/>
+  <text x="112" y="878" font-family="Malgun Gothic" font-weight="bold"
+        font-size="46" fill="#FFD23F">창문 안 깨져도 → 수위차 30cm면</text>
+  <text x="112" y="936" font-family="Malgun Gothic" font-weight="bold"
+        font-size="46" fill="#ffffff">차 문이 열립니다</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1030" font-family="Malgun Gothic" font-weight="normal"
+        font-size="34" fill="#E8EEF5" opacity="0.85">blog.naver.com/trip_chocho</text>
+</svg>
