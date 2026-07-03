@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF5EF"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <rect x="60" y="88" rx="26" ry="26" width="188" height="56" fill="#FFD23F"/>
+  <text x="154" y="126" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="178" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#ffffff">가격대별 추천 유형</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 저가대 -->
+    <rect x="60" y="256" width="960" height="290" rx="20" fill="#ffffff" stroke="#EDD9C7"/>
+    <rect x="60" y="256" width="14" height="290" rx="7" fill="#F0A05A"/>
+    <text x="100" y="330" font-size="46" font-weight="bold" fill="#333">저가대</text>
+    <rect x="300" y="292" rx="22" width="290" height="52" fill="#FFF0E0"/>
+    <text x="445" y="329" font-size="34" font-weight="bold" fill="#D2691E" text-anchor="middle">약 24~30만원대</text>
+    <text x="100" y="410" font-size="38" font-weight="bold" fill="#555">임시·단기 거주용</text>
+    <text x="100" y="470" font-size="34" fill="#777">정속형·소형 위주 (신일·위니아 등)</text>
+    <text x="100" y="518" font-size="32" fill="#999">전기세·소음 면에서 장기 사용엔 불리</text>
+
+    <!-- 중가대 -->
+    <rect x="60" y="566" width="960" height="290" rx="20" fill="#ffffff" stroke="#EDD9C7"/>
+    <rect x="60" y="566" width="14" height="290" rx="7" fill="#E8722C"/>
+    <text x="100" y="640" font-size="46" font-weight="bold" fill="#333">중가대</text>
+    <rect x="300" y="602" rx="22" width="290" height="52" fill="#FFE9CC"/>
+    <text x="445" y="639" font-size="34" font-weight="bold" fill="#D2691E" text-anchor="middle">약 30~50만원대</text>
+    <rect x="760" y="602" rx="22" width="196" height="52" fill="#FFD23F"/>
+    <text x="858" y="639" font-size="32" font-weight="bold" fill="#1a1a1a" text-anchor="middle">가성비 핵심</text>
+    <text x="100" y="720" font-size="38" font-weight="bold" fill="#555">원룸·작은방 상시용</text>
+    <text x="100" y="780" font-size="34" fill="#777">정속형 상위 ~ 일부 인버터</text>
+    <text x="100" y="828" font-size="32" fill="#999">파세코·귀뚜라미·삼성 윈도우핏 일부 등</text>
+
+    <!-- 고가대 -->
+    <rect x="60" y="876" width="960" height="290" rx="20" fill="#ffffff" stroke="#EDD9C7"/>
+    <rect x="60" y="876" width="14" height="290" rx="7" fill="#C0561C"/>
+    <text x="100" y="950" font-size="46" font-weight="bold" fill="#333">고가대</text>
+    <rect x="300" y="912" rx="22" width="310" height="52" fill="#FBDBC4"/>
+    <text x="455" y="949" font-size="34" font-weight="bold" fill="#C0561C" text-anchor="middle">약 60~100만원대</text>
+    <text x="100" y="1030" font-size="38" font-weight="bold" fill="#555">취침·매일 길게 · 소음 민감</text>
+    <text x="100" y="1090" font-size="34" fill="#777">인버터 1등급·저소음 모드 중심</text>
+    <text x="100" y="1138" font-size="32" fill="#999">삼성 무풍·LG 휘센/오브제·파세코 프리미엄 등</text>
+  </g>
+
+  <!-- 주의 -->
+  <text x="60" y="1230" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8a8a8a">※ 참고 범위이며 실판매가는 시기·판매처·프로모션에 따라 수시로 변동</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0E3D6"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8a6f58">blog.naver.com/trip_chocho · 본문 참고 정리</text>
+</svg>

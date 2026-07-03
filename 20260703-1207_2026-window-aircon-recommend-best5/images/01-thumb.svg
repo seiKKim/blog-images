@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F0863A"/>
+      <stop offset="1" stop-color="#E8722C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="960" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="88" rx="34" ry="34" width="236" height="68" fill="#FFD23F"/>
+  <text x="198" y="134" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="262" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#FFE9D2">폭염 오기 전 원룸·작은방</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="392" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="118" fill="#ffffff">2026 창문형</text>
+  <text x="80" y="512" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="118" fill="#ffffff">에어컨 <tspan fill="#FFD23F">고르는 법</tspan></text>
+
+  <!-- 창문형 에어컨 심볼 (창틀에 낀 유닛) -->
+  <g transform="translate(700,560)">
+    <rect x="0" y="0" width="300" height="200" rx="14" fill="#ffffff" opacity="0.16"/>
+    <rect x="24" y="26" width="252" height="148" rx="10" fill="#ffffff"/>
+    <rect x="44" y="46" width="120" height="108" rx="6" fill="#DDE7F0"/>
+    <rect x="180" y="46" width="76" height="48" rx="6" fill="#F0863A"/>
+    <line x1="196" y1="118" x2="256" y2="118" stroke="#B9C6D4" stroke-width="6" stroke-linecap="round"/>
+    <line x1="196" y1="140" x2="256" y2="140" stroke="#B9C6D4" stroke-width="6" stroke-linecap="round"/>
+    <!-- 냉기 -->
+    <path d="M64 168 q10 22 0 44" stroke="#5FB0E8" stroke-width="7" fill="none" stroke-linecap="round"/>
+    <path d="M104 168 q10 22 0 44" stroke="#5FB0E8" stroke-width="7" fill="none" stroke-linecap="round"/>
+    <path d="M144 168 q10 22 0 44" stroke="#5FB0E8" stroke-width="7" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- 5가지 체크포인트 박스 -->
+  <rect x="80" y="600" rx="22" ry="22" width="560" height="330" fill="#ffffff" opacity="0.15"/>
+  <text x="118" y="672" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#ffffff">실패 없는 5가지 체크</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#ffffff">
+    <text x="118" y="738">① 평형  ② 인버터</text>
+    <text x="118" y="800">③ 소음  ④ 창틀</text>
+    <text x="118" y="862">⑤ 효율등급</text>
+  </g>
+
+  <!-- 하단 후킹 띠 -->
+  <rect x="80" y="958" rx="18" ry="18" width="920" height="66" fill="#2B2F36" opacity="0.9"/>
+  <text x="110" y="1002" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#FFD23F">평년보다 더운 여름</text>
+  <text x="440" y="1002" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#ffffff">· 원룸·자취·전월세 추천</text>
+</svg>
