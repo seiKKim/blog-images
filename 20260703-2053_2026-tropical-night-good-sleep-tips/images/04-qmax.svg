@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#EDF5FB"/>
+  <rect width="1080" height="210" fill="#1E5C8C"/>
+  <rect x="60" y="70" rx="26" ry="26" width="170" height="56" fill="#5FE0C8"/>
+  <text x="145" y="108" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#0F3D6B" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="185" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#FFFFFF">냉감 이불, Q-max로 고른다</text>
+
+  <!-- 설명 -->
+  <text x="60" y="290" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="36" fill="#33475A">Q-max(접촉냉감지수) = 값이 클수록 시원함</text>
+
+  <!-- 표 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="340" width="960" height="150" rx="18" fill="#FFFFFF" stroke="#D6E0EC"/>
+    <text x="100" y="435" font-size="56" font-weight="bold" fill="#1E5C8C">0.2 이상</text>
+    <text x="1000" y="435" font-size="44" font-weight="bold" fill="#33475A" text-anchor="end">접촉냉감성 있음</text>
+
+    <rect x="60" y="510" width="960" height="160" rx="18" fill="#DFF3EE" stroke="#5FE0C8" stroke-width="3"/>
+    <text x="100" y="590" font-size="60" font-weight="bold" fill="#12735C">0.3 이상</text>
+    <text x="100" y="640" font-size="30" fill="#2A6357">냉감 이불 권장선</text>
+    <text x="1000" y="610" font-size="46" font-weight="bold" fill="#12735C" text-anchor="end">시원함 ✔</text>
+
+    <rect x="60" y="690" width="960" height="150" rx="18" fill="#FFFFFF" stroke="#D6E0EC"/>
+    <text x="100" y="785" font-size="56" font-weight="bold" fill="#1E5C8C">0.4 이상</text>
+    <text x="1000" y="785" font-size="44" font-weight="bold" fill="#33475A" text-anchor="end">우수 냉감(차가움)</text>
+  </g>
+
+  <!-- 팁 박스 -->
+  <rect x="60" y="880" width="960" height="320" rx="18" fill="#FFFFFF" stroke="#D6E0EC"/>
+  <text x="100" y="945" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="40" font-weight="bold" fill="#1E5C8C">함께 챙길 것</text>
+  <text x="100" y="1010" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#33475A">· 소재는 면·리넨(땀 흡수·통기성 좋음)</text>
+  <text x="100" y="1065" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#33475A">· 쿨매트는 몸보다 넉넉한 크기 (외부 공기 접촉 필요)</text>
+  <text x="100" y="1120" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#33475A">· 3종 세트: 냉감이불 + 쿨매트 + 서큘레이터</text>
+  <text x="100" y="1175" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#33475A">· 얇은 잠옷 + 얇은 이불로 배만 덮기</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCE7F1"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">Q-max·크기는 상품 정보에서 최신 스펙 확인</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#EDF5FB"/>
+  <rect width="1080" height="210" fill="#1E5C8C"/>
+  <rect x="60" y="70" rx="26" ry="26" width="170" height="56" fill="#5FE0C8"/>
+  <text x="145" y="108" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#0F3D6B" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="185" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#FFFFFF">새벽에 안 깨는 냉방 사용법</text>
+
+  <!-- 카드1: 에어컨 -->
+  <rect x="60" y="270" width="960" height="360" rx="22" fill="#FFFFFF" stroke="#D6E0EC"/>
+  <circle cx="140" cy="345" r="40" fill="#1E5C8C"/>
+  <text x="140" y="360" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="205" y="360" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="48" fill="#1a1a1a">에어컨은 취침 예약</text>
+  <text x="110" y="445" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="36" fill="#33475A">· 취침 1시간 전 미리 켜서 실내 냉각</text>
+  <text x="110" y="505" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="36" fill="#33475A">· 잘 때는 약풍 or 타이머 2~3시간 뒤 꺼짐</text>
+  <text x="110" y="565" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="36" fill="#33475A">· 체온은 새벽 4~5시 최저 → 계속 켜면 추워서 깸</text>
+
+  <!-- 카드2: 서큘레이터 -->
+  <rect x="60" y="660" width="960" height="360" rx="22" fill="#FFFFFF" stroke="#D6E0EC"/>
+  <circle cx="140" cy="735" r="40" fill="#12735C"/>
+  <text x="140" y="750" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text x="205" y="750" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="48" fill="#1a1a1a">서큘레이터로 냉기 순환</text>
+  <text x="110" y="835" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="36" fill="#33475A">· 벽·천장 향하게 or 회전 (직접 바람 X)</text>
+  <text x="110" y="895" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="36" fill="#33475A">· 에어컨과 함께 쓰면 방 온도 2~3℃ 하강</text>
+  <text x="110" y="955" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="36" fill="#33475A">· 병행 시 에너지 약 20% 절약</text>
+
+  <!-- 하이라이트 -->
+  <rect x="60" y="1055" width="960" height="150" rx="18" fill="#FFF3CC" stroke="#F2D97A"/>
+  <text x="100" y="1120" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="38" font-weight="bold" fill="#8A6D12">에너지 약 20% 절약</text>
+  <text x="100" y="1170" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#6B571A">에어컨 2~3℃ 높여도 서큘레이터 병행하면 체감 비슷</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCE7F1"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">본문 근거 기준 · 모델·전력량은 최신 스펙 확인 권장</text>
+</svg>

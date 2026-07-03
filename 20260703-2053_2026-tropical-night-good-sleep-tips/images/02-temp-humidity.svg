@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#EDF5FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="210" fill="#1E5C8C"/>
+  <rect x="60" y="70" rx="26" ry="26" width="170" height="56" fill="#5FE0C8"/>
+  <text x="145" y="108" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#0F3D6B" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="185" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#FFFFFF">침실 온도·습도 기준</text>
+
+  <!-- 표 헤더 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <text x="90" y="330" font-size="40" font-weight="bold" fill="#5B6B7C">항목</text>
+    <text x="1020" y="330" font-size="40" font-weight="bold" fill="#5B6B7C" text-anchor="end">권장 범위</text>
+  </g>
+  <line x1="60" y1="352" x2="1020" y2="352" stroke="#C7D8E8" stroke-width="2"/>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 행1 -->
+    <rect x="60" y="380" width="960" height="150" rx="18" fill="#FFFFFF" stroke="#D6E0EC"/>
+    <text x="100" y="450" font-size="44" font-weight="bold" fill="#1a1a1a">침실 온도</text>
+    <text x="100" y="502" font-size="28" fill="#7A8A99">개인 체감에 맞춰 조절</text>
+    <text x="1000" y="475" font-size="60" font-weight="bold" fill="#1E5C8C" text-anchor="end">24~26℃</text>
+
+    <!-- 행2 -->
+    <rect x="60" y="550" width="960" height="150" rx="18" fill="#FFFFFF" stroke="#D6E0EC"/>
+    <text x="100" y="620" font-size="44" font-weight="bold" fill="#1a1a1a">침실 습도</text>
+    <text x="100" y="672" font-size="28" fill="#7A8A99">60% 넘으면 제습기 권장</text>
+    <text x="1000" y="645" font-size="60" font-weight="bold" fill="#1E5C8C" text-anchor="end">50~60%</text>
+
+    <!-- 행3 -->
+    <rect x="60" y="720" width="960" height="150" rx="18" fill="#FFFFFF" stroke="#D6E0EC"/>
+    <text x="100" y="790" font-size="44" font-weight="bold" fill="#1a1a1a">실내외 온도차</text>
+    <text x="100" y="842" font-size="28" fill="#7A8A99">냉방병 예방(서울대병원)</text>
+    <text x="1000" y="815" font-size="56" font-weight="bold" fill="#E8722C" text-anchor="end">5~6℃ 이내</text>
+  </g>
+
+  <!-- 참고 박스 -->
+  <rect x="60" y="910" width="960" height="290" rx="18" fill="#DFF3EE" stroke="#B7E4D8"/>
+  <text x="100" y="975" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="38" font-weight="bold" fill="#12735C">알아두기</text>
+  <text x="100" y="1035" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#2A4A44">· 습도 70% 이상이면 26℃도 30℃처럼 덥게 느껴짐</text>
+  <text x="100" y="1090" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#2A4A44">· 여름철(7~8월) 평균 습도는 78~79%로 연중 최고</text>
+  <text x="100" y="1145" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#2A4A44">· 자료별 온도 편차: 24~26℃ vs 26~28℃</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCE7F1"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">출처: 서울아산병원·서울대병원 의학정보</text>
+</svg>
