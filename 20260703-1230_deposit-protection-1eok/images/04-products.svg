@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="105" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">보호 상품 vs 비보호 상품</text>
+  <text x="60" y="165" font-family="Malgun Gothic" font-size="38" fill="#FFD23F">실적에 연동되는 상품은 보호 대상이 아닙니다</text>
+
+  <!-- 보호 컬럼 -->
+  <rect x="60" y="250" width="465" height="760" rx="20" fill="#EAF5EE" stroke="#1F8A53" stroke-width="3"/>
+  <text x="292" y="330" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1F8A53" text-anchor="middle">보호 O</text>
+  <g font-family="Malgun Gothic" font-size="37" fill="#25412F">
+    <text x="100" y="430">✓ 예금·적금</text>
+    <text x="100" y="500">✓ 외화예금(원화환산)</text>
+    <text x="100" y="570">✓ 보험 해약환급금</text>
+    <text x="100" y="640">✓ 투자자예탁금</text>
+    <text x="100" y="710">✓ 상호금융 예탁금</text>
+    <text x="100" y="780">✓ 상호금융 공제금</text>
+  </g>
+  <rect x="90" y="830" width="405" height="150" rx="16" fill="#FFD23F"/>
+  <text x="292" y="890" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">퇴직연금·연금저축</text>
+  <text x="292" y="940" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">별도 1억원 추가 보호</text>
+
+  <!-- 비보호 컬럼 -->
+  <rect x="555" y="250" width="465" height="760" rx="20" fill="#FBE9E9" stroke="#C0392B" stroke-width="3"/>
+  <text x="787" y="330" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#C0392B" text-anchor="middle">보호 X</text>
+  <g font-family="Malgun Gothic" font-size="37" fill="#4A2A2A">
+    <text x="595" y="430">✗ 펀드 · 금융투자상품</text>
+    <text x="595" y="500">✗ 주식 · ETF</text>
+    <text x="595" y="570">✗ 실적배당형 상품</text>
+    <text x="595" y="640">✗ 증권사 CMA</text>
+    <text x="595" y="710">✗ 후순위채권</text>
+    <text x="595" y="780">✗ 조합 출자금</text>
+  </g>
+
+  <rect x="60" y="1050" width="960" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="540" y="1115" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#243B6B" text-anchor="middle">판단 기준: 지급액이 운용실적에</text>
+  <text x="540" y="1165" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#243B6B" text-anchor="middle">연동되면 → 비보호</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 예금보험공사</text>
+</svg>

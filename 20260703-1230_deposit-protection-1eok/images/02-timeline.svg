@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#243B6B"/>
+  <text x="60" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">예금자보호법 개정 타임라인</text>
+
+  <!-- 세로 라인 -->
+  <line x1="150" y1="280" x2="150" y2="900" stroke="#C6D2E4" stroke-width="6"/>
+
+  <!-- 단계 1 -->
+  <circle cx="150" cy="320" r="26" fill="#243B6B"/>
+  <text x="220" y="308" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#243B6B">2024. 12. 27</text>
+  <text x="220" y="360" font-family="Malgun Gothic" font-size="40" fill="#33404F">국회 본회의 통과</text>
+
+  <!-- 단계 2 -->
+  <circle cx="150" cy="470" r="26" fill="#243B6B"/>
+  <text x="220" y="458" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#243B6B">2025. 1. 21</text>
+  <text x="220" y="510" font-family="Malgun Gothic" font-size="40" fill="#33404F">개정법 공포</text>
+
+  <!-- 단계 3 -->
+  <circle cx="150" cy="620" r="26" fill="#243B6B"/>
+  <text x="220" y="608" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#243B6B">2025. 7. 22</text>
+  <text x="220" y="660" font-family="Malgun Gothic" font-size="40" fill="#33404F">시행령 등 국무회의 의결</text>
+
+  <!-- 단계 4 (강조) -->
+  <circle cx="150" cy="790" r="34" fill="#FFD23F" stroke="#243B6B" stroke-width="6"/>
+  <rect x="210" y="740" width="820" height="120" rx="18" fill="#FFD23F"/>
+  <text x="250" y="798" font-family="Malgun Gothic" font-weight="bold" font-size="48" fill="#1a1a1a">2025. 9. 1  실제 시행</text>
+  <text x="250" y="842" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#3a3a1a">5,000만원 → 1억원 자동 적용</text>
+
+  <rect x="0" y="1000" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1052" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 금융위원회 · 정책브리핑(korea.kr)</text>
+</svg>

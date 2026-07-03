@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="105" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">기관별 보호 주체</text>
+  <text x="60" y="165" font-family="Malgun Gothic" font-size="40" fill="#FFD23F">한도는 모두 1억원, 보호 주체는 다릅니다</text>
+
+  <!-- A -->
+  <rect x="60" y="250" width="960" height="270" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="250" width="14" height="270" rx="7" fill="#243B6B"/>
+  <text x="100" y="320" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#243B6B">A. 예금보험공사(KDIC) 보호</text>
+  <text x="100" y="380" font-family="Malgun Gothic" font-size="38" fill="#33404F">은행·저축은행·보험·증권,</text>
+  <text x="100" y="428" font-family="Malgun Gothic" font-size="38" fill="#33404F">NH농협은행·수협은행</text>
+  <text x="100" y="486" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">근거: 예금자보호법 · 한도 1억원</text>
+
+  <!-- B -->
+  <rect x="60" y="550" width="960" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="550" width="14" height="290" rx="7" fill="#1F8A53"/>
+  <text x="100" y="620" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1F8A53">B. 중앙회 자체기금 보호</text>
+  <text x="100" y="680" font-family="Malgun Gothic" font-size="38" fill="#33404F">신협·새마을금고·지역농협,</text>
+  <text x="100" y="728" font-family="Malgun Gothic" font-size="38" fill="#33404F">지역수협·산림조합 (단위조합)</text>
+  <text x="100" y="786" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">근거: 각 개별법 · 한도 1억원</text>
+
+  <!-- C -->
+  <rect x="60" y="870" width="960" height="220" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="870" width="14" height="220" rx="7" fill="#E8722C"/>
+  <text x="100" y="940" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#E8722C">C. 국가(정부) 전액 보증</text>
+  <text x="100" y="1000" font-family="Malgun Gothic" font-size="38" fill="#33404F">우체국예금 · 우체국보험</text>
+  <text x="100" y="1058" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1a1a1a">한도 없이 전액 보장</text>
+
+  <!-- 제외 -->
+  <rect x="60" y="1120" width="960" height="100" rx="20" fill="#FBE9E9" stroke="#E8B3B3" stroke-width="2"/>
+  <text x="100" y="1183" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#C0392B">공통 제외: 조합 출자금은 비보호</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 예금보험공사 · 찾기쉬운 생활법령정보</text>
+</svg>

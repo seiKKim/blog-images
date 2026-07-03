@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#243B6B"/>
+  <text x="60" y="115" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#ffffff">1억 시대 예금 분산 전략</text>
+
+  <!-- 1억 이하 -->
+  <rect x="60" y="230" width="960" height="160" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="230" width="14" height="160" rx="7" fill="#1F8A53"/>
+  <text x="100" y="300" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1F8A53">1억원 이하 자금</text>
+  <text x="100" y="356" font-family="Malgun Gothic" font-size="38" fill="#33404F">한 곳에 모아도 전액 보호 · 이자만 점검</text>
+
+  <!-- 1억 초과 -->
+  <rect x="60" y="420" width="960" height="280" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="420" width="14" height="280" rx="7" fill="#243B6B"/>
+  <text x="100" y="490" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#243B6B">1억원 초과 자금</text>
+  <text x="100" y="546" font-family="Malgun Gothic" font-size="38" fill="#33404F">금융회사별로 나눠서 각각 1억원씩 보호</text>
+  <g font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#1a1a1a">
+    <rect x="100" y="580" width="260" height="90" rx="14" fill="#EAF0FA"/>
+    <text x="230" y="635" text-anchor="middle">A은행 1억</text>
+    <rect x="410" y="580" width="260" height="90" rx="14" fill="#EAF0FA"/>
+    <text x="540" y="635" text-anchor="middle">B은행 1억</text>
+    <rect x="720" y="580" width="260" height="90" rx="14" fill="#EAF0FA"/>
+    <text x="850" y="635" text-anchor="middle">저축은행 1억</text>
+  </g>
+
+  <!-- 상호금융 -->
+  <rect x="60" y="730" width="960" height="140" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="730" width="14" height="140" rx="7" fill="#E8722C"/>
+  <text x="100" y="795" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#E8722C">상호금융 활용</text>
+  <text x="100" y="845" font-family="Malgun Gothic" font-size="36" fill="#33404F">금고·조합이 별도 법인 → 각각 1억원씩 보호</text>
+
+  <!-- 핵심 팁 -->
+  <rect x="60" y="900" width="960" height="110" rx="20" fill="#FFD23F"/>
+  <text x="540" y="948" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">TIP. 이자까지 합산되니 원금은 9,000만~9,500만원대로</text>
+  <text x="540" y="992" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">금리보다 한도 초과 여부를 먼저 확인</text>
+</svg>
