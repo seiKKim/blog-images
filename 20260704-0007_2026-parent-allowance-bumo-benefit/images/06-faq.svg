@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="120" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">자주 묻는 질문 (FAQ)</text>
+
+  <!-- Q1 -->
+  <rect x="60" y="250" width="960" height="220" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1B5FA6">Q. 부모급여와 아동수당 둘 다 받나요?</text>
+  <text x="100" y="390" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">A. 별개 제도라 중복 수령 가능.</text>
+  <text x="100" y="440" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">각각 신청하면 함께 받습니다.</text>
+
+  <!-- Q2 -->
+  <rect x="60" y="500" width="960" height="220" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="570" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1B5FA6">Q. 신청이 늦으면 지난달 것도 받나요?</text>
+  <text x="100" y="640" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">A. 출생일 포함 60일 이내만 소급.</text>
+  <text x="100" y="690" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">넘기면 신청한 달부터만 지급.</text>
+
+  <!-- Q3 -->
+  <rect x="60" y="750" width="960" height="220" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="820" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1B5FA6">Q. 어린이집 보내면 현금은 못 받나요?</text>
+  <text x="100" y="890" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">A. 만 0세는 차액 41만 6천 원 현금,</text>
+  <text x="100" y="940" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">만 1세는 현금 차액 없음.</text>
+
+  <!-- Q4 -->
+  <rect x="60" y="1000" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="1070" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1B5FA6">Q. 소득이 높으면 못 받나요?</text>
+  <text x="100" y="1140" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">A. 소득·재산 기준 없음. 만 2세</text>
+  <text x="100" y="1190" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">미만 모든 아동이 대상.</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 복지로 · 정부24</text>
+</svg>
