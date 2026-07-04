@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="0" width="14" height="200" fill="#E23B3B"/>
+  <text x="60" y="98" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">노·사 요구안 격차 변화</text>
+  <text x="60" y="158" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">2027년 최저임금 심의 (논의 중·미확정)</text>
+
+  <!-- 범례 -->
+  <circle cx="90" cy="258" r="16" fill="#E23B3B"/>
+  <text x="118" y="272" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="bold" fill="#1a1a1a">노동계</text>
+  <circle cx="320" cy="258" r="16" fill="#1B5FA6"/>
+  <text x="348" y="272" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="bold" fill="#1a1a1a">경영계</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 단계 1: 최초 요구안 -->
+    <text x="60" y="360" font-size="36" font-weight="bold" fill="#5B6B7C">최초 요구안</text>
+    <text x="760" y="360" font-size="34" font-weight="bold" fill="#2B2F36" text-anchor="end">격차</text>
+    <text x="1010" y="360" font-size="34" font-weight="bold" fill="#2B2F36" text-anchor="end">1,680원</text>
+    <rect x="60" y="380" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="448" font-size="46" font-weight="bold" fill="#E23B3B">12,000원</text>
+    <text x="1000" y="448" font-size="46" font-weight="bold" fill="#1B5FA6" text-anchor="end">10,320원</text>
+
+    <!-- 단계 2: 1차 수정안 -->
+    <text x="60" y="558" font-size="36" font-weight="bold" fill="#5B6B7C">1차 수정안</text>
+    <text x="760" y="558" font-size="34" font-weight="bold" fill="#2B2F36" text-anchor="end">격차</text>
+    <text x="1010" y="558" font-size="34" font-weight="bold" fill="#2B2F36" text-anchor="end">1,630원</text>
+    <rect x="60" y="578" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="646" font-size="46" font-weight="bold" fill="#E23B3B">11,970원</text>
+    <text x="1000" y="646" font-size="46" font-weight="bold" fill="#1B5FA6" text-anchor="end">10,340원</text>
+
+    <!-- 단계 3: 최근(7/2) - 강조 -->
+    <text x="60" y="756" font-size="36" font-weight="bold" fill="#E23B3B">최근 (7/2, 4차 수정안)</text>
+    <text x="760" y="756" font-size="34" font-weight="bold" fill="#E23B3B" text-anchor="end">격차</text>
+    <text x="1010" y="756" font-size="34" font-weight="bold" fill="#E23B3B" text-anchor="end">1,290원</text>
+    <rect x="60" y="776" width="960" height="130" rx="16" fill="#2B2F36"/>
+    <text x="100" y="856" font-size="52" font-weight="bold" fill="#FFD23F">11,700원</text>
+    <text x="1000" y="856" font-size="52" font-weight="bold" fill="#7FB4E8" text-anchor="end">10,410원</text>
+  </g>
+
+  <!-- 격차 축소 강조 배너 -->
+  <rect x="60" y="960" width="960" height="230" rx="20" fill="#FFF6DD" stroke="#FFD23F" stroke-width="3"/>
+  <text x="540" y="1040" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" font-weight="bold" fill="#8a6d10" text-anchor="middle">격차가 좁혀지는 중</text>
+  <text x="540" y="1135" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="76" font-weight="bold" fill="#2B2F36" text-anchor="middle">1,680원 → 1,290원</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">2026.7.2 제11차 전원회의 기준 · 최종 확정값 아님</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="0" width="14" height="200" fill="#E23B3B"/>
+  <text x="60" y="98" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">월급 '209시간'은 무슨 뜻?</text>
+  <text x="60" y="158" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#E8EEF5">2026년 최저임금 월 환산 구조</text>
+
+  <!-- 계산 단계 카드들 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="270" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="330" font-size="42" font-weight="bold" fill="#1a1a1a">주 40시간 근로</text>
+    <text x="1000" y="360" font-size="52" font-weight="bold" fill="#2B2F36" text-anchor="end">40시간</text>
+
+    <text x="540" y="452" font-size="46" font-weight="bold" fill="#E23B3B" text-anchor="middle">＋</text>
+
+    <rect x="60" y="480" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="540" font-size="42" font-weight="bold" fill="#1a1a1a">주휴시간(유급)</text>
+    <text x="1000" y="570" font-size="52" font-weight="bold" fill="#2B2F36" text-anchor="end">8시간</text>
+
+    <text x="540" y="662" font-size="46" font-weight="bold" fill="#E23B3B" text-anchor="middle">＝ 주 48시간 × 약 4.345주</text>
+
+    <rect x="60" y="700" width="960" height="150" rx="18" fill="#2B2F36"/>
+    <text x="100" y="770" font-size="44" font-weight="bold" fill="#ffffff">월 환산 근로시간</text>
+    <text x="1000" y="800" font-size="64" font-weight="bold" fill="#FFD23F" text-anchor="end">약 209시간</text>
+  </g>
+
+  <!-- 결과 강조 -->
+  <rect x="60" y="900" width="960" height="300" rx="20" fill="#FFF6DD" stroke="#FFD23F" stroke-width="3"/>
+  <text x="540" y="985" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" font-weight="bold" fill="#8a6d10" text-anchor="middle">시급 10,320원 × 209시간</text>
+  <text x="540" y="1095" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="90" font-weight="bold" fill="#2B2F36" text-anchor="middle">월 2,156,880원</text>
+  <text x="540" y="1160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="bold" fill="#E23B3B" text-anchor="middle">※ 주휴수당이 이미 포함된 금액</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">2026년 적용 최저임금 기준 (주40시간 + 주휴8시간)</text>
+</svg>
