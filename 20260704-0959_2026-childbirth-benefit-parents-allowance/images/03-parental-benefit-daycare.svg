@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">부모급여 어린이집 이용 시</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">보육료 바우처 차감 후 차액만 현금</text>
+
+  <!-- 0세 블록 -->
+  <rect x="60" y="250" width="960" height="440" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="250" width="960" height="90" rx="24" fill="#1B5FA6"/>
+  <rect x="60" y="300" width="960" height="40" fill="#1B5FA6"/>
+  <text x="100" y="312" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">0세 (0~11개월)</text>
+
+  <text x="100" y="420" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a">부모급여</text>
+  <text x="980" y="420" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a" text-anchor="end">월 100만원</text>
+
+  <text x="100" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="42" fill="#5B6B7C">(−) 기본보육료</text>
+  <text x="980" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="42" fill="#5B6B7C" text-anchor="end">58만 4천원</text>
+
+  <line x1="100" y1="540" x2="980" y2="540" stroke="#D6E0EC" stroke-width="2"/>
+
+  <rect x="100" y="570" width="880" height="90" rx="16" fill="#E7F1E9"/>
+  <text x="140" y="628" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1F8A53">차액 현금 지급</text>
+  <text x="940" y="628" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#1F8A53" text-anchor="end">41만 6천원</text>
+
+  <!-- 1세 블록 -->
+  <rect x="60" y="720" width="960" height="440" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="720" width="960" height="90" rx="24" fill="#1B5FA6"/>
+  <rect x="60" y="770" width="960" height="40" fill="#1B5FA6"/>
+  <text x="100" y="782" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">1세 (12~23개월)</text>
+
+  <text x="100" y="890" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a">부모급여</text>
+  <text x="980" y="890" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a" text-anchor="end">월 50만원</text>
+
+  <text x="100" y="970" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="42" fill="#5B6B7C">(−) 보육료</text>
+  <text x="980" y="970" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="42" fill="#5B6B7C" text-anchor="end">51만 5천원</text>
+
+  <line x1="100" y1="1010" x2="980" y2="1010" stroke="#D6E0EC" stroke-width="2"/>
+
+  <rect x="100" y="1040" width="880" height="90" rx="16" fill="#FBE9E9"/>
+  <text x="140" y="1098" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#C0392B">추가 현금</text>
+  <text x="940" y="1098" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#C0392B" text-anchor="end">차액 없음</text>
+
+  <text x="60" y="1225" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#5B6B7C">가정양육은 전액 현금(월 100만·50만원) · 지급일 매월 25일</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">2026년 기준 동결 · 어린이집 차액분 지급일 익월 20일</text>
+</svg>

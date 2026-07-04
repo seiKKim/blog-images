@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">첫만남이용권</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">국민행복카드 바우처로 지급</text>
+
+  <!-- 금액 카드 -->
+  <rect x="60" y="260" width="465" height="300" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="292" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1a1a1a" text-anchor="middle">첫째아</text>
+  <text x="292" y="450" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="96" fill="#1B5FA6" text-anchor="middle">200만원</text>
+  <text x="292" y="520" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#5B6B7C" text-anchor="middle">바우처 포인트</text>
+
+  <rect x="555" y="260" width="465" height="300" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="787" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1a1a1a" text-anchor="middle">둘째아 이상</text>
+  <text x="787" y="450" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="96" fill="#1B5FA6" text-anchor="middle">300만원</text>
+  <text x="787" y="520" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#5B6B7C" text-anchor="middle">바우처 포인트</text>
+
+  <!-- 사용기한 강조 띠 -->
+  <rect x="60" y="600" width="960" height="120" rx="20" fill="#FFF3CC" stroke="#FFD23F" stroke-width="2"/>
+  <text x="100" y="675" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1a1a1a">사용 기한</text>
+  <text x="980" y="675" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#C77700" text-anchor="end">출생일부터 2년 (소멸 주의)</text>
+
+  <!-- 사용처 목록 -->
+  <text x="60" y="820" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#1a1a1a">어디에 쓸 수 있나</text>
+
+  <rect x="60" y="860" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="112" cy="910" r="10" fill="#1B5FA6"/>
+  <text x="146" y="927" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a">아기용품·육아용품·의류·식료품</text>
+
+  <rect x="60" y="978" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="112" cy="1028" r="10" fill="#1B5FA6"/>
+  <text x="146" y="1045" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a">병원·약국·산후조리원</text>
+
+  <rect x="60" y="1096" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="112" cy="1146" r="10" fill="#E23B3B"/>
+  <text x="146" y="1163" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a">제외: 유흥·사행·성인용품·면세점</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">2024.1.1 이후 출생아 기준 · 2026년 유지</text>
+</svg>
