@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="160" fill="#1B5FA6"/>
+  <rect x="60" y="40" rx="26" ry="26" width="180" height="56" fill="#FFD23F"/>
+  <text x="150" y="78" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="135" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">2026 청년월세 접수 일정</text>
+
+  <!-- 타임라인 -->
+  <line x1="150" y1="330" x2="930" y2="330" stroke="#C3D2E2" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- 1 정기접수 -->
+  <circle cx="230" cy="330" r="28" fill="#1B5FA6"/>
+  <text x="230" y="270" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1B5FA6" text-anchor="middle">정기접수</text>
+  <text x="230" y="410" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#1a1a1a" text-anchor="middle">3.30~5.29</text>
+  <text x="230" y="452" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#E23B3B" text-anchor="middle">종료</text>
+
+  <!-- 2 지급결정 -->
+  <circle cx="540" cy="330" r="28" fill="#1B5FA6"/>
+  <text x="540" y="270" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1B5FA6" text-anchor="middle">지급결정</text>
+  <text x="540" y="410" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#1a1a1a" text-anchor="middle">9.14 예정</text>
+
+  <!-- 3 상시개방 -->
+  <circle cx="850" cy="330" r="28" fill="#FFD23F" stroke="#1B5FA6" stroke-width="6"/>
+  <text x="850" y="270" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1B5FA6" text-anchor="middle">상시 개방</text>
+  <text x="850" y="410" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a" text-anchor="middle">공고 확인</text>
+
+  <!-- 안내 박스 -->
+  <rect x="60" y="520" rx="18" ry="18" width="960" height="110" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="90" y="575" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a">2026 국토부 전국 사업 정기접수는 종료</text>
+  <text x="90" y="615" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="30" fill="#5B6B7C">상시 개방 시점은 복지로·거주지 시·군·구 공고 확인</text>
+
+  <rect x="0" y="660" width="1080" height="60" fill="#E8EEF5"/>
+  <text x="60" y="700" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" fill="#5B6B7C">출처: 세종·인천시 등 지자체 공고 / 복지로</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1F8A53"/>
+  <text x="60" y="98" font-family="'Noto Sans CJK KR', sans-serif" font-weight="bold" font-size="56" fill="#FFFFFF">하루만 늦어도 가산세 3%</text>
+  <rect x="60" y="200" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="540" y="268" font-family="'Noto Sans CJK KR', sans-serif" font-size="42" font-weight="bold" fill="#1a1a1a" text-anchor="middle">미납세액 × 3% + 미납세액 × 0.022% × 경과일수</text>
+  <text x="540" y="325" font-family="'Noto Sans CJK KR', sans-serif" font-size="34" fill="#5B6B7C" text-anchor="middle">(한도: 미납세액의 10% · 납부고지 전 기준)</text>
+  <rect x="60" y="390" width="960" height="200" rx="16" fill="#1F8A53" opacity="0.08"/>
+  <text x="100" y="465" font-family="'Noto Sans CJK KR', sans-serif" font-size="42" font-weight="bold" fill="#1a1a1a">예) 미납세액 100만원 · 10일 지연</text>
+  <text x="100" y="545" font-family="'Noto Sans CJK KR', sans-serif" font-size="46" font-weight="bold" fill="#1F8A53">30,000원 + 2,200원 = 가산세 32,200원</text>
+  <rect x="0" y="640" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="692" font-family="'Noto Sans CJK KR', sans-serif" font-size="34" fill="#5B6B7C">출처: 국세기본법 제47조의5 · 국세청(nts.go.kr)</text>
+</svg>
