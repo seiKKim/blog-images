@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1B5FA6"/>
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="110" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="64" y="72" rx="34" ry="34" width="230" height="68" fill="#FFD23F"/>
+  <text x="179" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <!-- 서브 카피 -->
+  <text x="64" y="228" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#E8EEF5">2026 2학기 국가장학금</text>
+  <text x="64" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#FFD23F">소득구간별 학기당 지원금액</text>
+
+  <!-- 금액 표 (4행) -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="64" y="356" width="952" height="118" rx="18" fill="#ffffff" opacity="0.14"/>
+    <text x="96" y="432" font-weight="bold" font-size="52" fill="#ffffff">1~3구간</text>
+    <text x="984" y="434" font-weight="bold" font-size="62" fill="#FFD23F" text-anchor="end">최대 300만원</text>
+
+    <rect x="64" y="490" width="952" height="118" rx="18" fill="#ffffff" opacity="0.14"/>
+    <text x="96" y="566" font-weight="bold" font-size="52" fill="#ffffff">4~6구간</text>
+    <text x="984" y="568" font-weight="bold" font-size="62" fill="#ffffff" text-anchor="end">220만원</text>
+
+    <rect x="64" y="624" width="952" height="118" rx="18" fill="#ffffff" opacity="0.14"/>
+    <text x="96" y="700" font-weight="bold" font-size="52" fill="#ffffff">7~8구간</text>
+    <text x="984" y="702" font-weight="bold" font-size="62" fill="#ffffff" text-anchor="end">180만원</text>
+
+    <rect x="64" y="758" width="952" height="118" rx="18" fill="#FFD23F" opacity="0.22"/>
+    <text x="96" y="820" font-weight="bold" font-size="52" fill="#ffffff">9구간</text>
+    <text x="96" y="864" font-weight="bold" font-size="30" fill="#E8EEF5">신설</text>
+    <text x="984" y="836" font-weight="bold" font-size="62" fill="#FFD23F" text-anchor="end">50만원</text>
+  </g>
+
+  <!-- 디테일 -->
+  <rect x="64" y="908" rx="20" ry="20" width="952" height="90" fill="#ffffff" opacity="0.14"/>
+  <text x="540" y="966" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#ffffff" text-anchor="middle">기초·차상위 등록금 전액 · 9구간 신설</text>
+
+  <text x="64" y="1044" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="30" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

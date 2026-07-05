@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="108" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">국가장학금 신청 방법</text>
+  <text x="60" y="166" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">한국장학재단 홈페이지·앱에서 6단계</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- STEP 1 -->
+    <rect x="60" y="256" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="140" cy="326" r="44" fill="#1B5FA6"/>
+    <text x="140" y="342" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="216" y="316" font-weight="bold" font-size="42" fill="#1a1a1a">재단 접속 → 로그인 → 신청</text>
+    <text x="216" y="366" font-weight="normal" font-size="30" fill="#5B6B7C">Ⅰ유형·Ⅱ유형 동시 신청 가능</text>
+
+    <!-- STEP 2 -->
+    <rect x="60" y="416" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="140" cy="486" r="44" fill="#1B5FA6"/>
+    <text x="140" y="502" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="216" y="476" font-weight="bold" font-size="42" fill="#1a1a1a">본인 인증 및 신청서 작성</text>
+    <text x="216" y="526" font-weight="normal" font-size="30" fill="#5B6B7C">공동·금융인증서 / 휴대폰 인증</text>
+
+    <!-- STEP 3 (강조) -->
+    <rect x="60" y="576" width="960" height="140" rx="18" fill="#FFF6E0" stroke="#E8B93F" stroke-width="3"/>
+    <circle cx="140" cy="646" r="44" fill="#E8722C"/>
+    <text x="140" y="662" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="216" y="636" font-weight="bold" font-size="42" fill="#1a1a1a">가구원 정보제공 동의</text>
+    <text x="216" y="686" font-weight="bold" font-size="30" fill="#C6621F">부모·배우자가 직접 동의 (핵심!)</text>
+
+    <!-- STEP 4 -->
+    <rect x="60" y="736" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="140" cy="806" r="44" fill="#1B5FA6"/>
+    <text x="140" y="822" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="216" y="796" font-weight="bold" font-size="42" fill="#1a1a1a">서류 제출 (필요 시)</text>
+    <text x="216" y="846" font-weight="normal" font-size="30" fill="#5B6B7C">가족·소득 관련 서류</text>
+
+    <!-- STEP 5 -->
+    <rect x="60" y="896" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="140" cy="966" r="44" fill="#1B5FA6"/>
+    <text x="140" y="982" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="216" y="956" font-weight="bold" font-size="42" fill="#1a1a1a">학자금 지원구간 산정</text>
+    <text x="216" y="1006" font-weight="bold" font-size="30" fill="#C6621F">가구 소득·재산 반영 · 최대 8주 소요</text>
+
+    <!-- STEP 6 -->
+    <rect x="60" y="1056" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="140" cy="1126" r="44" fill="#1B5FA6"/>
+    <text x="140" y="1142" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">6</text>
+    <text x="216" y="1116" font-weight="bold" font-size="42" fill="#1a1a1a">심사·확정 → 지급</text>
+    <text x="216" y="1166" font-weight="normal" font-size="30" fill="#5B6B7C">1차 선감면 / 2차 납부 후 환급</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34"
+        fill="#5B6B7C">출처: 한국장학재단(kosaf.go.kr)</text>
+</svg>
