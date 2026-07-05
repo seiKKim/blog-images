@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#243B6B"/>
+  <text x="60" y="110" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">2026년 6월 출시 정책상품</text>
+  <text x="60" y="170" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="38" fill="#E8EEF5">새 정부 경제성장전략 · ISA 라인업</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 카드1 -->
+    <rect x="60" y="270" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="270" width="14" height="230" rx="7" fill="#243B6B"/>
+    <text x="110" y="352" font-size="48" font-weight="bold" fill="#1a1a1a">국민성장 ISA</text>
+    <rect x="720" y="308" rx="26" width="240" height="56" fill="#FFD23F"/>
+    <text x="840" y="347" font-size="32" font-weight="bold" fill="#243B6B" text-anchor="middle">6월 신규 출시</text>
+    <text x="110" y="424" font-size="36" fill="#4a5568">국민성장펀드와 함께 출시</text>
+    <text x="110" y="474" font-size="36" fill="#4a5568">(펀드 판매마감 6/11)</text>
+
+    <!-- 카드2 -->
+    <rect x="60" y="530" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="530" width="14" height="230" rx="7" fill="#243B6B"/>
+    <text x="110" y="612" font-size="48" font-weight="bold" fill="#1a1a1a">청년형 ISA</text>
+    <rect x="720" y="568" rx="26" width="240" height="56" fill="#FFD23F"/>
+    <text x="840" y="607" font-size="32" font-weight="bold" fill="#243B6B" text-anchor="middle">6월 신규 출시</text>
+    <text x="110" y="684" font-size="36" fill="#4a5568">청년미래적금과 함께 출시</text>
+    <text x="110" y="734" font-size="36" fill="#4a5568">세부 요건 정리되는 중</text>
+
+    <!-- 주의 박스 -->
+    <rect x="60" y="800" width="960" height="360" rx="20" fill="#FFF6DA" stroke="#E8C24A" stroke-width="2"/>
+    <text x="110" y="880" font-size="42" font-weight="bold" fill="#8a6d00">주의: '출시'와 '숫자 확정'은 다릅니다</text>
+    <text x="110" y="952" font-size="38" fill="#4a5568">· 상품은 2026년 6월 실제 출시됨</text>
+    <text x="110" y="1012" font-size="38" fill="#4a5568">· 비과세·납입한도 핵심 숫자는</text>
+    <text x="110" y="1064" font-size="38" fill="#4a5568">  2026년 6월까지 확정 발표 전 보도 병존</text>
+    <text x="110" y="1130" font-size="38" font-weight="bold" fill="#243B6B">→ 판단은 현행 200/400만원 기준으로</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 본문 정리 (2026년 1·6월 기사 기준)</text>
+</svg>

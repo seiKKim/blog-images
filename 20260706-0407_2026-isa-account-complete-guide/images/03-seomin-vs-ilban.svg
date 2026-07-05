@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#243B6B"/>
+  <text x="60" y="110" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">서민형 vs 일반형 비과세</text>
+  <text x="60" y="170" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="38" fill="#E8EEF5">자격만 되면 비과세 한도가 2배</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 일반형 -->
+    <rect x="60" y="270" width="450" height="620" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="285" y="360" font-size="52" font-weight="bold" fill="#1a1a1a" text-anchor="middle">일반형</text>
+    <line x1="110" y1="400" x2="460" y2="400" stroke="#E2E8F0" stroke-width="2"/>
+    <text x="285" y="475" font-size="34" fill="#4a5568" text-anchor="middle">가입 자격</text>
+    <text x="285" y="530" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">소득 제한 없음</text>
+    <text x="285" y="640" font-size="34" fill="#4a5568" text-anchor="middle">비과세 한도</text>
+    <text x="285" y="740" font-size="96" font-weight="bold" fill="#243B6B" text-anchor="middle">200만원</text>
+
+    <!-- 서민형 (강조) -->
+    <rect x="570" y="270" width="450" height="620" rx="24" fill="#243B6B"/>
+    <rect x="810" y="248" rx="24" width="160" height="52" fill="#FFD23F"/>
+    <text x="890" y="285" font-size="30" font-weight="bold" fill="#243B6B" text-anchor="middle">한도 2배</text>
+    <text x="795" y="360" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">서민형</text>
+    <line x1="620" y1="400" x2="970" y2="400" stroke="#4a5f8f" stroke-width="2"/>
+    <text x="795" y="475" font-size="34" fill="#C5D3EC" text-anchor="middle">가입 자격</text>
+    <text x="795" y="522" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle">총급여 5,000만원 이하</text>
+    <text x="795" y="562" font-size="30" fill="#C5D3EC" text-anchor="middle">(사업자 종합소득 3,800만↓)</text>
+    <text x="795" y="640" font-size="34" fill="#C5D3EC" text-anchor="middle">비과세 한도</text>
+    <text x="795" y="740" font-size="96" font-weight="bold" fill="#FFD23F" text-anchor="middle">400만원</text>
+
+    <!-- 하단 참고 -->
+    <rect x="60" y="930" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="1010" font-size="40" font-weight="bold" fill="#243B6B">참고</text>
+    <text x="100" y="1072" font-size="36" fill="#4a5568">· 농어민형(종합소득 3,800만↓)도 400만원</text>
+    <text x="100" y="1124" font-size="36" fill="#4a5568">· 서민형은 홈택스 소득확인증명서로 증빙</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 본문 정리 · 정확한 기준은 홈택스·금융사 확인</text>
+</svg>
