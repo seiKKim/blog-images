@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#FBF4EE"/>
+<rect width="1080" height="200" fill="#E8722C"/>
+<text x="60" y="128" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">실내 적정 습도는?</text>
+<g font-family="Malgun Gothic">
+<rect x="60" y="270" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="270" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="328" font-size="42" font-weight="bold" fill="#B4531A">40~60% (가정 50~55% 권장)</text>
+<text x="104" y="378" font-size="38" fill="#3a3a3a">곰팡이·세균 억제에 무난한 적정 구간</text>
+<rect x="60" y="420" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="420" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="478" font-size="42" font-weight="bold" fill="#B4531A">70% 이상</text>
+<text x="104" y="528" font-size="38" fill="#3a3a3a">곰팡이·세균 번식이 크게 증가</text>
+<rect x="60" y="570" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="570" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="628" font-size="42" font-weight="bold" fill="#B4531A">30% 이하</text>
+<text x="104" y="678" font-size="38" fill="#3a3a3a">피부·호흡기 건조 유발</text>
+</g>
+<rect x="60" y="730" width="960" height="96" rx="16" fill="#FDE7C8"/>
+<text x="100" y="790" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#B4531A">핵심은 60%를 넘기지 않는 것</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#F0DECB"/>
+<text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#8A6A50">출처: 미국 EPA·환경보건포털</text>
+</svg>

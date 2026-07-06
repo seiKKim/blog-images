@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#FBF4EE"/>
+<rect width="1080" height="200" fill="#E8722C"/>
+<text x="60" y="128" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">락스 사용 안전 수칙</text>
+<g font-family="Malgun Gothic">
+<rect x="60" y="270" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="270" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="328" font-size="42" font-weight="bold" fill="#B4531A">1. 반드시 희석</text>
+<text x="104" y="378" font-size="38" fill="#3a3a3a">원액은 인체에 해로울 수 있음</text>
+<rect x="60" y="420" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="420" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="478" font-size="42" font-weight="bold" fill="#B4531A">2. 혼합 절대 금지</text>
+<text x="104" y="528" font-size="38" fill="#3a3a3a">식초 등 산성과 섞으면 염소가스 발생</text>
+<rect x="60" y="570" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="570" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="628" font-size="42" font-weight="bold" fill="#B4531A">3. 찬물 사용</text>
+<text x="104" y="678" font-size="38" fill="#3a3a3a">뜨거운 물은 흡입 위험 커짐</text>
+<rect x="60" y="720" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="720" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="778" font-size="42" font-weight="bold" fill="#B4531A">4. 환기 필수</text>
+<text x="104" y="828" font-size="38" fill="#3a3a3a">창문 열고 환풍기 가동</text>
+<rect x="60" y="870" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="870" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="928" font-size="42" font-weight="bold" fill="#B4531A">5. 5~10분 후 헹굼</text>
+<text x="104" y="978" font-size="38" fill="#3a3a3a">충분한 물로 잔여 성분 제거</text>
+</g>
+<rect x="60" y="1030" width="960" height="96" rx="16" fill="#FDE7C8"/>
+<text x="100" y="1090" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#B4531A">곰팡이 청소 시 마스크 착용 권장</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#F0DECB"/>
+<text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#8A6A50">출처: 생활 화학제품 안전 사용 안내</text>
+</svg>

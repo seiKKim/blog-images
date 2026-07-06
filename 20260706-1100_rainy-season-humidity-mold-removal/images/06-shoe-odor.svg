@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#FBF4EE"/>
+<rect width="1080" height="200" fill="#E8722C"/>
+<text x="60" y="128" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">신발 곰팡이·냄새 제거</text>
+<g font-family="Malgun Gothic">
+<rect x="60" y="270" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="270" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="328" font-size="42" font-weight="bold" fill="#B4531A">신문지</text>
+<text x="104" y="378" font-size="38" fill="#3a3a3a">속에 구겨 넣어 습기·냄새 흡수</text>
+<rect x="60" y="420" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="420" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="478" font-size="42" font-weight="bold" fill="#B4531A">유리병 건조</text>
+<text x="104" y="528" font-size="38" fill="#3a3a3a">좁은 병에 걸쳐 햇볕 든 곳에</text>
+<rect x="60" y="570" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="570" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="628" font-size="42" font-weight="bold" fill="#B4531A">녹차 티백·베이킹소다</text>
+<text x="104" y="678" font-size="38" fill="#3a3a3a">냄새 흡착·중화 (근거는 약한 편)</text>
+<rect x="60" y="720" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="720" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="778" font-size="42" font-weight="bold" fill="#B4531A">가장 중요한 예방</text>
+<text x="104" y="828" font-size="38" fill="#3a3a3a">충분히 말린 뒤 보관 + 주기적 환기</text>
+</g>
+<rect x="60" y="880" width="960" height="96" rx="16" fill="#FDE7C8"/>
+<text x="100" y="940" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#B4531A">젖은 신발 그대로 두는 것이 최대 원인</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#F0DECB"/>
+<text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#8A6A50">출처: 생활정보 종합</text>
+</svg>

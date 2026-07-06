@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#FBF4EE"/>
+<rect width="1080" height="200" fill="#E8722C"/>
+<text x="60" y="128" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">제습제 배치 요령</text>
+<g font-family="Malgun Gothic">
+<rect x="60" y="270" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="270" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="328" font-size="42" font-weight="bold" fill="#B4531A">옷장</text>
+<text x="104" y="378" font-size="38" fill="#3a3a3a">칸마다 각 선반 아래쪽 안쪽 구석에</text>
+<rect x="60" y="420" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="420" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="478" font-size="42" font-weight="bold" fill="#B4531A">이불장</text>
+<text x="104" y="528" font-size="38" fill="#3a3a3a">이불과 떨어진 바닥 모서리에 세워둠</text>
+<rect x="60" y="570" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="570" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="628" font-size="42" font-weight="bold" fill="#B4531A">신발장</text>
+<text x="104" y="678" font-size="38" fill="#3a3a3a">가장 낮은 칸 안쪽 구석에</text>
+<rect x="60" y="720" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D8C6"/>
+<rect x="60" y="720" width="14" height="130" rx="7" fill="#E8722C"/>
+<text x="104" y="778" font-size="42" font-weight="bold" fill="#B4531A">싱크대 하부장</text>
+<text x="104" y="828" font-size="38" fill="#3a3a3a">배수관과 거리 두고 평평하게</text>
+</g>
+<rect x="60" y="880" width="960" height="96" rx="16" fill="#FDE7C8"/>
+<text x="100" y="940" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#B4531A">습기는 낮고 안쪽에 고임 → 아래·안쪽에</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#F0DECB"/>
+<text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#8A6A50">출처: 환경보건포털·생활정보 종합</text>
+</svg>
