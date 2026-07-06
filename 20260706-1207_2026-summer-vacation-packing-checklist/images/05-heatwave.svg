@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <defs>
+    <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E8FB4"/>
+      <stop offset="1" stop-color="#12B0C6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="720" fill="#F1FAFC"/>
+  <rect width="1080" height="180" fill="url(#hbg)"/>
+  <circle cx="960" cy="90" r="110" fill="#FFD23F" opacity="0.85"/>
+  <text x="60" y="98" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">이른 폭염, 이건 챙기세요</text>
+  <text x="62" y="150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#E8FBFF">2026년 역대 가장 이른 온열질환 첫 사망 기록</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 4개 아이템 카드 -->
+    <rect x="60" y="230" width="460" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="90" y="305" font-size="46" font-weight="bold" fill="#0E8FB4">물병</text>
+    <text x="90" y="352" font-size="32" fill="#5B6B7C">충분한 수분 섭취</text>
+
+    <rect x="560" y="230" width="460" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="590" y="305" font-size="46" font-weight="bold" fill="#0E8FB4">모자 · 양산</text>
+    <text x="590" y="352" font-size="32" fill="#5B6B7C">햇빛 차단</text>
+
+    <rect x="60" y="400" width="460" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="90" y="475" font-size="46" font-weight="bold" fill="#0E8FB4">휴대용 선풍기</text>
+    <text x="90" y="522" font-size="32" fill="#5B6B7C">체감 더위 완화</text>
+
+    <rect x="560" y="400" width="460" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="590" y="475" font-size="46" font-weight="bold" fill="#0E8FB4">넥쿨러</text>
+    <text x="590" y="522" font-size="32" fill="#5B6B7C">개인 냉방</text>
+  </g>
+
+  <!-- 강조 띠 -->
+  <rect x="60" y="580" width="960" height="100" rx="20" fill="#FFF6DA" stroke="#FFD23F" stroke-width="3"/>
+  <text x="90" y="645" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#3A4A57">가장 더운 시간대 야외활동 자제 · 증상 지속 시 119</text>
+</svg>

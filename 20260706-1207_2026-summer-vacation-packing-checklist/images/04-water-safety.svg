@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1FAFC"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#0E8FB4"/>
+  <circle cx="960" cy="100" r="120" fill="#ffffff" opacity="0.10"/>
+  <text x="60" y="120" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">물놀이 안전수칙</text>
+  <text x="62" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#D6F2F8">계곡·바다 물놀이 전 꼭 확인</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 항목 1 -->
+    <rect x="60" y="270" width="960" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <circle cx="140" cy="345" r="42" fill="#12B0C6"/>
+    <text x="140" y="360" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="215" y="330" font-size="44" font-weight="bold" fill="#1a1a1a">구명조끼 착용</text>
+    <text x="215" y="385" font-size="34" fill="#5B6B7C">어린이 필수 · 성인도 권장 · 준비운동</text>
+
+    <!-- 항목 2 -->
+    <rect x="60" y="440" width="960" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <circle cx="140" cy="515" r="42" fill="#12B0C6"/>
+    <text x="140" y="530" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="215" y="500" font-size="44" font-weight="bold" fill="#1a1a1a">입수 전 물 적시기</text>
+    <text x="215" y="555" font-size="34" fill="#5B6B7C">다리→팔→얼굴→가슴 순으로</text>
+
+    <!-- 항목 3 -->
+    <rect x="60" y="610" width="960" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <circle cx="140" cy="685" r="42" fill="#E0556E"/>
+    <text x="140" y="700" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="215" y="670" font-size="44" font-weight="bold" fill="#C33E57">계곡, 아쿠아슈즈 착용</text>
+    <text x="215" y="725" font-size="34" fill="#5B6B7C">바닥 미끄럽고 돌 많아 맨발 위험</text>
+
+    <!-- 항목 4 -->
+    <rect x="60" y="780" width="960" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <circle cx="140" cy="855" r="42" fill="#E0556E"/>
+    <text x="140" y="870" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="215" y="840" font-size="44" font-weight="bold" fill="#C33E57">비 예보 시 계곡 입수 금지</text>
+    <text x="215" y="895" font-size="34" fill="#5B6B7C">물 불어나면 즉시 나와 대피 · 특보 시 금지</text>
+
+    <!-- 항목 5 -->
+    <rect x="60" y="950" width="960" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <circle cx="140" cy="1025" r="42" fill="#12B0C6"/>
+    <text x="140" y="1040" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="215" y="1010" font-size="44" font-weight="bold" fill="#1a1a1a">아이는 보호자 시야 안</text>
+    <text x="215" y="1065" font-size="34" fill="#5B6B7C">물가에 아이만 두지 않기 · 사고 시 119</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#E1F1F5"/>
+  <text x="60" y="1265" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="bold" fill="#0E8FB4">음주 후 입수 금지 · 방수팩·호루라기 휴대</text>
+  <text x="60" y="1315" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">출처: 대한민국 정책브리핑(korea.kr) 등 공공기관</text>
+</svg>

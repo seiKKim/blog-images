@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1FAFC"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#0E8FB4"/>
+  <circle cx="960" cy="100" r="120" fill="#ffffff" opacity="0.10"/>
+  <text x="60" y="120" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">물놀이 준비물 체크</text>
+  <text x="62" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#D6F2F8">바다·계곡 물놀이 필수 아이템</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 카드 항목들 -->
+    <rect x="60" y="270" width="465" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="90" y="345" font-size="46" font-weight="bold" fill="#1a1a1a">수영복 · 래시가드</text>
+    <text x="90" y="395" font-size="34" fill="#5B6B7C">자외선 · 물놀이 기본</text>
+
+    <rect x="555" y="270" width="465" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="585" y="345" font-size="46" font-weight="bold" fill="#E0556E">구명조끼 (어린이 필수)</text>
+    <text x="585" y="395" font-size="34" fill="#5B6B7C">성인도 착용 권장</text>
+
+    <rect x="60" y="440" width="465" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="90" y="515" font-size="46" font-weight="bold" fill="#1a1a1a">아쿠아슈즈</text>
+    <text x="90" y="565" font-size="34" fill="#5B6B7C">계곡 미끄럼·상처 방지</text>
+
+    <rect x="555" y="440" width="465" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="585" y="515" font-size="46" font-weight="bold" fill="#1a1a1a">방수팩</text>
+    <text x="585" y="565" font-size="34" fill="#5B6B7C">휴대폰·귀중품 방수</text>
+
+    <rect x="60" y="610" width="465" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="90" y="685" font-size="46" font-weight="bold" fill="#1a1a1a">수경 · 튜브</text>
+    <text x="90" y="735" font-size="34" fill="#5B6B7C">물놀이 편의</text>
+
+    <rect x="555" y="610" width="465" height="150" rx="20" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="585" y="685" font-size="46" font-weight="bold" fill="#1a1a1a">비치타월</text>
+    <text x="585" y="735" font-size="34" fill="#5B6B7C">물기·햇빛 가리개</text>
+  </g>
+
+  <!-- 강조 박스 -->
+  <rect x="60" y="810" width="960" height="230" rx="24" fill="#FFF6DA" stroke="#FFD23F" stroke-width="3"/>
+  <text x="95" y="885" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#0E8FB4">해수욕장 선크림은 워터프루프</text>
+  <text x="95" y="950" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="40" fill="#3A4A57">일반 선크림은 입수 후 30분 안에</text>
+  <text x="95" y="1005" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="40" fill="#3A4A57">대부분 씻겨 나갑니다</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E1F1F5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">blog.naver.com/trip_chocho</text>
+</svg>

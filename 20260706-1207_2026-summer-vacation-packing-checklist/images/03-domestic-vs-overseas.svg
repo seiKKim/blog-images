@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1FAFC"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#0E8FB4"/>
+  <circle cx="960" cy="100" r="120" fill="#ffffff" opacity="0.10"/>
+  <text x="60" y="120" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">국내 vs 해외 준비물</text>
+  <text x="62" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" font-weight="normal" fill="#D6F2F8">서류·통신·금융·전원에서 갈립니다</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 헤더 행 -->
+    <rect x="40" y="250" width="230" height="90" rx="12" fill="#0B4A5A"/>
+    <text x="155" y="308" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">구분</text>
+    <rect x="280" y="250" width="330" height="90" rx="12" fill="#12B0C6"/>
+    <text x="445" y="308" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">국내</text>
+    <rect x="620" y="250" width="420" height="90" rx="12" fill="#E0556E"/>
+    <text x="830" y="308" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">해외 (추가)</text>
+
+    <!-- 행 템플릿 -->
+    <!-- 서류 -->
+    <rect x="40" y="352" width="230" height="150" rx="10" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="155" y="435" font-size="38" font-weight="bold" fill="#1a1a1a" text-anchor="middle">서류</text>
+    <rect x="280" y="352" width="330" height="150" rx="10" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="300" y="435" font-size="32" fill="#3A4A57">신분증·예약서</text>
+    <rect x="620" y="352" width="420" height="150" rx="10" fill="#FDEBEF" stroke="#F3C6D0"/>
+    <text x="640" y="420" font-size="33" font-weight="bold" fill="#C33E57">여권(유효 6개월↑)</text>
+    <text x="640" y="465" font-size="31" fill="#3A4A57">·비자·여권 사본</text>
+
+    <!-- 통신 -->
+    <rect x="40" y="512" width="230" height="150" rx="10" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="155" y="595" font-size="38" font-weight="bold" fill="#1a1a1a" text-anchor="middle">통신</text>
+    <rect x="280" y="512" width="330" height="150" rx="10" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="300" y="595" font-size="32" fill="#3A4A57">기존폰 그대로</text>
+    <rect x="620" y="512" width="420" height="150" rx="10" fill="#FDEBEF" stroke="#F3C6D0"/>
+    <text x="640" y="580" font-size="33" font-weight="bold" fill="#C33E57">유심/이심·로밍</text>
+    <text x="640" y="625" font-size="31" fill="#3A4A57">·포켓와이파이</text>
+
+    <!-- 금융 -->
+    <rect x="40" y="672" width="230" height="150" rx="10" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="155" y="755" font-size="38" font-weight="bold" fill="#1a1a1a" text-anchor="middle">금융</text>
+    <rect x="280" y="672" width="330" height="150" rx="10" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="300" y="755" font-size="32" fill="#3A4A57">결제카드·현금</text>
+    <rect x="620" y="672" width="420" height="150" rx="10" fill="#FDEBEF" stroke="#F3C6D0"/>
+    <text x="640" y="740" font-size="33" font-weight="bold" fill="#C33E57">환전·해외결제</text>
+    <text x="640" y="785" font-size="31" fill="#3A4A57">카드(VISA·MC 등)</text>
+
+    <!-- 전원 -->
+    <rect x="40" y="832" width="230" height="150" rx="10" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="155" y="915" font-size="38" font-weight="bold" fill="#1a1a1a" text-anchor="middle">전원</text>
+    <rect x="280" y="832" width="330" height="150" rx="10" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="300" y="915" font-size="32" fill="#3A4A57">그대로 사용</text>
+    <rect x="620" y="832" width="420" height="150" rx="10" fill="#FDEBEF" stroke="#F3C6D0"/>
+    <text x="640" y="915" font-size="33" font-weight="bold" fill="#C33E57">멀티어댑터·변환플러그</text>
+
+    <!-- 보험 -->
+    <rect x="40" y="992" width="230" height="150" rx="10" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="155" y="1075" font-size="38" font-weight="bold" fill="#1a1a1a" text-anchor="middle">보험</text>
+    <rect x="280" y="992" width="330" height="150" rx="10" fill="#ffffff" stroke="#CFE7EE"/>
+    <text x="300" y="1075" font-size="32" fill="#3A4A57">선택</text>
+    <rect x="620" y="992" width="420" height="150" rx="10" fill="#FDEBEF" stroke="#F3C6D0"/>
+    <text x="640" y="1060" font-size="33" font-weight="bold" fill="#C33E57">여행자보험</text>
+    <text x="640" y="1105" font-size="31" fill="#3A4A57">(외교부 가입 권장)</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1200" width="1080" height="150" fill="#E1F1F5"/>
+  <text x="60" y="1265" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="bold" fill="#0E8FB4">해외는 5가지가 추가됩니다</text>
+  <text x="60" y="1315" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">blog.naver.com/trip_chocho</text>
+</svg>

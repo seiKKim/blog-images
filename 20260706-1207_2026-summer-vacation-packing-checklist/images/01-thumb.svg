@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12B0C6"/>
+      <stop offset="1" stop-color="#0E8FB4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식 도형 (물결/햇살 느낌) -->
+  <circle cx="930" cy="170" r="270" fill="#ffffff" opacity="0.09"/>
+  <circle cx="120" cy="990" r="220" fill="#ffffff" opacity="0.07"/>
+  <circle cx="940" cy="180" r="70" fill="#FFD23F" opacity="0.85"/>
+
+  <!-- 카테고리 뱃지 (좌상단) -->
+  <rect x="80" y="90" rx="34" ry="34" width="330" height="68" fill="#FFD23F"/>
+  <text x="245" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#0B4A5A" text-anchor="middle">여름휴가 · 짐싸기</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#E8FBFF">2026 여름 가족휴가</text>
+
+  <!-- 메인 카피 (핵심 숫자) -->
+  <text x="80" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="150" fill="#ffffff">짐싸기</text>
+  <text x="80" y="670" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="150" fill="#FFD23F">7대 체크리스트</text>
+
+  <!-- 디테일 (핵심 항목) -->
+  <rect x="80" y="770" rx="20" ry="20" width="920" height="150" fill="#ffffff" opacity="0.16"/>
+  <text x="112" y="835" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#ffffff">의류·물놀이·세면·전자기기·상비약</text>
+  <text x="112" y="895" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#ffffff">·서류·아이물품 + 국내/해외 총정리</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1015" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8FBFF" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
