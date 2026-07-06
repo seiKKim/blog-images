@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F6F8"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="0" width="1080" height="8" fill="#E23B3B"/>
+  <text x="60" y="105" font-family="Malgun Gothic" font-weight="bold"
+        font-size="60" fill="#ffffff">식중독 원인균별 잠복기</text>
+  <text x="60" y="165" font-family="Malgun Gothic" font-weight="normal"
+        font-size="38" fill="#FFD23F">독소형은 짧고, 감염형은 길어요</text>
+
+  <!-- 헤더 -->
+  <g font-family="Malgun Gothic">
+    <text x="60" y="285" font-size="40" font-weight="bold" fill="#5B6B7C">분류 · 원인균</text>
+    <text x="1020" y="285" font-size="40" font-weight="bold" fill="#5B6B7C" text-anchor="end">잠복기</text>
+  </g>
+
+  <g font-family="Malgun Gothic" font-size="42">
+    <!-- 독소형 -->
+    <rect x="60" y="315" width="960" height="130" rx="16" fill="#ffffff" stroke="#E1E7ED"/>
+    <rect x="60" y="315" width="10" height="130" rx="5" fill="#E23B3B"/>
+    <text x="100" y="368" font-weight="bold" fill="#1a1a1a">황색포도상구균</text>
+    <text x="100" y="418" font-size="32" fill="#E23B3B">독소형</text>
+    <text x="1000" y="393" font-weight="bold" fill="#2B2F36" text-anchor="end">1~6시간</text>
+
+    <rect x="60" y="460" width="960" height="130" rx="16" fill="#ffffff" stroke="#E1E7ED"/>
+    <rect x="60" y="460" width="10" height="130" rx="5" fill="#E23B3B"/>
+    <text x="100" y="513" font-weight="bold" fill="#1a1a1a">바실루스 세레우스균</text>
+    <text x="100" y="563" font-size="32" fill="#E23B3B">독소형</text>
+    <text x="1000" y="538" font-weight="bold" fill="#2B2F36" text-anchor="end">1~6시간</text>
+
+    <rect x="60" y="605" width="960" height="130" rx="16" fill="#ffffff" stroke="#E1E7ED"/>
+    <rect x="60" y="605" width="10" height="130" rx="5" fill="#E23B3B"/>
+    <text x="100" y="658" font-weight="bold" fill="#1a1a1a">웰치균(퍼프린젠스)</text>
+    <text x="100" y="708" font-size="32" fill="#E23B3B">독소형</text>
+    <text x="1000" y="683" font-weight="bold" fill="#2B2F36" text-anchor="end">8~16시간</text>
+
+    <!-- 감염형 -->
+    <rect x="60" y="750" width="960" height="130" rx="16" fill="#ffffff" stroke="#E1E7ED"/>
+    <rect x="60" y="750" width="10" height="130" rx="5" fill="#2B2F36"/>
+    <text x="100" y="803" font-weight="bold" fill="#1a1a1a">병원성 대장균</text>
+    <text x="100" y="853" font-size="32" fill="#5B6B7C">감염형</text>
+    <text x="1000" y="828" font-weight="bold" fill="#2B2F36" text-anchor="end">16시간 이상</text>
+
+    <rect x="60" y="895" width="960" height="130" rx="16" fill="#ffffff" stroke="#E1E7ED"/>
+    <rect x="60" y="895" width="10" height="130" rx="5" fill="#2B2F36"/>
+    <text x="100" y="948" font-weight="bold" fill="#1a1a1a">장염비브리오균</text>
+    <text x="100" y="998" font-size="32" fill="#5B6B7C">감염형</text>
+    <text x="1000" y="973" font-weight="bold" fill="#2B2F36" text-anchor="end">16시간 이상</text>
+
+    <rect x="60" y="1040" width="960" height="130" rx="16" fill="#ffffff" stroke="#E1E7ED"/>
+    <rect x="60" y="1040" width="10" height="130" rx="5" fill="#2B2F36"/>
+    <text x="100" y="1093" font-weight="bold" fill="#1a1a1a">살모넬라균</text>
+    <text x="100" y="1143" font-size="32" fill="#5B6B7C">감염형</text>
+    <text x="1000" y="1118" font-weight="bold" fill="#2B2F36" text-anchor="end">16시간 이상</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 질병관리청 국가건강정보포털 · 기관별 상이(수 시간~수일)</text>
+</svg>

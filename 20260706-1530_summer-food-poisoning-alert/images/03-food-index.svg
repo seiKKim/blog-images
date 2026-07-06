@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F6F8"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="0" width="1080" height="8" fill="#E23B3B"/>
+  <text x="60" y="105" font-family="Malgun Gothic" font-weight="bold"
+        font-size="60" fill="#ffffff">식중독지수 4단계</text>
+  <text x="60" y="165" font-family="Malgun Gothic" font-weight="normal"
+        font-size="38" fill="#FFD23F">외출·장보기 전에 미리 확인하세요</text>
+
+  <g font-family="Malgun Gothic">
+    <!-- 관심 -->
+    <rect x="60" y="280" width="960" height="200" rx="20" fill="#1F8A53"/>
+    <text x="110" y="360" font-size="64" font-weight="bold" fill="#ffffff">관심</text>
+    <text x="110" y="430" font-size="40" fill="#E8F5EC">35 미만 · 기본 위생 유지</text>
+    <text x="1000" y="405" font-size="80" font-weight="bold" fill="#ffffff" text-anchor="end" opacity="0.5">1</text>
+
+    <!-- 주의 -->
+    <rect x="60" y="500" width="960" height="200" rx="20" fill="#E8A72C"/>
+    <text x="110" y="580" font-size="64" font-weight="bold" fill="#ffffff">주의</text>
+    <text x="110" y="650" font-size="40" fill="#FFF6E5">35 이상 ~ 70 미만 · 손 씻기 강화</text>
+    <text x="1000" y="625" font-size="80" font-weight="bold" fill="#ffffff" text-anchor="end" opacity="0.5">2</text>
+
+    <!-- 경고 -->
+    <rect x="60" y="720" width="960" height="200" rx="20" fill="#E8722C"/>
+    <text x="110" y="800" font-size="64" font-weight="bold" fill="#ffffff">경고</text>
+    <text x="110" y="870" font-size="40" fill="#FFEEE2">70 이상 ~ 95 미만 · 익혀 먹기 철저</text>
+    <text x="1000" y="845" font-size="80" font-weight="bold" fill="#ffffff" text-anchor="end" opacity="0.5">3</text>
+
+    <!-- 위험 -->
+    <rect x="60" y="940" width="960" height="200" rx="20" fill="#E23B3B"/>
+    <text x="110" y="1020" font-size="64" font-weight="bold" fill="#ffffff">위험</text>
+    <text x="110" y="1090" font-size="40" fill="#FFE5E5">95 이상 · 조리·보관 각별 주의</text>
+    <text x="1000" y="1065" font-size="80" font-weight="bold" fill="#ffffff" text-anchor="end" opacity="0.5">4</text>
+  </g>
+
+  <rect x="0" y="1180" width="1080" height="170" fill="#2B2F36"/>
+  <text x="60" y="1255" font-family="Malgun Gothic" font-size="42" font-weight="bold" fill="#FFD23F">확인: poisonmap.mfds.go.kr</text>
+  <text x="60" y="1310" font-family="Malgun Gothic" font-size="34" fill="#E8EEF5">식약처·기상청 홈페이지 · '식중독예방 홍보' 앱</text>
+</svg>

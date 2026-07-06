@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F6F8"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="0" width="1080" height="8" fill="#E23B3B"/>
+  <text x="60" y="105" font-family="Malgun Gothic" font-weight="bold"
+        font-size="60" fill="#ffffff">식중독 예방 6대 요령</text>
+  <text x="60" y="165" font-family="Malgun Gothic" font-weight="normal"
+        font-size="38" fill="#FFD23F">식품의약품안전처 권장 수칙</text>
+
+  <g font-family="Malgun Gothic">
+    <!-- 1 -->
+    <rect x="60" y="270" width="960" height="150" rx="18" fill="#ffffff" stroke="#E1E7ED"/>
+    <circle cx="140" cy="345" r="42" fill="#E23B3B"/>
+    <text x="140" y="362" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="215" y="335" font-size="46" font-weight="bold" fill="#1a1a1a">손 씻기</text>
+    <text x="215" y="388" font-size="34" fill="#5B6B7C">흐르는 물에 비누로 30초 이상</text>
+
+    <!-- 2 -->
+    <rect x="60" y="435" width="960" height="150" rx="18" fill="#ffffff" stroke="#E1E7ED"/>
+    <circle cx="140" cy="510" r="42" fill="#E23B3B"/>
+    <text x="140" y="527" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="215" y="500" font-size="46" font-weight="bold" fill="#1a1a1a">구분 사용하기</text>
+    <text x="215" y="553" font-size="34" fill="#5B6B7C">날음식·조리음식, 칼·도마 식재료별 구분</text>
+
+    <!-- 3 -->
+    <rect x="60" y="600" width="960" height="150" rx="18" fill="#ffffff" stroke="#E1E7ED"/>
+    <circle cx="140" cy="675" r="42" fill="#E23B3B"/>
+    <text x="140" y="692" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="215" y="665" font-size="46" font-weight="bold" fill="#1a1a1a">익혀 먹기</text>
+    <text x="215" y="718" font-size="34" fill="#5B6B7C">육류 75℃·어패류 85℃, 각 1분 이상</text>
+
+    <!-- 4 -->
+    <rect x="60" y="765" width="960" height="150" rx="18" fill="#ffffff" stroke="#E1E7ED"/>
+    <circle cx="140" cy="840" r="42" fill="#E23B3B"/>
+    <text x="140" y="857" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="215" y="830" font-size="46" font-weight="bold" fill="#1a1a1a">세척·소독하기</text>
+    <text x="215" y="883" font-size="34" fill="#5B6B7C">식재료·조리기구 세척, 칼·도마 수시 소독</text>
+
+    <!-- 5 -->
+    <rect x="60" y="930" width="960" height="150" rx="18" fill="#ffffff" stroke="#E1E7ED"/>
+    <circle cx="140" cy="1005" r="42" fill="#E23B3B"/>
+    <text x="140" y="1022" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="215" y="995" font-size="46" font-weight="bold" fill="#1a1a1a">끓여 먹기</text>
+    <text x="215" y="1048" font-size="34" fill="#5B6B7C">물은 끓여서 마시기</text>
+
+    <!-- 6 -->
+    <rect x="60" y="1095" width="960" height="150" rx="18" fill="#ffffff" stroke="#E1E7ED"/>
+    <circle cx="140" cy="1170" r="42" fill="#E23B3B"/>
+    <text x="140" y="1187" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">6</text>
+    <text x="215" y="1160" font-size="46" font-weight="bold" fill="#1a1a1a">보관온도 지키기</text>
+    <text x="215" y="1213" font-size="34" fill="#5B6B7C">냉장 5℃↓ · 냉동 -18℃↓ · 온장 60℃↑</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">출처: 식품의약품안전처 식중독 예방 6대 요령</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#2B2F36"/>
+  <circle cx="960" cy="170" r="280" fill="#E23B3B" opacity="0.16"/>
+  <circle cx="120" cy="980" r="220" fill="#ffffff" opacity="0.05"/>
+  <rect x="0" y="0" width="18" height="1080" fill="#E23B3B"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="230" height="68" fill="#E23B3B"/>
+  <text x="195" y="136" font-family="Malgun Gothic" font-weight="bold"
+        font-size="36" fill="#ffffff" text-anchor="middle">오늘의 이슈</text>
+
+  <!-- 경고 서브 카피 -->
+  <text x="80" y="330" font-family="Malgun Gothic" font-weight="bold"
+        font-size="58" fill="#FFD23F">7월 식중독 급증 주의보</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="500" font-family="Malgun Gothic" font-weight="bold"
+        font-size="128" fill="#ffffff">끓인 국도</text>
+  <text x="80" y="650" font-family="Malgun Gothic" font-weight="bold"
+        font-size="128" fill="#E23B3B">안심 못 합니다</text>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="770" rx="20" ry="20" width="920" height="180" fill="#ffffff" opacity="0.10"/>
+  <text x="112" y="838" font-family="Malgun Gothic" font-weight="bold"
+        font-size="46" fill="#ffffff">최근 5년, 7월이 8월보다 더 위험</text>
+  <text x="112" y="905" font-family="Malgun Gothic" font-weight="normal"
+        font-size="40" fill="#E8EEF5">증상·잠복기·예방 6대 요령 총정리</text>
+
+  <text x="80" y="1015" font-family="Malgun Gothic" font-weight="normal"
+        font-size="32" fill="#E8EEF5" opacity="0.85">blog.naver.com/trip_chocho</text>
+</svg>
