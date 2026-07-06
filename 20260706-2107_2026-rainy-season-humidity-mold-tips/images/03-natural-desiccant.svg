@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EE"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="98" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">집에서 바로 쓰는 천연 제습제</text>
+  <text x="60" y="160" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#FFE4CE">돈 안 들이고 좁은 공간부터 잡기</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- header row -->
+    <rect x="60" y="260" width="960" height="90" rx="14" fill="#E8722C"/>
+    <text x="120" y="318" font-size="38" font-weight="bold" fill="#ffffff">재료</text>
+    <text x="440" y="318" font-size="38" font-weight="bold" fill="#ffffff">두는 곳</text>
+
+    <!-- rows -->
+    <g font-size="40" fill="#1a1a1a">
+      <rect x="60" y="360" width="960" height="150" rx="14" fill="#ffffff" stroke="#EBD6C4"/>
+      <text x="120" y="435" font-weight="bold">신문지</text>
+      <text x="440" y="425" font-size="34" fill="#5B6B7C">옷장·신발장·서랍</text>
+      <text x="440" y="470" font-size="34" fill="#5B6B7C">습기 흡수 + 탈취</text>
+
+      <rect x="60" y="520" width="960" height="150" rx="14" fill="#ffffff" stroke="#EBD6C4"/>
+      <text x="120" y="595" font-weight="bold">숯</text>
+      <text x="440" y="585" font-size="34" fill="#5B6B7C">욕실·신발장·옷장</text>
+      <text x="440" y="630" font-size="34" fill="#5B6B7C">습기·냄새 동시 흡수</text>
+
+      <rect x="60" y="680" width="960" height="150" rx="14" fill="#ffffff" stroke="#EBD6C4"/>
+      <text x="120" y="755" font-weight="bold">실리카겔</text>
+      <text x="440" y="745" font-size="34" fill="#5B6B7C">서랍·신발장</text>
+      <text x="440" y="790" font-size="34" fill="#5B6B7C">가열하면 재사용 가능</text>
+
+      <rect x="60" y="840" width="960" height="150" rx="14" fill="#ffffff" stroke="#EBD6C4"/>
+      <text x="120" y="915" font-weight="bold">커피찌꺼기</text>
+      <text x="440" y="905" font-size="34" fill="#5B6B7C">좁은 공간</text>
+      <text x="440" y="950" font-size="34" fill="#5B6B7C">제습+탈취 · 충분히 말려서</text>
+
+      <rect x="60" y="1000" width="960" height="150" rx="14" fill="#FFF3E2" stroke="#F0C89A"/>
+      <text x="120" y="1075" font-weight="bold">염화칼슘</text>
+      <text x="440" y="1065" font-size="34" fill="#8A5A2E">밀폐된 좁은 공간</text>
+      <text x="440" y="1110" font-size="34" font-weight="bold" fill="#C85A16">자기 무게 14~15배 흡수</text>
+    </g>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0E3D6"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#8A6E56">Tip. 커피찌꺼기는 젖은 채 두면 오히려 곰팡이 위험</text>
+</svg>
