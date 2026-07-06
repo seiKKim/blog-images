@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EE"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="98" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">락스, 이렇게 써야 안전합니다</text>
+  <text x="60" y="160" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#FFE4CE">표면부터 확인하고 쓰세요</text>
+
+  <!-- OK / NO 표면 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="260" width="465" height="220" rx="18" fill="#EAF6EE" stroke="#9FD8B4"/>
+    <text x="292" y="330" font-size="44" font-weight="bold" fill="#1F8A53" text-anchor="middle">OK · 사용 가능</text>
+    <text x="292" y="392" font-size="36" fill="#1a1a1a" text-anchor="middle">매끄러운 방수 표면</text>
+    <text x="292" y="440" font-size="34" fill="#5B6B7C" text-anchor="middle">욕실 타일·실리콘·창틀</text>
+
+    <rect x="555" y="260" width="465" height="220" rx="18" fill="#FCEBEB" stroke="#F0A9A9"/>
+    <text x="787" y="330" font-size="44" font-weight="bold" fill="#E23B3B" text-anchor="middle">NO · 사용 금지</text>
+    <text x="787" y="392" font-size="36" fill="#1a1a1a" text-anchor="middle">다공성 표면</text>
+    <text x="787" y="440" font-size="34" fill="#5B6B7C" text-anchor="middle">벽지 → 에탄올 먼저</text>
+  </g>
+
+  <!-- 안전수칙 -->
+  <text x="60" y="565" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#C85A16">꼭 지킬 락스 안전수칙</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="40" fill="#1a1a1a">
+    <rect x="60" y="600" width="960" height="130" rx="16" fill="#ffffff" stroke="#EBD6C4"/>
+    <text x="100" y="655" font-weight="bold" fill="#E23B3B">1</text>
+    <text x="150" y="655" font-weight="bold">산성 제품(식초·구연산)과 절대 혼합 금지</text>
+    <text x="150" y="705" font-size="32" fill="#5B6B7C">유독한 염소 가스가 대량 발생</text>
+
+    <rect x="60" y="746" width="960" height="130" rx="16" fill="#ffffff" stroke="#EBD6C4"/>
+    <text x="100" y="801" font-weight="bold" fill="#E8722C">2</text>
+    <text x="150" y="801" font-weight="bold">분무 대신 솔로 바르기</text>
+    <text x="150" y="851" font-size="32" fill="#5B6B7C">미세입자 분무는 위험합니다</text>
+
+    <rect x="60" y="892" width="960" height="130" rx="16" fill="#ffffff" stroke="#EBD6C4"/>
+    <text x="100" y="947" font-weight="bold" fill="#E8722C">3</text>
+    <text x="150" y="947" font-weight="bold">희석해서 5~10분 후 물로 헹궈 제거</text>
+    <text x="150" y="997" font-size="32" fill="#5B6B7C">도포 후 방치하지 말고 반드시 닦아내기</text>
+
+    <rect x="60" y="1038" width="960" height="130" rx="16" fill="#ffffff" stroke="#EBD6C4"/>
+    <text x="100" y="1093" font-weight="bold" fill="#E8722C">4</text>
+    <text x="150" y="1093" font-weight="bold">애벌 청소 먼저 · 충분한 환기 필수</text>
+    <text x="150" y="1143" font-size="32" fill="#5B6B7C">대안: 3% 과산화수소도 선택지</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0E3D6"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#8A6E56">출처: 유한클로락스 공식 안내 · EPA</text>
+</svg>

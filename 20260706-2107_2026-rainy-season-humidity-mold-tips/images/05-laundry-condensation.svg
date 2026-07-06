@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EE"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="98" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">빨래 쉰내 · 결로 대응법</text>
+  <text x="60" y="160" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#FFE4CE">눅눅한 장마철 마무리 관리</text>
+
+  <!-- 빨래 3단계 -->
+  <text x="60" y="285" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#C85A16">빨래 쉰내 잡는 3단계</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="40" fill="#1a1a1a">
+    <rect x="60" y="315" width="960" height="140" rx="16" fill="#ffffff" stroke="#EBD6C4"/>
+    <text x="100" y="378" font-weight="bold" fill="#E8722C">세탁</text>
+    <text x="270" y="378" font-weight="bold">방치 말고 바로 널기</text>
+    <text x="270" y="425" font-size="32" fill="#5B6B7C">쉰내 심하면 과탄산소다 추가</text>
+
+    <rect x="60" y="470" width="960" height="140" rx="16" fill="#ffffff" stroke="#EBD6C4"/>
+    <text x="100" y="533" font-weight="bold" fill="#E8722C">건조</text>
+    <text x="270" y="533" font-weight="bold">한 뼘 이상 간격 두고 널기</text>
+    <text x="270" y="580" font-size="32" fill="#5B6B7C">제습기·선풍기로 빠르게 건조</text>
+
+    <rect x="60" y="625" width="960" height="140" rx="16" fill="#ffffff" stroke="#EBD6C4"/>
+    <text x="100" y="688" font-weight="bold" fill="#E8722C">세탁기</text>
+    <text x="270" y="688" font-weight="bold">한두 달에 한 번 세탁조 청소</text>
+    <text x="270" y="735" font-size="32" fill="#5B6B7C">사용 후 고무패킹 닦고 문 열어두기</text>
+  </g>
+
+  <!-- 결로 -->
+  <text x="60" y="855" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#C85A16">벽지 곰팡이 3대 원인 = 결로</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="890" width="300" height="150" rx="16" fill="#2B2F36"/>
+    <text x="210" y="955" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">결로</text>
+    <text x="210" y="1000" font-size="30" fill="#C8D2DC" text-anchor="middle">창·벽 물방울</text>
+
+    <rect x="390" y="890" width="300" height="150" rx="16" fill="#2B2F36"/>
+    <text x="540" y="955" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">높은 습도</text>
+    <text x="540" y="1000" font-size="30" fill="#C8D2DC" text-anchor="middle">80~90%</text>
+
+    <rect x="720" y="890" width="300" height="150" rx="16" fill="#2B2F36"/>
+    <text x="870" y="955" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">환기 부족</text>
+    <text x="870" y="1000" font-size="30" fill="#C8D2DC" text-anchor="middle">공기 정체</text>
+  </g>
+
+  <rect x="60" y="1075" width="960" height="140" rx="18" fill="#FFF3E2" stroke="#F0C89A"/>
+  <text x="90" y="1135" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="38" fill="#C85A16">대응: 규칙적 환기 + 가구 벽에서 띄우기</text>
+  <text x="90" y="1183" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="32" fill="#8A5A2E">결로 잦은 창·베란다엔 결로 방지 페인트 도포</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0E3D6"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#8A6E56">냉장고는 용량의 70% 이하로 · 손은 30초 이상 세척</text>
+</svg>

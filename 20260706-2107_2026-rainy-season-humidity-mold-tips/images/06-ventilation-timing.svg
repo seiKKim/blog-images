@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EE"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="98" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">환기는 '타이밍'이 전부</text>
+  <text x="60" y="160" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#FFE4CE">장마철엔 짧게, 맞바람으로</text>
+
+  <!-- OK 타이밍 -->
+  <rect x="60" y="270" width="960" height="300" rx="20" fill="#EAF6EE" stroke="#9FD8B4"/>
+  <text x="100" y="345" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="48" fill="#1F8A53">이럴 때 환기 OK</text>
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="40" fill="#1a1a1a">
+    <text x="100" y="425" font-weight="bold">비 안 오는 낮 오전 10시~오후 3시</text>
+    <text x="100" y="490" font-weight="bold">10~15분씩 활짝 열어 맞바람 환기</text>
+    <text x="100" y="548" font-size="34" fill="#5B6B7C">오래보다 짧게 여러 번이 현실적</text>
+  </g>
+
+  <!-- NO 타이밍 -->
+  <rect x="60" y="600" width="960" height="300" rx="20" fill="#FCEBEB" stroke="#F0A9A9"/>
+  <text x="100" y="675" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="48" fill="#E23B3B">이럴 때 환기 금지</text>
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="40" fill="#1a1a1a">
+    <text x="100" y="755" font-weight="bold">비 온 직후 · 이른 아침 · 밤</text>
+    <text x="100" y="820" font-weight="bold">바깥 습도 70% 이상인 날</text>
+    <text x="100" y="878" font-size="34" fill="#5B6B7C">창문 대신 제습기를 켜세요</text>
+  </g>
+
+  <!-- Tip -->
+  <rect x="60" y="930" width="960" height="280" rx="20" fill="#FFF3E2" stroke="#F0C89A"/>
+  <text x="90" y="1005" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="42" fill="#C85A16">알아두면 좋은 팁</text>
+  <text x="90" y="1075" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#5B3A18">온습도계로 바깥이 실내보다 낮은지 확인</text>
+  <text x="90" y="1140" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#5B3A18">한쪽만 창이면 선풍기를 창밖으로 틀어</text>
+  <text x="90" y="1185" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#5B3A18">습한 공기를 밀어내기</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0E3D6"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#8A6E56">blog.naver.com/trip_chocho · 2026 장마철 생활꿀팁</text>
+</svg>
