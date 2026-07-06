@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#EAF4FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#0E6BB8"/>
+  <circle cx="980" cy="60" r="140" fill="#ffffff" opacity="0.08"/>
+  <text x="60" y="112" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">인원·박수별 권장 용량</text>
+  <text x="60" y="170" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="34" fill="#CFE8FA">헷갈리는 용량, 상황별로 한눈에</text>
+
+  <!-- 표 헤더 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="258" width="620" height="70" rx="12" fill="#0E6BB8"/>
+    <rect x="700" y="258" width="320" height="70" rx="12" fill="#0E6BB8"/>
+    <text x="90" y="304" font-size="36" font-weight="bold" fill="#ffffff">사용 시나리오</text>
+    <text x="860" y="304" font-size="36" font-weight="bold" fill="#ffffff" text-anchor="middle">권장 용량</text>
+  </g>
+
+  <!-- 행들 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- row1 -->
+    <rect x="60" y="345" width="620" height="150" rx="14" fill="#ffffff" stroke="#CDE2F2"/>
+    <rect x="700" y="345" width="320" height="150" rx="14" fill="#ffffff" stroke="#CDE2F2"/>
+    <text x="90" y="410" font-size="40" font-weight="bold" fill="#1a1a1a">당일 물놀이·피크닉</text>
+    <text x="90" y="458" font-size="32" fill="#5B6B7C">소수 인원</text>
+    <text x="860" y="405" font-size="46" font-weight="bold" fill="#0E6BB8" text-anchor="middle">약 15~20L</text>
+    <text x="860" y="452" font-size="30" fill="#5B6B7C" text-anchor="middle">소프트 쿨러</text>
+
+    <!-- row2 -->
+    <rect x="60" y="510" width="620" height="150" rx="14" fill="#ffffff" stroke="#CDE2F2"/>
+    <rect x="700" y="510" width="320" height="150" rx="14" fill="#ffffff" stroke="#CDE2F2"/>
+    <text x="90" y="575" font-size="40" font-weight="bold" fill="#1a1a1a">1박 2일</text>
+    <text x="90" y="623" font-size="32" fill="#5B6B7C">2인</text>
+    <text x="860" y="596" font-size="46" font-weight="bold" fill="#0E6BB8" text-anchor="middle">약 30L 내외</text>
+
+    <!-- row3 -->
+    <rect x="60" y="675" width="620" height="150" rx="14" fill="#ffffff" stroke="#CDE2F2"/>
+    <rect x="700" y="675" width="320" height="150" rx="14" fill="#ffffff" stroke="#CDE2F2"/>
+    <text x="90" y="740" font-size="40" font-weight="bold" fill="#1a1a1a">1박 2일</text>
+    <text x="90" y="788" font-size="32" fill="#5B6B7C">4인 가족</text>
+    <text x="860" y="761" font-size="46" font-weight="bold" fill="#0E6BB8" text-anchor="middle">40L 이상</text>
+
+    <!-- row4 -->
+    <rect x="60" y="840" width="620" height="150" rx="14" fill="#ffffff" stroke="#CDE2F2"/>
+    <rect x="700" y="840" width="320" height="150" rx="14" fill="#ffffff" stroke="#CDE2F2"/>
+    <text x="90" y="905" font-size="40" font-weight="bold" fill="#1a1a1a">2박3일 이상 장박</text>
+    <text x="90" y="953" font-size="32" fill="#5B6B7C">4인+</text>
+    <text x="860" y="905" font-size="44" font-weight="bold" fill="#0E6BB8" text-anchor="middle">45~50L 이상</text>
+    <text x="860" y="952" font-size="30" fill="#5B6B7C" text-anchor="middle">하드형</text>
+
+    <!-- row5 -->
+    <rect x="60" y="1005" width="620" height="150" rx="14" fill="#ffffff" stroke="#CDE2F2"/>
+    <rect x="700" y="1005" width="320" height="150" rx="14" fill="#ffffff" stroke="#CDE2F2"/>
+    <text x="90" y="1070" font-size="40" font-weight="bold" fill="#1a1a1a">가족·행사·대규모</text>
+    <text x="90" y="1118" font-size="32" fill="#5B6B7C">다인원</text>
+    <text x="860" y="1070" font-size="44" font-weight="bold" fill="#0E6BB8" text-anchor="middle">50L 이상</text>
+    <text x="860" y="1117" font-size="30" fill="#5B6B7C" text-anchor="middle">롤러형 고려</text>
+  </g>
+
+  <!-- 안내 -->
+  <text x="60" y="1215" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#5B6B7C">※ 여러 가이드에서 통용되는 대략치 · 얼음/식자재 양에 따라 달라집니다</text>
+
+  <!-- 하단 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#D3E6F4"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#4A6076">blog.naver.com/trip_chocho · 아이스박스 용량 가이드</text>
+</svg>

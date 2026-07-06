@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#EAF4FB"/>
+  <rect width="1080" height="210" fill="#0E6BB8"/>
+  <circle cx="980" cy="60" r="140" fill="#ffffff" opacity="0.08"/>
+  <text x="60" y="112" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">보냉 늘리는 채우기 순서</text>
+  <text x="60" y="170" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="34" fill="#CFE8FA">냉기는 아래로 향한다 · 층으로 쌓기</text>
+
+  <!-- 아이스박스 단면 -->
+  <g>
+    <!-- 뚜껑 -->
+    <rect x="150" y="270" width="780" height="70" rx="16" fill="#B9D8EE" stroke="#0E6BB8" stroke-width="6"/>
+    <text x="540" y="316" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" font-weight="bold" fill="#0E6BB8" text-anchor="middle">뚜껑 (단열 확인)</text>
+
+    <!-- 본체 외벽 -->
+    <rect x="150" y="350" width="780" height="720" rx="20" fill="#ffffff" stroke="#0E6BB8" stroke-width="8"/>
+
+    <!-- 맨 위: 상하기 쉬운 식품 -->
+    <rect x="180" y="380" width="720" height="210" rx="12" fill="#FFE7B0"/>
+    <text x="540" y="470" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="42" font-weight="bold" fill="#8A6A00" text-anchor="middle">맨 위 · 상하기 쉬운 식품</text>
+    <text x="540" y="528" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#8A6A00" text-anchor="middle">육류·유제품 등</text>
+
+    <!-- 가운데: 음료 -->
+    <rect x="180" y="600" width="720" height="210" rx="12" fill="#CDEBFF"/>
+    <text x="540" y="690" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="42" font-weight="bold" fill="#0E6BB8" text-anchor="middle">가운데 · 음료</text>
+    <text x="540" y="748" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#0E6BB8" text-anchor="middle">캔·병·물</text>
+
+    <!-- 맨 아래: 얼음/아이스팩 -->
+    <rect x="180" y="820" width="720" height="220" rx="12" fill="#8FD3D0"/>
+    <text x="540" y="915" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="42" font-weight="bold" fill="#0A5C59" text-anchor="middle">맨 아래 · 얼음·아이스팩</text>
+    <text x="540" y="973" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#0A5C59" text-anchor="middle">빈 공간까지 채우기</text>
+  </g>
+
+  <!-- 화살표 방향 표시 -->
+  <g>
+    <text x="990" y="480" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">↑</text>
+    <text x="1005" y="700" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="26" fill="#5B6B7C" text-anchor="end">냉기</text>
+    <text x="1005" y="740" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="26" fill="#5B6B7C" text-anchor="end">↓</text>
+  </g>
+
+  <!-- 핵심 팁 -->
+  <rect x="60" y="1110" width="960" height="120" rx="16" fill="#0E6BB8"/>
+  <text x="90" y="1165" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="36" font-weight="bold" fill="#ffffff">예냉 · 빈 공간 최소화 · 개폐 줄이기</text>
+  <text x="90" y="1208" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#CFE8FA">한 번 열 때마다 냉기 약 10~15% 손실</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#D3E6F4"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#4A6076">blog.naver.com/trip_chocho · 보냉 사용 팁</text>
+</svg>

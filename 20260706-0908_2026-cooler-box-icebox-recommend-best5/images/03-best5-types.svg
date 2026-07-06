@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#EAF4FB"/>
+  <rect width="1080" height="210" fill="#0E6BB8"/>
+  <circle cx="980" cy="60" r="140" fill="#ffffff" opacity="0.08"/>
+  <text x="60" y="112" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">아이스박스 추천 BEST 5</text>
+  <text x="60" y="170" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="34" fill="#CFE8FA">순위보다 '내 상황에 맞는 유형'으로</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- item template: rounded card with number badge -->
+    <!-- 1 -->
+    <rect x="60" y="255" width="960" height="192" rx="18" fill="#ffffff" stroke="#CDE2F2"/>
+    <circle cx="150" cy="351" r="52" fill="#0E6BB8"/>
+    <text x="150" y="368" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="240" y="335" font-size="44" font-weight="bold" fill="#1a1a1a">대용량 프리미엄 하드쿨러</text>
+    <text x="240" y="398" font-size="34" fill="#0E6BB8">장박·차박·낚시용 · 오래가는 보냉</text>
+
+    <!-- 2 -->
+    <rect x="60" y="465" width="960" height="192" rx="18" fill="#ffffff" stroke="#CDE2F2"/>
+    <circle cx="150" cy="561" r="52" fill="#0E6BB8"/>
+    <text x="150" y="578" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="240" y="545" font-size="44" font-weight="bold" fill="#1a1a1a">가성비 하드박스</text>
+    <text x="240" y="608" font-size="34" fill="#0E6BB8">캠핑 입문·물놀이 가족용</text>
+
+    <!-- 3 -->
+    <rect x="60" y="675" width="960" height="192" rx="18" fill="#ffffff" stroke="#CDE2F2"/>
+    <circle cx="150" cy="771" r="52" fill="#0E6BB8"/>
+    <text x="150" y="788" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="240" y="755" font-size="44" font-weight="bold" fill="#1a1a1a">접이식 소프트 쿨러백</text>
+    <text x="240" y="818" font-size="34" fill="#0E6BB8">당일 물놀이·피크닉 · 가볍고 휴대 편함</text>
+
+    <!-- 4 -->
+    <rect x="60" y="885" width="960" height="192" rx="18" fill="#ffffff" stroke="#CDE2F2"/>
+    <circle cx="150" cy="981" r="52" fill="#0E6BB8"/>
+    <text x="150" y="998" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="240" y="965" font-size="44" font-weight="bold" fill="#1a1a1a">롤러형(바퀴) 대형 쿨러</text>
+    <text x="240" y="1028" font-size="34" fill="#0E6BB8">오토캠핑·대규모 · 짐 이동 편리</text>
+
+    <!-- 5 -->
+    <rect x="60" y="1095" width="960" height="192" rx="18" fill="#ffffff" stroke="#CDE2F2"/>
+    <circle cx="150" cy="1191" r="52" fill="#0E6BB8"/>
+    <text x="150" y="1208" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="240" y="1175" font-size="44" font-weight="bold" fill="#1a1a1a">중형 데일리 하드쿨러</text>
+    <text x="240" y="1238" font-size="34" fill="#0E6BB8">2인 1박·소가족 균형형 (20~35L)</text>
+  </g>
+
+  <rect x="0" y="1300" width="1080" height="50" fill="#D3E6F4"/>
+  <text x="60" y="1336" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#4A6076">특정 제품 순위가 아닌 용도별 유형 안내입니다</text>
+</svg>
