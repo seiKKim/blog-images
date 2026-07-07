@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#E8722C"/>
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.09"/>
+  <circle cx="110" cy="990" r="220" fill="#ffffff" opacity="0.07"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="86" rx="34" ry="34" width="200" height="68" fill="#FFD23F"/>
+  <text x="180" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#7A3A0E" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="300" font-family="Malgun Gothic" font-weight="bold" font-size="62" fill="#FFE9D6">여름 에어컨 전기요금</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="430" font-family="Malgun Gothic" font-weight="bold" font-size="128" fill="#ffffff">줄이는 법</text>
+  <text x="80" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="128" fill="#ffffff">총정리</text>
+
+  <!-- 강조 숫자 박스 -->
+  <rect x="80" y="620" rx="26" ry="26" width="920" height="150" fill="#ffffff" opacity="0.16"/>
+  <text x="110" y="678" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff">선풍기 병행 시</text>
+  <text x="110" y="748" font-family="Malgun Gothic" font-weight="bold" font-size="72" fill="#FFD23F">최대 20% 절약</text>
+
+  <!-- 디테일 -->
+  <text x="80" y="880" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#FFE9D6">26~28℃ · 인버터 계속 켜두기 · 필터 2주 청소</text>
+  <text x="80" y="948" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#FFE9D6">누진 계산법 + 90분 외출 기준까지</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1024" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#FFE9D6" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

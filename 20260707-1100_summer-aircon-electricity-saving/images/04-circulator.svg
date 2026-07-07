@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FBF4EE"/>
+  <rect width="1080" height="160" fill="#E8722C"/>
+  <text x="60" y="100" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff">에어컨 + 서큘레이터 병행</text>
+
+  <!-- 에어컨 아이콘 -->
+  <rect x="70" y="230" width="300" height="110" rx="16" fill="#ffffff" stroke="#E8722C" stroke-width="4"/>
+  <text x="220" y="300" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#E8722C" text-anchor="middle">에어컨</text>
+
+  <!-- 화살표 -->
+  <line x1="380" y1="285" x2="700" y2="285" stroke="#ED8B4E" stroke-width="10" stroke-dasharray="18 14"/>
+  <polygon points="700,265 740,285 700,305" fill="#ED8B4E"/>
+  <text x="540" y="255" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#8A6A52" text-anchor="middle">찬 공기 순환</text>
+
+  <!-- 서큘레이터 아이콘 -->
+  <circle cx="850" cy="285" r="80" fill="#ffffff" stroke="#E8722C" stroke-width="4"/>
+  <text x="850" y="298" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#E8722C" text-anchor="middle">순환팬</text>
+
+  <!-- 효과 박스 2개 -->
+  <rect x="70" y="410" width="450" height="210" rx="20" fill="#E8722C"/>
+  <text x="295" y="490" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#FFE9D6" text-anchor="middle">전기요금</text>
+  <text x="295" y="570" font-family="Malgun Gothic" font-weight="bold" font-size="76" fill="#FFD23F" text-anchor="middle">최대 20%↓</text>
+
+  <rect x="560" y="410" width="450" height="210" rx="20" fill="#ffffff" stroke="#F0C9AE" stroke-width="2"/>
+  <text x="785" y="490" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#333333" text-anchor="middle">체감 온도</text>
+  <text x="785" y="570" font-family="Malgun Gothic" font-weight="bold" font-size="76" fill="#E8722C" text-anchor="middle">약 2℃↓</text>
+
+  <text x="60" y="685" font-family="Malgun Gothic" font-size="30" fill="#8A6A52">서큘레이터를 에어컨 바람 길목에 두고 원하는 방향으로 · 여러 자료 공통 정리</text>
+</svg>
