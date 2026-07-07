@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect width="1080" height="720" fill="#F1F8FA"/>
+<rect width="1080" height="120" fill="#0E3A44"/>
+<text x="60" y="80" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="start">장마철 초파리·냄새, 왜 생기고 어떻게 잡나</text>
+<!-- 왼쪽: 원인 -->
+<rect x="40" y="160" width="440" height="500" rx="24" fill="#FDECEC" stroke="#F3C6C6"/>
+<text x="260" y="224" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#D64545" text-anchor="middle">원인</text>
+<!-- 음쓰통 -->
+<path d="M180 320 h160 l-16 150 h-128 z" fill="#C9B48A"/>
+<rect x="172" y="300" width="176" height="26" rx="6" fill="#A88F5E"/>
+<g fill="#0C2A31">
+<circle cx="220" cy="290" r="5"/><circle cx="290" cy="278" r="5"/><circle cx="330" cy="298" r="5"/>
+<circle cx="250" cy="266" r="4"/><circle cx="310" cy="262" r="4"/>
+</g>
+<text x="260" y="530" font-family="Malgun Gothic" font-weight="bold" font-size="29" fill="#0C2A31" text-anchor="middle">젖은 음식물이 통에 방치</text>
+<text x="260" y="578" font-family="Malgun Gothic" font-weight="bold" font-size="29" fill="#0C2A31" text-anchor="middle">배수구·음쓰통서 초파리 번식</text>
+<text x="260" y="626" font-family="Malgun Gothic" font-weight="bold" font-size="29" fill="#D64545" text-anchor="middle">부화까지 약 8~10일</text>
+<!-- 화살표 -->
+<path d="M500 410 h80" stroke="#FFD23F" stroke-width="12" fill="none"/>
+<polygon points="580,392 580,428 616,410" fill="#FFD23F"/>
+<!-- 오른쪽: 해결 -->
+<rect x="640" y="160" width="400" height="500" rx="24" fill="#E7F6EC" stroke="#BBE3C9"/>
+<text x="840" y="224" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#1F8A53" text-anchor="middle">처리기 효과</text>
+<text x="840" y="530" font-family="Malgun Gothic" font-weight="bold" font-size="29" fill="#0C2A31" text-anchor="middle">그날 바로 건조·분해 배출</text>
+<text x="840" y="578" font-family="Malgun Gothic" font-weight="bold" font-size="29" fill="#0C2A31" text-anchor="middle">수분·냄새·산란환경 줄임</text>
+<text x="840" y="626" font-family="Malgun Gothic" font-weight="bold" font-size="29" fill="#1F8A53" text-anchor="middle">건조식이 벌레 억제에 유리</text>
+<!-- 체크 아이콘 -->
+<circle cx="840" cy="380" r="70" fill="#1F8A53"/>
+<path d="M805 380 l25 28 l50 -58" stroke="#ffffff" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

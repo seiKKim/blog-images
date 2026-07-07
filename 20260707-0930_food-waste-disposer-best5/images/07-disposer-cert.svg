@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F1F8FA"/>
+<rect width="1080" height="220" fill="#0E3A44"/>
+<text x="60" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff" text-anchor="start">씽크대형은 인증 제품만 합법</text>
+<text x="60" y="180" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#DFF3F7" text-anchor="start">하수도법 · 소비자도 처벌 대상</text>
+<!-- 합법 vs 불법 -->
+<rect x="40" y="270" width="490" height="330" rx="20" fill="#E7F6EC" stroke="#BBE3C9"/>
+<text x="285" y="340" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#1F8A53" text-anchor="middle">합법</text>
+<text x="285" y="404" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#0E3A44" text-anchor="middle">분쇄회수식</text>
+<text x="285" y="466" font-family="Malgun Gothic" font-weight="normal" font-size="28" fill="#0C2A31" text-anchor="middle">고형분 80% 이상 회수</text>
+<text x="285" y="512" font-family="Malgun Gothic" font-weight="normal" font-size="28" fill="#0C2A31" text-anchor="middle">→ 음식물쓰레기로 배출</text>
+<text x="285" y="564" font-family="Malgun Gothic" font-weight="normal" font-size="28" fill="#1F8A53" text-anchor="middle">20% 미만만 하수로</text>
+<rect x="550" y="270" width="490" height="330" rx="20" fill="#FDECEC" stroke="#F3C6C6"/>
+<text x="795" y="340" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#D64545" text-anchor="middle">불법</text>
+<text x="795" y="404" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#0E3A44" text-anchor="middle">직배출형</text>
+<text x="795" y="466" font-family="Malgun Gothic" font-weight="normal" font-size="28" fill="#0C2A31" text-anchor="middle">100% 하수로 흘려보냄</text>
+<text x="795" y="512" font-family="Malgun Gothic" font-weight="normal" font-size="28" fill="#0C2A31" text-anchor="middle">(미국식 직구 제품 등)</text>
+<text x="795" y="564" font-family="Malgun Gothic" font-weight="normal" font-size="28" fill="#D64545" text-anchor="middle">모르고 써도 과태료</text>
+<!-- 과태료 경고 -->
+<rect x="40" y="640" width="1000" height="120" rx="18" fill="#0E3A44"/>
+<text x="540" y="690" font-family="Malgun Gothic" font-weight="normal" font-size="34" fill="#ffffff" text-anchor="middle">불법 제품은 판매자뿐 아니라</text>
+<text x="540" y="738" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#FFD23F" text-anchor="middle">모르고 쓴 소비자도 100만원 이하 과태료</text>
+<!-- 확인 방법 -->
+<text x="60" y="850" font-family="Malgun Gothic" font-weight="bold" font-size="44" fill="#0E3A44" text-anchor="start">꼭 확인할 인증 2가지</text>
+<rect x="40" y="890" width="1000" height="130" rx="18" fill="#ffffff" stroke="#CFE3E8"/>
+<text x="80" y="955" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#1E6B7A" text-anchor="start">1</text>
+<text x="150" y="948" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#0E3A44" text-anchor="start">한국물기술인증원 적법성 인증</text>
+<text x="150" y="998" font-family="Malgun Gothic" font-weight="normal" font-size="28" fill="#5B6B7C" text-anchor="start">주방용오물분쇄기 인증시스템 GDIS.or.kr 조회</text>
+<rect x="40" y="1040" width="1000" height="130" rx="18" fill="#ffffff" stroke="#CFE3E8"/>
+<text x="80" y="1105" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#1E6B7A" text-anchor="start">2</text>
+<text x="150" y="1098" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#0E3A44" text-anchor="start">KC 안전인증</text>
+<text x="150" y="1148" font-family="Malgun Gothic" font-weight="normal" font-size="28" fill="#5B6B7C" text-anchor="start">전기·안전 기준 충족 여부 확인</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1322" font-family="Malgun Gothic" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">'정부 인증 여부 확인'은 선택이 아니라 필수</text>
+</svg>

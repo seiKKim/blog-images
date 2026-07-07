@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3FA9C9"/><stop offset="0.5" stop-color="#1E6B7A"/><stop offset="1" stop-color="#0E3A44"/></linearGradient></defs>
+<rect width="1080" height="1080" fill="url(#bg)"/>
+<circle cx="930" cy="200" r="250" fill="#ffffff" opacity="0.08"/>
+<circle cx="120" cy="960" r="200" fill="#ffffff" opacity="0.06"/>
+<rect x="72" y="84" rx="34" ry="34" width="200" height="70" fill="#FFD23F"/>
+<text x="172" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#0C2A31" text-anchor="middle">추천아이템</text>
+<rect x="700" y="84" rx="30" ry="30" width="308" height="70" fill="#ffffff" opacity="0.16"/>
+<text x="854" y="130" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#ffffff" text-anchor="middle">2026 장마철 필수템</text>
+<text x="76" y="286" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#DFF3F7" text-anchor="start">장마철 초파리·시큼한 냄새 주범</text>
+<text x="72" y="442" font-family="Malgun Gothic" font-weight="bold" font-size="144" fill="#FFFFFF" text-anchor="start">음식물처리기</text>
+<text x="72" y="600" font-family="Malgun Gothic" font-weight="bold" font-size="118" fill="#FFD23F" text-anchor="start">미생물 vs 분쇄?</text>
+<g font-family="Malgun Gothic" font-weight="bold" text-anchor="middle">
+<rect x="72" y="672" rx="22" width="288" height="128" fill="#ffffff" opacity="0.16"/>
+<text x="216" y="736" font-size="50" fill="#ffffff">방식</text><text x="216" y="786" font-size="44" fill="#FFD23F">4가지</text>
+<rect x="396" y="672" rx="22" width="288" height="128" fill="#ffffff" opacity="0.16"/>
+<text x="540" y="736" font-size="50" fill="#ffffff">전기료</text><text x="540" y="786" font-size="42" fill="#FFD23F">월3천원~</text>
+<rect x="720" y="672" rx="22" width="288" height="128" fill="#ffffff" opacity="0.16"/>
+<text x="864" y="736" font-size="50" fill="#ffffff">지원금</text><text x="864" y="786" font-size="44" fill="#FFD23F">지역별</text>
+</g>
+<rect x="72" y="836" rx="26" width="936" height="112" fill="#FFD23F"/>
+<text x="540" y="908" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#0C2A31" text-anchor="middle">냄새·초파리 잡는 방식별 완전정리</text>
+<text x="76" y="1008" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#DBF1EA" text-anchor="start" opacity="0.92">blog.naver.com/trip_chocho</text>
+</svg>
