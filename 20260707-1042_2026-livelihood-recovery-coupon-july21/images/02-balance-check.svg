@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="220" fill="#1B5FA6"/>
+  <rect x="60" y="60" rx="30" ry="30" width="200" height="60" fill="#FFD23F"/>
+  <text x="160" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="188" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">소비쿠폰 잔액 확인 방법</text>
+
+  <!-- 카드 1 -->
+  <rect x="60" y="290" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="150" cy="390" r="46" fill="#1B5FA6"/>
+  <text x="150" y="406" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="50" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="230" y="372" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#1a1a1a">카드사 앱</text>
+  <text x="230" y="438" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="38" fill="#5B6B7C">소비쿠폰(정부지원금) 메뉴에서 잔액 조회</text>
+
+  <!-- 카드 2 -->
+  <rect x="60" y="520" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="150" cy="620" r="46" fill="#1B5FA6"/>
+  <text x="150" y="636" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="50" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="230" y="602" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#1a1a1a">문자·알림톡·앱 푸시</text>
+  <text x="230" y="668" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="38" fill="#5B6B7C">결제할 때마다 오는 알림으로 잔여 금액 확인</text>
+
+  <!-- 카드 3 -->
+  <rect x="60" y="750" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="150" cy="850" r="46" fill="#1B5FA6"/>
+  <text x="150" y="866" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="50" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="230" y="832" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#1a1a1a">지역사랑상품권·선불카드</text>
+  <text x="230" y="898" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="38" fill="#5B6B7C">해당 앱 또는 발급처에서 확인</text>
+
+  <!-- 꿀팁 박스 -->
+  <rect x="60" y="1000" width="960" height="200" rx="20" fill="#E8EEF5"/>
+  <text x="100" y="1078" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1B5FA6">TIP  앱 알림을 켜두면</text>
+  <text x="100" y="1142" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#2B2F36">결제할 때마다 잔액이 자동으로 떠서 관리가 편해요</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#DDE6F0"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="32" fill="#5B6B7C">blog.naver.com/trip_chocho · 본인 지급 문자·공식 안내 기준 확인</text>
+</svg>
