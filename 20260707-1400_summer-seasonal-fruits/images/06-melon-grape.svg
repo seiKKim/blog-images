@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#FFF5F7"/>
+<rect width="1080" height="200" fill="#E0556E"/><text x="60" y="125" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">멜론·포도, 지금은 초입</text>
+<rect x="60" y="270" width="960" height="120" rx="16" fill="#E0556E"/>
+<text x="540" y="345" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#FFFFFF" text-anchor="middle">조금 기다렸다 8월에 사면 이득</text>
+<!-- 멜론 -->
+<rect x="60" y="420" width="960" height="360" rx="20" fill="#ffffff" stroke="#F3CAD3"/>
+<text x="100" y="495" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#3B9E6E">🍈 멜론 (머스크멜론)</text>
+<text x="100" y="560" font-family="Malgun Gothic" font-size="37" fill="#2a2a2a">· 생산 7~10월, 정점은 8월 (7월은 초입)</text>
+<text x="100" y="618" font-family="Malgun Gothic" font-size="37" fill="#2a2a2a">· 그물무늬 촘촘·가지런, 동그랗고 묵직한 것</text>
+<text x="100" y="676" font-family="Malgun Gothic" font-size="37" fill="#2a2a2a">· 후숙이 핵심: 실온 3~5일 뒤 냉장</text>
+<text x="100" y="734" font-family="Malgun Gothic" font-size="37" fill="#2a2a2a">· 배꼽 눌러 살짝 들어가고 향 오르면 완료</text>
+<!-- 포도 -->
+<rect x="60" y="810" width="960" height="300" rx="20" fill="#ffffff" stroke="#F3CAD3"/>
+<text x="100" y="885" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#8E3B6B">🍇 포도</text>
+<text x="100" y="950" font-family="Malgun Gothic" font-size="37" fill="#2a2a2a">· 7월 초입, 8월 말까지 제철</text>
+<text x="100" y="1008" font-family="Malgun Gothic" font-size="37" fill="#2a2a2a">· 샤인머스캣은 8~9월에 절정</text>
+<text x="100" y="1066" font-family="Malgun Gothic" font-size="37" fill="#2a2a2a">· 껍질에 항산화 성분 많아 껍질째 권장</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#FDE8EC"/><text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#9A5563">※ 시기·효능은 본문 참고</text>
+</svg>

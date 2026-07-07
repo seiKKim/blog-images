@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#FFF5F7"/>
+<rect width="1080" height="200" fill="#E0556E"/><text x="60" y="125" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#FFFFFF">수박, 배꼽 작은 놈이 답</text>
+<!-- 배꼽 비교 두 개 -->
+<g>
+  <circle cx="300" cy="470" r="150" fill="#E23B4E"/>
+  <circle cx="300" cy="470" r="150" fill="none" stroke="#1F7A3D" stroke-width="10"/>
+  <path d="M255 470 q45 -70 90 0" fill="none" stroke="#1F7A3D" stroke-width="9"/>
+  <path d="M270 470 q30 -45 60 0" fill="none" stroke="#1F7A3D" stroke-width="9"/>
+  <circle cx="300" cy="470" r="16" fill="#7A3B18"/>
+  <text x="300" y="690" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1F7A3D" text-anchor="middle">배꼽 작음</text>
+  <text x="300" y="748" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#B83E55" text-anchor="middle">당도 높음 ✔</text>
+</g>
+<g>
+  <circle cx="780" cy="470" r="150" fill="#E23B4E"/>
+  <circle cx="780" cy="470" r="150" fill="none" stroke="#1F7A3D" stroke-width="10"/>
+  <path d="M700 470 q80 -70 160 0" fill="none" stroke="#1F7A3D" stroke-width="9"/>
+  <path d="M725 470 q55 -45 110 0" fill="none" stroke="#1F7A3D" stroke-width="9"/>
+  <circle cx="780" cy="470" r="42" fill="#7A3B18"/>
+  <text x="780" y="690" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#8A8A8A" text-anchor="middle">배꼽 큼</text>
+  <text x="780" y="748" font-family="Malgun Gothic" font-size="40" fill="#8A8A8A" text-anchor="middle">상대적으로 ↓</text>
+</g>
+<rect x="60" y="820" width="960" height="380" rx="20" fill="#ffffff" stroke="#F3CAD3"/>
+<text x="100" y="895" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#B83E55">이런 수박 고르세요</text>
+<text x="100" y="965" font-family="Malgun Gothic" font-size="37" fill="#2a2a2a">· 검은 줄무늬 진하고 고르며 껍질에 윤기</text>
+<text x="100" y="1025" font-family="Malgun Gothic" font-size="37" fill="#2a2a2a">· 두드리면 &quot;통통&quot; 맑고 경쾌한 소리</text>
+<text x="100" y="1085" font-family="Malgun Gothic" font-size="37" fill="#2a2a2a">· 눌렀을 때 탄력 · 쑥 들어가지 않는 것</text>
+<text x="100" y="1150" font-family="Malgun Gothic" font-size="34" fill="#9A5563">※ 꼭지 성별 속설은 근거 약함, 재미로만</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#FDE8EC"/><text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#9A5563">※ 보관 최적 온도 8~9℃, 과냉장 주의</text>
+</svg>
