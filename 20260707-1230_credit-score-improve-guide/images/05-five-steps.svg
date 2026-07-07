@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">신용점수 올리는 법 5</text>
+  <g>
+    <rect x="60" y="300" width="960" height="160" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="380" r="48" fill="#243B6B"/>
+    <text x="150" y="398" font-family="Malgun Gothic" font-size="52" font-weight="bold" fill="#FFD23F" text-anchor="middle">1</text>
+    <text x="240" y="366" font-family="Malgun Gothic" font-size="44" font-weight="bold" fill="#1a1a1a">비금융 성실납부 가점</text>
+    <text x="240" y="418" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">통신비·건보료·국민연금·공공요금 이력 제출</text>
+    <rect x="60" y="490" width="960" height="160" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="570" r="48" fill="#243B6B"/>
+    <text x="150" y="588" font-family="Malgun Gothic" font-size="52" font-weight="bold" fill="#FFD23F" text-anchor="middle">2</text>
+    <text x="240" y="556" font-family="Malgun Gothic" font-size="44" font-weight="bold" fill="#1a1a1a">연체 절대 금지</text>
+    <text x="240" y="608" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">자동이체로 카드·통신·공과금 밀리지 않기</text>
+    <rect x="60" y="680" width="960" height="160" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="760" r="48" fill="#243B6B"/>
+    <text x="150" y="778" font-family="Malgun Gothic" font-size="52" font-weight="bold" fill="#FFD23F" text-anchor="middle">3</text>
+    <text x="240" y="746" font-family="Malgun Gothic" font-size="44" font-weight="bold" fill="#1a1a1a">카드 정시 결제</text>
+    <text x="240" y="798" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">소액이라도 꾸준히 쓰고 결제일 준수</text>
+    <rect x="60" y="870" width="960" height="160" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="950" r="48" fill="#243B6B"/>
+    <text x="150" y="968" font-family="Malgun Gothic" font-size="52" font-weight="bold" fill="#FFD23F" text-anchor="middle">4</text>
+    <text x="240" y="936" font-family="Malgun Gothic" font-size="44" font-weight="bold" fill="#1a1a1a">신규대출·현금서비스 자제</text>
+    <text x="240" y="988" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">카드론·리볼빙은 점수 깎는 요인</text>
+    <rect x="60" y="1060" width="960" height="160" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="1140" r="48" fill="#243B6B"/>
+    <text x="150" y="1158" font-family="Malgun Gothic" font-size="52" font-weight="bold" fill="#FFD23F" text-anchor="middle">5</text>
+    <text x="240" y="1126" font-family="Malgun Gothic" font-size="44" font-weight="bold" fill="#1a1a1a">적절한 거래이력 유지</text>
+    <text x="240" y="1178" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">잘 상환한 대출이력은 오히려 가점</text></g>
+  <text x="540" y="1300" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C" text-anchor="middle">※ 상승 폭은 개인 신용상황에 따라 다름</text>
+</svg>

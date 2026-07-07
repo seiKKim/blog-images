@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="160" fill="#243B6B"/>
+  <text x="60" y="102" font-family="Malgun Gothic" font-weight="bold" font-size="56" fill="#ffffff">신용점수 조회하면 하락한다?</text>
+
+  <g font-family="Malgun Gothic">
+    <rect x="60" y="220" width="450" height="410" rx="24" fill="#ffffff" stroke="#E3B4B4" stroke-width="3"/>
+    <circle cx="285" cy="320" r="52" fill="#FBE9E9"/>
+    <text x="285" y="342" font-size="70" fill="#E23B3B" font-weight="bold" text-anchor="middle">✕</text>
+    <text x="285" y="440" font-size="46" font-weight="bold" fill="#E23B3B" text-anchor="middle">오해</text>
+    <text x="285" y="512" font-size="34" fill="#333" text-anchor="middle">"자주 조회하면</text>
+    <text x="285" y="558" font-size="34" fill="#333" text-anchor="middle">점수가 떨어진다"</text>
+
+    <rect x="570" y="220" width="450" height="410" rx="24" fill="#ffffff" stroke="#B4D8C4" stroke-width="3"/>
+    <circle cx="795" cy="320" r="52" fill="#E7F4EC"/>
+    <text x="795" y="344" font-size="66" fill="#1F8A53" font-weight="bold" text-anchor="middle">✓</text>
+    <text x="795" y="440" font-size="46" font-weight="bold" fill="#1F8A53" text-anchor="middle">사실</text>
+    <text x="795" y="512" font-size="34" fill="#333" text-anchor="middle">본인 조회는 영향 0</text>
+    <text x="795" y="558" font-size="30" fill="#333" text-anchor="middle">(2011년 10월 이후)</text>
+  </g>
+  <text x="540" y="682" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C" text-anchor="middle">카카오·네이버·토스로 마음껏 확인하세요</text>
+</svg>

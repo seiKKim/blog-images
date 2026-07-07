@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#243B6B"/>
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.07"/>
+  <circle cx="110" cy="990" r="210" fill="#ffffff" opacity="0.05"/>
+
+  <rect x="80" y="86" rx="34" ry="34" width="230" height="68" fill="#FFD23F"/>
+  <text x="195" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="36" fill="#1a1a1a" text-anchor="middle">금융/재테크</text>
+
+  <text x="80" y="300" font-family="Malgun Gothic" font-weight="bold" font-size="58" fill="#E8EEF5">2026 신용점수</text>
+  <text x="80" y="430" font-family="Malgun Gothic" font-weight="bold" font-size="150" fill="#ffffff">올리는 법</text>
+  <text x="80" y="560" font-family="Malgun Gothic" font-weight="bold" font-size="66" fill="#FFD23F">등급표 · 조회 · 관리</text>
+
+  <g font-family="Malgun Gothic" font-weight="bold">
+    <rect x="80" y="640" rx="18" width="920" height="96" fill="#ffffff" opacity="0.13"/>
+    <circle cx="132" cy="688" r="18" fill="#FFD23F"/><text x="132" y="700" font-size="26" fill="#1a2c52" text-anchor="middle">1</text>
+    <text x="172" y="700" font-size="44" fill="#ffffff">조회는 무료 · 점수 하락 없음</text>
+
+    <rect x="80" y="752" rx="18" width="920" height="96" fill="#ffffff" opacity="0.13"/>
+    <circle cx="132" cy="800" r="18" fill="#FFD23F"/><text x="132" y="812" font-size="26" fill="#1a2c52" text-anchor="middle">2</text>
+    <text x="172" y="812" font-size="44" fill="#ffffff">성실납부 가점으로 점수 UP</text>
+
+    <rect x="80" y="864" rx="18" width="920" height="96" fill="#ffffff" opacity="0.13"/>
+    <circle cx="132" cy="912" r="18" fill="#FFD23F"/><text x="132" y="924" font-size="26" fill="#1a2c52" text-anchor="middle">3</text>
+    <text x="172" y="924" font-size="44" fill="#ffffff">연체 · 카드론은 절대 금지</text>
+  </g>
+
+  <text x="80" y="1022" font-family="Malgun Gothic" font-size="32" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

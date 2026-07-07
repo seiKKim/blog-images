@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="220" fill="#243B6B"/>
+  <text x="60" y="112" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">신용점수 등급표 (2026)</text>
+  <text x="60" y="176" font-family="Malgun Gothic" font-size="34" fill="#E8EEF5">※ 공식 아님 · 매체 환산 참고용</text>
+
+  <g font-family="Malgun Gothic">
+    <text x="150" y="322" font-size="34" font-weight="bold" fill="#5B6B7C">참고등급</text>
+    <text x="560" y="322" font-size="34" font-weight="bold" fill="#5B6B7C" text-anchor="middle">KCB 점수</text>
+    <text x="880" y="322" font-size="34" font-weight="bold" fill="#5B6B7C" text-anchor="middle">NICE 점수</text>
+    
+    <rect x="60" y="360" width="960" height="88" fill="#ffffff"/>
+    <rect x="60" y="360" width="12" height="88" fill="#1F8A53"/>
+    <text x="150" y="416" font-size="40" font-weight="bold" fill="#1a1a1a">1등급</text>
+    <text x="560" y="416" font-size="38" fill="#243B6B" text-anchor="middle">942~1,000</text>
+    <text x="880" y="416" font-size="38" fill="#243B6B" text-anchor="middle">900~1,000</text>
+    <rect x="60" y="448" width="960" height="88" fill="#EEF3F9"/>
+    <rect x="60" y="448" width="12" height="88" fill="#3AA76D"/>
+    <text x="150" y="504" font-size="40" font-weight="bold" fill="#1a1a1a">2등급</text>
+    <text x="560" y="504" font-size="38" fill="#243B6B" text-anchor="middle">891~941</text>
+    <text x="880" y="504" font-size="38" fill="#243B6B" text-anchor="middle">870~899</text>
+    <rect x="60" y="536" width="960" height="88" fill="#ffffff"/>
+    <rect x="60" y="536" width="12" height="88" fill="#57B98A"/>
+    <text x="150" y="592" font-size="40" font-weight="bold" fill="#1a1a1a">3등급</text>
+    <text x="560" y="592" font-size="38" fill="#243B6B" text-anchor="middle">832~890</text>
+    <text x="880" y="592" font-size="38" fill="#243B6B" text-anchor="middle">840~869</text>
+    <rect x="60" y="624" width="960" height="88" fill="#EEF3F9"/>
+    <rect x="60" y="624" width="12" height="88" fill="#8DBF7A"/>
+    <text x="150" y="680" font-size="40" font-weight="bold" fill="#1a1a1a">4등급</text>
+    <text x="560" y="680" font-size="38" fill="#243B6B" text-anchor="middle">768~831</text>
+    <text x="880" y="680" font-size="38" fill="#243B6B" text-anchor="middle">805~839</text>
+    <rect x="60" y="712" width="960" height="88" fill="#ffffff"/>
+    <rect x="60" y="712" width="12" height="88" fill="#C9C05A"/>
+    <text x="150" y="768" font-size="40" font-weight="bold" fill="#1a1a1a">5등급</text>
+    <text x="560" y="768" font-size="38" fill="#243B6B" text-anchor="middle">698~767</text>
+    <text x="880" y="768" font-size="38" fill="#243B6B" text-anchor="middle">750~804</text>
+    <rect x="60" y="800" width="960" height="88" fill="#EEF3F9"/>
+    <rect x="60" y="800" width="12" height="88" fill="#E8B54A"/>
+    <text x="150" y="856" font-size="40" font-weight="bold" fill="#1a1a1a">6등급</text>
+    <text x="560" y="856" font-size="38" fill="#243B6B" text-anchor="middle">630~697</text>
+    <text x="880" y="856" font-size="38" fill="#243B6B" text-anchor="middle">665~749</text>
+    <rect x="60" y="888" width="960" height="88" fill="#ffffff"/>
+    <rect x="60" y="888" width="12" height="88" fill="#E8934A"/>
+    <text x="150" y="944" font-size="40" font-weight="bold" fill="#1a1a1a">7등급</text>
+    <text x="560" y="944" font-size="38" fill="#243B6B" text-anchor="middle">530~629</text>
+    <text x="880" y="944" font-size="38" fill="#243B6B" text-anchor="middle">600~664</text>
+    <rect x="60" y="976" width="960" height="88" fill="#EEF3F9"/>
+    <rect x="60" y="976" width="12" height="88" fill="#E2703B"/>
+    <text x="150" y="1032" font-size="40" font-weight="bold" fill="#1a1a1a">8등급</text>
+    <text x="560" y="1032" font-size="38" fill="#243B6B" text-anchor="middle">454~529</text>
+    <text x="880" y="1032" font-size="38" fill="#243B6B" text-anchor="middle">515~599</text>
+    <rect x="60" y="1064" width="960" height="88" fill="#ffffff"/>
+    <rect x="60" y="1064" width="12" height="88" fill="#DD5540"/>
+    <text x="150" y="1120" font-size="40" font-weight="bold" fill="#1a1a1a">9등급</text>
+    <text x="560" y="1120" font-size="38" fill="#243B6B" text-anchor="middle">335~453</text>
+    <text x="880" y="1120" font-size="38" fill="#243B6B" text-anchor="middle">445~514</text>
+    <rect x="60" y="1152" width="960" height="88" fill="#EEF3F9"/>
+    <rect x="60" y="1152" width="12" height="88" fill="#E23B3B"/>
+    <text x="150" y="1208" font-size="40" font-weight="bold" fill="#1a1a1a">10등급</text>
+    <text x="560" y="1208" font-size="38" fill="#243B6B" text-anchor="middle">0~334</text>
+    <text x="880" y="1208" font-size="38" fill="#243B6B" text-anchor="middle">0~444</text>
+  </g>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Malgun Gothic" font-size="32" fill="#5B6B7C">2021년 신용등급제 폐지 → 0~1,000점 점수제</text>
+</svg>

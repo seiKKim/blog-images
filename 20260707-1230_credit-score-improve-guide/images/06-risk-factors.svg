@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1A2C52"/>
+  <text x="60" y="120" font-family="Malgun Gothic" font-weight="bold" font-size="60" fill="#ffffff">신용점수 하락 원인</text>
+  <g>
+    <rect x="60" y="300" width="960" height="160" rx="20" fill="#ffffff" stroke="#EBCFCF" stroke-width="2"/>
+    <rect x="60" y="300" width="14" height="160" rx="4" fill="#E23B3B"/>
+    <text x="130" y="370" font-family="Malgun Gothic" font-size="54" fill="#E23B3B">⚠</text>
+    <text x="210" y="366" font-family="Malgun Gothic" font-size="44" font-weight="bold" fill="#1a1a1a">연체</text>
+    <text x="210" y="418" font-family="Malgun Gothic" font-size="31" fill="#5B6B7C">5영업일·10만원↑부터 반영, 기록 최장 5년</text>
+    <rect x="60" y="490" width="960" height="160" rx="20" fill="#ffffff" stroke="#EBCFCF" stroke-width="2"/>
+    <rect x="60" y="490" width="14" height="160" rx="4" fill="#E23B3B"/>
+    <text x="130" y="560" font-family="Malgun Gothic" font-size="54" fill="#E23B3B">⚠</text>
+    <text x="210" y="556" font-family="Malgun Gothic" font-size="44" font-weight="bold" fill="#1a1a1a">카드론(장기대출)</text>
+    <text x="210" y="608" font-family="Malgun Gothic" font-size="31" fill="#5B6B7C">고위험 대출로 단기간 큰 폭 하락</text>
+    <rect x="60" y="680" width="960" height="160" rx="20" fill="#ffffff" stroke="#EBCFCF" stroke-width="2"/>
+    <rect x="60" y="680" width="14" height="160" rx="4" fill="#E23B3B"/>
+    <text x="130" y="750" font-family="Malgun Gothic" font-size="54" fill="#E23B3B">⚠</text>
+    <text x="210" y="746" font-family="Malgun Gothic" font-size="44" font-weight="bold" fill="#1a1a1a">현금서비스</text>
+    <text x="210" y="798" font-family="Malgun Gothic" font-size="31" fill="#5B6B7C">고금리 단기대출 → 고위험 고객 평가</text>
+    <rect x="60" y="870" width="960" height="160" rx="20" fill="#ffffff" stroke="#EBCFCF" stroke-width="2"/>
+    <rect x="60" y="870" width="14" height="160" rx="4" fill="#E23B3B"/>
+    <text x="130" y="940" font-family="Malgun Gothic" font-size="54" fill="#E23B3B">⚠</text>
+    <text x="210" y="936" font-family="Malgun Gothic" font-size="44" font-weight="bold" fill="#1a1a1a">리볼빙(이월결제)</text>
+    <text x="210" y="988" font-family="Malgun Gothic" font-size="31" fill="#5B6B7C">미상환 부채로 기록되어 하락</text>
+    <rect x="60" y="1060" width="960" height="160" rx="20" fill="#ffffff" stroke="#EBCFCF" stroke-width="2"/>
+    <rect x="60" y="1060" width="14" height="160" rx="4" fill="#E23B3B"/>
+    <text x="130" y="1130" font-family="Malgun Gothic" font-size="54" fill="#E23B3B">⚠</text>
+    <text x="210" y="1126" font-family="Malgun Gothic" font-size="44" font-weight="bold" fill="#1a1a1a">잦은 신규 신청</text>
+    <text x="210" y="1178" font-family="Malgun Gothic" font-size="31" fill="#5B6B7C">정식 심사 몰리면 회복 지연·대출 제한</text></g>
+  <text x="540" y="1300" font-family="Malgun Gothic" font-size="30" fill="#5B6B7C" text-anchor="middle">조회는 걱정 X · 위 요인 관리가 핵심</text>
+</svg>
