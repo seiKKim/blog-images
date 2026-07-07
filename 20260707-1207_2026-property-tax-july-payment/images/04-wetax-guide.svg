@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">재산세 조회·납부 채널</text>
+
+  <!-- 브라우저 목업 -->
+  <rect x="90" y="270" width="900" height="470" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="3"/>
+  <rect x="90" y="270" width="900" height="70" rx="20" fill="#1F8A53"/>
+  <rect x="90" y="310" width="900" height="30" fill="#1F8A53"/>
+  <circle cx="135" cy="305" r="12" fill="#ffffff" opacity="0.7"/>
+  <circle cx="175" cy="305" r="12" fill="#ffffff" opacity="0.7"/>
+  <circle cx="215" cy="305" r="12" fill="#ffffff" opacity="0.7"/>
+  <rect x="270" y="288" width="680" height="36" rx="18" fill="#ffffff" opacity="0.85"/>
+  <text x="295" y="314" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="26" fill="#1F8A53">wetax.go.kr — 위택스</text>
+
+  <!-- 메뉴 강조 -->
+  <rect x="140" y="390" width="800" height="90" rx="14" fill="#E6F4EC" stroke="#1F8A53" stroke-width="3"/>
+  <text x="175" y="447" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1F8A53">＞ 납부할 지방세</text>
+  <rect x="140" y="500" width="800" height="70" rx="14" fill="#F4F7FB"/>
+  <text x="175" y="547" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">로그인 → 조회 → 납부</text>
+  <rect x="140" y="590" width="800" height="70" rx="14" fill="#F4F7FB"/>
+  <text x="175" y="637" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">고지서 없으면 전자납부번호로 조회</text>
+
+  <!-- 채널 리스트 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="790" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="852" font-weight="bold" font-size="42" fill="#1a1a1a">위택스 (wetax.go.kr)</text>
+    <text x="1000" y="852" font-size="34" fill="#5B6B7C" text-anchor="end">전국 통합</text>
+
+    <rect x="60" y="905" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="967" font-weight="bold" font-size="42" fill="#1a1a1a">서울 ETAX (etax.seoul.go.kr)</text>
+    <text x="1000" y="967" font-size="34" fill="#5B6B7C" text-anchor="end">서울 거주자</text>
+
+    <rect x="60" y="1020" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="1082" font-weight="bold" font-size="42" fill="#1a1a1a">정부24 · 모바일앱 · 인터넷지로</text>
+    <text x="1000" y="1082" font-size="34" fill="#5B6B7C" text-anchor="end">연계·간편</text>
+  </g>
+
+  <rect x="60" y="1150" width="960" height="90" rx="18" fill="#E6F4EC"/>
+  <text x="90" y="1207" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#1F8A53">카드납부 수수료 0원 · 조회는 24시간 가능</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">본문 정리 기준 · 심야 납부 이용시간은 위택스에서 확인</text>
+</svg>

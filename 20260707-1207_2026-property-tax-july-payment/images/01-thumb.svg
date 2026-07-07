@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1F8A53"/>
+  <circle cx="950" cy="180" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="230" height="68" fill="#FFD23F"/>
+  <text x="195" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">세금·환급</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#E8EEF5">2026 재산세 7월분 (주택 1기분)</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="150" fill="#ffffff">7/16~7/31</text>
+  <text x="80" y="655" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="130" fill="#FFD23F">납부 마감</text>
+
+  <!-- 디테일 박스 1 -->
+  <rect x="80" y="740" rx="20" ry="20" width="920" height="100" fill="#ffffff" opacity="0.14"/>
+  <text x="110" y="805" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">카드 수수료 0원 · 기한 넘기면 가산세 3%</text>
+
+  <!-- 디테일 박스 2 -->
+  <rect x="80" y="858" rx="20" ry="20" width="920" height="100" fill="#ffffff" opacity="0.14"/>
+  <text x="110" y="923" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">위택스 조회 · 9억 이하 1주택 특례 자동적용</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1015" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
