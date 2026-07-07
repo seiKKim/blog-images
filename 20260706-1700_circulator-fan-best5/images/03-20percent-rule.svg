@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect width="1080" height="720" fill="#F1F8FA"/>
+<rect width="1080" height="120" fill="#0E3A44"/>
+<text x="60" y="80" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="start">도달거리의 "20% 법칙"</text>
+<text x="60" y="230" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#37505A" text-anchor="start">제품에 적힌 스펙 도달거리</text>
+<!-- 긴 자: 스펙 20m -->
+<rect x="60" y="270" width="960" height="70" rx="10" fill="#CFE3E8"/>
+<text x="80" y="315" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1E6B7A" text-anchor="start">스펙 20m</text>
+<text x="1000" y="315" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#1E6B7A" text-anchor="end">↔</text>
+<text x="60" y="430" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#37505A" text-anchor="start">실제 유효거리는 그 중 약 20%</text>
+<!-- 짧은 자: 실제 4m (전체의 20%) -->
+<rect x="60" y="470" width="960" height="70" rx="10" fill="#F6E7C8"/>
+<rect x="60" y="470" width="192" height="70" rx="10" fill="#FFD23F"/>
+<text x="80" y="515" font-family="Malgun Gothic" font-weight="bold" font-size="40" fill="#0C2A31" text-anchor="start">실제 4m</text>
+<rect x="60" y="600" width="960" height="80" rx="16" fill="#0E3A44"/>
+<text x="540" y="652" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#ffffff" text-anchor="middle">가정용은 유효 3~6m면 충분! 넓은 거실은 30m급 or 2대</text>
+</svg>

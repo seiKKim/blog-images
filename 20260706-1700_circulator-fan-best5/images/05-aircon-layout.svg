@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect width="1080" height="720" fill="#F1F8FA"/>
+<rect width="1080" height="120" fill="#0E3A44"/>
+<text x="60" y="80" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="start">에어컨 + 서큘레이터 병행 배치</text>
+<!-- 방 -->
+<rect x="80" y="170" width="920" height="470" rx="20" fill="#ffffff" stroke="#CFE3E8" stroke-width="3"/>
+<!-- 에어컨 (좌상단) -->
+<rect x="120" y="200" width="240" height="90" rx="12" fill="#1E6B7A"/>
+<text x="240" y="258" font-family="Malgun Gothic" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">에어컨</text>
+<!-- 찬 공기 아래로 -->
+<text x="150" y="340" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#3FA9C9" text-anchor="start">찬 공기</text>
+<path d="M170 360 L170 470" stroke="#3FA9C9" stroke-width="8" fill="none"/>
+<polygon points="156,466 184,466 170,494" fill="#3FA9C9"/>
+<!-- 서큘레이터 (바닥, 대각선 위로) -->
+<circle cx="260" cy="540" r="48" fill="#E8722C"/>
+<circle cx="260" cy="540" r="17" fill="#ffffff"/>
+<text x="260" y="628" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#E8722C" text-anchor="middle">서큘레이터</text>
+<!-- 순환 바람 화살표 -->
+<path d="M308 520 q160 -40 340 -30 q160 8 250 40" stroke="#E8722C" stroke-width="9" fill="none"/>
+<polygon points="892,516 900,552 928,528" fill="#E8722C"/>
+<path d="M900 300 q-140 40 -320 70" stroke="#3FA9C9" stroke-width="9" fill="none" opacity="0.8"/>
+<polygon points="600,368 588,336 560,362" fill="#3FA9C9" opacity="0.8"/>
+<text x="660" y="250" font-family="Malgun Gothic" font-weight="bold" font-size="34" fill="#0E3A44" text-anchor="start">방 전체로 냉기 순환</text>
+<text x="660" y="470" font-family="Malgun Gothic" font-weight="normal" font-size="30" fill="#5B6B7C" text-anchor="start">고인 더운 공기와 강제로 섞임</text>
+</svg>

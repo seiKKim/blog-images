@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect width="1080" height="720" fill="#F1F8FA"/>
+<rect width="1080" height="120" fill="#0E3A44"/>
+<text x="60" y="80" font-family="Malgun Gothic" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="start">선풍기 vs 서큘레이터, 바람이 다르다</text>
+<!-- 왼쪽: 선풍기 넓은 바람 -->
+<rect x="40" y="160" width="480" height="500" rx="24" fill="#ffffff" stroke="#CFE3E8"/>
+<text x="280" y="220" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#1E6B7A" text-anchor="middle">선풍기</text>
+<text x="280" y="266" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#5B6B7C" text-anchor="middle">넓고 부드러운 바람</text>
+<circle cx="140" cy="430" r="46" fill="#1E6B7A"/>
+<circle cx="140" cy="430" r="16" fill="#ffffff"/>
+<path d="M186 430 L470 320 L470 540 Z" fill="#1E6B7A" opacity="0.18"/>
+<path d="M186 430 L470 360" stroke="#1E6B7A" stroke-width="6" fill="none"/>
+<path d="M186 430 L470 430" stroke="#1E6B7A" stroke-width="6" fill="none"/>
+<path d="M186 430 L470 500" stroke="#1E6B7A" stroke-width="6" fill="none"/>
+<text x="280" y="620" font-family="Malgun Gothic" font-weight="bold" font-size="28" fill="#37505A" text-anchor="middle">사람 몸을 식힘 · 짧은 거리</text>
+<!-- 오른쪽: 서큘레이터 직진 바람 -->
+<rect x="560" y="160" width="480" height="500" rx="24" fill="#ffffff" stroke="#CFE3E8"/>
+<text x="800" y="220" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#E8722C" text-anchor="middle">서큘레이터</text>
+<text x="800" y="266" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#5B6B7C" text-anchor="middle">좁고 멀리 직진하는 회오리</text>
+<circle cx="640" cy="430" r="46" fill="#E8722C"/>
+<circle cx="640" cy="430" r="16" fill="#ffffff"/>
+<path d="M686 405 L1000 405 L1000 455 L686 455 Z" fill="#E8722C" opacity="0.20"/>
+<path d="M690 430 q40 -22 80 0 q40 22 80 0 q40 -22 80 0 q40 22 70 0" stroke="#E8722C" stroke-width="8" fill="none"/>
+<polygon points="1000,412 1000,448 1030,430" fill="#E8722C"/>
+<text x="800" y="620" font-family="Malgun Gothic" font-weight="bold" font-size="28" fill="#37505A" text-anchor="middle">공기 순환 · 멀리 10~25m</text>
+</svg>
