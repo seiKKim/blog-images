@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#243B6B"/>
+  <rect x="60" y="60" rx="26" ry="26" width="190" height="60" fill="#FFD23F"/>
+  <text x="155" y="101" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+  <text x="60" y="185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">소득 구간별 정부기여금 매칭비율</text>
+
+  <text x="60" y="290" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#5B6B7C">개인소득(총급여) 낮을수록 매칭비율 ↑ · 월 최대 기여금</text>
+
+  <!-- 막대 그래프. 기준 최대폭 720px = 6.0% -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1행 -->
+    <text x="60" y="392" font-size="40" font-weight="bold" fill="#1a1a1a">2,400만원 이하</text>
+    <rect x="60" y="410" width="720" height="76" rx="12" fill="#243B6B"/>
+    <text x="90" y="461" font-size="44" font-weight="bold" fill="#ffffff">6.0%</text>
+    <text x="1020" y="461" font-size="40" font-weight="bold" fill="#243B6B" text-anchor="end">약 33,000원</text>
+
+    <!-- 2행 -->
+    <text x="60" y="562" font-size="40" font-weight="bold" fill="#1a1a1a">2,400만~3,600만원</text>
+    <rect x="60" y="580" width="552" height="76" rx="12" fill="#3A5488"/>
+    <text x="90" y="631" font-size="44" font-weight="bold" fill="#ffffff">4.6%</text>
+    <text x="1020" y="631" font-size="40" font-weight="bold" fill="#243B6B" text-anchor="end">약 29,000원</text>
+
+    <!-- 3행 -->
+    <text x="60" y="732" font-size="40" font-weight="bold" fill="#1a1a1a">3,600만~4,800만원</text>
+    <rect x="60" y="750" width="444" height="76" rx="12" fill="#5271A5"/>
+    <text x="90" y="801" font-size="44" font-weight="bold" fill="#ffffff">3.7%</text>
+    <text x="1020" y="801" font-size="40" font-weight="bold" fill="#243B6B" text-anchor="end">약 25,000원</text>
+
+    <!-- 4행 -->
+    <text x="60" y="902" font-size="40" font-weight="bold" fill="#1a1a1a">4,800만~6,000만원</text>
+    <rect x="60" y="920" width="360" height="76" rx="12" fill="#6C8AC0"/>
+    <text x="90" y="971" font-size="44" font-weight="bold" fill="#ffffff">3.0%</text>
+    <text x="1020" y="971" font-size="40" font-weight="bold" fill="#243B6B" text-anchor="end">약 21,000원</text>
+
+    <!-- 5행 -->
+    <text x="60" y="1072" font-size="40" font-weight="bold" fill="#1a1a1a">6,000만~7,500만원</text>
+    <rect x="60" y="1090" width="360" height="76" rx="12" fill="#B9C6DC"/>
+    <text x="90" y="1141" font-size="38" font-weight="bold" fill="#3B4656">기여금 없음</text>
+    <text x="1020" y="1141" font-size="40" font-weight="bold" fill="#5B6B7C" text-anchor="end">비과세만</text>
+  </g>
+
+  <text x="60" y="1235" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">월 최대 기여금은 매칭 한도까지 꽉 채워 납입 시 값(반올림·예시)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 서민금융진흥원 공고 기준(2025.1 개편)</text>
+</svg>

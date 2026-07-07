@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#243B6B"/>
+  <circle cx="960" cy="120" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <rect x="60" y="56" rx="26" ry="26" width="190" height="60" fill="#FFD23F"/>
+  <text x="155" y="97" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+
+  <text x="60" y="200" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">신청 전, 최신 수치는 여기서 확인</text>
+
+  <!-- 카드1 -->
+  <rect x="60" y="256" width="460" height="220" rx="20" fill="#ffffff"/>
+  <text x="90" y="330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#243B6B">서민금융진흥원</text>
+  <text x="90" y="410" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="80" fill="#243B6B">☎ 1397</text>
+  <text x="90" y="452" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C">가입조건·기여금·해지 상담</text>
+
+  <!-- 카드2 -->
+  <rect x="560" y="256" width="460" height="220" rx="20" fill="#ffffff"/>
+  <text x="590" y="330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#243B6B">은행연합회</text>
+  <text x="590" y="400" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#243B6B">소비자포털</text>
+  <text x="590" y="452" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C">은행별 금리비교 조회</text>
+
+  <!-- 하단 안내 -->
+  <rect x="60" y="512" width="960" height="120" rx="18" fill="#ffffff" opacity="0.14"/>
+  <text x="90" y="565" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#ffffff">만기수령액·금리는 모두 가정 기반 예시</text>
+  <text x="90" y="612" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="32" fill="#E8EEF5">확정 수치는 취급은행 앱에서 재확인하세요</text>
+
+  <text x="60" y="688" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#E8EEF5" opacity="0.85">blog.naver.com/trip_chocho</text>
+</svg>

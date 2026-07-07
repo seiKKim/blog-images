@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#243B6B"/>
+  <rect x="60" y="60" rx="26" ry="26" width="190" height="60" fill="#FFD23F"/>
+  <text x="155" y="101" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+  <text x="60" y="185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">갈아타기(환승) 5단계 순서</text>
+
+  <text x="60" y="288" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#243B6B">청년도약계좌 → 청년미래적금</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- step 1 -->
+    <circle cx="110" cy="392" r="42" fill="#243B6B"/>
+    <text x="110" y="408" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="185" y="408" font-size="44" font-weight="bold" fill="#1a1a1a">청년미래적금 가입 신청</text>
+
+    <!-- step 2 -->
+    <circle cx="110" cy="512" r="42" fill="#243B6B"/>
+    <text x="110" y="528" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="185" y="528" font-size="44" font-weight="bold" fill="#1a1a1a">가입 대상자 통보 확인</text>
+
+    <!-- step 3 강조 -->
+    <rect x="60" y="588" width="960" height="120" rx="18" fill="#243B6B"/>
+    <circle cx="120" cy="648" r="42" fill="#FFD23F"/>
+    <text x="120" y="664" font-size="46" font-weight="bold" fill="#243B6B" text-anchor="middle">3</text>
+    <text x="195" y="638" font-size="44" font-weight="bold" fill="#ffffff">청년미래적금 계좌 개설</text>
+    <text x="195" y="688" font-size="34" font-weight="bold" fill="#FFD23F">← 이걸 먼저!</text>
+
+    <!-- step 4 강조 -->
+    <rect x="60" y="728" width="960" height="120" rx="18" fill="#E23B3B"/>
+    <circle cx="120" cy="788" r="42" fill="#FFD23F"/>
+    <text x="120" y="804" font-size="46" font-weight="bold" fill="#E23B3B" text-anchor="middle">4</text>
+    <text x="195" y="778" font-size="44" font-weight="bold" fill="#ffffff">청년도약계좌 특별중도해지</text>
+    <text x="195" y="828" font-size="34" font-weight="bold" fill="#FFD23F">← 그 다음에!</text>
+
+    <!-- step 5 -->
+    <circle cx="110" cy="928" r="42" fill="#243B6B"/>
+    <text x="110" y="944" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="185" y="944" font-size="44" font-weight="bold" fill="#1a1a1a">청년미래적금 납입 시작</text>
+  </g>
+
+  <!-- 경고 박스 -->
+  <rect x="60" y="1010" width="960" height="190" rx="18" fill="#FFF3D6" stroke="#FFD23F" stroke-width="3"/>
+  <text x="90" y="1078" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#B8860B">주의: 순서가 혜택을 좌우</text>
+  <text x="90" y="1138" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#3B4656">미래적금 개설 먼저 → 도약계좌 해지 나중</text>
+  <text x="90" y="1182" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#5B6B7C">먼저 해지하면 기존 기여금·비과세 못 받습니다</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 서민금융진흥원(1397)·취급은행 안내</text>
+</svg>
