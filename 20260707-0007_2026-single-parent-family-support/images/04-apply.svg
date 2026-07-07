@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="230" fill="#1B5FA6"/>
+  <rect x="60" y="52" rx="26" ry="26" width="190" height="56" fill="#FFD23F"/>
+  <text x="155" y="90" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="182" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">신청 방법·시기 한눈에</text>
+
+  <!-- 신청 시기 -->
+  <rect x="60" y="290" width="960" height="150" rx="20" fill="#EAF1F9"/>
+  <text x="96" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1B5FA6">신청 시기</text>
+  <text x="96" y="416" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">연중 상시 신청 · 신청한 달 다음 달부터 지급</text>
+
+  <!-- 신청처 -->
+  <text x="60" y="530" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a">신청처 (택1)</text>
+
+  <rect x="60" y="560" width="960" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="560" width="14" height="150" rx="7" fill="#1B5FA6"/>
+  <text x="110" y="626" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1B5FA6">온라인 · 복지로</text>
+  <text x="110" y="682" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#2b3a4a">www.bokjiro.go.kr → 아동양육비 지원 검색</text>
+
+  <rect x="60" y="730" width="960" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="730" width="14" height="150" rx="7" fill="#1B5FA6"/>
+  <text x="110" y="796" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1B5FA6">방문 · 주민센터</text>
+  <text x="110" y="852" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#2b3a4a">주민등록지 관할 읍·면·동 행정복지센터</text>
+
+  <!-- 필요서류 -->
+  <text x="60" y="960" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a">필요서류</text>
+  <text x="60" y="1018" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#2b3a4a">· 급여제공(변경) 신청서 · 소득·재산 확인 서류</text>
+  <text x="60" y="1070" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#2b3a4a">· 금융정보 등 제공 동의서 (신분증 등 추가 가능)</text>
+
+  <!-- 문의 -->
+  <rect x="60" y="1110" width="960" height="120" rx="20" fill="#1B5FA6"/>
+  <text x="96" y="1186" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#ffffff">문의 · 가족상담전화</text>
+  <text x="984" y="1186" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="56" fill="#FFD23F" text-anchor="end">1577-4206</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">본문 근거: 2026 한부모가족 지원 안내 · 상시 신청, 늦어도 신청 가능</text>
+</svg>

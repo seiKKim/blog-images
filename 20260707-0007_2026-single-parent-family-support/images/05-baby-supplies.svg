@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#1B5FA6"/>
+  <rect x="60" y="44" rx="24" ry="24" width="190" height="52" fill="#FFD23F"/>
+  <text x="155" y="80" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="28" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="146" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">양육비 알뜰하게 쓰는 법</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="222" width="465" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="96" y="290" font-weight="bold" font-size="40" fill="#1B5FA6">👕 의류</text>
+    <text x="96" y="344" font-size="34" fill="#2b3a4a">종류당 5~7벌 · 계절별 준비</text>
+
+    <rect x="555" y="222" width="465" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="591" y="290" font-weight="bold" font-size="40" fill="#1B5FA6">🍼 기저귀</text>
+    <text x="591" y="344" font-size="34" fill="#2b3a4a">신생아기 일자형 · 예비 준비</text>
+
+    <rect x="60" y="392" width="465" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="96" y="460" font-weight="bold" font-size="40" fill="#1B5FA6">🛁 침구·목욕</text>
+    <text x="96" y="514" font-size="34" fill="#2b3a4a">속싸개·아기욕조·가제수건</text>
+
+    <rect x="555" y="392" width="465" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="591" y="460" font-weight="bold" font-size="40" fill="#1B5FA6">💡 절약 팁</text>
+    <text x="591" y="514" font-size="34" fill="#2b3a4a">닿는 용품은 새것 · 유모차 중고</text>
+  </g>
+
+  <rect x="0" y="640" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="692" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">기저귀·분유·물티슈는 세일·묶음가로 단가 비교 후 구매하면 알뜰</text>
+</svg>
