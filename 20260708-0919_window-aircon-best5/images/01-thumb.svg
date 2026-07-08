@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3FA9C9"/><stop offset="0.5" stop-color="#1E6B7A"/><stop offset="1" stop-color="#0E3A44"/></linearGradient></defs>
+<rect width="1080" height="1080" fill="url(#bg)"/>
+<circle cx="930" cy="200" r="250" fill="#ffffff" opacity="0.08"/>
+<circle cx="120" cy="960" r="200" fill="#ffffff" opacity="0.06"/>
+<rect x="72" y="84" rx="34" ry="34" width="200" height="70" fill="#FFD23F"/>
+<text x="172" y="132" font-family="Malgun Gothic" font-weight="bold" font-size="38" fill="#0C2A31" text-anchor="middle">추천아이템</text>
+<rect x="686" y="84" rx="30" ry="30" width="322" height="70" fill="#ffffff" opacity="0.16"/>
+<text x="847" y="130" font-family="Malgun Gothic" font-weight="bold" font-size="30" fill="#ffffff" text-anchor="middle">2026 한여름 필수템</text>
+<text x="76" y="290" font-family="Malgun Gothic" font-weight="bold" font-size="50" fill="#DFF3F7" text-anchor="start">실외기 공사 없이, 방 하나만</text>
+<text x="72" y="446" font-family="Malgun Gothic" font-weight="bold" font-size="140" fill="#FFFFFF" text-anchor="start">창문형 에어컨</text>
+<text x="72" y="604" font-family="Malgun Gothic" font-weight="bold" font-size="116" fill="#FFD23F" text-anchor="start">뭘 골라야 할까?</text>
+<g font-family="Malgun Gothic" font-weight="bold" text-anchor="middle">
+<rect x="72" y="676" rx="22" width="288" height="128" fill="#ffffff" opacity="0.16"/>
+<text x="216" y="740" font-size="50" fill="#ffffff">브랜드</text><text x="216" y="790" font-size="44" fill="#FFD23F">4곳 비교</text>
+<rect x="396" y="676" rx="22" width="288" height="128" fill="#ffffff" opacity="0.16"/>
+<text x="540" y="740" font-size="50" fill="#ffffff">소음</text><text x="540" y="790" font-size="42" fill="#FFD23F">32~45dB</text>
+<rect x="720" y="676" rx="22" width="288" height="128" fill="#ffffff" opacity="0.16"/>
+<text x="864" y="740" font-size="50" fill="#ffffff">고르는법</text><text x="864" y="790" font-size="44" fill="#FFD23F">5가지</text>
+</g>
+<rect x="72" y="840" rx="26" width="936" height="112" fill="#FFD23F"/>
+<text x="540" y="912" font-family="Malgun Gothic" font-weight="bold" font-size="46" fill="#0C2A31" text-anchor="middle">삼성·LG·파세코·캐리어 완전정리</text>
+<text x="76" y="1012" font-family="Malgun Gothic" font-weight="normal" font-size="32" fill="#DBF1EA" text-anchor="start" opacity="0.92">blog.naver.com/trip_chocho</text>
+</svg>
