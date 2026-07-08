@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="125" font-family="'Noto Sans CJK KR','NanumGothic',sans-serif" font-weight="bold" font-size="64" fill="#ffffff">2026 삼복 날짜 한눈에</text>
+
+  <g font-family="'Noto Sans CJK KR','NanumGothic',sans-serif" font-size="52" fill="#1a1a1a">
+    <rect x="60" y="290" width="960" height="170" rx="16" fill="#ffffff" stroke="#EAD3D9"/>
+    <text x="110" y="360" font-weight="bold">초복</text>
+    <text x="110" y="425" font-size="38" fill="#8A6E75">삼복의 시작</text>
+    <text x="970" y="395" font-weight="bold" fill="#E0556E" text-anchor="end">7월 15일 (수)</text>
+
+    <rect x="60" y="490" width="960" height="170" rx="16" fill="#ffffff" stroke="#EAD3D9"/>
+    <text x="110" y="560" font-weight="bold">중복</text>
+    <text x="110" y="625" font-size="38" fill="#8A6E75">초복 +10일</text>
+    <text x="970" y="595" font-weight="bold" fill="#E0556E" text-anchor="end">7월 25일 (토)</text>
+
+    <rect x="60" y="690" width="960" height="170" rx="16" fill="#ffffff" stroke="#EAD3D9"/>
+    <text x="110" y="760" font-weight="bold">말복</text>
+    <text x="110" y="825" font-size="38" fill="#8A6E75">중복 +20일</text>
+    <text x="970" y="795" font-weight="bold" fill="#E0556E" text-anchor="end">8월 14일 (금)</text>
+  </g>
+
+  <rect x="60" y="930" width="960" height="230" rx="16" fill="#E0556E" opacity="0.10"/>
+  <text x="110" y="1015" font-family="'Noto Sans CJK KR','NanumGothic',sans-serif" font-weight="bold" font-size="46" fill="#B03A52">올해는 월복(越伏)</text>
+  <text x="110" y="1090" font-family="'Noto Sans CJK KR','NanumGothic',sans-serif" font-size="40" fill="#4A3A3E">초복부터 말복까지 30일, 삼복더위가 한 달</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0DFE3"/>
+  <text x="60" y="1322" font-family="'Noto Sans CJK KR','NanumGothic',sans-serif" font-size="34" fill="#7A5B63">출처: 아주경제·연합뉴스 (2026.7)</text>
+</svg>
