@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="98" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">여름엔 전기요금 자동차감</text>
+  <text x="60" y="158" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">하절기 차감 2026.7.1 ~ 9.30</text>
+
+  <!-- 고지서 목업 -->
+  <rect x="130" y="260" width="820" height="640" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="130" y="260" width="820" height="90" rx="24" fill="#EDF3FA"/>
+  <rect x="130" y="320" width="820" height="30" fill="#EDF3FA"/>
+  <text x="180" y="320" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="40" fill="#1B5FA6">전기요금 고지서 (예시)</text>
+
+  <text x="180" y="440" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="40" fill="#5B6B7C">이번 달 전기요금</text>
+  <text x="900" y="440" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="end">120,000원</text>
+  <line x1="180" y1="480" x2="900" y2="480" stroke="#E1E8F0" stroke-width="2"/>
+
+  <text x="180" y="560" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="40" fill="#1B5FA6">에너지바우처 차감</text>
+  <text x="900" y="560" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="40" fill="#E23B3B" text-anchor="end">- 바우처 금액</text>
+  <line x1="180" y1="600" x2="900" y2="600" stroke="#E1E8F0" stroke-width="2"/>
+
+  <rect x="150" y="640" width="780" height="120" rx="16" fill="#FFF6D6"/>
+  <text x="180" y="715" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a">실제 납부액</text>
+  <text x="900" y="715" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="44" fill="#1B5FA6" text-anchor="end">자동 감액</text>
+
+  <text x="180" y="840" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#5B6B7C">다음 달 고지분부터 자동 차감 · 별도 결제 불필요</text>
+
+  <!-- 포인트 리스트 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="38" fill="#1a1a1a" font-weight="bold">
+    <text x="130" y="1000">• 여름엔 국민행복카드 결제 불가, 요금차감만</text>
+    <text x="130" y="1065">• 안 쓴 금액은 겨울로 자동 이월</text>
+    <text x="130" y="1130">• 겨울에 몰아쓰려면 '하절기 요금 미차감' 선택</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">출처: 에너지바우처 www.energyv.or.kr · 금액은 예시</text>
+</svg>

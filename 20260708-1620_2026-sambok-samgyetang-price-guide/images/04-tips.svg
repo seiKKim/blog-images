@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="125" font-family="'Noto Sans CJK KR','NanumGothic',sans-serif" font-weight="bold" font-size="60" fill="#ffffff">2026 복날 장보기 포인트</text>
+
+  <g font-family="'Noto Sans CJK KR','NanumGothic',sans-serif" font-size="50" fill="#1a1a1a">
+    <rect x="60" y="290" width="960" height="160" rx="16" fill="#ffffff" stroke="#EAD3D9"/>
+    <text x="110" y="360" font-weight="bold">재료비 (4인 기준)</text>
+    <text x="110" y="420" font-size="36" fill="#8A6E75">작년보다 2.8% 하락</text>
+    <text x="970" y="385" font-weight="bold" font-size="58" fill="#E0556E" text-anchor="end">35,260원</text>
+
+    <rect x="60" y="480" width="960" height="160" rx="16" fill="#ffffff" stroke="#EAD3D9"/>
+    <text x="110" y="550" font-weight="bold">찹쌀 가격</text>
+    <text x="110" y="610" font-size="36" fill="#8A6E75">재료비 하락 일등공신</text>
+    <text x="970" y="575" font-weight="bold" font-size="58" fill="#1F8A53" text-anchor="end">-23.3%</text>
+
+    <rect x="60" y="670" width="960" height="160" rx="16" fill="#ffffff" stroke="#EAD3D9"/>
+    <text x="110" y="740" font-weight="bold">영계·수삼·대파 등</text>
+    <text x="110" y="800" font-size="36" fill="#8A6E75">작년과 같은 가격</text>
+    <text x="970" y="765" font-weight="bold" font-size="58" fill="#5B6B7C" text-anchor="end">보합</text>
+  </g>
+
+  <rect x="60" y="900" width="960" height="260" rx="16" fill="#B03A52"/>
+  <text x="110" y="990" font-family="'Noto Sans CJK KR','NanumGothic',sans-serif" font-weight="bold" font-size="48" fill="#FFD23F">장보기는 초복(7/15) 전이 유리</text>
+  <text x="110" y="1060" font-family="'Noto Sans CJK KR','NanumGothic',sans-serif" font-size="38" fill="#ffffff">중복 이후 폭염으로 영계 중심</text>
+  <text x="110" y="1118" font-family="'Noto Sans CJK KR','NanumGothic',sans-serif" font-size="38" fill="#ffffff">가격 상승 가능성 (한국물가정보)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0DFE3"/>
+  <text x="60" y="1322" font-family="'Noto Sans CJK KR','NanumGothic',sans-serif" font-size="34" fill="#7A5B63">출처: 한국물가정보 (2026.7.8)</text>
+</svg>
