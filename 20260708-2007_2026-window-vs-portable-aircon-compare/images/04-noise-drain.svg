@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#EAF5FB"/>
+  <rect width="1080" height="180" fill="#0A5E93"/>
+  <text x="60" y="90" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">소음 · 배수 비교</text>
+  <text x="60" y="145" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="36" fill="#BEE3F2">잠들 때 소음, 장마철 배수가 갈림길</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 소음 섹션 제목 -->
+    <text x="60" y="270" font-size="46" font-weight="bold" fill="#0A5E93">소음 (dB)</text>
+
+    <!-- 창문형 소음 -->
+    <rect x="60" y="300" width="960" height="140" rx="16" fill="#ffffff" stroke="#CBE3F0"/>
+    <rect x="60" y="300" width="14" height="140" rx="7" fill="#0E7FB8"/>
+    <text x="110" y="360" font-size="40" font-weight="bold" fill="#0E7FB8">창문형</text>
+    <text x="110" y="415" font-size="32" fill="#22323C">취침/저소음 모드 대략 32~45dB (설치·측정 편차 큼)</text>
+    <text x="990" y="380" font-size="52" font-weight="bold" fill="#0A5E93" text-anchor="end">32~45dB</text>
+
+    <!-- 이동식 소음 -->
+    <rect x="60" y="460" width="960" height="140" rx="16" fill="#ffffff" stroke="#CBE3F0"/>
+    <rect x="60" y="460" width="14" height="140" rx="7" fill="#2FB0D6"/>
+    <text x="110" y="520" font-size="40" font-weight="bold" fill="#2FB0D6">이동식</text>
+    <text x="110" y="575" font-size="32" fill="#22323C">압축기가 실내에 있어 큰 편, 캠핑용은 최대 70dB도</text>
+    <text x="990" y="540" font-size="52" font-weight="bold" fill="#E23B3B" text-anchor="end">~70dB</text>
+
+    <!-- 배수 섹션 제목 -->
+    <text x="60" y="700" font-size="46" font-weight="bold" fill="#0A5E93">배수 (응축수)</text>
+
+    <!-- 창문형 배수 -->
+    <rect x="60" y="730" width="960" height="170" rx="16" fill="#ffffff" stroke="#CBE3F0"/>
+    <rect x="60" y="730" width="14" height="170" rx="7" fill="#0E7FB8"/>
+    <text x="110" y="790" font-size="40" font-weight="bold" fill="#0E7FB8">창문형</text>
+    <text x="110" y="845" font-size="32" fill="#22323C">자가증발 · 호스배수 · 배수펌프(자동) 세 방식</text>
+    <text x="110" y="885" font-size="30" font-weight="bold" fill="#1F8A53">호스/자동배수 겸용이면 장마철 안심</text>
+
+    <!-- 이동식 배수 -->
+    <rect x="60" y="920" width="960" height="170" rx="16" fill="#ffffff" stroke="#CBE3F0"/>
+    <rect x="60" y="920" width="14" height="170" rx="7" fill="#2FB0D6"/>
+    <text x="110" y="980" font-size="40" font-weight="bold" fill="#2FB0D6">이동식</text>
+    <text x="110" y="1035" font-size="32" fill="#22323C">대부분 하단 마개 열어 기울여 빼야 함</text>
+    <text x="110" y="1075" font-size="30" font-weight="bold" fill="#E8722C">한여름엔 자가증발 거의 안 됨 → 주기적 배수</text>
+  </g>
+
+  <!-- 하단 팁 -->
+  <rect x="40" y="1120" width="1000" height="120" rx="20" fill="#0A5E93"/>
+  <text x="540" y="1178" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">구매 전 저소음/취침 모드 dB · 자동배수 지원을 꼭 확인</text>
+  <text x="540" y="1220" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#BEE3F2" text-anchor="middle">이동성은 이동식 압도적 장점 (캠핑·차박·사무실)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#D6E8F2"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="32" fill="#5B7C8F">blog.naver.com/trip_chocho · 수치는 추정·참고용</text>
+</svg>

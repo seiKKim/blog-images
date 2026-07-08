@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#EAF5FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="180" fill="#0A5E93"/>
+  <text x="60" y="90" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">구조부터 다릅니다</text>
+  <text x="60" y="145" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="36" fill="#BEE3F2">열을 어디로 빼느냐가 냉방효율을 가른다</text>
+
+  <!-- 왼쪽: 창문형 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="40" y="230" width="490" height="820" rx="24" fill="#ffffff" stroke="#CBE3F0" stroke-width="2"/>
+    <rect x="40" y="230" width="490" height="96" rx="24" fill="#0E7FB8"/>
+    <rect x="40" y="290" width="490" height="36" fill="#0E7FB8"/>
+    <text x="285" y="295" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">창문형 (일체형)</text>
+
+    <!-- 방/창 다이어그램 -->
+    <!-- 실외 -->
+    <rect x="80" y="380" width="410" height="300" rx="14" fill="#F2F9FD" stroke="#CBE3F0"/>
+    <text x="120" y="425" font-size="30" fill="#5B7C8F">실내</text>
+    <!-- 창틀 라인 -->
+    <line x1="405" y1="380" x2="405" y2="680" stroke="#0A5E93" stroke-width="6"/>
+    <text x="448" y="425" font-size="30" fill="#5B7C8F" text-anchor="middle">밖</text>
+    <!-- 본체 (창틀 거치) -->
+    <rect x="330" y="470" width="150" height="120" rx="10" fill="#0E7FB8"/>
+    <text x="405" y="540" font-size="26" fill="#ffffff" text-anchor="middle">본체</text>
+    <!-- 열 배출 화살표 밖으로 -->
+    <line x1="450" y1="530" x2="490" y2="530" stroke="#E23B3B" stroke-width="8" marker-end="url(#red)"/>
+    <text x="455" y="500" font-size="26" fill="#E23B3B" font-weight="bold">열 배출</text>
+
+    <text x="285" y="740" font-size="34" font-weight="bold" fill="#0A5E93" text-anchor="middle">열교환부가 창밖으로</text>
+    <text x="285" y="790" font-size="34" font-weight="bold" fill="#0A5E93" text-anchor="middle">실내 열을 바로 외부 배출</text>
+
+    <rect x="80" y="850" width="410" height="150" rx="14" fill="#E8F6EC"/>
+    <text x="285" y="912" font-size="34" font-weight="bold" fill="#1F8A53" text-anchor="middle">냉방효율 안정적</text>
+    <text x="285" y="962" font-size="30" fill="#3A6B4E" text-anchor="middle">방 하나 냉방에 유리</text>
+  </g>
+
+  <!-- 오른쪽: 이동식 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="550" y="230" width="490" height="820" rx="24" fill="#ffffff" stroke="#CBE3F0" stroke-width="2"/>
+    <rect x="550" y="230" width="490" height="96" rx="24" fill="#2FB0D6"/>
+    <rect x="550" y="290" width="490" height="36" fill="#2FB0D6"/>
+    <text x="795" y="295" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">이동식 (바닥 본체)</text>
+
+    <rect x="590" y="380" width="410" height="300" rx="14" fill="#F2F9FD" stroke="#CBE3F0"/>
+    <text x="630" y="425" font-size="30" fill="#5B7C8F">실내</text>
+    <line x1="915" y1="380" x2="915" y2="680" stroke="#0A5E93" stroke-width="6"/>
+    <text x="958" y="425" font-size="30" fill="#5B7C8F" text-anchor="middle">밖</text>
+    <!-- 바닥 본체 -->
+    <rect x="625" y="520" width="110" height="140" rx="10" fill="#2FB0D6"/>
+    <text x="680" y="600" font-size="26" fill="#ffffff" text-anchor="middle">본체</text>
+    <!-- 배기 호스 -->
+    <path d="M735 545 L915 545" stroke="#E8722C" stroke-width="14" fill="none"/>
+    <text x="800" y="520" font-size="26" fill="#E8722C" font-weight="bold">배기호스</text>
+    <!-- 음압: 외기 재유입 화살표 안으로 -->
+    <line x1="915" y1="620" x2="800" y2="620" stroke="#E23B3B" stroke-width="8" marker-end="url(#red)"/>
+    <text x="808" y="662" font-size="26" fill="#E23B3B" font-weight="bold">외기 재유입</text>
+
+    <text x="795" y="740" font-size="34" font-weight="bold" fill="#0A5E93" text-anchor="middle">뜨거운 배기부가 실내에</text>
+    <text x="795" y="790" font-size="34" font-weight="bold" fill="#E23B3B" text-anchor="middle">음압 현상 → 외기 재유입</text>
+
+    <rect x="590" y="850" width="410" height="150" rx="14" fill="#FDECEC"/>
+    <text x="795" y="912" font-size="34" font-weight="bold" fill="#C43333" text-anchor="middle">냉방효율 낮은 편</text>
+    <text x="795" y="962" font-size="30" fill="#8A4A4A" text-anchor="middle">대신 어디든 옮겨 사용</text>
+  </g>
+
+  <defs>
+    <marker id="red" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#E23B3B"/>
+    </marker>
+  </defs>
+
+  <!-- 하단 요약 -->
+  <rect x="40" y="1080" width="1000" height="150" rx="20" fill="#0A5E93"/>
+  <text x="540" y="1145" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff" text-anchor="middle">성능은 창문형, 이동성은 이동식</text>
+  <text x="540" y="1198" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="32" fill="#BEE3F2" text-anchor="middle">구조상 창문형이 냉방에 유리, 이동식은 자유롭게 이동</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#D6E8F2"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="32" fill="#5B7C8F">blog.naver.com/trip_chocho · 정보 정리 참고용</text>
+</svg>
