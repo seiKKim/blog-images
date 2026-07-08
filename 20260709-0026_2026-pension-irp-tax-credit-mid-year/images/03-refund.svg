@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="125" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="60" fill="#ffffff">900만원 납입 시 환급액</text>
+  <rect x="60" y="300" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+        <text x="100" y="392" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="46" font-weight="bold" fill="#1a1a1a">총급여 5,500만원 이하</text>
+        <text x="980" y="392" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="50" font-weight="bold" fill="#243B6B" text-anchor="end">16.5%</text><rect x="60" y="480" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+        <text x="100" y="572" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="46" font-weight="bold" fill="#1a1a1a">→ 환급</text>
+        <text x="980" y="572" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="50" font-weight="bold" fill="#243B6B" text-anchor="end">1,485,000원</text><rect x="60" y="660" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+        <text x="100" y="752" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="46" font-weight="bold" fill="#1a1a1a">총급여 5,500만원 초과</text>
+        <text x="980" y="752" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="50" font-weight="bold" fill="#243B6B" text-anchor="end">13.2%</text><rect x="60" y="840" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+        <text x="100" y="932" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="46" font-weight="bold" fill="#1a1a1a">→ 환급</text>
+        <text x="980" y="932" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="50" font-weight="bold" fill="#243B6B" text-anchor="end">1,188,000원</text>
+  <rect x="60" y="1040" width="960" height="130" rx="16" fill="#FFD23F" opacity="0.25"/>
+  <text x="100" y="1120" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="40" font-weight="bold" fill="#1a1a1a">450만원만 넣어도 742,500원(16.5% 기준)</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="34" fill="#5B6B7C">출처: 국세청(nts.go.kr) · 2026년 7월 기준</text>
+</svg>

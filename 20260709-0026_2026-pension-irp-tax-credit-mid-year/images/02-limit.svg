@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="125" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="60" fill="#ffffff">세액공제 한도 (2026)</text>
+  <rect x="60" y="300" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+        <text x="100" y="392" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="46" font-weight="bold" fill="#1a1a1a">연금저축 단독</text>
+        <text x="980" y="392" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="50" font-weight="bold" fill="#243B6B" text-anchor="end">연 600만원</text><rect x="60" y="480" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+        <text x="100" y="572" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="46" font-weight="bold" fill="#1a1a1a">연금저축 + IRP 합산</text>
+        <text x="980" y="572" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="50" font-weight="bold" fill="#243B6B" text-anchor="end">연 900만원</text><rect x="60" y="660" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+        <text x="100" y="752" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="46" font-weight="bold" fill="#1a1a1a">IRP 단독</text>
+        <text x="980" y="752" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="50" font-weight="bold" fill="#243B6B" text-anchor="end">연 900만원</text><rect x="60" y="840" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+        <text x="100" y="932" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="46" font-weight="bold" fill="#1a1a1a">연금계좌 총 납입한도</text>
+        <text x="980" y="932" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="50" font-weight="bold" fill="#243B6B" text-anchor="end">연 1,800만원</text>
+  <rect x="60" y="1040" width="960" height="130" rx="16" fill="#FFD23F" opacity="0.25"/>
+  <text x="100" y="1120" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="40" font-weight="bold" fill="#1a1a1a">900만원까지 채우려면 IRP가 필수입니다</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="34" fill="#5B6B7C">출처: 국세청(nts.go.kr) · 2026년 7월 기준</text>
+</svg>
