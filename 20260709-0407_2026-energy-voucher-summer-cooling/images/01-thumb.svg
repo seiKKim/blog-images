@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B5FA6"/>
+      <stop offset="1" stop-color="#134C86"/>
+    </linearGradient>
+  </defs>
+  <!-- 배경 -->
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식 도형 (여름/냉방 느낌) -->
+  <circle cx="960" cy="170" r="270" fill="#38C6E8" opacity="0.16"/>
+  <circle cx="130" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+  <circle cx="895" cy="120" r="70" fill="#FFD23F" opacity="0.9"/>
+
+  <!-- 카테고리 뱃지 (좌상단) -->
+  <rect x="72" y="86" rx="34" ry="34" width="220" height="68" fill="#FFD23F"/>
+  <text x="182" y="132" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="278" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#E8EEF5">2026 에너지바우처 여름 냉방지원</text>
+
+  <!-- 메인 카피 (핵심 혜택/숫자) -->
+  <text x="80" y="428" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="64" fill="#ffffff">여름 전기요금</text>
+  <text x="80" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="130" fill="#FFD23F">최대 102,000원</text>
+  <text x="80" y="640" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">자동차감</text>
+
+  <!-- 세대원별 요약 박스 -->
+  <rect x="80" y="700" rx="24" ry="24" width="920" height="180" fill="#ffffff" opacity="0.14"/>
+  <text x="112" y="768" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff">1인 40,700원 · 2인 58,800원</text>
+  <text x="112" y="838" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff">3인 75,800원 · 4인이상 102,000원</text>
+
+  <!-- 디테일 (기간) -->
+  <text x="80" y="960" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#38C6E8">신청 6/15 ~ 12/31 · 자동신청 아니면 직접</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1024" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

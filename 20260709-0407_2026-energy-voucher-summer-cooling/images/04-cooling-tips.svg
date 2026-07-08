@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="180" fill="#1B5FA6"/>
+  <circle cx="990" cy="60" r="110" fill="#38C6E8" opacity="0.18"/>
+  <text x="60" y="92" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#ffffff">저전력 냉방 절약 조합</text>
+  <text x="60" y="146" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#FFD23F">바우처 + 저전력 냉방용품으로 올여름 나기</text>
+
+  <!-- 팁 1 -->
+  <rect x="60" y="230" width="300" height="290" rx="22" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="210" cy="320" r="52" fill="#E7F1FB"/>
+  <text x="210" y="338" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="52" text-anchor="middle">🌀</text>
+  <text x="210" y="430" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">서큘레이터로</text>
+  <text x="210" y="478" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">찬 공기 순환</text>
+
+  <!-- 팁 2 -->
+  <rect x="390" y="230" width="300" height="290" rx="22" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="540" cy="320" r="52" fill="#E7F1FB"/>
+  <text x="540" y="338" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="52" text-anchor="middle">🌡️</text>
+  <text x="540" y="430" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">설정온도</text>
+  <text x="540" y="478" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">1~2도 높이기</text>
+
+  <!-- 팁 3 -->
+  <rect x="720" y="230" width="300" height="290" rx="22" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="870" cy="320" r="52" fill="#E7F1FB"/>
+  <text x="870" y="338" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="52" text-anchor="middle">🌙</text>
+  <text x="870" y="430" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">밤에는 저소음</text>
+  <text x="870" y="478" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">선풍기 활용</text>
+
+  <!-- 하단 안내 -->
+  <rect x="60" y="558" width="960" height="90" rx="18" fill="#E7F1FB"/>
+  <text x="540" y="614" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#1B5FA6" text-anchor="middle">냉방용품은 소비전력(W)·소음(dB)·바람 세기 함께 확인</text>
+</svg>
