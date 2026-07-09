@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#2B2F36"/>
+  <circle cx="960" cy="150" r="260" fill="#ffffff" opacity="0.05"/>
+  <circle cx="110" cy="980" r="200" fill="#E23B3B" opacity="0.10"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="64" y="80" rx="34" ry="34" width="240" height="68" fill="#E23B3B"/>
+  <text x="184" y="126" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#ffffff" text-anchor="middle">오늘의 이슈</text>
+
+  <!-- 서브/메인 카피 -->
+  <text x="64" y="248" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#E8EEF5">오늘(7/9) 막판 심의</text>
+  <text x="64" y="340" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="118" fill="#ffffff">2027 최저임금</text>
+  <text x="64" y="452" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="118" fill="#FFD23F">노사 990원 격차</text>
+
+  <!-- 비교 카드 2개 -->
+  <rect x="64" y="520" rx="24" ry="24" width="460" height="300" fill="#ffffff" opacity="0.10"/>
+  <rect x="556" y="520" rx="24" ry="24" width="460" height="300" fill="#ffffff" opacity="0.10"/>
+
+  <text x="294" y="600" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#E8EEF5" text-anchor="middle">노동계</text>
+  <text x="294" y="710" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="82" fill="#ffffff" text-anchor="middle">11,450원</text>
+  <text x="294" y="778" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#FFD23F" text-anchor="middle">+10.9%</text>
+
+  <text x="786" y="600" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#E8EEF5" text-anchor="middle">경영계</text>
+  <text x="786" y="710" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="82" fill="#ffffff" text-anchor="middle">10,460원</text>
+  <text x="786" y="778" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#FFD23F" text-anchor="middle">+1.4%</text>
+
+  <!-- 디테일 -->
+  <rect x="64" y="850" rx="20" ry="20" width="952" height="110" fill="#E23B3B"/>
+  <text x="540" y="920" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff" text-anchor="middle">현행 시급 10,320원 · 확정 전, 심의 중</text>
+
+  <text x="64" y="1030" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#E8EEF5" opacity="0.85">blog.naver.com/trip_chocho</text>
+</svg>

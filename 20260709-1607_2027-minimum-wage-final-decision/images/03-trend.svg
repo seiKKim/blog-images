@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="200" width="1080" height="8" fill="#E23B3B"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">연도별 최저임금 인상 추이</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">2021 ~ 2027(심의 중) · 시급 기준</text>
+
+  <!-- 격자선 -->
+  <g stroke="#DCE4EE" stroke-width="2">
+    <line x1="140" y1="560" x2="1000" y2="560"/>
+    <line x1="140" y1="720" x2="1000" y2="720"/>
+    <line x1="140" y1="880" x2="1000" y2="880"/>
+    <line x1="140" y1="1040" x2="1000" y2="1040"/>
+    <line x1="140" y1="1150" x2="1000" y2="1150"/>
+  </g>
+
+  <!-- 꺾은선 (확정 구간) -->
+  <polyline points="140,1085 283,955 427,820 570,749 713,699 857,613"
+            fill="none" stroke="#E23B3B" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- 2026 -> 2027 미확정 (점선) -->
+  <polyline points="857,613 1000,560" fill="none" stroke="#E23B3B" stroke-width="7"
+            stroke-dasharray="14 12" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- 데이터 포인트 -->
+  <g fill="#E23B3B">
+    <circle cx="140" cy="1085" r="12"/>
+    <circle cx="283" cy="955" r="12"/>
+    <circle cx="427" cy="820" r="12"/>
+    <circle cx="570" cy="749" r="12"/>
+    <circle cx="713" cy="699" r="12"/>
+    <circle cx="857" cy="613" r="14"/>
+  </g>
+  <circle cx="1000" cy="560" r="14" fill="#F4F7FB" stroke="#E23B3B" stroke-width="6"/>
+
+  <!-- 값 라벨 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="30" fill="#2B2F36" text-anchor="middle">
+    <text x="140" y="1055">8,720</text>
+    <text x="283" y="925">9,160</text>
+    <text x="427" y="790">9,620</text>
+    <text x="570" y="719">9,860</text>
+    <text x="713" y="669">10,030</text>
+    <text x="857" y="583">10,320</text>
+  </g>
+  <text x="1000" y="530" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="32" fill="#E23B3B" text-anchor="middle">미확정</text>
+
+  <!-- 인상률 라벨 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="26" fill="#5B6B7C" text-anchor="middle">
+    <text x="140" y="1130">+1.5%</text>
+    <text x="283" y="1005">+5.05%</text>
+    <text x="427" y="870">+5.0%</text>
+    <text x="570" y="800">+2.5%</text>
+    <text x="713" y="750">+1.7%</text>
+    <text x="857" y="663">+2.9%</text>
+  </g>
+
+  <!-- x축 연도 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#2B2F36" text-anchor="middle">
+    <text x="140" y="1215">2021</text>
+    <text x="283" y="1215">2022</text>
+    <text x="427" y="1215">2023</text>
+    <text x="570" y="1215">2024</text>
+    <text x="713" y="1215">2025</text>
+    <text x="857" y="1215">2026</text>
+    <text x="1000" y="1215" fill="#E23B3B">2027</text>
+  </g>
+
+  <text x="140" y="290" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#2B2F36">최근 3년(2024·25·26) 연속 2%대 이하 저율 인상</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 최저임금위원회 · 2027년은 심의 중(확정 전)</text>
+</svg>
