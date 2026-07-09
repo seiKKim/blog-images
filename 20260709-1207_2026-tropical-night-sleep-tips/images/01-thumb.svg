@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E2A4E"/>
+      <stop offset="0.55" stop-color="#12457C"/>
+      <stop offset="1" stop-color="#1E88C7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식: 달과 별 -->
+  <circle cx="905" cy="205" r="120" fill="#FFE9A6" opacity="0.95"/>
+  <circle cx="855" cy="175" r="120" fill="#12457C"/>
+  <circle cx="620" cy="120" r="6" fill="#CFE9FF" opacity="0.9"/>
+  <circle cx="700" cy="230" r="5" fill="#CFE9FF" opacity="0.8"/>
+  <circle cx="560" cy="250" r="4" fill="#CFE9FF" opacity="0.7"/>
+  <circle cx="1000" cy="380" r="5" fill="#CFE9FF" opacity="0.7"/>
+  <circle cx="150" cy="980" r="220" fill="#39B6C9" opacity="0.10"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="200" height="68" fill="#4FD1C5"/>
+  <text x="180" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#0E2A4E" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#CFE9FF">장마 끝나기 전 세팅!</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="128" fill="#ffffff">2026 열대야</text>
+  <text x="80" y="640" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="128" fill="#FFD23F">잘 자는 법</text>
+
+  <!-- 핵심 3요소 박스 -->
+  <rect x="80" y="720" rx="24" ry="24" width="920" height="200" fill="#ffffff" opacity="0.12"/>
+  <text x="112" y="792" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">미지근한 물 샤워 · 실내 24~28℃</text>
+  <text x="112" y="866" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">냉감 침구 · 에어컨 취침모드</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1010" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#CFE9FF" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

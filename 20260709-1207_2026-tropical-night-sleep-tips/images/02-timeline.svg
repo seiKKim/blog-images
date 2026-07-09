@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F0F6FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="200" fill="#12457C"/>
+  <rect x="60" y="52" rx="26" ry="26" width="160" height="52" fill="#4FD1C5"/>
+  <text x="140" y="88" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#0E2A4E" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">2026 여름 열대야 진행 상황</text>
+
+  <!-- 타임라인 세로선 -->
+  <line x1="130" y1="300" x2="130" y2="1120" stroke="#B9D3E8" stroke-width="6"/>
+
+  <!-- 항목 1 -->
+  <circle cx="130" cy="330" r="22" fill="#1E88C7"/>
+  <rect x="190" y="290" width="830" height="150" rx="18" fill="#ffffff" stroke="#D6E4F0"/>
+  <text x="222" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#12457C">기상청 전망 (5/22 발표)</text>
+  <text x="222" y="405" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#3A4A5A">폭염·열대야 늘고 변동성 큰 여름</text>
+
+  <!-- 항목 2 -->
+  <circle cx="130" cy="540" r="22" fill="#1E88C7"/>
+  <rect x="190" y="500" width="830" height="150" rx="18" fill="#ffffff" stroke="#D6E4F0"/>
+  <text x="222" y="555" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#12457C">6월 실제 열대야</text>
+  <text x="222" y="615" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#3A4A5A">전국 <tspan font-weight="bold" fill="#E8722C">0회</tspan> (서울 6월 열대야도 사라짐)</text>
+
+  <!-- 항목 3 -->
+  <circle cx="130" cy="750" r="22" fill="#1E88C7"/>
+  <rect x="190" y="710" width="830" height="150" rx="18" fill="#ffffff" stroke="#D6E4F0"/>
+  <text x="222" y="765" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#12457C">6월 이른 폭염</text>
+  <text x="222" y="825" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#3A4A5A">서울 첫 폭염주의보 <tspan font-weight="bold" fill="#E8722C">12일 빨리</tspan> 발령</text>
+
+  <!-- 항목 4 (강조) -->
+  <circle cx="130" cy="960" r="22" fill="#4FD1C5"/>
+  <rect x="190" y="920" width="830" height="150" rx="18" fill="#E7F7F5" stroke="#4FD1C5" stroke-width="3"/>
+  <text x="222" y="975" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#0E6B60">본격 무더위</text>
+  <text x="222" y="1035" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#3A4A5A">장마 끝나는 <tspan font-weight="bold" fill="#0E6B60">7월 중하순부터</tspan></text>
+
+  <!-- 결론 배너 -->
+  <rect x="60" y="1130" width="960" height="110" rx="18" fill="#12457C"/>
+  <text x="540" y="1198" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">지금이 열대야 미리 세팅하기 딱 좋은 시점</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#DDE9F3"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 기상청 여름철 전망(5/22) · 본문 정리</text>
+</svg>

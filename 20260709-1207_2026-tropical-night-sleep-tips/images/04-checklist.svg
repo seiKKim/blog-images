@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F0F6FB"/>
+  <rect width="1080" height="200" fill="#12457C"/>
+  <rect x="60" y="52" rx="26" ry="26" width="160" height="52" fill="#4FD1C5"/>
+  <text x="140" y="88" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#0E2A4E" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">열대야 숙면 6가지 체크리스트</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1 -->
+    <rect x="60" y="270" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E4F0"/>
+    <rect x="90" y="315" width="60" height="60" rx="12" fill="#4FD1C5"/>
+    <text x="120" y="360" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">✓</text>
+    <text x="180" y="345" font-weight="bold" font-size="42" fill="#12457C">취침 30분~2시간 전 미지근한 물 샤워</text>
+    <text x="180" y="398" font-size="34" fill="#5B6B7C">찬물은 역효과</text>
+
+    <!-- 2 -->
+    <rect x="60" y="440" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E4F0"/>
+    <rect x="90" y="485" width="60" height="60" rx="12" fill="#4FD1C5"/>
+    <text x="120" y="530" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">✓</text>
+    <text x="180" y="515" font-weight="bold" font-size="42" fill="#12457C">실내온도 24~28℃ · 습도 40~60%</text>
+    <text x="180" y="568" font-size="34" fill="#5B6B7C">잠든 뒤엔 26℃ 안팎으로 조금 높이기</text>
+
+    <!-- 3 -->
+    <rect x="60" y="610" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E4F0"/>
+    <rect x="90" y="655" width="60" height="60" rx="12" fill="#4FD1C5"/>
+    <text x="120" y="700" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">✓</text>
+    <text x="180" y="685" font-weight="bold" font-size="42" fill="#12457C">에어컨 취침모드 + 선풍기 병행</text>
+    <text x="180" y="738" font-size="34" fill="#5B6B7C">초반 강냉방 → 취침모드 전환</text>
+
+    <!-- 4 -->
+    <rect x="60" y="780" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E4F0"/>
+    <rect x="90" y="825" width="60" height="60" rx="12" fill="#4FD1C5"/>
+    <text x="120" y="870" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">✓</text>
+    <text x="180" y="855" font-weight="bold" font-size="42" fill="#12457C">인견·리넨/냉감 침구 + 얇은 이불</text>
+    <text x="180" y="908" font-size="34" fill="#5B6B7C">얇은 잠옷, 배만 덮기</text>
+
+    <!-- 5 -->
+    <rect x="60" y="950" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E4F0"/>
+    <rect x="90" y="995" width="60" height="60" rx="12" fill="#4FD1C5"/>
+    <text x="120" y="1040" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">✓</text>
+    <text x="180" y="1025" font-weight="bold" font-size="42" fill="#12457C">카페인·음주·야식 관리</text>
+    <text x="180" y="1078" font-size="34" fill="#5B6B7C">커피는 오전에, 늦은 음주·과식 피하기</text>
+
+    <!-- 6 -->
+    <rect x="60" y="1120" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E4F0"/>
+    <rect x="90" y="1165" width="60" height="60" rx="12" fill="#4FD1C5"/>
+    <text x="120" y="1210" font-weight="bold" font-size="42" fill="#ffffff" text-anchor="middle">✓</text>
+    <text x="180" y="1195" font-weight="bold" font-size="42" fill="#12457C">규칙적 기상 + 초저녁 가벼운 운동</text>
+    <text x="180" y="1248" font-size="34" fill="#5B6B7C">낮잠은 30분 이내</text>
+  </g>
+
+  <rect x="0" y="1290" width="1080" height="60" fill="#DDE9F3"/>
+  <text x="60" y="1332" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">출처: 본문 정리 · blog.naver.com/trip_chocho</text>
+</svg>
