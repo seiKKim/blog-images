@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-weight="bold"
+        font-size="62" fill="#ffffff">중복 할인 가능 조합</text>
+
+  <g font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="46">
+    <rect x="60" y="270" width="960" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="356" font-weight="bold" fill="#1a1a1a">조조 할인</text>
+    <text x="980" y="356" font-weight="bold" fill="#1F8A53" text-anchor="end">가능</text>
+
+    <rect x="60" y="430" width="960" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="516" font-weight="bold" fill="#1a1a1a">문화가 있는 날</text>
+    <text x="980" y="516" font-weight="bold" fill="#1F8A53" text-anchor="end">가능</text>
+
+    <rect x="60" y="590" width="960" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="676" font-weight="bold" fill="#1a1a1a">청소년 · 경로 · 장애인 할인</text>
+    <text x="980" y="676" font-weight="bold" fill="#1F8A53" text-anchor="end">가능</text>
+
+    <rect x="60" y="750" width="960" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="836" font-weight="bold" fill="#1a1a1a">카드사 청구할인</text>
+    <text x="980" y="836" font-weight="bold" fill="#1F8A53" text-anchor="end">가능</text>
+
+    <rect x="60" y="910" width="960" height="140" rx="16" fill="#FDECEC" stroke="#E23B3B" stroke-width="2"/>
+    <text x="100" y="996" font-weight="bold" fill="#1a1a1a">통신사 회원 할인</text>
+    <text x="980" y="996" font-weight="bold" fill="#E23B3B" text-anchor="end">불가</text>
+  </g>
+
+  <rect x="60" y="1110" width="960" height="110" rx="14" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="90" y="1152" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="34" font-weight="bold" fill="#2B2F36">꿀조합: 조조/문화가 있는 날 + 할인권 6,000원</text>
+  <text x="90" y="1198" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="34" fill="#5B6B7C">+ 카드사 청구할인까지 겹치면 실부담 최소화</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR, Noto Sans KR, sans-serif" font-size="34" fill="#5B6B7C">출처: 문화체육관광부 · 정책브리핑(korea.kr)</text>
+</svg>
