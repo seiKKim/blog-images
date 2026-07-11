@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1B5FA6"/>
+  <text x="60" y="100" font-family="Noto Sans CJK KR, sans-serif" font-weight="bold" font-size="56" fill="#ffffff">지급 구조 — 근속할수록 커진다</text>
+  <rect x="60" y="210" width="440" height="280" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="280" y="300" font-family="Noto Sans CJK KR, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="middle">6개월 근속</text>
+  <text x="280" y="410" font-family="Noto Sans CJK KR, sans-serif" font-weight="bold" font-size="80" fill="#1B5FA6" text-anchor="middle">180만 원</text>
+  <text x="540" y="370" font-family="Noto Sans CJK KR, sans-serif" font-weight="bold" font-size="70" fill="#7a8699" text-anchor="middle">+</text>
+  <rect x="580" y="210" width="440" height="280" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="800" y="300" font-family="Noto Sans CJK KR, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="middle">12개월 근속</text>
+  <text x="800" y="410" font-family="Noto Sans CJK KR, sans-serif" font-weight="bold" font-size="80" fill="#1B5FA6" text-anchor="middle">180만 원</text>
+  <rect x="60" y="540" width="960" height="120" rx="20" fill="#1B5FA6"/>
+  <text x="540" y="618" font-family="Noto Sans CJK KR, sans-serif" font-weight="bold" font-size="56" fill="#FFD23F" text-anchor="middle">1년 완주 시 최대 360만 원</text>
+</svg>
