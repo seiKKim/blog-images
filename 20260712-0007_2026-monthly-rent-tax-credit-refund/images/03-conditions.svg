@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Noto Sans CJK KR, sans-serif">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="95" font-weight="bold" font-size="58" fill="#ffffff">월세 세액공제 대상 조건</text>
+  <text x="60" y="165" font-size="40" fill="#DFF2E7">2025년 귀속 기준 · 모두 충족해야 함</text>
+  <g font-size="42" fill="#1a1a1a">
+    <rect x="60" y="260" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="325" font-weight="bold" fill="#1F8A53">① 무주택</text>
+    <text x="100" y="385" font-size="38">무주택 세대의 세대주 (요건 충족 시 세대원)</text>
+    <rect x="60" y="440" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="505" font-weight="bold" fill="#1F8A53">② 소득</text>
+    <text x="100" y="565" font-size="38">총급여 8,000만원 이하 (종합소득 7,000만원 초과 제외)</text>
+    <rect x="60" y="620" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="685" font-weight="bold" fill="#1F8A53">③ 주택 요건</text>
+    <text x="100" y="745" font-size="38">전용 85㎡ 이하 또는 기준시가 4억원 이하 (하나만)</text>
+    <rect x="60" y="800" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="865" font-weight="bold" fill="#1F8A53">④ 전입신고</text>
+    <text x="100" y="925" font-size="38">필수 — 계약서 주소와 등본 주소 일치</text>
+    <rect x="60" y="980" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="1045" font-weight="bold" fill="#1F8A53">⑤ 명의</text>
+    <text x="100" y="1105" font-size="38">본인(또는 기본공제대상자) 계약 + 본인이 지출</text>
+  </g>
+  <rect x="60" y="1170" width="960" height="90" rx="16" fill="#FFF6D9"/>
+  <text x="540" y="1228" font-weight="bold" font-size="36" fill="#7A5C00" text-anchor="middle">오피스텔 · 고시원 · 원룸도 대상 (순수 전세는 제외)</text>
+  <rect x="0" y="1280" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="1326" font-size="30" fill="#5B6B7C">출처: 국세청 · 정책브리핑(korea.kr)</text>
+</svg>

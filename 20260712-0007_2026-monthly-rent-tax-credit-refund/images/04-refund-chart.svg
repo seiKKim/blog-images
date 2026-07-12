@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Noto Sans CJK KR, sans-serif">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="95" font-weight="bold" font-size="58" fill="#ffffff">귀속연도별 최대 환급액</text>
+  <text x="60" y="165" font-size="40" fill="#DFF2E7">연간 월세액 한도를 다 채웠을 때 기준</text>
+  <!-- 막대: 최대 170만원 = 높이 560px, 기준선 y=900 -->
+  <g font-weight="bold" text-anchor="middle">
+    <rect x="80"  y="603" width="140" height="297" rx="12" fill="#7FB99C"/>
+    <text x="150" y="565" font-size="42" fill="#1a1a1a">90만</text>
+    <text x="150" y="960" font-size="40" fill="#4A5560">2021</text>
+    <rect x="280" y="480" width="140" height="420" rx="12" fill="#4DA378"/>
+    <text x="350" y="442" font-size="42" fill="#1a1a1a">127.5만</text>
+    <text x="350" y="960" font-size="40" fill="#4A5560">2022</text>
+    <rect x="480" y="480" width="140" height="420" rx="12" fill="#4DA378"/>
+    <text x="550" y="442" font-size="42" fill="#1a1a1a">127.5만</text>
+    <text x="550" y="960" font-size="40" fill="#4A5560">2023</text>
+    <rect x="680" y="340" width="140" height="560" rx="12" fill="#1F8A53"/>
+    <text x="750" y="302" font-size="42" fill="#1F8A53">170만</text>
+    <text x="750" y="960" font-size="40" fill="#4A5560">2024</text>
+    <rect x="880" y="340" width="140" height="560" rx="12" fill="#1F8A53"/>
+    <text x="950" y="302" font-size="42" fill="#1F8A53">170만</text>
+    <text x="950" y="960" font-size="40" fill="#4A5560">2025</text>
+  </g>
+  <line x1="60" y1="900" x2="1020" y2="900" stroke="#B8C4D0" stroke-width="3"/>
+  <rect x="60" y="1010" width="960" height="130" rx="20" fill="#1F8A53"/>
+  <text x="540" y="1090" font-weight="bold" font-size="46" fill="#FFD23F" text-anchor="middle">5년 합산 최대 약 685만원 (+지방소득세 별도)</text>
+  <rect x="60" y="1170" width="960" height="90" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="540" y="1228" font-size="34" fill="#4A5560" text-anchor="middle">공제율 2021년 10~12% · 2022~25년 15~17%</text>
+  <rect x="0" y="1280" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="1326" font-size="30" fill="#5B6B7C">출처: 국세청 · 조세특례제한법 (연도별 당시 규정)</text>
+</svg>

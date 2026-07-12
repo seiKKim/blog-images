@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Noto Sans CJK KR, sans-serif">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="95" font-weight="bold" font-size="58" fill="#ffffff">상황별 이렇게 하세요</text>
+  <text x="60" y="165" font-size="40" fill="#DFF2E7">월세 환급 선택지 요약</text>
+  <g font-size="38" fill="#1a1a1a">
+    <rect x="60" y="260" width="960" height="170" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="330" font-weight="bold" font-size="42">공제 놓친 직장인</text>
+    <text x="100" y="395" fill="#1F8A53" font-weight="bold">→ 홈택스 경정청구 (2021~2025년, 연도별 신청)</text>
+    <rect x="60" y="460" width="960" height="170" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="530" font-weight="bold" font-size="42">총급여 8,000만원 초과</text>
+    <text x="100" y="595" fill="#1F8A53" font-weight="bold">→ 주택임차료 현금영수증 소득공제 (30%)</text>
+    <rect x="60" y="660" width="960" height="170" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="730" font-weight="bold" font-size="42">프리랜서 · 사업자</text>
+    <text x="100" y="795" fill="#1F8A53" font-weight="bold">→ 성실사업자 · 성실신고확인 요건 충족 시 가능</text>
+    <rect x="60" y="860" width="960" height="170" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="930" font-weight="bold" font-size="42">회사에 알리기 싫다면</text>
+    <text x="100" y="995" fill="#1F8A53" font-weight="bold">→ 연말정산 대신 경정청구로 직접 신청</text>
+    <rect x="60" y="1060" width="960" height="170" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="1130" font-weight="bold" font-size="42">계약서를 잃어버렸다면</text>
+    <text x="100" y="1195" fill="#1F8A53" font-weight="bold">→ 임대인 · 중개업소 사본 요청, 등기소 재발급</text>
+  </g>
+  <rect x="0" y="1280" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="1326" font-size="30" fill="#5B6B7C">세액공제와 현금영수증 소득공제는 중복 불가</text>
+</svg>

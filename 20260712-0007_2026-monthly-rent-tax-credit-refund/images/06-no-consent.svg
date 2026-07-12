@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720" font-family="Noto Sans CJK KR, sans-serif">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1F8A53"/>
+  <text x="60" y="95" font-weight="bold" font-size="54" fill="#ffffff">집주인 동의? 회사 통보? — 둘 다 NO</text>
+  <rect x="60" y="200" width="460" height="380" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="290" y="290" font-weight="bold" font-size="46" fill="#1F8A53" text-anchor="middle">집주인 동의</text>
+  <text x="290" y="380" font-weight="bold" font-size="72" fill="#C0453B" text-anchor="middle">불필요</text>
+  <text x="290" y="460" font-size="32" fill="#4A5560" text-anchor="middle">세무서가 임대인에게</text>
+  <text x="290" y="505" font-size="32" fill="#4A5560" text-anchor="middle">연락하지 않음</text>
+  <rect x="560" y="200" width="460" height="380" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="790" y="290" font-weight="bold" font-size="46" fill="#1F8A53" text-anchor="middle">회사 통보</text>
+  <text x="790" y="380" font-weight="bold" font-size="72" fill="#C0453B" text-anchor="middle">없음</text>
+  <text x="790" y="460" font-size="32" fill="#4A5560" text-anchor="middle">홈택스로 직접 신청,</text>
+  <text x="790" y="505" font-size="32" fill="#4A5560" text-anchor="middle">환급금은 본인 계좌로</text>
+  <rect x="0" y="650" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="696" font-size="30" fill="#5B6B7C">세입자의 법적 권리 — 특약으로도 막을 수 없음</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Noto Sans CJK KR, sans-serif">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="95" font-weight="bold" font-size="58" fill="#ffffff">홈택스 경정청구 5단계</text>
+  <text x="60" y="165" font-size="40" fill="#DFF2E7">수수료 없음 · 연중 상시 신청</text>
+  <g font-size="40" fill="#1a1a1a">
+    <circle cx="120" cy="315" r="36" fill="#1F8A53"/><text x="120" y="330" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">1</text>
+    <rect x="190" y="260" width="830" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="230" y="330" font-weight="bold">홈택스(hometax.go.kr) 로그인</text>
+    <circle cx="120" cy="490" r="36" fill="#1F8A53"/><text x="120" y="505" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">2</text>
+    <rect x="190" y="435" width="830" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="230" y="490" font-weight="bold">세금신고 → 종합소득세 신고</text>
+    <text x="230" y="530" font-size="34" fill="#4A5560">→ 근로소득 신고 → 경정청구</text>
+    <circle cx="120" cy="665" r="36" fill="#1F8A53"/><text x="120" y="680" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">3</text>
+    <rect x="190" y="610" width="830" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="230" y="680" font-weight="bold">귀속연도 선택 → 기존 신고 불러오기</text>
+    <circle cx="120" cy="840" r="36" fill="#1F8A53"/><text x="120" y="855" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">4</text>
+    <rect x="190" y="785" width="830" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="230" y="855" font-weight="bold">세액공제 항목에 월세액 입력</text>
+    <circle cx="120" cy="1015" r="36" fill="#1F8A53"/><text x="120" y="1030" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">5</text>
+    <rect x="190" y="960" width="830" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="230" y="1030" font-weight="bold">증빙 서류 첨부 후 제출</text>
+  </g>
+  <rect x="60" y="1130" width="960" height="120" rx="20" fill="#FFF6D9"/>
+  <text x="540" y="1180" font-weight="bold" font-size="36" fill="#7A5C00" text-anchor="middle">필요 서류: 주민등록등본 · 임대차계약서 사본 · 월세 이체내역</text>
+  <text x="540" y="1228" font-size="32" fill="#7A5C00" text-anchor="middle">처리: 접수 후 2개월 이내 결정 · 통지가 원칙</text>
+  <rect x="0" y="1280" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="1326" font-size="30" fill="#5B6B7C">출처: 국세청 홈택스</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720" font-family="Noto Sans CJK KR, sans-serif">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1F8A53"/>
+  <text x="60" y="95" font-weight="bold" font-size="54" fill="#ffffff">경정청구 가능 기간 (2026년 7월 기준)</text>
+  <!-- 2020 만료 -->
+  <g>
+    <rect x="60" y="230" width="140" height="180" rx="16" fill="#D9DEE5"/>
+    <text x="130" y="310" font-weight="bold" font-size="40" fill="#8A94A0" text-anchor="middle">2020</text>
+    <text x="130" y="370" font-weight="bold" font-size="34" fill="#C0453B" text-anchor="middle">만료</text>
+  </g>
+  <!-- 2021~2025 -->
+  <g font-weight="bold" text-anchor="middle">
+    <rect x="220" y="230" width="140" height="180" rx="16" fill="#1F8A53"/>
+    <text x="290" y="310" font-size="40" fill="#ffffff">2021</text><text x="290" y="372" font-size="40" fill="#FFD23F">가능</text>
+    <rect x="380" y="230" width="140" height="180" rx="16" fill="#1F8A53"/>
+    <text x="450" y="310" font-size="40" fill="#ffffff">2022</text><text x="450" y="372" font-size="40" fill="#FFD23F">가능</text>
+    <rect x="540" y="230" width="140" height="180" rx="16" fill="#1F8A53"/>
+    <text x="610" y="310" font-size="40" fill="#ffffff">2023</text><text x="610" y="372" font-size="40" fill="#FFD23F">가능</text>
+    <rect x="700" y="230" width="140" height="180" rx="16" fill="#1F8A53"/>
+    <text x="770" y="310" font-size="40" fill="#ffffff">2024</text><text x="770" y="372" font-size="40" fill="#FFD23F">가능</text>
+    <rect x="860" y="230" width="140" height="180" rx="16" fill="#1F8A53"/>
+    <text x="930" y="310" font-size="40" fill="#ffffff">2025</text><text x="930" y="372" font-size="40" fill="#FFD23F">가능</text>
+  </g>
+  <rect x="60" y="480" width="960" height="120" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="540" y="553" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="middle">법정신고기한 후 5년 이내 · 귀속연도별 각각 신청</text>
+  <rect x="0" y="650" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="696" font-size="30" fill="#5B6B7C">출처: 국세기본법 · 국세청</text>
+</svg>
