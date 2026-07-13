@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">얼마나 받을 수 있나</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F">생애 1회, 현금 월별 지급</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 계산식 카드 3개 -->
+    <rect x="60" y="290" width="290" height="240" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="205" y="365" font-size="38" fill="#3a4658" text-anchor="middle">월 최대</text>
+    <text x="205" y="450" font-size="72" font-weight="bold" fill="#1B5FA6" text-anchor="middle">20만원</text>
+
+    <text x="405" y="435" font-size="90" font-weight="bold" fill="#8fa3b8" text-anchor="middle">×</text>
+
+    <rect x="460" y="290" width="290" height="240" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="605" y="365" font-size="38" fill="#3a4658" text-anchor="middle">최장</text>
+    <text x="605" y="450" font-size="72" font-weight="bold" fill="#1B5FA6" text-anchor="middle">24개월</text>
+
+    <text x="805" y="435" font-size="90" font-weight="bold" fill="#8fa3b8" text-anchor="middle">=</text>
+
+    <rect x="855" y="290" width="165" height="240" rx="24" fill="#1B5FA6"/>
+    <text x="937" y="365" font-size="36" fill="#E8EEF5" text-anchor="middle">최대</text>
+    <text x="937" y="445" font-size="52" font-weight="bold" fill="#FFD23F" text-anchor="middle">480</text>
+    <text x="937" y="500" font-size="40" fill="#ffffff" text-anchor="middle">만원</text>
+  </g>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" fill="#1a1a1a">
+    <rect x="60" y="600" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="672" font-weight="bold">월 지원액</text>
+    <text x="1000" y="672" font-weight="bold" fill="#1B5FA6" text-anchor="end">월 최대 20만원</text>
+
+    <rect x="60" y="740" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="812" font-weight="bold">지원 기간</text>
+    <text x="1000" y="812" font-weight="bold" fill="#1B5FA6" text-anchor="end">최장 24개월(회)</text>
+
+    <rect x="60" y="880" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="952" font-weight="bold">총 지원액</text>
+    <text x="1000" y="952" font-weight="bold" fill="#1B5FA6" text-anchor="end">최대 480만원 · 생애 1회</text>
+
+    <rect x="60" y="1020" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="1092" font-weight="bold">지급 방식</text>
+    <text x="1000" y="1092" font-weight="bold" fill="#1B5FA6" text-anchor="end">본인 계좌 월별 현금</text>
+  </g>
+
+  <text x="60" y="1215" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">※ 실제 월세가 20만원 미만이면 낸 만큼만 지원</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 국토교통부 청년월세 특별지원</text>
+</svg>

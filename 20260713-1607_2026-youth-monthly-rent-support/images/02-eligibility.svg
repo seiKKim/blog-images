@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">지원 대상 체크리스트</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F">4가지 조건을 모두 충족해야 신청 가능</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1 -->
+    <rect x="60" y="270" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="385" r="46" fill="#1B5FA6"/>
+    <text x="150" y="402" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="230" y="360" font-size="48" font-weight="bold" fill="#1a1a1a">연령</text>
+    <text x="230" y="435" font-size="40" fill="#3a4658">신청연도(2026년) 기준 만 19~34세</text>
+    <text x="230" y="480" font-size="40" fill="#3a4658">(1991~2007년생)</text>
+
+    <!-- 2 -->
+    <rect x="60" y="525" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="615" r="46" fill="#1B5FA6"/>
+    <text x="150" y="632" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="230" y="595" font-size="48" font-weight="bold" fill="#1a1a1a">무주택</text>
+    <text x="230" y="662" font-size="40" fill="#3a4658">본인 무주택 (분양권·입주권도 제외)</text>
+
+    <!-- 3 -->
+    <rect x="60" y="730" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="820" r="46" fill="#1B5FA6"/>
+    <text x="150" y="837" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="230" y="800" font-size="48" font-weight="bold" fill="#1a1a1a">별도 거주</text>
+    <text x="230" y="867" font-size="40" fill="#3a4658">부모와 별도 거주 (주민등록·실거주 분리)</text>
+
+    <!-- 4 -->
+    <rect x="60" y="935" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="1025" r="46" fill="#1B5FA6"/>
+    <text x="150" y="1042" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="230" y="1005" font-size="48" font-weight="bold" fill="#1a1a1a">월세 거주</text>
+    <text x="230" y="1072" font-size="40" fill="#3a4658">월세·보증부월세 거주 (전세는 제외)</text>
+  </g>
+
+  <rect x="60" y="1150" width="960" height="90" rx="16" fill="#FFF6D6" stroke="#FFD23F" stroke-width="2"/>
+  <text x="90" y="1207" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="bold" fill="#8a6d00">만 30세 이상·혼인 등은 부모 소득 미반영</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 국토교통부 청년월세 특별지원</text>
+</svg>

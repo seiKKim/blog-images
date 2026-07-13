@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">자취 초기 필수 생활용품</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F">아낀 월세로 챙기는 독립 준비 체크리스트</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 소형가전 -->
+    <rect x="60" y="280" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="280" width="14" height="230" rx="7" fill="#1B5FA6"/>
+    <text x="110" y="355" font-size="46" font-weight="bold" fill="#1B5FA6">소형가전</text>
+    <text x="110" y="420" font-size="38" fill="#3a4658">전기포트 · 미니 전자레인지 · 선풍기</text>
+    <text x="110" y="472" font-size="38" fill="#3a4658">소형 밥솥 · 멀티탭</text>
+
+    <!-- 수납 -->
+    <rect x="60" y="535" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="535" width="14" height="180" rx="7" fill="#1B5FA6"/>
+    <text x="110" y="610" font-size="46" font-weight="bold" fill="#1B5FA6">수납</text>
+    <text x="110" y="675" font-size="38" fill="#3a4658">소형 수납장 · 행거 · 리빙박스 · 정리함</text>
+
+    <!-- 주방 -->
+    <rect x="60" y="740" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="740" width="14" height="180" rx="7" fill="#1B5FA6"/>
+    <text x="110" y="815" font-size="46" font-weight="bold" fill="#1B5FA6">주방용품</text>
+    <text x="110" y="880" font-size="38" fill="#3a4658">기본 냄비·프라이팬 · 식기 · 조리도구</text>
+
+    <!-- 생필품 -->
+    <rect x="60" y="945" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="945" width="14" height="180" rx="7" fill="#1B5FA6"/>
+    <text x="110" y="1020" font-size="46" font-weight="bold" fill="#1B5FA6">생필품</text>
+    <text x="110" y="1085" font-size="38" fill="#3a4658">수건·침구 · 청소용품 · 욕실용품</text>
+  </g>
+
+  <text x="60" y="1200" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">※ 가격·구성은 시점마다 다르니 상품 카드에서 최신가 확인</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">blog.naver.com/trip_chocho</text>
+</svg>
