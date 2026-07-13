@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF3EC"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">유형별 추천 스펙 5가지</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFE0C4">브랜드 대신 스펙 조합으로 고르기</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- card1 소형 -->
+    <rect x="60" y="252" width="960" height="188" rx="18" fill="#ffffff" stroke="#EAD6C4"/>
+    <circle cx="140" cy="346" r="42" fill="#E8722C"/>
+    <text x="140" y="362" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="210" y="330" font-size="42" font-weight="bold" fill="#2A2A2A">소형·저소음</text>
+    <text x="620" y="330" font-size="32" fill="#8A6A54">원룸·침실·화장실</text>
+    <text x="210" y="392" font-size="36" font-weight="bold" fill="#D9631E">6~10L · 38dB 이하 · 경량</text>
+
+    <!-- card2 표준 -->
+    <rect x="60" y="456" width="960" height="188" rx="18" fill="#ffffff" stroke="#EAD6C4"/>
+    <circle cx="140" cy="550" r="42" fill="#E8722C"/>
+    <text x="140" y="566" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="210" y="534" font-size="42" font-weight="bold" fill="#2A2A2A">표준 가정용</text>
+    <text x="620" y="534" font-size="32" fill="#8A6A54">거실·방 겸용</text>
+    <text x="210" y="596" font-size="36" font-weight="bold" fill="#D9631E">12~16L 인버터 · 1~2등급 · 희망습도</text>
+
+    <!-- card3 대용량 -->
+    <rect x="60" y="660" width="960" height="188" rx="18" fill="#ffffff" stroke="#EAD6C4"/>
+    <circle cx="140" cy="754" r="42" fill="#E8722C"/>
+    <text x="140" y="770" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="210" y="738" font-size="42" font-weight="bold" fill="#2A2A2A">대용량</text>
+    <text x="620" y="738" font-size="32" fill="#8A6A54">넓은 거실·빨래건조</text>
+    <text x="210" y="800" font-size="36" font-weight="bold" fill="#D9631E">16~22L 인버터 1등급 · 연속배수</text>
+
+    <!-- card4 사계절 -->
+    <rect x="60" y="864" width="960" height="188" rx="18" fill="#ffffff" stroke="#EAD6C4"/>
+    <circle cx="140" cy="958" r="42" fill="#E8722C"/>
+    <text x="140" y="974" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="210" y="942" font-size="42" font-weight="bold" fill="#2A2A2A">저온·사계절</text>
+    <text x="620" y="942" font-size="32" fill="#8A6A54">겨울·저온까지 사용</text>
+    <text x="210" y="1004" font-size="36" font-weight="bold" fill="#D9631E">데시칸트 / 하이브리드 (여름 전기료 유의)</text>
+
+    <!-- card5 포인트 -->
+    <rect x="60" y="1068" width="960" height="188" rx="18" fill="#ffffff" stroke="#EAD6C4"/>
+    <circle cx="140" cy="1162" r="42" fill="#E8722C"/>
+    <text x="140" y="1178" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="210" y="1146" font-size="42" font-weight="bold" fill="#2A2A2A">포인트 제습</text>
+    <text x="620" y="1146" font-size="32" fill="#8A6A54">신발장·현관</text>
+    <text x="210" y="1208" font-size="36" font-weight="bold" fill="#D9631E">펠티어식 소형 보조 · 좁은 공간용</text>
+  </g>
+
+  <!-- 하단 안내 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0DFCF"/>
+  <text x="60" y="1320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="33" font-weight="bold" fill="#8A5A34">애매한 평수는 한 단계 위 용량 · 조건·가격은 시점마다 변동</text>
+</svg>

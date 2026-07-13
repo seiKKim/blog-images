@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF3EC"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">소음 dB별 체감 기준</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFE0C4">침실·취침용은 38dB 이하 권장</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- row1: 30dB 이하 -->
+    <rect x="60" y="272" width="960" height="150" rx="18" fill="#ffffff" stroke="#EAD6C4"/>
+    <rect x="60" y="272" width="14" height="150" rx="7" fill="#1F8A53"/>
+    <text x="110" y="345" font-size="60" font-weight="bold" fill="#1F8A53">30dB 이하</text>
+    <text x="110" y="398" font-size="38" fill="#5A4536">속삭임 · 도서관 수준 (거의 안 들림)</text>
+
+    <!-- row2: 30~35 -->
+    <rect x="60" y="440" width="960" height="150" rx="18" fill="#ffffff" stroke="#EAD6C4"/>
+    <rect x="60" y="440" width="14" height="150" rx="7" fill="#4FA36C"/>
+    <text x="110" y="513" font-size="60" font-weight="bold" fill="#2A7A48">30~35dB</text>
+    <text x="110" y="566" font-size="38" fill="#5A4536">조용한 밤 침실</text>
+
+    <!-- row3: 35~40 (권장선 안쪽) -->
+    <rect x="60" y="608" width="960" height="150" rx="18" fill="#FFF6E8" stroke="#F0C97A"/>
+    <rect x="60" y="608" width="14" height="150" rx="7" fill="#E8A93C"/>
+    <text x="110" y="681" font-size="60" font-weight="bold" fill="#C98A10">35~40dB</text>
+    <text x="110" y="734" font-size="38" fill="#5A4536">냉장고 소리 (적응 가능)</text>
+
+    <!-- row4: 40~45 -->
+    <rect x="60" y="776" width="960" height="150" rx="18" fill="#ffffff" stroke="#EAD6C4"/>
+    <rect x="60" y="776" width="14" height="150" rx="7" fill="#E8722C"/>
+    <text x="110" y="849" font-size="60" font-weight="bold" fill="#D9631E">40~45dB</text>
+    <text x="110" y="902" font-size="38" fill="#5A4536">조용한 사무실 (거슬리기 시작)</text>
+
+    <!-- row5: 45~50 -->
+    <rect x="60" y="944" width="960" height="150" rx="18" fill="#ffffff" stroke="#EAD6C4"/>
+    <rect x="60" y="944" width="14" height="150" rx="7" fill="#C0392B"/>
+    <text x="110" y="1017" font-size="60" font-weight="bold" fill="#B0301F">45~50dB</text>
+    <text x="110" y="1070" font-size="38" fill="#5A4536">일반 대화 (수면 방해)</text>
+  </g>
+
+  <!-- 권장선 강조 박스 -->
+  <rect x="60" y="1130" width="960" height="110" rx="18" fill="#E8722C"/>
+  <text x="540" y="1198" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">침실·원룸 취침용 → 38dB 이하 인버터형 추천</text>
+
+  <!-- 하단 안내 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0DFCF"/>
+  <text x="60" y="1320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="33" font-weight="bold" fill="#8A5A34">인버터는 목표습도 도달 후 소음이 크게 줄어 밤에 켜두기 좋음</text>
+</svg>

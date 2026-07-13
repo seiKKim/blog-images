@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF3EC"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">컴프레서식 vs 데시칸트식</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFE0C4">여름·장마는 컴프레서식이 정답</text>
+
+  <!-- 두 컬럼 헤더 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="290" y="252" width="360" height="96" rx="16" fill="#1F8A53"/>
+    <text x="470" y="313" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">컴프레서식</text>
+    <rect x="666" y="252" width="354" height="96" rx="16" fill="#8A6A54"/>
+    <text x="843" y="313" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">데시칸트식</text>
+  </g>
+
+  <!-- 비교 행들 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34">
+    <!-- helper labels + cells -->
+    <!-- row y positions: 366 start, 106 tall, 6 gap -->
+    <!-- r1 원리 -->
+    <rect x="60" y="366" width="224" height="150" rx="14" fill="#EFE1D2"/>
+    <text x="172" y="450" font-weight="bold" fill="#7A3B0E" text-anchor="middle">원리</text>
+    <rect x="290" y="366" width="360" height="150" rx="14" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="470" y="432" fill="#2A2A2A" text-anchor="middle">냉매로</text>
+    <text x="470" y="478" fill="#2A2A2A" text-anchor="middle">수분 응결</text>
+    <rect x="666" y="366" width="354" height="150" rx="14" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="843" y="432" fill="#2A2A2A" text-anchor="middle">건조제 흡착</text>
+    <text x="843" y="478" fill="#2A2A2A" text-anchor="middle">→ 히터 가열</text>
+
+    <!-- r2 여름·고온다습 -->
+    <rect x="60" y="522" width="224" height="106" rx="14" fill="#EFE1D2"/>
+    <text x="172" y="588" font-weight="bold" fill="#7A3B0E" text-anchor="middle">여름·다습</text>
+    <rect x="290" y="522" width="360" height="106" rx="14" fill="#E7F5EC" stroke="#BFE4CE"/>
+    <text x="470" y="588" font-weight="bold" fill="#1F8A53" text-anchor="middle">강함 (추천)</text>
+    <rect x="666" y="522" width="354" height="106" rx="14" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="843" y="588" fill="#8A6A54" text-anchor="middle">상대적 비효율</text>
+
+    <!-- r3 겨울·저온 -->
+    <rect x="60" y="634" width="224" height="106" rx="14" fill="#EFE1D2"/>
+    <text x="172" y="700" font-weight="bold" fill="#7A3B0E" text-anchor="middle">겨울·저온</text>
+    <rect x="290" y="634" width="360" height="106" rx="14" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="470" y="700" fill="#8A6A54" text-anchor="middle">효율 저하</text>
+    <rect x="666" y="634" width="354" height="106" rx="14" fill="#E7F5EC" stroke="#BFE4CE"/>
+    <text x="843" y="700" font-weight="bold" fill="#1F8A53" text-anchor="middle">저온에도 안정</text>
+
+    <!-- r4 전기료 -->
+    <rect x="60" y="746" width="224" height="106" rx="14" fill="#EFE1D2"/>
+    <text x="172" y="812" font-weight="bold" fill="#7A3B0E" text-anchor="middle">전기료</text>
+    <rect x="290" y="746" width="360" height="106" rx="14" fill="#E7F5EC" stroke="#BFE4CE"/>
+    <text x="470" y="812" font-weight="bold" fill="#1F8A53" text-anchor="middle">낮음</text>
+    <rect x="666" y="746" width="354" height="106" rx="14" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="843" y="812" fill="#8A6A54" text-anchor="middle">히터로 높음</text>
+
+    <!-- r5 실내온도 -->
+    <rect x="60" y="858" width="224" height="106" rx="14" fill="#EFE1D2"/>
+    <text x="172" y="924" font-weight="bold" fill="#7A3B0E" text-anchor="middle">실내온도</text>
+    <rect x="290" y="858" width="360" height="106" rx="14" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="470" y="924" fill="#2A2A2A" text-anchor="middle">1~2℃ 상승</text>
+    <rect x="666" y="858" width="354" height="106" rx="14" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="843" y="924" fill="#8A6A54" text-anchor="middle">더 크게 상승</text>
+
+    <!-- r6 소음 -->
+    <rect x="60" y="970" width="224" height="106" rx="14" fill="#EFE1D2"/>
+    <text x="172" y="1036" font-weight="bold" fill="#7A3B0E" text-anchor="middle">소음</text>
+    <rect x="290" y="970" width="360" height="106" rx="14" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="470" y="1036" fill="#2A2A2A" text-anchor="middle">작동음 있음</text>
+    <rect x="666" y="970" width="354" height="106" rx="14" fill="#E7F5EC" stroke="#BFE4CE"/>
+    <text x="843" y="1036" font-weight="bold" fill="#1F8A53" text-anchor="middle">조용한 편</text>
+
+    <!-- r7 무게 -->
+    <rect x="60" y="1082" width="224" height="106" rx="14" fill="#EFE1D2"/>
+    <text x="172" y="1148" font-weight="bold" fill="#7A3B0E" text-anchor="middle">무게</text>
+    <rect x="290" y="1082" width="360" height="106" rx="14" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="470" y="1148" fill="#2A2A2A" text-anchor="middle">무거운 편</text>
+    <rect x="666" y="1082" width="354" height="106" rx="14" fill="#E7F5EC" stroke="#BFE4CE"/>
+    <text x="843" y="1148" font-weight="bold" fill="#1F8A53" text-anchor="middle">가벼움</text>
+  </g>
+
+  <!-- 하단 안내 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0DFCF"/>
+  <text x="60" y="1320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="33" font-weight="bold" fill="#8A5A34">여름 장마 = 컴프레서식(특히 인버터) · 겨울 저온 = 데시칸트식</text>
+</svg>

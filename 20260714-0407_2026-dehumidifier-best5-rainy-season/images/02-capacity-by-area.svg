@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF3EC"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">실평수별 권장 제습용량</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFE0C4">아파트 평수×0.76L · 주택 평수×1.02L</text>
+
+  <!-- 표 헤더 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="252" width="500" height="90" rx="14" fill="#7A3B0E"/>
+    <rect x="576" y="252" width="220" height="90" rx="14" fill="#7A3B0E"/>
+    <rect x="812" y="252" width="208" height="90" rx="14" fill="#7A3B0E"/>
+    <text x="90" y="309" font-size="38" font-weight="bold" fill="#ffffff">사용 공간</text>
+    <text x="686" y="309" font-size="38" font-weight="bold" fill="#ffffff" text-anchor="middle">아파트</text>
+    <text x="916" y="309" font-size="38" font-weight="bold" fill="#ffffff" text-anchor="middle">주택·지하</text>
+  </g>
+
+  <!-- 표 행 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- row template: y start 360, height 138, gap 12 -->
+    <!-- r1 -->
+    <rect x="60" y="360" width="960" height="138" rx="16" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="90" y="420" font-size="38" font-weight="bold" fill="#2A2A2A">5~8평 원룸·화장실</text>
+    <text x="90" y="470" font-size="30" fill="#8A6A54">침실 위주면 소용량 OK</text>
+    <text x="686" y="450" font-size="44" font-weight="bold" fill="#E8722C" text-anchor="middle">6~8L</text>
+    <text x="916" y="450" font-size="44" font-weight="bold" fill="#C1560F" text-anchor="middle">8~10L</text>
+    <!-- r2 -->
+    <rect x="60" y="510" width="960" height="112" rx="16" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="90" y="580" font-size="38" font-weight="bold" fill="#2A2A2A">8~13평 침실·방</text>
+    <text x="686" y="580" font-size="44" font-weight="bold" fill="#E8722C" text-anchor="middle">10L</text>
+    <text x="916" y="580" font-size="44" font-weight="bold" fill="#C1560F" text-anchor="middle">10~12L</text>
+    <!-- r3 -->
+    <rect x="60" y="634" width="960" height="138" rx="16" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="90" y="694" font-size="38" font-weight="bold" fill="#2A2A2A">10평대 원룸 전체</text>
+    <text x="90" y="744" font-size="30" fill="#8A6A54">습한 원룸은 15~16L급</text>
+    <text x="686" y="724" font-size="44" font-weight="bold" fill="#E8722C" text-anchor="middle">13~16L</text>
+    <text x="916" y="724" font-size="44" font-weight="bold" fill="#C1560F" text-anchor="middle">16L</text>
+    <!-- r4 -->
+    <rect x="60" y="784" width="960" height="138" rx="16" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="90" y="844" font-size="38" font-weight="bold" fill="#2A2A2A">20평대 거실</text>
+    <text x="90" y="894" font-size="30" fill="#8A6A54">일반 거실 15·18L급</text>
+    <text x="686" y="874" font-size="44" font-weight="bold" fill="#E8722C" text-anchor="middle">12~16L</text>
+    <text x="916" y="874" font-size="44" font-weight="bold" fill="#C1560F" text-anchor="middle">14~16L</text>
+    <!-- r5 -->
+    <rect x="60" y="934" width="960" height="138" rx="16" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="90" y="994" font-size="38" font-weight="bold" fill="#2A2A2A">30평대 이상 거실</text>
+    <text x="90" y="1044" font-size="30" fill="#8A6A54">다용도실까지면 20L↑</text>
+    <text x="686" y="1024" font-size="44" font-weight="bold" fill="#E8722C" text-anchor="middle">16~20L</text>
+    <text x="916" y="1024" font-size="44" font-weight="bold" fill="#C1560F" text-anchor="middle">18~20L</text>
+    <!-- r6 -->
+    <rect x="60" y="1084" width="960" height="112" rx="16" fill="#ffffff" stroke="#EAD6C4"/>
+    <text x="90" y="1154" font-size="38" font-weight="bold" fill="#2A2A2A">40평대 이상</text>
+    <text x="686" y="1154" font-size="40" font-weight="bold" fill="#E8722C" text-anchor="middle">17~20L↑</text>
+    <text x="916" y="1154" font-size="42" font-weight="bold" fill="#C1560F" text-anchor="middle">20L 이상</text>
+  </g>
+
+  <!-- 하단 안내 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0DFCF"/>
+  <text x="60" y="1320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="33" font-weight="bold" fill="#8A5A34">Tip. 애매하면 한 단계 큰 용량 · 지하·반지하는 한 단계 위</text>
+</svg>
