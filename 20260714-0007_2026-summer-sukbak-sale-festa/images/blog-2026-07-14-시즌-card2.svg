@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FDF4F6"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="125" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="60" fill="#ffffff">숙박할인권 · 할인 금액</text>
+  <rect x="60" y="300" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D2D9" stroke-width="2"/>
+        <text x="100" y="380" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="42" font-weight="bold" fill="#1a1a1a">1박 · 7만원 미만 숙소</text>
+        <text x="980" y="380" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="44" font-weight="bold" fill="#E0556E" text-anchor="end">2만원 할인</text><rect x="60" y="454" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D2D9" stroke-width="2"/>
+        <text x="100" y="534" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="42" font-weight="bold" fill="#1a1a1a">1박 · 7만원 이상 숙소</text>
+        <text x="980" y="534" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="44" font-weight="bold" fill="#E0556E" text-anchor="end">3만원 할인</text><rect x="60" y="608" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D2D9" stroke-width="2"/>
+        <text x="100" y="688" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="42" font-weight="bold" fill="#1a1a1a">연박 · 14만원 미만</text>
+        <text x="980" y="688" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="44" font-weight="bold" fill="#E0556E" text-anchor="end">5만원 할인</text><rect x="60" y="762" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D2D9" stroke-width="2"/>
+        <text x="100" y="842" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="42" font-weight="bold" fill="#1a1a1a">연박 · 14만원 이상</text>
+        <text x="980" y="842" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="44" font-weight="bold" fill="#E0556E" text-anchor="end">7만원 할인</text><rect x="60" y="916" width="960" height="130" rx="16" fill="#ffffff" stroke="#F0D2D9" stroke-width="2"/>
+        <text x="100" y="996" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="42" font-weight="bold" fill="#1a1a1a">하루 선택 가능</text>
+        <text x="980" y="996" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="44" font-weight="bold" fill="#E0556E" text-anchor="end">1개 여행사 · 1개 권종</text>
+  <rect x="60" y="1130" width="960" height="90" rx="16" fill="#F6E3E8"/>
+  <text x="100" y="1188" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="36" fill="#9A3B50" font-weight="bold">연박 14만원 이상 예약이 할인 폭 제일 큼 (7만원)</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="32" fill="#5B6B7C">출처: 한국관광공사 숙박세일 페스타 (ktostay.visitkorea.or.kr)</text>
+</svg>

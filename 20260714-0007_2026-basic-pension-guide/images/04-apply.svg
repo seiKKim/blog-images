@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="60" y="60" rx="30" ry="30" width="200" height="60" fill="#FFD23F"/>
+  <text x="160" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">신청 방법</text>
+  <text x="60" y="180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">어디서 어떻게 신청하나요?</text>
+
+  <!-- 신청 시기 -->
+  <rect x="60" y="250" width="960" height="130" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="95" y="315" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1B5FA6">신청 시기</text>
+  <text x="95" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">만 65세 생일이 속한 달의 1개월 전부터</text>
+
+  <!-- 신청 방법 3가지 -->
+  <text x="60" y="450" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1a1a1a">신청 방법 3가지</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="480" width="960" height="110" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="120" cy="535" r="30" fill="#1B5FA6"/>
+    <text x="120" y="550" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="180" y="550" font-size="40" fill="#1a1a1a">온라인 · 복지로(bokjiro.go.kr) 본인 인증</text>
+
+    <rect x="60" y="610" width="960" height="110" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="120" cy="665" r="30" fill="#1B5FA6"/>
+    <text x="120" y="680" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="180" y="680" font-size="40" fill="#1a1a1a">방문 · 주민센터 또는 국민연금공단 지사</text>
+
+    <rect x="60" y="740" width="960" height="110" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="120" cy="795" r="30" fill="#1B5FA6"/>
+    <text x="120" y="810" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="180" y="810" font-size="40" fill="#1a1a1a">찾아뵙는 서비스 · 공단 직원 방문 지원</text>
+  </g>
+
+  <!-- 필요 서류 -->
+  <rect x="60" y="900" width="960" height="290" rx="20" fill="#EAF1F9" stroke="#D6E0EC"/>
+  <text x="95" y="965" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1B5FA6">기본 준비물</text>
+  <text x="95" y="1035" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" fill="#1a1a1a">· 신분증(주민등록증·운전면허증 등)</text>
+  <text x="95" y="1095" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" fill="#1a1a1a">· 본인 명의 통장 사본</text>
+  <text x="95" y="1155" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" fill="#1a1a1a">· 신청자 도장 또는 서명</text>
+
+  <text x="60" y="1245" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#5B6B7C">처리 기간 30일 이내 · 수수료 무료</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 보건복지부 · 복지로(bokjiro.go.kr)</text>
+</svg>
