@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="water3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5FD0E6"/>
+      <stop offset="1" stop-color="#1596BC"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#F1F8FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="200" fill="#0B6FA6"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">계곡·하천 안전수칙</text>
+  <text x="60" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#BEE6F2">급류에 휩쓸렸다면 — 누워서 뜨고 대각선 탈출</text>
+
+  <!-- 물 영역 -->
+  <rect x="0" y="240" width="1080" height="560" fill="url(#water3)"/>
+  <!-- 물결 -->
+  <g stroke="#ffffff" stroke-width="5" fill="none" opacity="0.35" stroke-linecap="round">
+    <path d="M60 320 Q120 300 180 320 T300 320 T420 320"/>
+    <path d="M540 380 Q600 360 660 380 T780 380 T900 380"/>
+    <path d="M120 700 Q180 680 240 700 T360 700"/>
+  </g>
+  <!-- 흐름 화살표(급류 방향) -->
+  <g opacity="0.55">
+    <text x="80" y="290" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="30" fill="#ffffff">← 물 흐름 방향</text>
+  </g>
+
+  <!-- 누워 뜬 사람 (수면에 등 대고) -->
+  <g transform="translate(430 520)">
+    <!-- 몸통 -->
+    <rect x="-140" y="-22" width="280" height="44" rx="22" fill="#FF7A3C"/>
+    <!-- 머리 -->
+    <circle cx="150" cy="0" r="34" fill="#FFD9BF"/>
+    <!-- 다리 -->
+    <rect x="-210" y="-14" width="80" height="28" rx="14" fill="#2E5D74"/>
+    <!-- 팔 -->
+    <rect x="-40" y="-58" width="26" height="60" rx="13" fill="#FFD9BF" transform="rotate(20 -27 -28)"/>
+  </g>
+  <text x="540" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#ffffff">시선은 하늘, 몸에 힘 빼고 뜨기</text>
+
+  <!-- 대각선 탈출 화살표 -->
+  <g>
+    <line x1="470" y1="560" x2="760" y2="740" stroke="#FFD23F" stroke-width="14" stroke-linecap="round"/>
+    <polygon points="760,740 720,724 742,704" fill="#FFD23F"/>
+  </g>
+  <text x="600" y="700" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="30" fill="#0B4B6E">가까운 물가로 대각선 이동</text>
+
+  <!-- 핵심 포인트 카드 3개 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="850" width="960" height="120" rx="16" fill="#ffffff" stroke="#CFE3EE"/>
+    <circle cx="120" cy="910" r="26" fill="#0B6FA6"/>
+    <text x="120" y="922" font-size="34" fill="#fff" font-weight="bold" text-anchor="middle">1</text>
+    <text x="180" y="922" font-size="40" fill="#1a1a1a" font-weight="bold">비 오면 즉시 대피 · 수위 급변 주의</text>
+
+    <rect x="60" y="990" width="960" height="120" rx="16" fill="#ffffff" stroke="#CFE3EE"/>
+    <circle cx="120" cy="1050" r="26" fill="#0B6FA6"/>
+    <text x="120" y="1062" font-size="34" fill="#fff" font-weight="bold" text-anchor="middle">2</text>
+    <text x="180" y="1062" font-size="40" fill="#1a1a1a" font-weight="bold">다이빙 금지 · 머리 부상 주의</text>
+
+    <rect x="60" y="1130" width="960" height="120" rx="16" fill="#ffffff" stroke="#CFE3EE"/>
+    <circle cx="120" cy="1190" r="26" fill="#0B6FA6"/>
+    <text x="120" y="1202" font-size="34" fill="#fff" font-weight="bold" text-anchor="middle">3</text>
+    <text x="180" y="1202" font-size="40" fill="#1a1a1a" font-weight="bold">아쿠아슈즈로 미끄러짐 방지</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEAF2"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#4B5E6E">출처: 행정안전부·국민재난안전포털 기준 · 본문 참고</text>
+</svg>

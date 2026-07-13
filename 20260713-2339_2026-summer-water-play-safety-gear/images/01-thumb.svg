@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0FA8C4"/>
+      <stop offset="1" stop-color="#0B6FA6"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3FD0E8"/>
+      <stop offset="1" stop-color="#12A0C0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 배경 -->
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <circle cx="930" cy="180" r="250" fill="#ffffff" opacity="0.08"/>
+  <circle cx="140" cy="960" r="200" fill="#ffffff" opacity="0.07"/>
+
+  <!-- 하단 물결 장식 -->
+  <path d="M0 900 Q135 850 270 900 T540 900 T810 900 T1080 900 V1080 H0 Z" fill="url(#wave)" opacity="0.35"/>
+  <path d="M0 950 Q135 905 270 950 T540 950 T810 950 T1080 950 V1080 H0 Z" fill="#ffffff" opacity="0.12"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="300" height="68" fill="#FFD23F"/>
+  <text x="230" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#0B4B6E" text-anchor="middle">여름 안전 · 물놀이</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="288" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#EAF7FC">사고 가장 많은 7월,</text>
+  <text x="80" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#EAF7FC">떠나기 전 꼭 챙기세요</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="520" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#ffffff">물놀이 안전수칙</text>
+  <text x="80" y="660" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#FFD23F">＆ 필수 준비물</text>
+
+  <!-- 아이콘 3종 (구명조끼/아쿠아슈즈/방수팩) + 장소 라벨 -->
+  <g>
+    <!-- 구명조끼 -->
+    <g transform="translate(150 760)">
+      <rect x="-46" y="0" width="92" height="110" rx="16" fill="#FF7A3C"/>
+      <rect x="-18" y="0" width="36" height="110" fill="#0B6FA6"/>
+      <rect x="-46" y="46" width="92" height="16" fill="#0B4B6E"/>
+      <circle cx="0" cy="-24" r="20" fill="#FFD9BF"/>
+    </g>
+    <!-- 아쿠아슈즈 -->
+    <g transform="translate(330 810)">
+      <path d="M-56 0 Q-56 -34 -18 -34 L36 -34 Q60 -34 60 -8 L60 8 Q60 22 42 22 L-42 22 Q-56 22 -56 6 Z" fill="#2ED0B8"/>
+      <path d="M-56 12 L60 12 L60 22 Q60 28 48 28 L-46 28 Q-56 28 -56 18 Z" fill="#0B4B6E"/>
+      <line x1="-30" y1="-28" x2="-8" y2="-28" stroke="#0B4B6E" stroke-width="6" stroke-linecap="round"/>
+      <line x1="0" y1="-30" x2="22" y2="-30" stroke="#0B4B6E" stroke-width="6" stroke-linecap="round"/>
+    </g>
+    <!-- 방수팩 -->
+    <g transform="translate(500 760)">
+      <rect x="-40" y="0" width="80" height="112" rx="14" fill="#FFD23F"/>
+      <rect x="-40" y="0" width="80" height="26" rx="8" fill="#0B4B6E"/>
+      <rect x="-22" y="42" width="44" height="58" rx="8" fill="#EAF7FC" opacity="0.85"/>
+    </g>
+  </g>
+
+  <!-- 장소 태그 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#0B4B6E">
+    <rect x="640" y="760" rx="20" ry="20" width="150" height="56" fill="#ffffff" opacity="0.92"/>
+    <text x="715" y="798" text-anchor="middle">계곡</text>
+    <rect x="810" y="760" rx="20" ry="20" width="150" height="56" fill="#ffffff" opacity="0.92"/>
+    <text x="885" y="798" text-anchor="middle">바다</text>
+    <rect x="725" y="828" rx="20" ry="20" width="235" height="56" fill="#FFD23F"/>
+    <text x="842" y="866" text-anchor="middle">워터파크</text>
+  </g>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1012" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#EAF7FC" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
