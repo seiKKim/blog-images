@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1F8FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="200" fill="#0B6FA6"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">여름 물놀이 준비물 체크</text>
+  <text x="60" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#BEE6F2">떠나기 전 7가지, 아이용은 따로 챙기기</text>
+
+  <!-- 체크 리스트 7행 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 행 템플릿: 체크박스 + 품목 + 이유 -->
+    <!-- 1 -->
+    <rect x="60" y="250" width="960" height="128" rx="16" fill="#ffffff" stroke="#CFE3EE"/>
+    <rect x="90" y="288" width="52" height="52" rx="10" fill="#0B6FA6"/>
+    <path d="M102 314 l12 12 l20 -24" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="176" y="318" font-size="42" fill="#1a1a1a" font-weight="bold">구명조끼 / 스윔베스트</text>
+    <text x="176" y="360" font-size="30" fill="#5B6B7C">1순위 · 특히 어린이·수영 미숙자</text>
+
+    <!-- 2 -->
+    <rect x="60" y="392" width="960" height="128" rx="16" fill="#ffffff" stroke="#CFE3EE"/>
+    <rect x="90" y="430" width="52" height="52" rx="10" fill="#0B6FA6"/>
+    <path d="M102 456 l12 12 l20 -24" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="176" y="460" font-size="42" fill="#1a1a1a" font-weight="bold">아쿠아슈즈</text>
+    <text x="176" y="502" font-size="30" fill="#5B6B7C">미끄러짐 방지 · 발 보호</text>
+
+    <!-- 3 -->
+    <rect x="60" y="534" width="960" height="128" rx="16" fill="#ffffff" stroke="#CFE3EE"/>
+    <rect x="90" y="572" width="52" height="52" rx="10" fill="#0B6FA6"/>
+    <path d="M102 598 l12 12 l20 -24" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="176" y="602" font-size="42" fill="#1a1a1a" font-weight="bold">래시가드 / 수영복</text>
+    <text x="176" y="644" font-size="30" fill="#5B6B7C">자외선 차단 · 살 쓸림 방지</text>
+
+    <!-- 4 -->
+    <rect x="60" y="676" width="960" height="128" rx="16" fill="#ffffff" stroke="#CFE3EE"/>
+    <rect x="90" y="714" width="52" height="52" rx="10" fill="#0B6FA6"/>
+    <path d="M102 740 l12 12 l20 -24" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="176" y="744" font-size="42" fill="#1a1a1a" font-weight="bold">튜브 · 수영링</text>
+    <text x="176" y="786" font-size="30" fill="#5B6B7C">부력 보조 · 사용 전 점검 필수</text>
+
+    <!-- 5 -->
+    <rect x="60" y="818" width="960" height="128" rx="16" fill="#ffffff" stroke="#CFE3EE"/>
+    <rect x="90" y="856" width="52" height="52" rx="10" fill="#0B6FA6"/>
+    <path d="M102 882 l12 12 l20 -24" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="176" y="886" font-size="42" fill="#1a1a1a" font-weight="bold">방수팩</text>
+    <text x="176" y="928" font-size="30" fill="#5B6B7C">스마트폰·귀중품 방수 보관</text>
+
+    <!-- 6 -->
+    <rect x="60" y="960" width="960" height="128" rx="16" fill="#ffffff" stroke="#CFE3EE"/>
+    <rect x="90" y="998" width="52" height="52" rx="10" fill="#0B6FA6"/>
+    <path d="M102 1024 l12 12 l20 -24" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="176" y="1028" font-size="42" fill="#1a1a1a" font-weight="bold">자외선차단제 (내수성)</text>
+    <text x="176" y="1070" font-size="30" fill="#5B6B7C">화상·피부손상 예방 · 2시간마다 덧발라</text>
+
+    <!-- 7 -->
+    <rect x="60" y="1102" width="960" height="128" rx="16" fill="#ffffff" stroke="#CFE3EE"/>
+    <rect x="90" y="1140" width="52" height="52" rx="10" fill="#0B6FA6"/>
+    <path d="M102 1166 l12 12 l20 -24" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="176" y="1170" font-size="42" fill="#1a1a1a" font-weight="bold">비치타월 · 여벌 옷</text>
+    <text x="176" y="1212" font-size="30" fill="#5B6B7C">저체온증 방지 · 어린이 우선</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEAF2"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#4B5E6E">출처: 공식·전문 소스 종합 · 본문 참고</text>
+</svg>

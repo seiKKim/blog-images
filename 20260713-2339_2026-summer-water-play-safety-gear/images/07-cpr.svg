@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1F8FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="200" fill="#0B6FA6"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">심폐소생술(CPR) 기본 순서</text>
+  <text x="60" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#BEE6F2">익수 응급상황 — 폐에 산소 공급이 우선</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1 확인 -->
+    <rect x="60" y="260" width="960" height="150" rx="18" fill="#ffffff" stroke="#CFE3EE"/>
+    <circle cx="150" cy="335" r="48" fill="#0B6FA6"/>
+    <text x="150" y="352" font-size="52" fill="#fff" font-weight="bold" text-anchor="middle">1</text>
+    <text x="240" y="325" font-size="46" fill="#1a1a1a" font-weight="bold">확인</text>
+    <text x="240" y="378" font-size="34" fill="#5B6B7C">양 어깨를 두드리며 의식·반응 확인</text>
+
+    <!-- 2 신고 -->
+    <rect x="60" y="424" width="960" height="150" rx="18" fill="#ffffff" stroke="#CFE3EE"/>
+    <circle cx="150" cy="499" r="48" fill="#0B6FA6"/>
+    <text x="150" y="516" font-size="52" fill="#fff" font-weight="bold" text-anchor="middle">2</text>
+    <text x="240" y="489" font-size="46" fill="#1a1a1a" font-weight="bold">신고</text>
+    <text x="240" y="542" font-size="34" fill="#5B6B7C">119 신고 · 자동심장충격기(AED) 요청</text>
+
+    <!-- 3 가슴압박 (강조) -->
+    <rect x="60" y="588" width="960" height="180" rx="18" fill="#FFF7DE" stroke="#F0CE5A"/>
+    <circle cx="150" cy="678" r="48" fill="#E8722C"/>
+    <text x="150" y="695" font-size="52" fill="#fff" font-weight="bold" text-anchor="middle">3</text>
+    <text x="240" y="658" font-size="46" fill="#B4531B" font-weight="bold">가슴압박</text>
+    <text x="240" y="712" font-size="36" fill="#8A6410" font-weight="bold">30회 · 분당 100~120회 · 약 5cm 깊이</text>
+
+    <!-- 4 인공호흡 -->
+    <rect x="60" y="782" width="960" height="150" rx="18" fill="#ffffff" stroke="#CFE3EE"/>
+    <circle cx="150" cy="857" r="48" fill="#0B6FA6"/>
+    <text x="150" y="874" font-size="52" fill="#fff" font-weight="bold" text-anchor="middle">4</text>
+    <text x="240" y="847" font-size="46" fill="#1a1a1a" font-weight="bold">인공호흡</text>
+    <text x="240" y="900" font-size="34" fill="#5B6B7C">2회 시행</text>
+
+    <!-- 5 반복 -->
+    <rect x="60" y="946" width="960" height="150" rx="18" fill="#ffffff" stroke="#CFE3EE"/>
+    <circle cx="150" cy="1021" r="48" fill="#0B6FA6"/>
+    <text x="150" y="1038" font-size="52" fill="#fff" font-weight="bold" text-anchor="middle">5</text>
+    <text x="240" y="1011" font-size="46" fill="#1a1a1a" font-weight="bold">30 : 2 반복</text>
+    <text x="240" y="1064" font-size="34" fill="#5B6B7C">익숙하지 않으면 가슴압박 위주로</text>
+  </g>
+
+  <!-- 강조 문구 -->
+  <rect x="60" y="1120" width="960" height="110" rx="18" fill="#0B6FA6"/>
+  <text x="540" y="1188" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#ffffff" text-anchor="middle">"물 빼기"보다 산소 순환이 먼저!</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEAF2"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#4B5E6E">출처: 중앙응급의료센터(E-GEN) 기준 · 본문 참고</text>
+</svg>

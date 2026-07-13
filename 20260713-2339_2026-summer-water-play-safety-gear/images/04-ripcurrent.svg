@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="sea4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1596BC"/>
+      <stop offset="1" stop-color="#3FCBE0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#F1F8FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="200" fill="#0B6FA6"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">바다 — 이안류 탈출법</text>
+  <text x="60" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#BEE6F2">먼바다로 끌려가는 해류, 알면 살 수 있어요</text>
+
+  <!-- 바다 영역 (위) -->
+  <rect x="0" y="240" width="1080" height="640" fill="url(#sea4)"/>
+  <!-- 모래사장 (아래) -->
+  <rect x="0" y="790" width="1080" height="90" fill="#F2D9A6"/>
+  <text x="540" y="850" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#9A7A3A" text-anchor="middle">해 안 (육지)</text>
+
+  <!-- 이안류(먼바다로 나가는 흐름) : 빨강 상향 화살표 -->
+  <g>
+    <line x1="540" y1="770" x2="540" y2="330" stroke="#E23B3B" stroke-width="26" stroke-linecap="round"/>
+    <polygon points="540,300 508,352 572,352" fill="#E23B3B"/>
+  </g>
+  <rect x="600" y="470" rx="14" width="360" height="70" fill="#ffffff" opacity="0.95"/>
+  <text x="620" y="516" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#C0332F">이안류 (먼바다로!)</text>
+  <text x="620" y="404" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#ffffff">✕ 육지로 직진 헤엄 금지</text>
+
+  <!-- 탈출 경로 : 노랑, 해안선과 평행 → 육지 -->
+  <g>
+    <line x1="540" y1="640" x2="230" y2="640" stroke="#FFD23F" stroke-width="20" stroke-linecap="round"/>
+    <polygon points="205,640 250,616 250,664" fill="#FFD23F"/>
+    <line x1="230" y1="640" x2="230" y2="770" stroke="#FFD23F" stroke-width="20" stroke-linecap="round"/>
+    <polygon points="230,796 206,754 254,754" fill="#FFD23F"/>
+  </g>
+  <rect x="100" y="560" rx="14" width="360" height="70" fill="#FFD23F"/>
+  <text x="120" y="606" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#0B4B6E">○ 해안선과 평행하게</text>
+
+  <!-- 핵심 대처 카드 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="930" width="960" height="120" rx="16" fill="#ffffff" stroke="#CFE3EE"/>
+    <circle cx="120" cy="990" r="26" fill="#0B6FA6"/>
+    <text x="120" y="1002" font-size="34" fill="#fff" font-weight="bold" text-anchor="middle">1</text>
+    <text x="180" y="1002" font-size="38" fill="#1a1a1a" font-weight="bold">평행 또는 45도 대각선으로 벗어나기</text>
+
+    <rect x="60" y="1070" width="960" height="120" rx="16" fill="#ffffff" stroke="#CFE3EE"/>
+    <circle cx="120" cy="1130" r="26" fill="#0B6FA6"/>
+    <text x="120" y="1142" font-size="34" fill="#fff" font-weight="bold" text-anchor="middle">2</text>
+    <text x="180" y="1142" font-size="38" fill="#1a1a1a" font-weight="bold">튜브로 몸 띄우고 구조 요청하기</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEAF2"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#4B5E6E">출처: 기상청·국립해양조사원 이안류 안내 · 본문 참고</text>
+</svg>
