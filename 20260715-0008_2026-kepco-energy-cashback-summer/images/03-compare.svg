@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="200" fill="#1B5FA6"/>
+<rect x="60" y="60" rx="24" ry="24" width="200" height="48" fill="#FFD23F"/>
+<text x="160" y="94" font-family="Noto Sans CJK KR" font-weight="bold" font-size="28" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+<text x="60" y="168" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">7월부터 달라진 지급 기준</text>
+<rect x="60" y="280" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="356" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">지급 기준</text>
+<text x="980" y="356" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1B5FA6" text-anchor="end">3% → 1% 이상 절감</text>
+<rect x="60" y="420" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="496" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">지급 단가</text>
+<text x="980" y="496" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1B5FA6" text-anchor="end">kWh당 20~30원 인상</text>
+<rect x="60" y="560" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="636" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">최대 단가</text>
+<text x="980" y="636" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1B5FA6" text-anchor="end">120원/kWh</text>
+<rect x="60" y="700" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+<text x="100" y="776" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1a1a1a">적용 기간</text>
+<text x="980" y="776" font-family="Noto Sans CJK KR" font-weight="bold" font-size="44" fill="#1B5FA6" text-anchor="end">2026년 7~12월 검침분</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 한국전력 발표(2026.6.29) · 전기신문/서울신문</text>
+</svg>

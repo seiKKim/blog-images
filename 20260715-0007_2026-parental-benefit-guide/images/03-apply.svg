@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">부모급여 신청 방법</text>
+  <text x="60" y="162" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#CFE0F2">온라인 5분 · 출생신고와 원스톱 신청</text>
+
+  <!-- STEP 1 -->
+  <rect x="60" y="260" width="960" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="140" cy="335" r="42" fill="#1B5FA6"/>
+  <text x="140" y="352" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="220" y="322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a">복지로·정부24 접속</text>
+  <text x="220" y="376" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">bokjiro.go.kr / gov.kr · 간편인증 로그인</text>
+
+  <!-- STEP 2 -->
+  <rect x="60" y="440" width="960" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="140" cy="515" r="42" fill="#1B5FA6"/>
+  <text x="140" y="532" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="220" y="502" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a">복지급여 신청 선택</text>
+  <text x="220" y="556" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">복지서비스 신청 → 부모급여(현금)</text>
+
+  <!-- STEP 3 -->
+  <rect x="60" y="620" width="960" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="140" cy="695" r="42" fill="#1B5FA6"/>
+  <text x="140" y="712" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="220" y="682" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a">통장 사본 첨부·제출</text>
+  <text x="220" y="736" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">아동·보호자 명의 통장 사본</text>
+
+  <!-- 기한 강조 박스 -->
+  <rect x="60" y="820" width="960" height="240" rx="24" fill="#FFF4D6" stroke="#FFD23F" stroke-width="3"/>
+  <text x="100" y="900" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#B26A00">★ 가장 중요 — 신청 기한</text>
+  <text x="100" y="964" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1a1a1a">출생일 포함 60일 이내 → 출생월부터 소급</text>
+  <text x="100" y="1020" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#C0392B">60일 경과 → 신청한 달부터만 지급</text>
+
+  <!-- 오프라인 안내 -->
+  <text x="60" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">오프라인: 주소지 읍·면·동 행정복지센터 방문</text>
+  <text x="60" y="1204" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">문의: 보건복지상담센터 ☎129</text>
+
+  <!-- 하단 출처 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 복지로(bokjiro.go.kr) · 정부24(gov.kr)</text>
+</svg>

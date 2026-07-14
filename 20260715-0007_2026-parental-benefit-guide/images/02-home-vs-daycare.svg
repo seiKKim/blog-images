@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">0세 부모급여, 어떻게 받나?</text>
+  <text x="60" y="162" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#CFE0F2">집에서 vs 어린이집 (2026년 · 총액 동일)</text>
+
+  <!-- 집에서 카드 -->
+  <rect x="60" y="260" width="960" height="360" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="260" width="960" height="92" rx="24" fill="#E8F0FA"/>
+  <rect x="60" y="316" width="960" height="36" fill="#E8F0FA"/>
+  <text x="100" y="322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6">🏠 집에서 양육</text>
+  <text x="100" y="452" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1a1a1a">전액 현금 지급</text>
+  <text x="980" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="96" fill="#1B5FA6" text-anchor="end">100만원</text>
+  <text x="100" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#5B6B7C">계좌로 100만원 그대로 입금</text>
+
+  <!-- 어린이집 카드 -->
+  <rect x="60" y="660" width="960" height="470" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="660" width="960" height="92" rx="24" fill="#E8F0FA"/>
+  <rect x="60" y="716" width="960" height="36" fill="#E8F0FA"/>
+  <text x="100" y="722" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6">🏫 어린이집 이용 (0세반)</text>
+
+  <text x="100" y="842" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a">보육료 바우처</text>
+  <text x="980" y="852" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#5B6B7C" text-anchor="end">58.4만원</text>
+
+  <text x="100" y="942" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a">현금 차액</text>
+  <text x="980" y="952" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#E8722C" text-anchor="end">41.6만원</text>
+
+  <line x1="100" y1="1000" x2="980" y2="1000" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="1078" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6">합계</text>
+  <text x="980" y="1082" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="72" fill="#1B5FA6" text-anchor="end">100만원</text>
+
+  <!-- 하단 출처 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">2026년 0세반 보육료 단가 58.4만원 기준 · 총 지원 규모 동일</text>
+</svg>
