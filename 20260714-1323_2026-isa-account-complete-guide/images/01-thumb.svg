@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#243B6B"/>
+  <circle cx="950" cy="180" r="260" fill="#ffffff" opacity="0.07"/>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="230" height="68" fill="#FFD23F"/>
+  <text x="195" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="270" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#E8EEF5">2026 ISA 계좌 완벽정리</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="410" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="96" fill="#ffffff">비과세 <tspan fill="#FFD23F">400만원</tspan></text>
+  <text x="80" y="530" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="96" fill="#ffffff">초과분 <tspan fill="#FFD23F">9.9%</tspan> 절세</text>
+
+  <!-- 핵심 수치 박스 3개 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="80" y="600" rx="20" ry="20" width="290" height="150" fill="#ffffff" opacity="0.12"/>
+    <text x="225" y="668" font-weight="normal" font-size="34" fill="#E8EEF5" text-anchor="middle">연 납입한도</text>
+    <text x="225" y="722" font-weight="bold" font-size="52" fill="#FFD23F" text-anchor="middle">2,000만원</text>
+
+    <rect x="395" y="600" rx="20" ry="20" width="290" height="150" fill="#ffffff" opacity="0.12"/>
+    <text x="540" y="668" font-weight="normal" font-size="34" fill="#E8EEF5" text-anchor="middle">총 한도</text>
+    <text x="540" y="722" font-weight="bold" font-size="52" fill="#FFD23F" text-anchor="middle">1억원</text>
+
+    <rect x="710" y="600" rx="20" ry="20" width="290" height="150" fill="#ffffff" opacity="0.12"/>
+    <text x="855" y="668" font-weight="normal" font-size="34" fill="#E8EEF5" text-anchor="middle">의무가입</text>
+    <text x="855" y="722" font-weight="bold" font-size="52" fill="#FFD23F" text-anchor="middle">3년</text>
+  </g>
+
+  <!-- 디테일 -->
+  <rect x="80" y="800" rx="20" ry="20" width="920" height="120" fill="#ffffff" opacity="0.14"/>
+  <text x="540" y="878" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff" text-anchor="middle">만기 연금이체 시 최대 300만원 세액공제</text>
+
+  <!-- 안내 -->
+  <text x="540" y="990" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#E8EEF5" opacity="0.9" text-anchor="middle">2026년 7월 현행 기준 · 자격·한도·서민형 총정리</text>
+</svg>

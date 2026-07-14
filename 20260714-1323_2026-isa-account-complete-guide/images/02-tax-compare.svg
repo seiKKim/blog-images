@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">일반 계좌 vs ISA 계좌</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#E8EEF5">세금 차이 한눈에 비교</text>
+
+  <!-- 컬럼 헤더 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="260" width="360" height="90" rx="14" fill="#D6E0EC"/>
+    <text x="240" y="318" font-weight="bold" font-size="40" fill="#243B6B" text-anchor="middle">항목</text>
+    <rect x="435" y="260" width="270" height="90" rx="14" fill="#B8C4D4"/>
+    <text x="570" y="318" font-weight="bold" font-size="40" fill="#3a3a3a" text-anchor="middle">일반 계좌</text>
+    <rect x="720" y="260" width="300" height="90" rx="14" fill="#243B6B"/>
+    <text x="870" y="318" font-weight="bold" font-size="40" fill="#FFD23F" text-anchor="middle">ISA 계좌</text>
+  </g>
+
+  <!-- 행 1: 손익통산 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="370" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="450" font-weight="bold" font-size="40" fill="#1a1a1a">손익통산</text>
+    <text x="90" y="500" font-weight="normal" font-size="28" fill="#5B6B7C">이익·손실 합산</text>
+    <text x="570" y="450" font-weight="bold" font-size="36" fill="#3a3a3a" text-anchor="middle">불가</text>
+    <text x="570" y="500" font-weight="normal" font-size="26" fill="#8a95a3" text-anchor="middle">이익에만 과세</text>
+    <text x="870" y="450" font-weight="bold" font-size="36" fill="#1F8A53" text-anchor="middle">가능</text>
+    <text x="870" y="500" font-weight="normal" font-size="26" fill="#5B6B7C" text-anchor="middle">순이익만 과세</text>
+  </g>
+
+  <!-- 행 2: 비과세 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="570" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="650" font-weight="bold" font-size="40" fill="#1a1a1a">비과세 한도</text>
+    <text x="90" y="700" font-weight="normal" font-size="28" fill="#5B6B7C">순이익 기준</text>
+    <text x="570" y="670" font-weight="bold" font-size="36" fill="#3a3a3a" text-anchor="middle">없음</text>
+    <text x="870" y="640" font-weight="bold" font-size="34" fill="#243B6B" text-anchor="middle">일반 200만원</text>
+    <text x="870" y="695" font-weight="bold" font-size="34" fill="#243B6B" text-anchor="middle">서민 400만원</text>
+  </g>
+
+  <!-- 행 3: 초과분 과세 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="770" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="850" font-weight="bold" font-size="40" fill="#1a1a1a">세율</text>
+    <text x="90" y="900" font-weight="normal" font-size="28" fill="#5B6B7C">비과세 초과분</text>
+    <text x="570" y="870" font-weight="bold" font-size="38" fill="#3a3a3a" text-anchor="middle">15.4%</text>
+    <text x="870" y="850" font-weight="bold" font-size="42" fill="#E23B3B" text-anchor="middle">9.9%</text>
+    <text x="870" y="900" font-weight="normal" font-size="26" fill="#5B6B7C" text-anchor="middle">분리과세</text>
+  </g>
+
+  <!-- 행 4: 종합과세 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="970" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="1050" font-weight="bold" font-size="40" fill="#1a1a1a">금융소득</text>
+    <text x="90" y="1100" font-weight="normal" font-size="28" fill="#5B6B7C">종합과세</text>
+    <text x="570" y="1070" font-weight="bold" font-size="34" fill="#3a3a3a" text-anchor="middle">합산 대상</text>
+    <text x="870" y="1070" font-weight="bold" font-size="34" fill="#1F8A53" text-anchor="middle">제외</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">2026년 7월 현행 기준 · 소득세 9% + 지방소득세 0.9%</text>
+</svg>

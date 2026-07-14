@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">누가 가입하면 유리할까</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#E8EEF5">상황별 ISA 활용 가이드</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 케이스 1 -->
+    <rect x="60" y="255" width="960" height="165" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="255" width="14" height="165" rx="7" fill="#FFD23F"/>
+    <text x="110" y="325" font-weight="bold" font-size="38" fill="#243B6B">금융소득이 비과세 한도를 넘길 것 같다면</text>
+    <text x="110" y="385" font-weight="normal" font-size="34" fill="#444">→ 초과분 9.9% 분리과세 + 종합과세 제외</text>
+
+    <!-- 케이스 2 -->
+    <rect x="60" y="440" width="960" height="165" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="440" width="14" height="165" rx="7" fill="#FFD23F"/>
+    <text x="110" y="510" font-weight="bold" font-size="38" fill="#243B6B">총급여 5,000만원 이하 근로자라면</text>
+    <text x="110" y="570" font-weight="normal" font-size="34" fill="#444">→ 서민형으로 비과세 한도 2배(400만원)</text>
+
+    <!-- 케이스 3 -->
+    <rect x="60" y="625" width="960" height="165" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="625" width="14" height="165" rx="7" fill="#FFD23F"/>
+    <text x="110" y="695" font-weight="bold" font-size="38" fill="#243B6B">국내 ETF·리츠·펀드로 배당·차익을</text>
+    <text x="110" y="755" font-weight="normal" font-size="34" fill="#444">→ 손익통산 + 저율과세 효과</text>
+
+    <!-- 케이스 4 -->
+    <rect x="60" y="810" width="960" height="165" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="810" width="14" height="165" rx="7" fill="#FFD23F"/>
+    <text x="110" y="880" font-weight="bold" font-size="38" fill="#243B6B">노후 대비를 병행하고 싶다면</text>
+    <text x="110" y="940" font-weight="normal" font-size="34" fill="#444">→ 만기 후 연금이체로 최대 300만원 세액공제</text>
+
+    <!-- 케이스 5 -->
+    <rect x="60" y="995" width="960" height="165" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="995" width="14" height="165" rx="7" fill="#FFD23F"/>
+    <text x="110" y="1065" font-weight="bold" font-size="38" fill="#243B6B">3년 이상 묶어둘 수 있는 자금이라면</text>
+    <text x="110" y="1125" font-weight="normal" font-size="34" fill="#444">→ ISA 적합 (단기 유동성 자금은 부적합)</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">2026년 7월 현행 기준 · 가입 전 금융사 최신 안내 확인 권장</text>
+</svg>
