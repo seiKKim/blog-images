@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F5F7"/>
+  <rect width="1080" height="230" fill="#2B2F36"/>
+  <rect x="60" y="52" rx="26" width="300" height="60" fill="#FFD23F"/>
+  <text x="210" y="94" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#2B2F36" text-anchor="middle">폭염 안전정보</text>
+  <text x="60" y="182" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">땀으로 구분! 열탈진 vs 열사병</text>
+
+  <!-- 두 컬럼 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 왼쪽: 열탈진 -->
+    <rect x="60" y="290" rx="24" width="450" height="820" fill="#ffffff" stroke="#D6DCE4" stroke-width="2"/>
+    <rect x="60" y="290" rx="24" width="450" height="120" fill="#EC6A22"/>
+    <rect x="60" y="360" width="450" height="50" fill="#EC6A22"/>
+    <text x="285" y="368" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">열탈진</text>
+    <text x="285" y="490" font-weight="bold" font-size="72" fill="#EC6A22" text-anchor="middle">땀 O</text>
+    <text x="285" y="535" font-size="32" fill="#7C8794" text-anchor="middle">축축·차갑고 창백</text>
+
+    <text x="90" y="620" font-weight="bold" font-size="34" fill="#2B2F36">· 체온 37~40℃</text>
+    <text x="90" y="678" font-weight="bold" font-size="34" fill="#2B2F36">· 어지럼·메스꺼움</text>
+    <text x="90" y="736" font-weight="bold" font-size="34" fill="#2B2F36">· 극심한 무력감</text>
+
+    <rect x="90" y="800" rx="14" width="390" height="270" fill="#FFF1E7"/>
+    <text x="110" y="852" font-weight="bold" font-size="32" fill="#C24E12">대처</text>
+    <text x="110" y="905" font-size="30" fill="#3A2016">시원한 곳에서 휴식</text>
+    <text x="110" y="950" font-size="30" fill="#3A2016">다리 높이고 수분 보충</text>
+    <text x="110" y="1010" font-size="30" fill="#C24E12" font-weight="bold">1시간 이상 지속 시</text>
+    <text x="110" y="1050" font-size="30" fill="#C24E12" font-weight="bold">병원 방문</text>
+
+    <!-- 오른쪽: 열사병 -->
+    <rect x="570" y="290" rx="24" width="450" height="820" fill="#ffffff" stroke="#E23B3B" stroke-width="3"/>
+    <rect x="570" y="290" rx="24" width="450" height="120" fill="#E23B3B"/>
+    <rect x="570" y="360" width="450" height="50" fill="#E23B3B"/>
+    <text x="795" y="368" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">열사병</text>
+    <text x="795" y="490" font-weight="bold" font-size="72" fill="#E23B3B" text-anchor="middle">땀 X</text>
+    <text x="795" y="535" font-size="32" fill="#7C8794" text-anchor="middle">뜨겁고 건조</text>
+
+    <text x="600" y="620" font-weight="bold" font-size="34" fill="#2B2F36">· 체온 40℃ 이상</text>
+    <text x="600" y="678" font-weight="bold" font-size="34" fill="#2B2F36">· 의식 저하·혼수</text>
+    <text x="600" y="736" font-weight="bold" font-size="34" fill="#2B2F36">· 말 어눌·경련</text>
+
+    <rect x="600" y="800" rx="14" width="390" height="270" fill="#FDE7E7"/>
+    <text x="620" y="852" font-weight="bold" font-size="32" fill="#B31414">대처</text>
+    <text x="620" y="905" font-weight="bold" font-size="42" fill="#E23B3B">즉시 119 신고</text>
+    <text x="620" y="958" font-size="30" fill="#3A2016">시원한 곳 이동</text>
+    <text x="620" y="1003" font-size="30" fill="#3A2016">목·겨드랑이·사타구니</text>
+    <text x="620" y="1048" font-size="30" fill="#3A2016">얼음찜질로 체온 낮추기</text>
+  </g>
+
+  <!-- 하단 강조 -->
+  <rect x="60" y="1140" rx="18" width="960" height="100" fill="#2B2F36"/>
+  <text x="540" y="1202" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F" text-anchor="middle">땀 없이 뜨겁고 건조하면 → 열사병 의심!</text>
+
+  <rect x="0" y="1290" width="1080" height="60" fill="#E7EAEF"/>
+  <text x="60" y="1330" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C">출처: 질병관리청 · 정책브리핑</text>
+</svg>

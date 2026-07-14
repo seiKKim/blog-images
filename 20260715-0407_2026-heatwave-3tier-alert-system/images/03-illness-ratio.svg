@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F5F7"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="230" fill="#2B2F36"/>
+  <rect x="60" y="52" rx="26" width="300" height="60" fill="#FFD23F"/>
+  <text x="210" y="94" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#2B2F36" text-anchor="middle">폭염 안전정보</text>
+  <text x="60" y="182" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">온열질환 유형별 비율</text>
+
+  <text x="60" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#2B2F36">누적 <tspan fill="#E23B3B">741명</tspan> (2026.7.13 기준)</text>
+
+  <!-- 막대: x기준 60, 폭 최대 780 (100%->780) -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold">
+    <!-- 열탈진 57% -->
+    <text x="60" y="405" font-size="42" fill="#2B2F36">열탈진</text>
+    <rect x="60" y="430" width="960" height="86" rx="14" fill="#E7EAEF"/>
+    <rect x="60" y="430" width="547" height="86" rx="14" fill="#EC6A22"/>
+    <text x="82" y="485" font-size="40" fill="#ffffff">57% · 422명</text>
+
+    <!-- 열사병 18.1% -->
+    <text x="60" y="588" font-size="42" fill="#2B2F36">열사병</text>
+    <rect x="60" y="613" width="960" height="86" rx="14" fill="#E7EAEF"/>
+    <rect x="60" y="613" width="470" height="86" rx="14" fill="#E23B3B"/>
+    <text x="82" y="668" font-size="40" fill="#ffffff">18.1% · 134명</text>
+
+    <!-- 열경련 13.2% -->
+    <text x="60" y="771" font-size="42" fill="#2B2F36">열경련</text>
+    <rect x="60" y="796" width="960" height="86" rx="14" fill="#E7EAEF"/>
+    <rect x="60" y="796" width="360" height="86" rx="14" fill="#F2B21A"/>
+    <text x="82" y="851" font-size="40" fill="#3A2016">13.2% · 98명</text>
+
+    <!-- 열실신 11.1% -->
+    <text x="60" y="954" font-size="42" fill="#2B2F36">열실신</text>
+    <rect x="60" y="979" width="960" height="86" rx="14" fill="#E7EAEF"/>
+    <rect x="60" y="979" width="320" height="86" rx="14" fill="#7C8794"/>
+    <text x="82" y="1034" font-size="40" fill="#ffffff">11.1% · 82명</text>
+  </g>
+
+  <!-- 강조 박스 -->
+  <rect x="60" y="1110" rx="18" width="960" height="130" fill="#2B2F36"/>
+  <text x="90" y="1170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff">65세 이상 고령자가 <tspan fill="#FFD23F">전체의 30%(222명)</tspan></text>
+  <text x="90" y="1215" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="32" fill="#C7CED6">추정 사망 2명 · 남성 76% 여성 24%</text>
+
+  <rect x="0" y="1290" width="1080" height="60" fill="#E7EAEF"/>
+  <text x="60" y="1330" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C">출처: 질병관리청 온열질환 응급실감시체계</text>
+</svg>

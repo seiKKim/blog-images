@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F5F7"/>
+  <rect width="1080" height="230" fill="#2B2F36"/>
+  <circle cx="960" cy="70" r="180" fill="#FFB020" opacity="0.16"/>
+  <rect x="60" y="52" rx="26" width="300" height="60" fill="#FFD23F"/>
+  <text x="210" y="94" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#2B2F36" text-anchor="middle">폭염 안전정보</text>
+  <text x="60" y="182" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">폭염 예방 3대 수칙</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1 물 -->
+    <rect x="60" y="290" rx="22" width="960" height="290" fill="#ffffff" stroke="#D6DCE4" stroke-width="2"/>
+    <rect x="60" y="290" rx="22" width="20" height="290" fill="#2E86C1"/>
+    <circle cx="180" cy="435" r="80" fill="#EAF4FC"/>
+    <!-- 물방울 아이콘 -->
+    <path d="M180 380 C210 420 224 448 224 470 a44 44 0 0 1 -88 0 C136 448 150 420 180 380 Z" fill="#2E86C1"/>
+    <text x="300" y="400" font-weight="bold" font-size="56" fill="#2B2F36">① 물</text>
+    <text x="300" y="470" font-size="40" fill="#3A3F48">갈증 느끼기 전에</text>
+    <text x="300" y="522" font-size="40" fill="#3A3F48">자주 물 마시기</text>
+
+    <!-- 2 그늘 -->
+    <rect x="60" y="612" rx="22" width="960" height="290" fill="#ffffff" stroke="#D6DCE4" stroke-width="2"/>
+    <rect x="60" y="612" rx="22" width="20" height="290" fill="#1F8A53"/>
+    <circle cx="180" cy="757" r="80" fill="#E8F6EF"/>
+    <!-- 양산 아이콘 -->
+    <path d="M120 760 a60 40 0 0 1 120 0 Z" fill="#1F8A53"/>
+    <rect x="176" y="760" width="8" height="60" fill="#1F8A53"/>
+    <text x="300" y="722" font-weight="bold" font-size="56" fill="#2B2F36">② 그늘</text>
+    <text x="300" y="792" font-size="40" fill="#3A3F48">밝은 옷·양산·모자로</text>
+    <text x="300" y="844" font-size="40" fill="#3A3F48">직사광선 피하기</text>
+
+    <!-- 3 휴식 -->
+    <rect x="60" y="934" rx="22" width="960" height="290" fill="#ffffff" stroke="#D6DCE4" stroke-width="2"/>
+    <rect x="60" y="934" rx="22" width="20" height="290" fill="#E23B3B"/>
+    <circle cx="180" cy="1079" r="80" fill="#FDE7E7"/>
+    <!-- 시계 아이콘 -->
+    <circle cx="180" cy="1079" r="52" fill="none" stroke="#E23B3B" stroke-width="10"/>
+    <line x1="180" y1="1079" x2="180" y2="1042" stroke="#E23B3B" stroke-width="10" stroke-linecap="round"/>
+    <line x1="180" y1="1079" x2="208" y2="1093" stroke="#E23B3B" stroke-width="10" stroke-linecap="round"/>
+    <text x="300" y="1044" font-weight="bold" font-size="56" fill="#2B2F36">③ 휴식</text>
+    <text x="300" y="1114" font-size="40" fill="#3A3F48"><tspan fill="#E23B3B" font-weight="bold">낮 12~17시</tspan> 야외활동</text>
+    <text x="300" y="1166" font-size="40" fill="#3A3F48">자제하고 쉬기</text>
+  </g>
+
+  <rect x="0" y="1290" width="1080" height="60" fill="#E7EAEF"/>
+  <text x="60" y="1330" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C">출처: 질병관리청 폭염 대비 건강수칙</text>
+</svg>
