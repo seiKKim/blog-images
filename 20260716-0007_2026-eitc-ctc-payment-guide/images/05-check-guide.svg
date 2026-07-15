@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="60" y="55" rx="28" ry="28" width="196" height="60" fill="#FFD23F"/>
+  <text x="158" y="97" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">지급액·심사 조회 방법</text>
+
+  <!-- 홈택스 경로 도식 -->
+  <text x="60" y="290" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1B5FA6">① 홈택스(PC) 메뉴 경로</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="330" width="960" height="90" rx="14" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="90" y="388" font-weight="bold" font-size="36" fill="#1a1a1a">장려금·연말정산·기부금</text>
+    <text x="990" y="388" font-size="40" fill="#8FA6C0" text-anchor="end">▼</text>
+
+    <rect x="60" y="440" width="960" height="90" rx="14" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="90" y="498" font-weight="bold" font-size="36" fill="#1a1a1a">근로장려금 정기/반기 신청</text>
+    <text x="990" y="498" font-size="40" fill="#8FA6C0" text-anchor="end">▼</text>
+
+    <rect x="60" y="550" width="960" height="90" rx="14" fill="#1B5FA6"/>
+    <text x="90" y="608" font-weight="bold" font-size="36" fill="#ffffff">심사진행상황 조회</text>
+    <text x="990" y="608" font-size="34" fill="#FFD23F" text-anchor="end">지급 여부·금액 확인</text>
+  </g>
+
+  <!-- 다른 방법 -->
+  <text x="60" y="730" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1B5FA6">② 손택스 · 모의계산 · 전화</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="770" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="90" y="825" font-weight="bold" font-size="38" fill="#1a1a1a">손택스(모바일 앱)</text>
+    <text x="90" y="865" font-size="30" fill="#5B6B7C">장려금 메뉴에서 대상자 여부·조회·신청</text>
+
+    <rect x="60" y="895" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="90" y="950" font-weight="bold" font-size="38" fill="#1a1a1a">홈택스 모의계산</text>
+    <text x="90" y="990" font-size="30" fill="#5B6B7C">예상 지급액 미리 추정</text>
+
+    <rect x="60" y="1020" width="960" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="90" y="1080" font-weight="bold" font-size="38" fill="#1a1a1a">전화 상담</text>
+    <text x="90" y="1128" font-size="34" fill="#1B5FA6" font-weight="bold">장려금 상담센터 1566-3636 · 국세상담 126</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="32" fill="#5B6B7C">※ 조회 금액은 심사 결과에 따라 달라질 수 있음</text>
+</svg>

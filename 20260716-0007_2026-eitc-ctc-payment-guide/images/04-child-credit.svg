@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="60" y="55" rx="28" ry="28" width="196" height="60" fill="#FFD23F"/>
+  <text x="158" y="97" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">자녀장려금 한눈에</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 대상 -->
+    <rect x="60" y="280" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="345" font-weight="bold" font-size="40" fill="#1a1a1a">대상</text>
+    <text x="1000" y="345" font-weight="bold" font-size="40" fill="#1B5FA6" text-anchor="end">18세 미만 부양자녀</text>
+    <text x="100" y="400" font-size="32" fill="#5B6B7C">부양자녀가 있는 가구</text>
+
+    <!-- 소득요건 -->
+    <rect x="60" y="450" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="515" font-weight="bold" font-size="40" fill="#1a1a1a">소득요건</text>
+    <text x="1000" y="515" font-weight="bold" font-size="40" fill="#1B5FA6" text-anchor="end">7,000만원 미만</text>
+    <text x="100" y="570" font-size="32" fill="#5B6B7C">부부합산 총소득 · 홑벌이·맞벌이 공통</text>
+
+    <!-- 재산요건 -->
+    <rect x="60" y="620" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="685" font-weight="bold" font-size="40" fill="#1a1a1a">재산요건</text>
+    <text x="1000" y="685" font-weight="bold" font-size="40" fill="#1B5FA6" text-anchor="end">2.4억원 미만</text>
+    <text x="100" y="740" font-size="32" fill="#5B6B7C">근로장려금과 동일 기준</text>
+  </g>
+
+  <!-- 지급액 강조 박스 -->
+  <rect x="60" y="820" width="960" height="330" rx="20" fill="#1B5FA6"/>
+  <text x="540" y="900" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#E8EEF5" text-anchor="middle">지급액 (자녀 1명당)</text>
+  <text x="540" y="1020" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="96" fill="#FFD23F" text-anchor="middle">50만~100만원</text>
+  <text x="540" y="1095" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="36" fill="#E8EEF5" text-anchor="middle">자녀 수에 따라 합산 지급</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="32" fill="#5B6B7C">※ 근로장려금 대상이 아니어도 자녀장려금은 받을 수 있음</text>
+</svg>

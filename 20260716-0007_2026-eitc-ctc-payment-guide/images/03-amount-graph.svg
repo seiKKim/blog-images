@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="60" y="55" rx="28" ry="28" width="196" height="60" fill="#FFD23F"/>
+  <text x="158" y="97" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">근로장려금 가구별 최대 지급액</text>
+
+  <!-- 설명 -->
+  <text x="60" y="270" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="36" fill="#5B6B7C">소득이 늘수록 커졌다가 상한 부근에서 다시 줄어드는 구조</text>
+
+  <!-- 사다리꼴 그래프 영역 -->
+  <!-- 기준선 -->
+  <line x1="120" y1="900" x2="1000" y2="900" stroke="#C3D0DE" stroke-width="3"/>
+
+  <!-- 맞벌이 사다리꼴 (가장 높음) -->
+  <polygon points="120,900 320,470 720,470 1000,900" fill="#1B5FA6" opacity="0.9"/>
+  <!-- 홑벌이 사다리꼴 -->
+  <polygon points="180,900 350,590 690,590 940,900" fill="#3E7CBE" opacity="0.85"/>
+  <!-- 단독 사다리꼴 -->
+  <polygon points="240,900 380,690 660,690 880,900" fill="#7FA8D0" opacity="0.9"/>
+
+  <!-- 값 라벨 -->
+  <text x="520" y="440" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6" text-anchor="middle">맞벌이 최대 330만원</text>
+  <text x="520" y="565" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#3E7CBE" text-anchor="middle">홑벌이 285만원</text>
+  <text x="520" y="665" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#4A6A8C" text-anchor="middle">단독 165만원</text>
+
+  <!-- 축 라벨 -->
+  <text x="120" y="945" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C" text-anchor="middle">소득 낮음</text>
+  <text x="1000" y="945" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C" text-anchor="end">소득 상한</text>
+
+  <!-- 소득 상한 요약 박스 -->
+  <rect x="60" y="1010" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="90" y="1075" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a">부부합산 총소득 상한 (미만이어야 대상)</text>
+  <text x="90" y="1135" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="32" fill="#5B6B7C">단독 2,200만 · 홑벌이 3,200만 · 맞벌이 4,400만원</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="32" fill="#5B6B7C">※ '최대' 기준 · 실제 지급액은 소득 구간별 산정표에 따름</text>
+</svg>

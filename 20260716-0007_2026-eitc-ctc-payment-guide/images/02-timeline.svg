@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="140" fill="#1B5FA6"/>
+  <rect x="40" y="40" rx="26" ry="26" width="180" height="56" fill="#FFD23F"/>
+  <text x="130" y="79" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="250" y="92" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#ffffff">정기신청 vs 반기신청</text>
+
+  <!-- 정기신청 카드 -->
+  <rect x="40" y="185" width="1000" height="215" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="40" y="185" width="14" height="215" rx="7" fill="#1B5FA6"/>
+  <text x="80" y="252" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1B5FA6">정기신청분</text>
+  <text x="80" y="312" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#1a1a1a">5월 1일~6월 1일 신청 → 8월 말부터 순차 입금</text>
+  <text x="80" y="366" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#5B6B7C">늦어도 9/30까지 지급 · 근로·사업·종교인 소득자 모두 대상</text>
+
+  <!-- 반기신청 카드 -->
+  <rect x="40" y="425" width="1000" height="215" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="40" y="425" width="14" height="215" rx="7" fill="#8FA6C0"/>
+  <text x="80" y="492" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#5B6B7C">반기신청분</text>
+  <text x="80" y="552" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#1a1a1a">상·하반기 합산 정산 → 다음 해 6월 지급</text>
+  <text x="80" y="606" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#5B6B7C">근로소득자만 이용 · 사업·종교인 소득자는 불가</text>
+</svg>
