@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1F8FB"/>
+  <rect width="1080" height="210" fill="#0E7C9E"/>
+  <rect x="60" y="72" rx="26" ry="26" width="220" height="56" fill="#FFD23F"/>
+  <text x="170" y="111" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#0A5A73" text-anchor="middle">고위험군</text>
+  <text x="60" y="185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">특히 위험한 아이들</text>
+
+  <!-- 단두종 강조 박스 -->
+  <rect x="60" y="270" width="960" height="245" rx="18" fill="#FFE9E9" stroke="#F3B4B4"/>
+  <text x="100" y="340" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#E23B3B">단두종이 최고 위험군</text>
+  <text x="100" y="400" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="37" fill="#243B4A">퍼그·프렌치불독·불독·보스턴테리어·페키니즈</text>
+  <text x="100" y="450" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="37" fill="#243B4A">코가 짧아 열 발산이 잘 안 됩니다</text>
+  <rect x="100" y="472" width="820" height="20" fill="none"/>
+  <text x="100" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#E23B3B">열사병 위험 146% 높다는 연구 결과도</text>
+
+  <!-- 그 외 고위험 목록 -->
+  <text x="60" y="600" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#0A5A73">그 외 고위험 개체</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="635" width="960" height="115" rx="16" fill="#ffffff" stroke="#CFE6EF"/>
+    <text x="105" y="705" font-size="42" fill="#243B4A">🐶 노령견 · 비만·과체중</text>
+
+    <rect x="60" y="770" width="960" height="115" rx="16" fill="#ffffff" stroke="#CFE6EF"/>
+    <text x="105" y="840" font-size="42" fill="#243B4A">❤ 심장 질환 등 기저질환 보유</text>
+
+    <rect x="60" y="905" width="960" height="115" rx="16" fill="#ffffff" stroke="#CFE6EF"/>
+    <text x="105" y="975" font-size="42" fill="#243B4A">🖤 검은(짙은) 털 · 이중모(더블코트)</text>
+
+    <rect x="60" y="1040" width="960" height="115" rx="16" fill="#ffffff" stroke="#CFE6EF"/>
+    <text x="105" y="1110" font-size="42" fill="#243B4A">🐱 고양이도 비만일수록 더 위험</text>
+  </g>
+
+  <text x="60" y="1230" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#0E7C9E">→ 상태를 더 자주 확인하고 활동은 보수적으로 제한</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEAF1"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B7684">우리 아이가 고위험군인지 꼭 확인하세요</text>
+</svg>

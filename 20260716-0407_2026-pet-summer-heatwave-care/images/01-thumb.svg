@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E7C9E"/>
+      <stop offset="1" stop-color="#0A5A73"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식 도형 -->
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="130" cy="980" r="210" fill="#ffffff" opacity="0.06"/>
+  <!-- 눈결정(쿨링) 장식 -->
+  <g stroke="#E8F6FB" stroke-width="7" stroke-linecap="round" opacity="0.5">
+    <g transform="translate(910,760)">
+      <line x1="0" y1="-55" x2="0" y2="55"/>
+      <line x1="-48" y1="-28" x2="48" y2="28"/>
+      <line x1="-48" y1="28" x2="48" y2="-28"/>
+    </g>
+  </g>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="330" height="68" fill="#FFD23F"/>
+  <text x="245" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#0A5A73" text-anchor="middle">반려동물 건강관리</text>
+
+  <!-- 경보 태그 -->
+  <rect x="80" y="184" rx="30" ry="30" width="300" height="60" fill="#E23B3B"/>
+  <text x="230" y="225" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#ffffff" text-anchor="middle">사상 첫 폭염 중대경보</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#E8F6FB">2026 폭염, 우리 아이가</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#ffffff">사람보다</text>
+  <text x="80" y="640" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#FFD23F">먼저 위험</text>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="740" rx="20" ry="20" width="920" height="230" fill="#ffffff" opacity="0.14"/>
+  <text x="112" y="812" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">강아지·고양이 정상 체온 38~39℃</text>
+  <text x="112" y="878" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#FFD23F">40℃ 넘으면 열사병 · 장기 손상</text>
+  <text x="112" y="944" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#E8F6FB">산책 시간·실내 온도·응급 대처 총정리</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1030" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#E8F6FB" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1F8FB"/>
+  <rect width="1080" height="210" fill="#0E7C9E"/>
+  <rect x="60" y="72" rx="26" ry="26" width="240" height="56" fill="#FFD23F"/>
+  <text x="180" y="111" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#0A5A73" text-anchor="middle">안전한 산책</text>
+  <text x="60" y="185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">손등 5초 테스트</text>
+
+  <!-- 5초 테스트 설명 박스 -->
+  <rect x="60" y="270" width="960" height="270" rx="18" fill="#ffffff" stroke="#CFE6EF"/>
+  <circle cx="185" cy="405" r="80" fill="#E8F6FB"/>
+  <text x="185" y="392" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#0E7C9E" text-anchor="middle">5초</text>
+  <text x="185" y="448" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#0E7C9E" text-anchor="middle">손등</text>
+  <text x="310" y="365" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#0A5A73">산책 전, 보호자 손등을</text>
+  <text x="310" y="418" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#0A5A73">바닥에 5초간 대보세요</text>
+  <text x="310" y="480" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="37" fill="#E23B3B">뜨겁게 느껴지면 발바닥 화상 위험!</text>
+  <text x="310" y="524" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="35" fill="#243B4A">기온 30℃ = 아스팔트 50~60℃ 이상</text>
+
+  <!-- 기온별 위험도 표 제목 -->
+  <text x="60" y="625" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#0A5A73">기온별 위험도</text>
+
+  <!-- 표 행 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="660" width="960" height="130" rx="16" fill="#ffffff" stroke="#CFE6EF"/>
+    <rect x="60" y="660" width="220" height="130" rx="16" fill="#CFE9C9"/>
+    <text x="170" y="740" font-weight="bold" font-size="46" fill="#1F8A53" text-anchor="middle">24~27℃</text>
+    <text x="320" y="740" font-size="40" fill="#243B4A">퍼피·단두종 주의</text>
+
+    <rect x="60" y="810" width="960" height="130" rx="16" fill="#ffffff" stroke="#CFE6EF"/>
+    <rect x="60" y="810" width="220" height="130" rx="16" fill="#F5D9A8"/>
+    <text x="170" y="890" font-weight="bold" font-size="46" fill="#E8722C" text-anchor="middle">28~31℃</text>
+    <text x="320" y="890" font-size="40" fill="#243B4A">모든 반려견 위험</text>
+
+    <rect x="60" y="960" width="960" height="130" rx="16" fill="#ffffff" stroke="#CFE6EF"/>
+    <rect x="60" y="960" width="220" height="130" rx="16" fill="#F3C0C0"/>
+    <text x="170" y="1040" font-weight="bold" font-size="46" fill="#E23B3B" text-anchor="middle">32℃~</text>
+    <text x="320" y="1030" font-size="39" fill="#243B4A">견종·크기 무관</text>
+    <text x="320" y="1075" font-size="39" fill="#243B4A">열사병 위험 크게 증가</text>
+  </g>
+
+  <!-- 시간대 안내 -->
+  <rect x="60" y="1112" width="960" height="120" rx="18" fill="#E8F6FB" stroke="#9FD3E4"/>
+  <text x="100" y="1170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#0A5A73">낮 11시~오후 4시 산책은 피하세요</text>
+  <text x="100" y="1212" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="35" fill="#243B4A">이른 아침·해 진 후 짧게 · 잔디·흙길 우선</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEAF1"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B7684">기온별 위험도: 리앤폴 자료 기준</text>
+</svg>
