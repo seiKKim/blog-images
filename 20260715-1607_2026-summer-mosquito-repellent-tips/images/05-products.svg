@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1FAF9"/>
+  <rect width="1080" height="200" fill="#0E7C86"/>
+  <rect x="60" y="70" rx="30" ry="30" width="180" height="60" fill="#E8722C"/>
+  <text x="150" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#ffffff" text-anchor="middle">생활꿀팁</text>
+  <text x="270" y="152" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">모기 퇴치 제품 5종 비교</text>
+
+  <!-- 표 헤더 -->
+  <rect x="60" y="250" width="960" height="90" rx="16" fill="#0E7C86"/>
+  <text x="230" y="308" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">제품군</text>
+  <text x="560" y="308" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">주 사용처</text>
+  <text x="850" y="308" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">이런 분께</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 행1 -->
+    <rect x="60" y="352" width="960" height="150" rx="14" fill="#ffffff" stroke="#CDE8E5" stroke-width="2"/>
+    <text x="90" y="415" font-weight="bold" font-size="40" fill="#1a1a1a">전기 모기채</text>
+    <text x="90" y="465" font-size="32" fill="#0E7C86">실내 즉시</text>
+    <text x="470" y="440" font-size="34" fill="#44585A">냄새·연기 없이 즉각 처리</text>
+    <text x="470" y="484" font-size="32" fill="#7A8C8E">보이는 모기 바로 잡기</text>
+
+    <!-- 행2 -->
+    <rect x="60" y="514" width="960" height="150" rx="14" fill="#EAF7F5" stroke="#CDE8E5" stroke-width="2"/>
+    <text x="90" y="577" font-weight="bold" font-size="40" fill="#1a1a1a">포충기(흡입식)</text>
+    <text x="90" y="627" font-size="32" fill="#E8722C" font-weight="bold">실외 유리</text>
+    <text x="470" y="602" font-size="34" fill="#44585A">유인 후 포획, 조용</text>
+    <text x="470" y="646" font-size="32" fill="#7A8C8E">마당·캠핑·화단 인근</text>
+
+    <!-- 행3 -->
+    <rect x="60" y="676" width="960" height="150" rx="14" fill="#ffffff" stroke="#CDE8E5" stroke-width="2"/>
+    <text x="90" y="739" font-weight="bold" font-size="40" fill="#1a1a1a">전자매트/모기향</text>
+    <text x="90" y="789" font-size="32" fill="#0E7C86">실내 취침</text>
+    <text x="470" y="764" font-size="34" fill="#44585A">지속 효과, 환기 필요</text>
+    <text x="470" y="808" font-size="32" fill="#7A8C8E">자는 동안 대처</text>
+
+    <!-- 행4 -->
+    <rect x="60" y="838" width="960" height="150" rx="14" fill="#EAF7F5" stroke="#CDE8E5" stroke-width="2"/>
+    <text x="90" y="901" font-weight="bold" font-size="40" fill="#1a1a1a">방충망/모기장</text>
+    <text x="90" y="951" font-size="32" fill="#0E7C86">실내·영유아</text>
+    <text x="470" y="926" font-size="34" fill="#44585A">화학성분 0, 가장 안전</text>
+    <text x="470" y="970" font-size="32" fill="#7A8C8E">6개월 미만 영아·민감자</text>
+
+    <!-- 행5 -->
+    <rect x="60" y="1000" width="960" height="150" rx="14" fill="#ffffff" stroke="#CDE8E5" stroke-width="2"/>
+    <text x="90" y="1063" font-weight="bold" font-size="40" fill="#1a1a1a">기피제</text>
+    <text x="90" y="1113" font-size="32" fill="#0E7C86">야외·휴대</text>
+    <text x="470" y="1088" font-size="34" fill="#44585A">물림 자체 예방</text>
+    <text x="470" y="1132" font-size="32" fill="#7A8C8E">캠핑·야외활동</text>
+  </g>
+
+  <text x="60" y="1215" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#0E7C86">브랜드보다 '어디서·누가 쓰는가'로 고르기</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEFED"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#3E6360">사양·가격은 시점마다 다르니 구매 전 확인하세요</text>
+</svg>

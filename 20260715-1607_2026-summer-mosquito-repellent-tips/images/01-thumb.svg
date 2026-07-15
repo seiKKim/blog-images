@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E7C86"/>
+      <stop offset="1" stop-color="#12A4A6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 청량한 물방울/원 장식 -->
+  <circle cx="940" cy="180" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="210" fill="#ffffff" opacity="0.07"/>
+  <circle cx="980" cy="920" r="120" fill="#7FE3D9" opacity="0.18"/>
+
+  <!-- 카테고리 뱃지 (생활꿀팁 오렌지) -->
+  <rect x="80" y="86" rx="34" ry="34" width="212" height="68" fill="#E8722C"/>
+  <text x="186" y="132" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 일본뇌염 경보 뱃지 -->
+  <rect x="308" y="86" rx="34" ry="34" width="320" height="68" fill="#FFD23F"/>
+  <text x="468" y="132" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">일본뇌염 경보 시즌</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="290" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#DFF7F3">방충망 쳤는데 왜 들어올까?</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="440" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="130" fill="#ffffff">2026 여름</text>
+  <text x="80" y="590" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="130" fill="#FFD23F">모기 퇴치법</text>
+
+  <!-- 핵심 3곳 강조 박스 -->
+  <rect x="80" y="668" rx="24" ry="24" width="920" height="200" fill="#ffffff" opacity="0.14"/>
+  <text x="112" y="742" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">유입경로 3곳만 막아도 절반은 해결</text>
+  <text x="112" y="820" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#FFD23F">방충망 · 창틀 물구멍 · 배수구</text>
+
+  <!-- 하단 -->
+  <text x="80" y="960" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#DFF7F3">집안·실외·제품·안전수칙 총정리</text>
+  <text x="80" y="1018" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#BFEDE7" opacity="0.95">blog.naver.com/trip_chocho</text>
+</svg>

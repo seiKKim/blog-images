@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1FAF9"/>
+  <rect width="1080" height="200" fill="#0E7C86"/>
+  <rect x="60" y="70" rx="30" ry="30" width="180" height="60" fill="#E8722C"/>
+  <text x="150" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#ffffff" text-anchor="middle">생활꿀팁</text>
+  <text x="270" y="152" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">실외 모기 산란지 체크</text>
+
+  <!-- 핵심 원리 배너 -->
+  <rect x="60" y="250" width="960" height="130" rx="24" fill="#0E7C86"/>
+  <text x="540" y="308" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#ffffff" text-anchor="middle">핵심은 '고인 물' 제거</text>
+  <text x="540" y="356" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#BFEDE7" text-anchor="middle">적은 물에도 산란, 빠르면 5일 만에 성충</text>
+
+  <!-- 체크 항목 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="420" width="960" height="150" rx="20" fill="#ffffff" stroke="#CDE8E5" stroke-width="2"/>
+    <circle cx="130" cy="495" r="26" fill="#12A4A6"/>
+    <path d="M118 495 l9 10 l16 -20" stroke="#fff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="185" y="480" font-weight="bold" font-size="44" fill="#1a1a1a">화분 받침·베란다 고인 물 비우기</text>
+    <text x="185" y="535" font-size="36" fill="#44585A">대표 산란처, 주기적으로 비우고 청소</text>
+
+    <rect x="60" y="590" width="960" height="150" rx="20" fill="#ffffff" stroke="#CDE8E5" stroke-width="2"/>
+    <circle cx="130" cy="665" r="26" fill="#12A4A6"/>
+    <path d="M118 665 l9 10 l16 -20" stroke="#fff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="185" y="650" font-weight="bold" font-size="44" fill="#1a1a1a">베란다 우수관 틈새 밀봉</text>
+    <text x="185" y="705" font-size="36" fill="#44585A">스타킹·전용 커버로 해충 통로 차단</text>
+
+    <rect x="60" y="760" width="960" height="150" rx="20" fill="#ffffff" stroke="#CDE8E5" stroke-width="2"/>
+    <circle cx="130" cy="835" r="26" fill="#12A4A6"/>
+    <path d="M118 835 l9 10 l16 -20" stroke="#fff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="185" y="820" font-weight="bold" font-size="44" fill="#1a1a1a">유충 방제</text>
+    <text x="185" y="875" font-size="36" fill="#44585A">고인 물에 70℃ 이상 뜨거운 물 붓기</text>
+
+    <rect x="60" y="930" width="960" height="150" rx="20" fill="#ffffff" stroke="#CDE8E5" stroke-width="2"/>
+    <circle cx="130" cy="1005" r="26" fill="#E8722C"/>
+    <path d="M118 1005 l9 10 l16 -20" stroke="#fff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="185" y="990" font-weight="bold" font-size="44" fill="#1a1a1a">천연 기피 식물 (보조 수단)</text>
+    <text x="185" y="1045" font-size="36" fill="#44585A">구문초·레몬밤·페퍼민트·바질, 완전차단 아님</text>
+  </g>
+
+  <text x="60" y="1180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#0E7C86">화려한 장비보다 '물 안 고이게 하기'가 기본</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEFED"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#3E6360">베란다·화단·우수관을 주기적으로 점검하세요</text>
+</svg>

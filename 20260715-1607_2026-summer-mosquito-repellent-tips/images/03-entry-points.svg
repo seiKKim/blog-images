@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1FAF9"/>
+  <rect width="1080" height="200" fill="#0E7C86"/>
+  <rect x="60" y="70" rx="30" ry="30" width="180" height="60" fill="#E8722C"/>
+  <text x="150" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#ffffff" text-anchor="middle">생활꿀팁</text>
+  <text x="270" y="152" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">집안 모기 유입경로 3곳</text>
+
+  <text x="60" y="290" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#0E7C86">방충망 쳐도 들어온다면? 여기부터 막으세요</text>
+
+  <!-- 카드 1 -->
+  <rect x="60" y="340" width="960" height="270" rx="24" fill="#ffffff" stroke="#CDE8E5" stroke-width="2"/>
+  <circle cx="180" cy="475" r="70" fill="#E6F6F4"/>
+  <text x="180" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="70" fill="#0E7C86" text-anchor="middle">1</text>
+  <text x="300" y="450" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#1a1a1a">방충망 틈새</text>
+  <text x="300" y="520" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#44585A">찢어진 곳 점검 · 창틀 사이 틈은</text>
+  <text x="300" y="572" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#44585A">보강 테이프로 메우기</text>
+
+  <!-- 카드 2 -->
+  <rect x="60" y="640" width="960" height="270" rx="24" fill="#ffffff" stroke="#CDE8E5" stroke-width="2"/>
+  <circle cx="180" cy="775" r="70" fill="#FFF1E6"/>
+  <text x="180" y="800" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="70" fill="#E8722C" text-anchor="middle">2</text>
+  <text x="300" y="750" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#1a1a1a">창틀 하단 물구멍</text>
+  <text x="300" y="820" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#44585A">샷시 배수구멍이 의외의 통로</text>
+  <text x="300" y="872" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#44585A">메쉬 물구멍 방충망 스티커로 차단</text>
+
+  <!-- 카드 3 -->
+  <rect x="60" y="940" width="960" height="270" rx="24" fill="#ffffff" stroke="#CDE8E5" stroke-width="2"/>
+  <circle cx="180" cy="1075" r="70" fill="#E9EEF6"/>
+  <text x="180" y="1100" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="70" fill="#1B5FA6" text-anchor="middle">3</text>
+  <text x="300" y="1050" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#1a1a1a">화장실 배수구</text>
+  <text x="300" y="1120" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#44585A">하수구 타고 올라옴 · 뚜껑 닫아두기</text>
+  <text x="300" y="1172" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#44585A">70℃ 이상 끓인 물로 유충 사멸 도움</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEFED"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#3E6360">집안 모기, 이 3곳만 막아도 절반은 해결됩니다</text>
+</svg>

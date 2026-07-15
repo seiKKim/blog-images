@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1FAF9"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="200" fill="#0E7C86"/>
+  <rect x="60" y="70" rx="30" ry="30" width="180" height="60" fill="#E8722C"/>
+  <text x="150" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#ffffff" text-anchor="middle">생활꿀팁</text>
+  <text x="270" y="152" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">2026 일본뇌염 발령 타임라인</text>
+
+  <!-- 세로 타임라인 축 -->
+  <line x1="180" y1="330" x2="180" y2="1080" stroke="#B7E3DF" stroke-width="8"/>
+
+  <!-- 노드 1: 3월 주의보 -->
+  <circle cx="180" cy="400" r="30" fill="#12A4A6"/>
+  <rect x="250" y="330" width="770" height="180" rx="20" fill="#ffffff" stroke="#CDE8E5" stroke-width="2"/>
+  <text x="290" y="400" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#0E7C86">3월 20일 · 주의보</text>
+  <text x="290" y="465" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#33474A">제주에서 매개모기(빨간집모기) 확인</text>
+
+  <!-- 노드 2: 6월 경보 -->
+  <circle cx="180" cy="700" r="34" fill="#E23B3B"/>
+  <rect x="250" y="610" width="770" height="240" rx="20" fill="#FFF3F1" stroke="#F3C4BE" stroke-width="2"/>
+  <rect x="290" y="640" rx="24" ry="24" width="270" height="56" fill="#E23B3B"/>
+  <text x="425" y="679" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#ffffff" text-anchor="middle">전국 경보 발령</text>
+  <text x="290" y="760" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#C22323">6월 17일 · 경보</text>
+  <text x="290" y="820" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#5A3A38">대구 채집 모기서 바이러스 유전자 검출</text>
+
+  <!-- 하이라이트 박스 -->
+  <rect x="60" y="920" width="960" height="270" rx="24" fill="#FFF9E6" stroke="#F0DFA0" stroke-width="2"/>
+  <text x="100" y="1000" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#8A6D00">예년보다 한 달 이상 이른 경보</text>
+  <text x="100" y="1068" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#3A3A3A">· 국내 환자 연평균 17명 안팎 (8~9월 첫 환자)</text>
+  <text x="100" y="1128" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#3A3A3A">· 최근 5년 환자 중 60대 이상 65.9%</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEFED"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#3E6360">출처: 질병관리청 (2026년)</text>
+</svg>
