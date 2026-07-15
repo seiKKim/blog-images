@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1F8A53"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">주민세 개인분, 어디서 낼까</text>
+  <text x="60" y="176" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">홈택스 X · 지방세는 위택스·이택스</text>
+
+  <!-- 조회 3단계 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <text x="60" y="300" font-weight="bold" font-size="40" fill="#1F8A53">개인분 조회·납부 순서</text>
+
+    <rect x="60" y="330" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="118" cy="385" r="30" fill="#1F8A53"/>
+    <text x="118" y="399" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="176" y="400" font-weight="bold" font-size="42" fill="#1a1a1a">위택스·서울이택스 접속 후 로그인</text>
+
+    <rect x="60" y="456" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="118" cy="511" r="30" fill="#1F8A53"/>
+    <text x="118" y="525" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="176" y="526" font-weight="bold" font-size="42" fill="#1a1a1a">지방세 &gt; 주민세 개인분 고지 조회</text>
+
+    <rect x="60" y="582" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="118" cy="637" r="30" fill="#1F8A53"/>
+    <text x="118" y="651" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="176" y="652" font-weight="bold" font-size="42" fill="#1a1a1a">세액 확인 후 카드·계좌로 납부</text>
+  </g>
+
+  <!-- 납부 채널 -->
+  <text x="60" y="790" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1F8A53">이런 채널로 낼 수 있어요</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#1a1a1a" text-anchor="middle">
+    <rect x="60" y="820" width="300" height="96" rx="16" fill="#E4F1EA" stroke="#BFE0CE"/>
+    <text x="210" y="880">위택스</text>
+    <rect x="390" y="820" width="300" height="96" rx="16" fill="#E4F1EA" stroke="#BFE0CE"/>
+    <text x="540" y="880">서울 이택스</text>
+    <rect x="720" y="820" width="300" height="96" rx="16" fill="#E4F1EA" stroke="#BFE0CE"/>
+    <text x="870" y="880">인터넷지로</text>
+
+    <rect x="60" y="932" width="300" height="96" rx="16" fill="#E4F1EA" stroke="#BFE0CE"/>
+    <text x="210" y="992">CD·ATM</text>
+    <rect x="390" y="932" width="300" height="96" rx="16" fill="#E4F1EA" stroke="#BFE0CE"/>
+    <text x="540" y="992">신용카드·ARS</text>
+    <rect x="720" y="932" width="300" height="96" rx="16" fill="#E4F1EA" stroke="#BFE0CE"/>
+    <text x="870" y="992">간편결제</text>
+  </g>
+
+  <!-- 납기 강조 -->
+  <rect x="60" y="1070" width="960" height="140" rx="18" fill="#1F8A53"/>
+  <text x="540" y="1135" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">납부기간 통상 8/16 ~ 8/31</text>
+  <text x="540" y="1185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#FFD23F" text-anchor="middle">정확한 세액·납기는 8월 고지서로 확인</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">지방세는 위택스(wetax.go.kr)·서울 이택스에서 조회·납부</text>
+</svg>

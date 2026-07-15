@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1F8A53"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">종업원분 면세점 상향</text>
+  <text x="60" y="176" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">2025년 개정 · 월평균 급여총액 기준</text>
+
+  <!-- 세율 안내 -->
+  <rect x="60" y="270" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="338" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">세율 = 급여 총액의</text>
+  <text x="1000" y="338" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="48" fill="#1F8A53" text-anchor="end">0.5%</text>
+
+  <!-- 종전 카드 -->
+  <rect x="60" y="440" width="440" height="420" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="280" y="520" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#8895A5" text-anchor="middle">종전</text>
+  <text x="280" y="568" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8895A5" text-anchor="middle">(2024년 이전)</text>
+  <text x="280" y="700" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="96" fill="#8895A5" text-anchor="middle">1.5억</text>
+  <text x="280" y="770" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#8895A5" text-anchor="middle">300만원 × 50</text>
+  <text x="280" y="822" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8895A5" text-anchor="middle">이하면 면세</text>
+
+  <!-- 화살표 -->
+  <text x="540" y="680" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="90" fill="#1F8A53" text-anchor="middle">→</text>
+
+  <!-- 개정 후 카드 -->
+  <rect x="580" y="440" width="440" height="420" rx="20" fill="#1F8A53"/>
+  <text x="800" y="520" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#FFD23F" text-anchor="middle">2025년 개정 후</text>
+  <text x="800" y="700" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="96" fill="#ffffff" text-anchor="middle">1.8억</text>
+  <text x="800" y="770" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#E8EEF5" text-anchor="middle">360만원 × 50</text>
+  <text x="800" y="822" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#E8EEF5" text-anchor="middle">이하면 면세</text>
+
+  <!-- 요점 -->
+  <rect x="60" y="910" width="960" height="240" rx="18" fill="#E4F1EA" stroke="#BFE0CE"/>
+  <text x="100" y="985" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1F8A53">한눈에 정리</text>
+  <text x="100" y="1050" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">· 면세점 = 최근 12개월 월평균 급여총액</text>
+  <text x="100" y="1108" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">· 신고·납부는 매월분을 다음 달 10일까지</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">확정치는 최신 시행령·관할 지자체 안내로 확인</text>
+</svg>
