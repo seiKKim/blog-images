@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#E8722C"/>
+  <text x="60" y="98" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">선풍기 vs 서큘레이터, 뭐가 다를까?</text>
+
+  <!-- 선풍기 카드 -->
+  <rect x="60" y="196" width="465" height="440" rx="22" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="292" y="264" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1a1a1a" text-anchor="middle">선풍기</text>
+  <!-- 넓고 짧은 바람 -->
+  <g transform="translate(150,360)">
+    <circle cx="0" cy="0" r="34" fill="none" stroke="#8A97A6" stroke-width="7"/>
+    <line x1="0" y1="0" x2="0" y2="-24" stroke="#8A97A6" stroke-width="7" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="21" y2="12" stroke="#8A97A6" stroke-width="7" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="-21" y2="12" stroke="#8A97A6" stroke-width="7" stroke-linecap="round"/>
+    <g fill="none" stroke="#E8722C" stroke-width="6" stroke-linecap="round" opacity="0.85">
+      <path d="M40 -60 Q 120 -75 175 -55"/>
+      <path d="M40 -20 Q 130 -25 190 -18"/>
+      <path d="M40 20 Q 130 25 190 18"/>
+      <path d="M40 60 Q 120 75 175 55"/>
+    </g>
+  </g>
+  <text x="292" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#E8722C" text-anchor="middle">넓고 짧은 바람</text>
+  <text x="292" y="608" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C" text-anchor="middle">사람에게 시원함 · 국소적</text>
+
+  <!-- VS -->
+  <text x="540" y="430" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#B0BAC6" text-anchor="middle">VS</text>
+
+  <!-- 서큘레이터 카드 -->
+  <rect x="555" y="196" width="465" height="440" rx="22" fill="#ffffff" stroke="#E8722C" stroke-width="3"/>
+  <text x="787" y="264" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1a1a1a" text-anchor="middle">서큘레이터</text>
+  <!-- 좁고 먼 직진 바람 -->
+  <g transform="translate(640,360)">
+    <circle cx="0" cy="0" r="34" fill="none" stroke="#8A97A6" stroke-width="7"/>
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#8A97A6" stroke-width="5"/>
+    <g fill="none" stroke="#E8722C" stroke-width="7" stroke-linecap="round" opacity="0.9">
+      <path d="M40 -14 L 300 -14"/>
+      <path d="M40 0 L 320 0"/>
+      <path d="M40 14 L 300 14"/>
+      <path d="M300 -14 l 20 14 l -20 14" fill="none"/>
+    </g>
+  </g>
+  <text x="787" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#E8722C" text-anchor="middle">좁고 먼 직진 바람</text>
+  <text x="787" y="608" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C" text-anchor="middle">실내 공기 순환 · 멀리</text>
+
+  <rect x="0" y="656" width="1080" height="64" fill="#E8EEF5"/>
+  <text x="60" y="698" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C">서큘레이터는 공기 기둥을 만들어 냉기를 구석까지 퍼뜨립니다</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="108" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">서큘레이터 구매 체크리스트</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFE7CF">이 4가지만 보세요</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1 모터 -->
+    <rect x="60" y="270" width="960" height="240" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="390" r="52" fill="#E8722C"/>
+    <text x="150" y="408" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="240" y="360" font-size="46" font-weight="bold" fill="#1a1a1a">모터 — BLDC냐 AC냐 (가장 중요)</text>
+    <text x="240" y="418" font-size="34" fill="#5B6B7C">소음 민감·장시간 &#8594; BLDC (약 70% 소비전력)</text>
+    <text x="240" y="466" font-size="34" fill="#5B6B7C">예산 중시·간헐 사용 &#8594; AC (저가·직관적)</text>
+
+    <!-- 2 유효거리 -->
+    <rect x="60" y="530" width="960" height="240" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="650" r="52" fill="#E8722C"/>
+    <text x="150" y="668" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="240" y="620" font-size="46" font-weight="bold" fill="#1a1a1a">풍량 / 공기이동거리</text>
+    <text x="240" y="678" font-size="34" fill="#5B6B7C">실제 유효거리는 표기값의 약 20% (20m&#8594;약 4m)</text>
+    <text x="240" y="726" font-size="34" fill="#5B6B7C">권장선: 공기이동거리 20m &#183; 풍량 30㎥/min 이상</text>
+
+    <!-- 3 소음 -->
+    <rect x="60" y="790" width="960" height="240" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="910" r="52" fill="#E8722C"/>
+    <text x="150" y="928" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="240" y="880" font-size="46" font-weight="bold" fill="#1a1a1a">소음(dB)</text>
+    <text x="240" y="938" font-size="34" fill="#5B6B7C">무소음 제품은 없음 · 동급 차이는 약 10% 수준</text>
+    <text x="240" y="986" font-size="34" fill="#5B6B7C">저소음 프리미엄은 표기 약 20dB(도서관 수준)</text>
+
+    <!-- 4 회전 -->
+    <rect x="60" y="1050" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="1150" r="52" fill="#E8722C"/>
+    <text x="150" y="1168" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="240" y="1120" font-size="46" font-weight="bold" fill="#1a1a1a">회전 각도 (용도에 따라)</text>
+    <text x="240" y="1178" font-size="34" fill="#5B6B7C">순수 순환만 &#8594; 회전 없는 편이 유리</text>
+    <text x="240" y="1226" font-size="34" fill="#5B6B7C">사람에게 바람 겸용 &#8594; 3D 입체회전 유용</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">순서: 모터 &#8594; 소음 &#8594; 유효거리 &#8594; 가격대로 고르는 것을 권장</text>
+</svg>
