@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="180" fill="#243B6B"/>
+  <rect x="60" y="46" rx="24" ry="24" width="200" height="52" fill="#FFD23F"/>
+  <text x="160" y="82" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">예금자보호</text>
+  <text x="60" y="150" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">파킹통장·예금·적금·CMA</text>
+
+  <!-- 표1 헤더 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="40" y="220" width="620" height="66" rx="10" fill="#2C477E"/>
+    <text x="70" y="264" font-size="32" font-weight="bold" fill="#ffffff">구분 · 성격</text>
+    <rect x="670" y="220" width="370" height="66" rx="10" fill="#2C477E"/>
+    <text x="855" y="264" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle">예금자보호</text>
+
+    <rect x="40" y="294" width="620" height="100" rx="10" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="335" font-size="34" font-weight="bold" fill="#1a1a1a">파킹통장</text>
+    <text x="70" y="374" font-size="27" fill="#5B6B7C">보통예금 · 입출금 자유 + 하루 이자</text>
+    <rect x="670" y="294" width="370" height="100" rx="10" fill="#E8F5EC" stroke="#BFE3CD"/>
+    <text x="855" y="356" font-size="34" font-weight="bold" fill="#1F8A53" text-anchor="middle">O · 1억원</text>
+
+    <rect x="40" y="402" width="620" height="100" rx="10" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="443" font-size="34" font-weight="bold" fill="#1a1a1a">정기예금</text>
+    <text x="70" y="482" font-size="27" fill="#5B6B7C">목돈을 정한 기간 묶어둠</text>
+    <rect x="670" y="402" width="370" height="100" rx="10" fill="#E8F5EC" stroke="#BFE3CD"/>
+    <text x="855" y="464" font-size="34" font-weight="bold" fill="#1F8A53" text-anchor="middle">O</text>
+
+    <rect x="40" y="510" width="620" height="100" rx="10" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="551" font-size="34" font-weight="bold" fill="#1a1a1a">정기적금</text>
+    <text x="70" y="590" font-size="27" fill="#5B6B7C">매달 조금씩 납입해 목돈 만들기</text>
+    <rect x="670" y="510" width="370" height="100" rx="10" fill="#E8F5EC" stroke="#BFE3CD"/>
+    <text x="855" y="572" font-size="34" font-weight="bold" fill="#1F8A53" text-anchor="middle">O</text>
+
+    <rect x="40" y="618" width="620" height="100" rx="10" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="659" font-size="34" font-weight="bold" fill="#1a1a1a">CMA</text>
+    <text x="70" y="698" font-size="27" fill="#5B6B7C">증권사가 단기채권 등에 굴려 하루 이자</text>
+    <rect x="670" y="618" width="370" height="100" rx="10" fill="#FDEBEB" stroke="#F3C4C4"/>
+    <text x="855" y="672" font-size="32" font-weight="bold" fill="#E23B3B" text-anchor="middle">원칙 X</text>
+    <text x="855" y="704" font-size="26" fill="#B5493F" text-anchor="middle">(종금형만 O)</text>
+  </g>
+
+  <!-- 표2: CMA 유형 -->
+  <rect x="40" y="750" width="1000" height="60" rx="12" fill="#243B6B"/>
+  <text x="70" y="792" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#ffffff">CMA 유형별 예금자보호</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="40" y="822" width="1000" height="86" rx="10" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="856" font-size="32" font-weight="bold" fill="#1a1a1a">RP형</text>
+    <text x="70" y="892" font-size="26" fill="#5B6B7C">국공채 등 우량채권 담보 · 가장 보편적</text>
+    <text x="1010" y="878" font-size="32" font-weight="bold" fill="#E23B3B" text-anchor="end">X</text>
+
+    <rect x="40" y="916" width="1000" height="86" rx="10" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="950" font-size="32" font-weight="bold" fill="#1a1a1a">발행어음형</text>
+    <text x="70" y="986" font-size="26" fill="#5B6B7C">초대형 증권사 발행어음 · 7개사만 취급</text>
+    <text x="1010" y="972" font-size="32" font-weight="bold" fill="#E23B3B" text-anchor="end">X</text>
+
+    <rect x="40" y="1010" width="1000" height="86" rx="10" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="1044" font-size="32" font-weight="bold" fill="#1a1a1a">MMW형</text>
+    <text x="70" y="1080" font-size="26" fill="#5B6B7C">한국증권금융 예치 등 · 일복리·실시간 금리</text>
+    <text x="1010" y="1066" font-size="32" font-weight="bold" fill="#E23B3B" text-anchor="end">X</text>
+
+    <rect x="40" y="1104" width="1000" height="86" rx="10" fill="#E8F5EC" stroke="#BFE3CD"/>
+    <text x="70" y="1138" font-size="32" font-weight="bold" fill="#1a1a1a">종금형</text>
+    <text x="70" y="1174" font-size="26" fill="#5B6B7C">기업어음(CP) 등 · CMA 중 유일 보호</text>
+    <text x="1010" y="1160" font-size="32" font-weight="bold" fill="#1F8A53" text-anchor="end">O · 1억원</text>
+  </g>
+
+  <!-- 안내 박스 -->
+  <rect x="40" y="1206" width="1000" height="52" rx="10" fill="#FFF6E0"/>
+  <text x="70" y="1240" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="28" fill="#8A6B1F">예금자보호 1억원 상향: 2025.9.1부터 · 금융회사별 1인당 적용</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1319" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#5B6B7C">※ 본문 정리 기준 · 상품·시점에 따라 조건 변동 가능</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="150" fill="#243B6B"/>
+  <rect x="60" y="46" rx="24" ry="24" width="150" height="52" fill="#FFD23F"/>
+  <text x="135" y="82" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">금리 흐름</text>
+  <text x="240" y="98" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">한국은행 기준금리 추이</text>
+
+  <!-- 그래프 영역 -->
+  <!-- 기준선 -->
+  <line x1="150" y1="520" x2="1000" y2="520" stroke="#C6D2E2" stroke-width="3"/>
+  <!-- y축 라벨 -->
+  <text x="120" y="330" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#8092AC" text-anchor="end">2.75%</text>
+  <text x="120" y="440" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#8092AC" text-anchor="end">2.50%</text>
+
+  <!-- 동결 구간(수평선) 2.50% -->
+  <line x1="180" y1="425" x2="760" y2="425" stroke="#7E8CA6" stroke-width="10" stroke-linecap="round"/>
+  <!-- 인상 계단 -->
+  <line x1="760" y1="425" x2="760" y2="315" stroke="#E23B3B" stroke-width="10" stroke-linecap="round"/>
+  <line x1="760" y1="315" x2="940" y2="315" stroke="#E23B3B" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- 인상 지점 강조 -->
+  <circle cx="760" cy="315" r="16" fill="#E23B3B"/>
+  <circle cx="760" cy="315" r="30" fill="none" stroke="#E23B3B" stroke-width="4" opacity="0.5"/>
+
+  <!-- 동결 구간 라벨 -->
+  <text x="470" y="480" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="32" fill="#5B6B7C" text-anchor="middle">8회 연속 동결 (2025.7~2026.5)</text>
+
+  <!-- 인상 라벨 박스 -->
+  <rect x="640" y="200" rx="16" ry="16" width="330" height="86" fill="#E23B3B"/>
+  <text x="805" y="240" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="34" fill="#ffffff" text-anchor="middle">2026.7.16 인상</text>
+  <text x="805" y="274" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="28" fill="#FFE38A" text-anchor="middle">+0.25%p → 2.75%</text>
+
+  <!-- x축 라벨 -->
+  <text x="180" y="565" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="28" fill="#8092AC">2023.1</text>
+  <text x="940" y="565" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="28" fill="#8092AC" text-anchor="end">2026.7</text>
+
+  <!-- 핵심 문구 -->
+  <text x="150" y="640" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="36" fill="#243B6B">3년 6개월 만의 첫 인상 · 만장일치 결정</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="672" width="1080" height="48" fill="#E8EEF5"/>
+  <text x="60" y="703" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="27" fill="#5B6B7C">※ 본문 기준 · 개별 상품 금리는 예시이며 변동됨</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="150" fill="#243B6B"/>
+  <rect x="60" y="46" rx="24" ry="24" width="160" height="52" fill="#FFD23F"/>
+  <text x="140" y="82" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">이자 원리</text>
+  <text x="240" y="98" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">하루만 맡겨도 이자</text>
+
+  <!-- 단계 흐름 -->
+  <!-- Day 1 -->
+  <rect x="60" y="210" width="290" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="205" y="262" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#243B6B" text-anchor="middle">1일차</text>
+  <text x="205" y="316" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="middle">1,200만원</text>
+  <text x="205" y="360" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">연 3% 예치</text>
+
+  <text x="380" y="315" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="60" fill="#FFB020" text-anchor="middle">→</text>
+
+  <!-- Day 2 -->
+  <rect x="420" y="210" width="290" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="565" y="262" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#243B6B" text-anchor="middle">다음날</text>
+  <text x="565" y="316" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="44" fill="#1F8A53" text-anchor="middle">+약 986원</text>
+  <text x="565" y="360" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">하루치 이자 발생</text>
+
+  <text x="740" y="315" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="60" fill="#FFB020" text-anchor="middle">→</text>
+
+  <!-- Day 3 -->
+  <rect x="780" y="210" width="240" height="180" rx="20" fill="#F0F6FF" stroke="#B9CBE6" stroke-width="2"/>
+  <text x="900" y="262" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#243B6B" text-anchor="middle">일복리</text>
+  <text x="900" y="312" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">이자가</text>
+  <text x="900" y="356" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="32" fill="#1a1a1a" text-anchor="middle">원금에 합산</text>
+
+  <!-- 포인트 박스 -->
+  <rect x="60" y="430" width="960" height="90" rx="16" fill="#243B6B"/>
+  <text x="90" y="486" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="36" fill="#ffffff">매일 최종 잔액 기준 일할계산 · 0시(날짜) 기준</text>
+
+  <!-- 하단 설명 -->
+  <text x="60" y="580" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#1a1a1a">· 이자 지급 주기: 매일 / 월 1회 / 분기 1회 (상품마다 다름)</text>
+  <text x="60" y="632" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#1a1a1a">· 중도 인출해도 이미 산정된 이자에 불이익 없음</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="672" width="1080" height="48" fill="#E8EEF5"/>
+  <text x="60" y="703" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="27" fill="#5B6B7C">※ 본문 인용 예시 · 실제 이자는 상품·시점에 따라 다름</text>
+</svg>

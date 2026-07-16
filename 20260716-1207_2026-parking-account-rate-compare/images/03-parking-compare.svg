@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="180" fill="#243B6B"/>
+  <rect x="60" y="46" rx="24" ry="24" width="180" height="52" fill="#FFD23F"/>
+  <text x="150" y="82" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">유형별 비교</text>
+  <text x="60" y="150" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">파킹통장 금리 · 한도 · 조건</text>
+
+  <!-- 섹션 1: 인터넷은행 -->
+  <rect x="40" y="220" width="1000" height="60" rx="12" fill="#2C477E"/>
+  <text x="70" y="262" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#ffffff">인터넷은행 — 한도 넓음 · 조건 적음 · 금리 낮은 편</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="40" y="292" width="1000" height="96" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="332" font-size="34" font-weight="bold" fill="#1a1a1a">케이뱅크 플러스박스</text>
+    <text x="70" y="372" font-size="28" fill="#5B6B7C">한도 제한 없음 · 바로 이자받기</text>
+    <text x="1010" y="352" font-size="36" font-weight="bold" fill="#243B6B" text-anchor="end">1.70/2.30%</text>
+
+    <rect x="40" y="396" width="1000" height="96" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="436" font-size="34" font-weight="bold" fill="#1a1a1a">카카오뱅크 세이프박스</text>
+    <text x="70" y="476" font-size="28" fill="#5B6B7C">하루만 맡겨도 이자</text>
+    <text x="1010" y="456" font-size="36" font-weight="bold" fill="#243B6B" text-anchor="end">연 1.60%</text>
+
+    <rect x="40" y="500" width="1000" height="96" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="540" font-size="34" font-weight="bold" fill="#1a1a1a">토스뱅크 파킹/모임금고</text>
+    <text x="70" y="580" font-size="28" fill="#5B6B7C">매일 자동 이자</text>
+    <text x="1010" y="560" font-size="36" font-weight="bold" fill="#243B6B" text-anchor="end">1.60% 수준</text>
+  </g>
+
+  <!-- 섹션 2: 시중은행 -->
+  <rect x="40" y="618" width="1000" height="60" rx="12" fill="#2C477E"/>
+  <text x="70" y="660" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#ffffff">시중은행 — 조건형 · 한도 200만원 안팎</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="40" y="690" width="1000" height="90" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="728" font-size="34" font-weight="bold" fill="#1a1a1a">하나 달달하나 · 우리 우월한월급</text>
+    <text x="70" y="766" font-size="28" fill="#5B6B7C">한도 200만원 · 급여이체 조건</text>
+    <text x="1010" y="748" font-size="36" font-weight="bold" fill="#243B6B" text-anchor="end">3.00~3.10%</text>
+
+    <rect x="40" y="788" width="1000" height="90" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="826" font-size="34" font-weight="bold" fill="#1a1a1a">신한 슈퍼쏠 · SC제일 Hi통장</text>
+    <text x="70" y="864" font-size="28" fill="#5B6B7C">한도 300만원 / 금액 구간별 우대</text>
+    <text x="1010" y="846" font-size="36" font-weight="bold" fill="#243B6B" text-anchor="end">2.50~3.00%대</text>
+  </g>
+
+  <!-- 섹션 3: 저축은행 -->
+  <rect x="40" y="900" width="1000" height="60" rx="12" fill="#2C477E"/>
+  <text x="70" y="942" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#ffffff">저축은행 — 한도 크거나 소액 초고금리</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="40" y="972" width="1000" height="90" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="1010" font-size="34" font-weight="bold" fill="#1a1a1a">웰컴 주거래 · NH FIC-One</text>
+    <text x="70" y="1048" font-size="28" fill="#5B6B7C">한도 1억원 · 급여이체/간편결제 우대</text>
+    <text x="1010" y="1030" font-size="36" font-weight="bold" fill="#243B6B" text-anchor="end">3.00% 수준</text>
+
+    <rect x="40" y="1070" width="1000" height="90" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="70" y="1108" font-size="34" font-weight="bold" fill="#1a1a1a">키움저축 파킹통장</text>
+    <text x="70" y="1146" font-size="28" fill="#5B6B7C">무제한 · 우대조건 없음</text>
+    <text x="1010" y="1128" font-size="36" font-weight="bold" fill="#243B6B" text-anchor="end">2.85% 수준</text>
+
+    <rect x="40" y="1168" width="1000" height="90" rx="12" fill="#FFF6E0" stroke="#F2D98A"/>
+    <text x="70" y="1206" font-size="34" font-weight="bold" fill="#1a1a1a">OK 짠테크통장Ⅱ 계열</text>
+    <text x="70" y="1244" font-size="28" fill="#8A6B1F">소액(50만원 이하) · 한시 이벤트성</text>
+    <text x="1010" y="1226" font-size="36" font-weight="bold" fill="#B5892A" text-anchor="end">연 6~7%대</text>
+  </g>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1319" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#5B6B7C">※ 모두 2025~2026 상반기 예시 · 변동됨 · 가입 전 각 사 공시/은행연합회 확인</text>
+</svg>
