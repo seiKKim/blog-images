@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1B5FA6"/>
+  <rect x="60" y="42" rx="24" ry="24" width="140" height="48" fill="#FFD23F"/>
+  <text x="130" y="76" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="28" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="125" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="54" fill="#ffffff">에어컨 필터 청소 전 vs 후</text>
+
+  <!-- 전 (더러움) -->
+  <rect x="60" y="200" width="440" height="360" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="280" y="260" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#8A6D3B" text-anchor="middle">청소 전</text>
+  <rect x="130" y="300" width="300" height="180" rx="10" fill="#C9BEA5"/>
+  <g stroke="#7A6A45" stroke-width="5">
+    <line x1="150" y1="300" x2="150" y2="480"/>
+    <line x1="180" y1="300" x2="180" y2="480"/>
+    <line x1="210" y1="300" x2="210" y2="480"/>
+    <line x1="240" y1="300" x2="240" y2="480"/>
+    <line x1="270" y1="300" x2="270" y2="480"/>
+    <line x1="300" y1="300" x2="300" y2="480"/>
+    <line x1="330" y1="300" x2="330" y2="480"/>
+    <line x1="360" y1="300" x2="360" y2="480"/>
+    <line x1="390" y1="300" x2="390" y2="480"/>
+  </g>
+  <g fill="#6B5A38" opacity="0.6">
+    <circle cx="200" cy="360" r="14"/>
+    <circle cx="320" cy="410" r="18"/>
+    <circle cx="260" cy="450" r="12"/>
+    <circle cx="360" cy="340" r="10"/>
+  </g>
+  <text x="280" y="530" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#8A6D3B" text-anchor="middle">먼지로 효율 저하</text>
+
+  <!-- 화살표 -->
+  <text x="540" y="395" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="60" fill="#1B5FA6" text-anchor="middle">→</text>
+
+  <!-- 후 (깨끗) -->
+  <rect x="580" y="200" width="440" height="360" rx="20" fill="#ffffff" stroke="#1B5FA6" stroke-width="3"/>
+  <text x="800" y="260" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1B5FA6" text-anchor="middle">청소 후</text>
+  <rect x="650" y="300" width="300" height="180" rx="10" fill="#E8F1FA"/>
+  <g stroke="#1B5FA6" stroke-width="5">
+    <line x1="670" y1="300" x2="670" y2="480"/>
+    <line x1="700" y1="300" x2="700" y2="480"/>
+    <line x1="730" y1="300" x2="730" y2="480"/>
+    <line x1="760" y1="300" x2="760" y2="480"/>
+    <line x1="790" y1="300" x2="790" y2="480"/>
+    <line x1="820" y1="300" x2="820" y2="480"/>
+    <line x1="850" y1="300" x2="850" y2="480"/>
+    <line x1="880" y1="300" x2="880" y2="480"/>
+    <line x1="910" y1="300" x2="910" y2="480"/>
+  </g>
+  <text x="800" y="530" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#1B5FA6" text-anchor="middle">깨끗한 필터 = 효율↑</text>
+
+  <!-- 하단 강조 -->
+  <rect x="60" y="600" width="960" height="90" rx="16" fill="#FFF3D6"/>
+  <text x="540" y="658" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#9A6B00" text-anchor="middle">2주에 한 번 필터 세척 → 약 3~5% 전력 절감</text>
+</svg>

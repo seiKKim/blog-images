@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="60" y="52" rx="26" ry="26" width="150" height="52" fill="#FFD23F"/>
+  <text x="135" y="88" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="60" fill="#ffffff">신청 기간 · 방법 · 서류</text>
+
+  <!-- 기간 -->
+  <rect x="60" y="270" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="90" y="335" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1B5FA6">신청 기간</text>
+  <text x="90" y="400" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">2026.6.15 ~ 12.31</text>
+  <text x="90" y="450" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#E23B3B">※ 여름 냉방은 7월 초 서둘러 신청</text>
+
+  <!-- 방법 -->
+  <rect x="60" y="500" width="960" height="270" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="90" y="565" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1B5FA6">신청 방법</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#333333">
+    <text x="90" y="630">· 읍·면·동 행정복지센터 방문</text>
+    <text x="90" y="685">· 복지로(bokjiro.go.kr) 온라인</text>
+    <text x="90" y="740">· 대리신청·직권신청 가능</text>
+  </g>
+
+  <!-- 서류 -->
+  <rect x="60" y="800" width="960" height="270" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="90" y="865" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1B5FA6">필요 서류</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#333333">
+    <text x="90" y="930">· 에너지이용권 발급 신청서(현장)</text>
+    <text x="90" y="985">· 전기 요금고지서(관리비 포함시 관리비 고지서)</text>
+    <text x="90" y="1040">· 신분 확인 서류 등</text>
+  </g>
+
+  <rect x="60" y="1100" width="960" height="130" rx="16" fill="#FFF3D6"/>
+  <text x="540" y="1155" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#9A6B00" text-anchor="middle">요금차감은 신청 다음 달부터 자동 차감</text>
+  <text x="540" y="1200" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#7A5500" text-anchor="middle">문의 ☎ 1600-3190 · energyv.or.kr</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 에너지바우처(energyv.or.kr) · 복지로</text>
+</svg>

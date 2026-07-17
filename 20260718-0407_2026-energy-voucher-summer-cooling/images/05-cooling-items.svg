@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="60" y="52" rx="26" ry="26" width="150" height="52" fill="#FFD23F"/>
+  <text x="135" y="88" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="60" fill="#ffffff">냉방비 절약 용품</text>
+
+  <text x="60" y="290" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#5B6B7C">지원 대상이 아니어도 챙기면 이득</text>
+
+  <!-- 서큘레이터 -->
+  <rect x="60" y="340" width="960" height="270" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="180" cy="475" r="80" fill="#E8F1FA"/>
+  <circle cx="180" cy="475" r="52" fill="none" stroke="#1B5FA6" stroke-width="10"/>
+  <line x1="180" y1="423" x2="180" y2="527" stroke="#1B5FA6" stroke-width="10"/>
+  <line x1="128" y1="475" x2="232" y2="475" stroke="#1B5FA6" stroke-width="10"/>
+  <text x="300" y="440" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">에어서큘레이터</text>
+  <text x="300" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#444444">에어컨과 병용 시 냉기 빨리 확산</text>
+  <text x="300" y="552" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#1B5FA6">체감온도 1~3℃↓ · 에너지 약 20% 절약</text>
+
+  <!-- 항균필터 -->
+  <rect x="60" y="640" width="960" height="270" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="100" y="705" width="160" height="140" rx="10" fill="#E8F1FA" stroke="#1B5FA6" stroke-width="6"/>
+  <line x1="130" y1="705" x2="130" y2="845" stroke="#1B5FA6" stroke-width="5"/>
+  <line x1="165" y1="705" x2="165" y2="845" stroke="#1B5FA6" stroke-width="5"/>
+  <line x1="200" y1="705" x2="200" y2="845" stroke="#1B5FA6" stroke-width="5"/>
+  <line x1="235" y1="705" x2="235" y2="845" stroke="#1B5FA6" stroke-width="5"/>
+  <text x="300" y="740" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">에어컨 필터·클리너</text>
+  <text x="300" y="800" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#444444">2주에 한 번 먼지 세척</text>
+  <text x="300" y="852" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#1B5FA6">약 3~5% 전력 절감(한국에너지공단)</text>
+
+  <!-- 실외기 차광 -->
+  <rect x="60" y="940" width="960" height="270" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="100" y="1010" width="160" height="120" rx="8" fill="#E8F1FA" stroke="#1B5FA6" stroke-width="6"/>
+  <line x1="90" y1="1000" x2="270" y2="1000" stroke="#E8722C" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="180" cy="1070" r="34" fill="none" stroke="#1B5FA6" stroke-width="8"/>
+  <text x="300" y="1040" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">실외기 차광커버</text>
+  <text x="300" y="1100" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#444444">직사광선 차단으로 열 부담 완화</text>
+  <text x="300" y="1152" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#444444">에어컨 냉방 효율에 도움</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">※ 가격·조건은 시점마다 변동</text>
+</svg>
