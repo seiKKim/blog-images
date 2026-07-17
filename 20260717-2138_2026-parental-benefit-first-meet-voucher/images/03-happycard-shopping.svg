@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <rect x="60" y="52" rx="26" width="230" height="56" fill="#FFD23F"/>
+  <text x="175" y="90" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">첫만남이용권</text>
+  <text x="60" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">국민행복카드로 육아용품 준비</text>
+
+  <!-- 카드 일러스트 -->
+  <rect x="60" y="270" width="600" height="360" rx="30" fill="#1B5FA6"/>
+  <rect x="60" y="270" width="600" height="360" rx="30" fill="#ffffff" opacity="0.06"/>
+  <circle cx="600" cy="330" r="120" fill="#FFD23F" opacity="0.18"/>
+  <text x="100" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#E8EEF5">국민행복카드</text>
+  <rect x="100" y="410" width="90" height="66" rx="10" fill="#FFD23F"/>
+  <text x="100" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#ffffff">첫만남 포인트 충전</text>
+  <text x="100" y="612" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#E8EEF5">첫째 200만 · 둘째이상 300만원</text>
+
+  <!-- 장바구니 요약 -->
+  <rect x="700" y="270" width="320" height="360" rx="24" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="730" y="342" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a">온라인몰</text>
+  <text x="730" y="392" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">쿠팡·11번가 등</text>
+  <text x="730" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1B5FA6">카드 결제 가능</text>
+  <text x="730" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">집에서 편하게</text>
+  <text x="730" y="600" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">주문 준비</text>
+
+  <!-- 살 수 있는 품목 -->
+  <text x="60" y="740" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1a1a1a">이런 육아용품을 준비하기 좋아요</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1B5FA6">
+    <rect x="60" y="790" width="450" height="110" rx="18" fill="#EAF1F9"/>
+    <text x="285" y="858" text-anchor="middle">기저귀</text>
+    <rect x="570" y="790" width="450" height="110" rx="18" fill="#EAF1F9"/>
+    <text x="795" y="858" text-anchor="middle">분유</text>
+    <rect x="60" y="920" width="450" height="110" rx="18" fill="#EAF1F9"/>
+    <text x="285" y="988" text-anchor="middle">유모차</text>
+    <rect x="570" y="920" width="450" height="110" rx="18" fill="#EAF1F9"/>
+    <text x="795" y="988" text-anchor="middle">카시트</text>
+  </g>
+
+  <!-- 사용기한 강조 -->
+  <rect x="60" y="1070" width="960" height="130" rx="20" fill="#FFF3D0"/>
+  <text x="100" y="1140" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#C46A00">사용 기한 2년! 출생일로부터 2년 내 소진</text>
+  <text x="100" y="1182" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8a6a1f">기한 지나면 잔액 국고 환수</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 사회서비스 전자바우처 · 2026년 7월 기준</text>
+</svg>

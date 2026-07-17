@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1B5FA6"/>
+  <circle cx="950" cy="180" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="88" rx="34" ry="34" width="230" height="68" fill="#FFD23F"/>
+  <text x="195" y="134" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="248" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#E8EEF5">2026 부모급여·첫만남이용권</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="388" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="98" fill="#ffffff">만 0세 <tspan fill="#FFD23F">월 100만원</tspan></text>
+
+  <!-- 금액 카드 3개 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="80" y="452" rx="24" width="920" height="150" fill="#ffffff" opacity="0.12"/>
+    <text x="112" y="512" font-weight="bold" font-size="46" fill="#E8EEF5">부모급여</text>
+    <text x="968" y="546" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="end">월 100만·50만</text>
+
+    <rect x="80" y="622" rx="24" width="920" height="150" fill="#ffffff" opacity="0.12"/>
+    <text x="112" y="682" font-weight="bold" font-size="46" fill="#E8EEF5">첫만남이용권</text>
+    <text x="968" y="716" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="end">200만·300만</text>
+
+    <rect x="80" y="792" rx="24" width="920" height="150" fill="#ffffff" opacity="0.12"/>
+    <text x="112" y="852" font-weight="bold" font-size="46" fill="#E8EEF5">아동수당</text>
+    <text x="968" y="886" font-weight="bold" font-size="60" fill="#ffffff" text-anchor="end">월 10만~12만</text>
+  </g>
+
+  <!-- 마감 강조 띠 -->
+  <rect x="80" y="964" rx="18" width="920" height="70" fill="#FFD23F"/>
+  <text x="540" y="1012" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a" text-anchor="middle">신청은 출생 후 60일 이내!</text>
+</svg>

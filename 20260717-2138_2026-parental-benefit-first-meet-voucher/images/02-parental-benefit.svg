@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <rect x="60" y="52" rx="26" width="180" height="56" fill="#FFD23F"/>
+  <text x="150" y="90" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">부모급여</text>
+  <text x="60" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">만 0세 부모급여, 가정 vs 어린이집</text>
+
+  <!-- 가정보육 카드 -->
+  <rect x="60" y="270" width="960" height="270" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="352" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#1a1a1a">가정에서 양육</text>
+  <text x="100" y="428" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" fill="#5B6B7C">전액 현금 지급 (매월 25일)</text>
+  <text x="980" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="90" fill="#1B5FA6" text-anchor="end">월 100만원</text>
+
+  <!-- 어린이집 카드 -->
+  <rect x="60" y="570" width="960" height="330" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="652" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#1a1a1a">어린이집 이용 시</text>
+  <text x="100" y="720" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" fill="#5B6B7C">보육료 바우처 약 58만 4천원 차감</text>
+  <line x1="100" y1="770" x2="980" y2="770" stroke="#E0E7F0" stroke-width="2"/>
+  <text x="100" y="852" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1a1a1a">남은 현금 차액</text>
+  <text x="980" y="862" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="80" fill="#E8722C" text-anchor="end">41만 6천원</text>
+
+  <!-- 만1세 안내 -->
+  <rect x="60" y="930" width="960" height="150" rx="20" fill="#EAF1F9"/>
+  <text x="100" y="1002" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1B5FA6">만 1세는 월 50만원</text>
+  <text x="100" y="1052" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">어린이집 이용 시 보육료가 커서 추가 현금 차액 없음</text>
+
+  <!-- 정정 안내 -->
+  <text x="60" y="1170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#E23B3B">※ 만 0세 110만원은 오정보 — 공식 기준은 100만원</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 대한민국 정책브리핑(korea.kr) · 2026년 7월 기준</text>
+</svg>
