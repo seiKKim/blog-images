@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">홈택스 부가세 신고 6단계</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#E8EEF5">정기신고(확정), 미리채움으로 대부분 자동</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- STEP 1 -->
+    <rect x="60" y="270" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="140" cy="345" r="46" fill="#1F8A53"/>
+    <text x="140" y="362" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="220" y="330" font-size="42" font-weight="bold" fill="#1a1a1a">홈택스 접속 → 로그인</text>
+    <text x="220" y="382" font-size="32" fill="#5B6B7C">공동인증서 또는 간편인증</text>
+
+    <!-- STEP 2 -->
+    <rect x="60" y="440" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="140" cy="515" r="46" fill="#1F8A53"/>
+    <text x="140" y="532" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="220" y="500" font-size="42" font-weight="bold" fill="#1a1a1a">신고/납부 → 부가가치세</text>
+    <text x="220" y="552" font-size="32" fill="#5B6B7C">정기신고(확정) 선택</text>
+
+    <!-- STEP 3 -->
+    <rect x="60" y="610" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="140" cy="685" r="46" fill="#1F8A53"/>
+    <text x="140" y="702" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="220" y="670" font-size="42" font-weight="bold" fill="#1a1a1a">사업자번호 입력 · 유형 선택</text>
+    <text x="220" y="722" font-size="32" fill="#5B6B7C">기본정보 자동 조회</text>
+
+    <!-- STEP 4 -->
+    <rect x="60" y="780" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="140" cy="855" r="46" fill="#FFD23F"/>
+    <text x="140" y="872" font-size="52" font-weight="bold" fill="#1a1a1a" text-anchor="middle">4</text>
+    <text x="220" y="840" font-size="42" font-weight="bold" fill="#1a1a1a">미리채움 서비스 확인</text>
+    <text x="220" y="892" font-size="32" fill="#5B6B7C">2026년 1기부터 미리채움 30종으로 확대</text>
+
+    <!-- STEP 5 -->
+    <rect x="60" y="950" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="140" cy="1025" r="46" fill="#1F8A53"/>
+    <text x="140" y="1042" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="220" y="1010" font-size="42" font-weight="bold" fill="#1a1a1a">매출·매입 확인·보완 입력</text>
+    <text x="220" y="1062" font-size="32" fill="#5B6B7C">세금계산서·카드·현금영수증 자료</text>
+
+    <!-- STEP 6 -->
+    <rect x="60" y="1120" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="140" cy="1195" r="46" fill="#1F8A53"/>
+    <text x="140" y="1212" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">6</text>
+    <text x="220" y="1180" font-size="42" font-weight="bold" fill="#1a1a1a">공제·경감세액 반영 후 제출</text>
+    <text x="220" y="1232" font-size="32" fill="#5B6B7C">신용카드공제·예정고지·전자신고공제 등</text>
+  </g>
+</svg>
