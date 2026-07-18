@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="top5" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B3B57"/>
+      <stop offset="1" stop-color="#0E5C79"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#EEF7FA"/>
+
+  <rect width="1080" height="210" fill="url(#top5)"/>
+  <rect x="60" y="72" rx="30" ry="30" width="180" height="60" fill="#3FD9C9"/>
+  <text x="150" y="114" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#083041" text-anchor="middle">생활꿀팁</text>
+  <text x="270" y="120" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">2026 온열질환</text>
+  <text x="60" y="180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#BFE6EC">낮 시간 건강 관리도 중요합니다</text>
+
+  <!-- 누적 환자 -->
+  <rect x="60" y="280" width="960" height="330" rx="24" fill="#ffffff" stroke="#CFE3EA"/>
+  <text x="100" y="370" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#0B3B57">7월 중순 기준 누적 온열질환자</text>
+  <text x="100" y="510" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="130" fill="#E23B3B">700명대</text>
+  <text x="100" y="575" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#5B6B7C">7월 12일 기준 누적 741명 · 추정 사망 2명</text>
+
+  <!-- 7월 하순 위험 -->
+  <rect x="60" y="650" width="960" height="430" rx="24" fill="#0B3B57"/>
+  <text x="100" y="740" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#3FD9C9">7월 하순이 가장 위험</text>
+  <text x="100" y="800" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#BFE6EC">2025년 7월 20~31일 집중도</text>
+  <text x="100" y="920" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="96" fill="#ffffff">환자 약 <tspan fill="#FFD23F">30%</tspan></text>
+  <text x="100" y="1030" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="96" fill="#ffffff">사망자 약 <tspan fill="#FFD23F">35%</tspan></text>
+
+  <!-- 수칙 -->
+  <text x="60" y="1170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#0B3B57">기본 수칙: <tspan fill="#E8722C">물 · 그늘 · 휴식</tspan></text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEFF6"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#4B6472">출처: 질병관리청</text>
+</svg>

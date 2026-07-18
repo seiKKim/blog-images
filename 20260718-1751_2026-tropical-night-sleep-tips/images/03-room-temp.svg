@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="top3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B3B57"/>
+      <stop offset="1" stop-color="#0E5C79"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#EEF7FA"/>
+
+  <rect width="1080" height="210" fill="url(#top3)"/>
+  <rect x="60" y="72" rx="30" ry="30" width="180" height="60" fill="#3FD9C9"/>
+  <text x="150" y="114" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#083041" text-anchor="middle">생활꿀팁</text>
+  <text x="270" y="120" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">침실 온도 세팅</text>
+  <text x="60" y="180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#BFE6EC">숙면을 위한 온도 3가지</text>
+
+  <!-- 행1 침실 적정온도 -->
+  <rect x="60" y="280" width="960" height="290" rx="24" fill="#ffffff" stroke="#CFE3EA"/>
+  <text x="100" y="370" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#0B3B57">여름철 침실 적정 온도</text>
+  <text x="100" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="130" fill="#0E5C79"><tspan fill="#E8722C">24~26℃</tspan></text>
+
+  <!-- 행2 에어컨 취침온도 -->
+  <rect x="60" y="600" width="960" height="290" rx="24" fill="#ffffff" stroke="#CFE3EA"/>
+  <text x="100" y="690" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#0B3B57">에어컨 취침 온도</text>
+  <text x="100" y="820" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="130" fill="#0E5C79"><tspan fill="#E8722C">25~27℃</tspan></text>
+  <text x="640" y="700" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#5B6B7C">취침온도보다</text>
+  <text x="640" y="748" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#0E5C79">2~3도 높게</text>
+
+  <!-- 행3 실내외 온도차 -->
+  <rect x="60" y="920" width="960" height="230" rx="24" fill="#0B3B57"/>
+  <text x="100" y="1010" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#3FD9C9">실내외 온도차</text>
+  <text x="100" y="1105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="90" fill="#ffffff"><tspan fill="#FFD23F">5℃ 이내</tspan> 유지</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCEFF6"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#4B6472">출처: 전문의 권고 정리</text>
+</svg>
