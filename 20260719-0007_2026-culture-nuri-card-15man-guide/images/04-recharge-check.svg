@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="118" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">자동재충전 제외 대상 체크리스트</text>
+  <text x="60" y="172" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#E8EEF5">해당되면 직접 재충전 신청이 필요해요</text>
+
+  <!-- 체크 항목 7개 -->
+  <g font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" font-weight="bold" fill="#1a1a1a">
+    <rect x="60" y="250" width="960" height="106" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="95" y="281" width="44" height="44" rx="8" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <path d="M104 303 l12 12 l22 -24" fill="none" stroke="#1B5FA6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="175" y="316">자격검증일(2026.1.6~1.8)에 수급자격 없음</text>
+
+    <rect x="60" y="372" width="960" height="106" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="95" y="403" width="44" height="44" rx="8" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <path d="M104 425 l12 12 l22 -24" fill="none" stroke="#1B5FA6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="175" y="438">카드 유효기간이 '26년 1월까지였던 카드</text>
+
+    <rect x="60" y="494" width="960" height="106" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="95" y="525" width="44" height="44" rx="8" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <path d="M104 547 l12 12 l22 -24" fill="none" stroke="#1B5FA6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="175" y="560">2025년 기준 복지시설 발급자</text>
+
+    <rect x="60" y="616" width="960" height="106" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="95" y="647" width="44" height="44" rx="8" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <path d="M104 669 l12 12 l22 -24" fill="none" stroke="#1B5FA6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="175" y="682">분실신고 등 사고등록 · 사용정지 · 오류 카드</text>
+
+    <rect x="60" y="738" width="960" height="106" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="95" y="769" width="44" height="44" rx="8" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <path d="M104 791 l12 12 l22 -24" fill="none" stroke="#1B5FA6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="175" y="804">우편 수령 후 수령등록을 안 한 경우</text>
+
+    <rect x="60" y="860" width="960" height="106" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="95" y="891" width="44" height="44" rx="8" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <path d="M104 913 l12 12 l22 -24" fill="none" stroke="#1B5FA6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="175" y="926">2025년 지원금 3만 원 미만 사용 (전액 미사용 포함)</text>
+
+    <rect x="60" y="982" width="960" height="106" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="95" y="1013" width="44" height="44" rx="8" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <path d="M104 1035 l12 12 l22 -24" fill="none" stroke="#1B5FA6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="175" y="1048">개명 · 주민등록번호 변경, 주민등록 말소</text>
+  </g>
+
+  <!-- 하단 강조 -->
+  <rect x="60" y="1130" width="960" height="100" rx="16" fill="#1B5FA6"/>
+  <text x="540" y="1195" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F" text-anchor="middle">잔액이 0원이라면? 앱 · 누리집에서 지금 확인!</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 문화누리카드 누리집(mnuri.kr)</text>
+</svg>

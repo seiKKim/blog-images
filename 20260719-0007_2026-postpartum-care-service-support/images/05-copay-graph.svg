@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">단태아 첫째 표준형(10일)</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">가장 많은 케이스 · 본인부담금 구간(2026)</text>
+
+  <!-- 큰 숫자 강조 -->
+  <text x="540" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#5B6B7C" text-anchor="middle">소득유형에 따라 본인부담금</text>
+  <text x="540" y="480" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="96" fill="#1B5FA6" text-anchor="middle">약 29만9천 ~ 70만원</text>
+
+  <!-- 막대 게이지 -->
+  <text x="90" y="600" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#3a4658">저소득(가형)</text>
+  <text x="990" y="600" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#3a4658" text-anchor="end">통합·라형</text>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7FB4E0"/>
+      <stop offset="1" stop-color="#1B5FA6"/>
+    </linearGradient>
+  </defs>
+  <rect x="90" y="630" width="900" height="70" rx="35" fill="url(#grad)"/>
+  <text x="150" y="678" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="bold" fill="#ffffff">29만9천원</text>
+  <text x="930" y="678" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="bold" fill="#ffffff" text-anchor="end">70만원</text>
+  <text x="90" y="760" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#8a97a8">소득 낮을수록 정부지원↑ · 본인부담↓</text>
+
+  <!-- 정부지원금 참고 -->
+  <rect x="60" y="820" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="90" y="890" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="bold" fill="#1a1a1a">같은 표준형(10일) 정부지원금</text>
+  <text x="90" y="960" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" font-weight="bold" fill="#1B5FA6">1,165,000 ~ 764,000원</text>
+  <text x="90" y="1016" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8a97a8">(단위: 원, 범위값)</text>
+
+  <text x="60" y="1130" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#E23B3B">※ 범위값이며 세부 유형코드별로 다름. 내 정확한 금액은</text>
+  <text x="60" y="1174" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#E23B3B">복지로 모의계산·관할 보건소가 최종 기준</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 송파구 보건소 게시(2026) · blog.naver.com/trip_chocho</text>
+</svg>

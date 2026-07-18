@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">신청방법·기한·절차</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">기한 놓치면 지원 불가 — 날짜부터 확인</text>
+
+  <!-- 기한 강조 박스 -->
+  <rect x="60" y="250" width="960" height="150" rx="20" fill="#FFF6E0" stroke="#F0D98A"/>
+  <text x="90" y="316" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="bold" fill="#8a6d1a">신청 기한(원칙)</text>
+  <text x="90" y="372" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" font-weight="bold" fill="#E23B3B">출산예정일 40일 전 ~ 출산일로부터 60일</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 신청처 -->
+    <text x="60" y="480" font-size="40" font-weight="bold" fill="#1B5FA6">신청처</text>
+    <rect x="60" y="500" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="552" font-size="36" fill="#3a4658">온라인: 복지로(bokjiro.go.kr), 정부24</text>
+    <text x="90" y="600" font-size="36" fill="#3a4658">방문: 주민등록 주소지 관할 시군구 보건소</text>
+
+    <!-- 절차 -->
+    <text x="60" y="700" font-size="40" font-weight="bold" fill="#1B5FA6">이용 절차</text>
+  </g>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#1a1a1a">
+    <circle cx="100" cy="750" r="30" fill="#1B5FA6"/><text x="100" y="763" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">1</text>
+    <text x="150" y="763">신청 (복지로 또는 관할 보건소, 기한 내)</text>
+
+    <circle cx="100" cy="828" r="30" fill="#1B5FA6"/><text x="100" y="841" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">2</text>
+    <text x="150" y="841">소득판정 및 바우처 발급</text>
+
+    <circle cx="100" cy="906" r="30" fill="#1B5FA6"/><text x="100" y="919" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">3</text>
+    <text x="150" y="919">전자바우처 포털에서 제공기관 검색·예약</text>
+
+    <circle cx="100" cy="984" r="30" fill="#1B5FA6"/><text x="100" y="997" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">4</text>
+    <text x="150" y="997">건강관리사 가정 방문 → 산후관리 제공</text>
+
+    <circle cx="100" cy="1062" r="30" fill="#1B5FA6"/><text x="100" y="1075" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">5</text>
+    <text x="150" y="1075">본인부담금 결제</text>
+
+    <circle cx="100" cy="1140" r="30" fill="#1B5FA6"/><text x="100" y="1153" font-size="34" font-weight="bold" fill="#fff" text-anchor="middle">6</text>
+    <text x="150" y="1153">(해당 시) 저소득가정·비혼모 본인부담금 환급</text>
+  </g>
+
+  <text x="60" y="1220" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#8a97a8">※ 미숙아 입원: 퇴원일로부터 30일 이내 / 유산·사산: 확인일로부터 30일 이내</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 본문(수원시 보건소 기준) · blog.naver.com/trip_chocho</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="64" fill="#ffffff">문화누리카드 지원대상</text>
+  <text x="1020" y="125" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F" text-anchor="end">2026</text>
+
+  <!-- 공통 조건 -->
+  <rect x="60" y="245" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="310" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1a1a1a">공통 : 6세 이상 (2020.12.31 이전 출생자)</text>
+
+  <!-- 기초생활수급자 -->
+  <rect x="60" y="392" width="320" height="72" rx="36" fill="#1B5FA6"/>
+  <text x="220" y="441" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#ffffff" text-anchor="middle">기초생활수급자</text>
+  <rect x="60" y="490" width="960" height="185" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <g font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" fill="#1a1a1a">
+    <text x="100" y="562">· 생계 · 의료 · 주거 · 교육급여 수급자</text>
+    <text x="100" y="636">· 조건부 수급자, 보장시설 수급자</text>
+  </g>
+
+  <!-- 차상위계층 -->
+  <rect x="60" y="722" width="280" height="72" rx="36" fill="#1B5FA6"/>
+  <text x="200" y="771" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#ffffff" text-anchor="middle">차상위계층</text>
+  <rect x="60" y="820" width="960" height="415" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <g font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" fill="#1a1a1a">
+    <text x="100" y="895">· 차상위자활근로자 · 차상위계층확인서 발급자</text>
+    <text x="100" y="972">· 장애수당 · 장애아동수당 수급자</text>
+    <text x="100" y="1049">· 장애인연금 부가급여 수급자 (차상위초과자 제외)</text>
+    <text x="100" y="1126">· 본인부담경감대상자 · 저소득한부모가족</text>
+    <text x="100" y="1203">· 교육급여 수급자(학생) 외 나머지 가구원</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 문화누리카드 누리집(mnuri.kr)</text>
+</svg>

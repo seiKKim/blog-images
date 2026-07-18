@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">회복용품·신생아 준비물</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">산후도우미가 와도 소모품은 미리 준비</text>
+
+  <!-- 산모 회복용품 -->
+  <rect x="60" y="250" width="960" height="490" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="90" y="322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" font-weight="bold" fill="#1B5FA6">산모 회복용품</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#3a4658">
+    <rect x="95" y="368" width="34" height="34" rx="6" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <text x="150" y="398">산후패드 · 맘스 안심팬티(오로 대비 넉넉히)</text>
+    <rect x="95" y="432" width="34" height="34" rx="6" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <text x="150" y="462">수유 브라 · 수유 나시 2~3벌</text>
+    <rect x="95" y="496" width="34" height="34" rx="6" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <text x="150" y="526">압박 스타킹 · 회음부/도넛 방석 · 좌욕기</text>
+    <rect x="95" y="560" width="34" height="34" rx="6" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <text x="150" y="590">텀블러 · 구부러지는 빨대</text>
+    <rect x="95" y="624" width="34" height="34" rx="6" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <text x="150" y="654">수유 쿠션 · 복대 등</text>
+  </g>
+
+  <!-- 신생아 필수용품 -->
+  <rect x="60" y="770" width="960" height="410" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="90" y="842" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" font-weight="bold" fill="#1B5FA6">신생아 필수용품</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#3a4658">
+    <rect x="95" y="888" width="34" height="34" rx="6" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <text x="150" y="918">배냇저고리 · 속싸개(퇴원 시 아기 옷 1벌)</text>
+    <rect x="95" y="952" width="34" height="34" rx="6" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <text x="150" y="982">가제 손수건 10~20장 · 물티슈 · 기저귀</text>
+    <rect x="95" y="1016" width="34" height="34" rx="6" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <text x="150" y="1046">발진 예방 연고(순한 성분)</text>
+    <rect x="95" y="1080" width="34" height="34" rx="6" fill="none" stroke="#1B5FA6" stroke-width="4"/>
+    <text x="150" y="1110">손싸개 · 젖병</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">※ 산후조리 일반 정보(지원사업과 별개) · blog.naver.com/trip_chocho</text>
+</svg>

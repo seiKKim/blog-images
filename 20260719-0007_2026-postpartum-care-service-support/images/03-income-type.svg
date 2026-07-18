@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">소득유형 3구분</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">가형 &lt; 통합형 &lt; 라형 (소득 낮을수록 지원↑·부담↓)</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 가형 -->
+    <rect x="60" y="260" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="260" width="14" height="200" rx="7" fill="#1B5FA6"/>
+    <text x="100" y="330" font-size="46" font-weight="bold" fill="#1B5FA6">가형</text>
+    <text x="100" y="386" font-size="38" fill="#3a4658">기초생활수급자·차상위계층</text>
+    <text x="100" y="436" font-size="34" fill="#8a97a8">생계 32% / 의료 40% / 주거 48% / 교육·차상위 50% 이하</text>
+
+    <!-- 통합형 -->
+    <rect x="60" y="490" width="960" height="380" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="490" width="14" height="380" rx="7" fill="#1B5FA6"/>
+    <text x="100" y="560" font-size="46" font-weight="bold" fill="#1B5FA6">통합형</text>
+    <text x="100" y="612" font-size="38" fill="#3a4658">기준중위소득 150% 이하</text>
+    <!-- 미니 표 -->
+    <text x="100" y="686" font-size="32" font-weight="bold" fill="#5B6B7C">건강보험료 기준액(수원시, 2026)</text>
+    <rect x="100" y="708" width="880" height="66" fill="#EEF3F9"/>
+    <text x="130" y="750" font-size="32" font-weight="bold" fill="#1a1a1a">가구원</text>
+    <text x="560" y="750" font-size="32" font-weight="bold" fill="#1a1a1a" text-anchor="middle">직장가입자</text>
+    <text x="920" y="750" font-size="32" font-weight="bold" fill="#1a1a1a" text-anchor="end">지역가입자</text>
+    <text x="130" y="816" font-size="34" fill="#3a4658">2인</text>
+    <text x="560" y="816" font-size="34" fill="#1B5FA6" font-weight="bold" text-anchor="middle">229,357원</text>
+    <text x="920" y="816" font-size="34" fill="#1B5FA6" font-weight="bold" text-anchor="end">164,508원</text>
+    <text x="130" y="856" font-size="34" fill="#3a4658">3인</text>
+    <text x="560" y="856" font-size="34" fill="#1B5FA6" font-weight="bold" text-anchor="middle">290,169원</text>
+    <text x="920" y="856" font-size="34" fill="#1B5FA6" font-weight="bold" text-anchor="end">240,352원</text>
+
+    <!-- 라형 -->
+    <rect x="60" y="900" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="900" width="14" height="200" rx="7" fill="#1B5FA6"/>
+    <text x="100" y="970" font-size="46" font-weight="bold" fill="#1B5FA6">라형</text>
+    <text x="100" y="1026" font-size="38" fill="#3a4658">기준중위소득 150% 초과 (예외지원)</text>
+    <text x="100" y="1076" font-size="34" fill="#8a97a8">중증장애 산모·미숙아 입원 등 / 시도 자체 예산</text>
+  </g>
+
+  <text x="60" y="1170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8a97a8">※ 4인 이상 등 전체 기준액은 관할 보건소·복지로에서 확인</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 수원시 보건소 게시(2026) · blog.naver.com/trip_chocho</text>
+</svg>

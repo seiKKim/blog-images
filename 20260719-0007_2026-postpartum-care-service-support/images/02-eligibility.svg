@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">신청 대상 조건 3가지</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">산후도우미 정부지원, 누가 받을 수 있나요</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 카드 1 -->
+    <rect x="60" y="270" width="960" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="150" cy="360" r="42" fill="#1B5FA6"/>
+    <text x="150" y="376" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="230" y="376" font-size="48" font-weight="bold" fill="#1a1a1a">주민등록 요건</text>
+    <text x="100" y="460" font-size="40" fill="#3a4658">산모 또는 배우자가 국내에 주민등록</text>
+    <text x="100" y="518" font-size="40" fill="#3a4658">(외국인 등록·거소 신고 포함)한 출산 가정</text>
+
+    <!-- 카드 2 -->
+    <rect x="60" y="590" width="960" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="150" cy="680" r="42" fill="#1B5FA6"/>
+    <text x="150" y="696" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="230" y="696" font-size="48" font-weight="bold" fill="#1a1a1a">소득 요건</text>
+    <text x="100" y="780" font-size="40" fill="#3a4658">가구 건강보험료 합산액이</text>
+    <text x="100" y="838" font-size="44" fill="#1B5FA6" font-weight="bold">기준중위소득 150% 이하</text>
+
+    <!-- 카드 3 -->
+    <rect x="60" y="910" width="960" height="330" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="150" cy="1000" r="42" fill="#1B5FA6"/>
+    <text x="150" y="1016" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="230" y="1016" font-size="48" font-weight="bold" fill="#1a1a1a">150% 초과 예외</text>
+    <text x="100" y="1100" font-size="40" fill="#3a4658">예외지원(라형): 중증장애 산모·미숙아</text>
+    <text x="100" y="1158" font-size="40" fill="#3a4658">입원치료 등 / 지자체 자체 예산 지원</text>
+    <text x="100" y="1216" font-size="34" fill="#8a97a8">※ 실제 기준은 관할 보건소 공고 확인</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 본문(관할 보건소 공고 기준) · blog.naver.com/trip_chocho</text>
+</svg>

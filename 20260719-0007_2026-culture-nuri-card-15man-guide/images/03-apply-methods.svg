@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="125" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="64" fill="#ffffff">신청방법 4가지</text>
+  <text x="1020" y="125" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F" text-anchor="end">2026 문화누리카드</text>
+
+  <!-- 기간 안내 -->
+  <rect x="60" y="240" width="960" height="95" rx="16" fill="#1B5FA6" opacity="0.10"/>
+  <text x="540" y="302" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1B5FA6" text-anchor="middle">발급 2026.2.2 ~ 11.30(월) · 사용 ~ 12.31(목)</text>
+
+  <!-- 방법 4가지 -->
+  <g font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="375" width="960" height="190" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="130" cy="470" r="40" fill="#1B5FA6"/>
+    <text x="130" y="486" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="200" y="455" font-size="46" font-weight="bold" fill="#1a1a1a">주민센터 방문</text>
+    <text x="200" y="520" font-size="36" fill="#5B6B7C">신청서 작성 후 현장에서 카드 바로 수령</text>
+
+    <rect x="60" y="595" width="960" height="190" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="130" cy="690" r="40" fill="#1B5FA6"/>
+    <text x="130" y="706" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="200" y="675" font-size="46" font-weight="bold" fill="#1a1a1a">온라인 (누리집 mnuri.kr · 앱)</text>
+    <text x="200" y="740" font-size="36" fill="#5B6B7C">3~5일 뒤 등기우편 수령 → 수령등록 후 사용 가능</text>
+
+    <rect x="60" y="815" width="960" height="190" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="130" cy="910" r="40" fill="#1B5FA6"/>
+    <text x="130" y="926" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="200" y="895" font-size="46" font-weight="bold" fill="#1a1a1a">온라인 신청 + 농협 영업점 수령</text>
+    <text x="200" y="960" font-size="36" fill="#5B6B7C">약 2시간 후 신분증 지참 수령 (신규발급만 가능)</text>
+
+    <rect x="60" y="1035" width="960" height="190" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="130" cy="1130" r="40" fill="#1B5FA6"/>
+    <text x="130" y="1146" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="200" y="1115" font-size="46" font-weight="bold" fill="#1a1a1a">전화 ARS 재충전 (1544-3412)</text>
+    <text x="200" y="1180" font-size="36" fill="#5B6B7C">기존 카드 보유자용 · 14세 이상, 본인 명의 휴대전화</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 문화누리카드 누리집(mnuri.kr)</text>
+</svg>
