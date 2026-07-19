@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="200" fill="#1E3A6E"/>
+  <rect x="60" y="66" rx="30" ry="30" width="200" height="60" fill="#E8722C"/>
+  <text x="160" y="107" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#ffffff" text-anchor="middle">수면의 원리</text>
+  <text x="290" y="128" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">심부체온 하루 리듬</text>
+
+  <!-- 그래프 영역 -->
+  <rect x="60" y="270" width="960" height="720" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+
+  <!-- 축 -->
+  <line x1="150" y1="330" x2="150" y2="900" stroke="#9DB0C4" stroke-width="3"/>
+  <line x1="150" y1="900" x2="960" y2="900" stroke="#9DB0C4" stroke-width="3"/>
+  <text x="150" y="330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle" transform="rotate(0)">↑</text>
+  <text x="105" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" fill="#5B6B7C" text-anchor="middle">높음</text>
+  <text x="105" y="890" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" fill="#5B6B7C" text-anchor="middle">낮음</text>
+  <text x="80" y="620" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C" font-weight="bold" text-anchor="middle" transform="rotate(-90 80 620)">심부체온</text>
+
+  <!-- 체온 곡선: 오후6~7시 최고점 -> 취침전부터 하강 -->
+  <path d="M 150 720 C 260 640, 340 430, 430 410 C 520 400, 560 420, 610 500 C 680 610, 760 780, 960 840"
+        fill="none" stroke="#1E3A6E" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- 최고점 마커 -->
+  <circle cx="430" cy="410" r="14" fill="#E8722C"/>
+  <text x="430" y="378" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" font-weight="bold" fill="#E8722C" text-anchor="middle">오후 6~7시 최고점</text>
+
+  <!-- 취침 하강 구간 표시 -->
+  <rect x="610" y="330" width="350" height="570" fill="#1E3A6E" opacity="0.06"/>
+  <circle cx="655" cy="560" r="12" fill="#1F8A53"/>
+  <text x="810" y="600" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" font-weight="bold" fill="#1F8A53" text-anchor="middle">취침 2시간 전부터</text>
+  <text x="810" y="640" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" font-weight="bold" fill="#1F8A53" text-anchor="middle">체온 1~2도 하강</text>
+  <text x="810" y="680" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" font-weight="bold" fill="#1F8A53" text-anchor="middle">→ 멜라토닌 분비</text>
+
+  <!-- x축 라벨 -->
+  <text x="270" y="945" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" fill="#5B6B7C" text-anchor="middle">낮</text>
+  <text x="500" y="945" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" fill="#5B6B7C" text-anchor="middle">저녁</text>
+  <text x="720" y="945" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" fill="#5B6B7C" text-anchor="middle">취침</text>
+  <text x="900" y="945" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" fill="#5B6B7C" text-anchor="middle">새벽</text>
+
+  <!-- 핵심 메시지 박스 -->
+  <rect x="60" y="1030" width="960" height="170" rx="20" fill="#1E3A6E"/>
+  <text x="100" y="1105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="46" font-weight="bold" fill="#ffffff">잠은 심부체온이 내려가야 옵니다</text>
+  <text x="100" y="1160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#FFD23F">→ 취침 2시간 전부터 몸을 식히는 게 관건</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">본문 기준 정리 · blog.naver.com/trip_chocho</text>
+</svg>
