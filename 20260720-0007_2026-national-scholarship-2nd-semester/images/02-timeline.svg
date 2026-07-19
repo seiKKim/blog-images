@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">신청 일정 한눈에 보기</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">2026학년도 2학기 국가장학금</text>
+
+  <!-- 타임라인 세로선 -->
+  <rect x="150" y="300" width="8" height="820" fill="#C4D3E4"/>
+
+  <!-- 1차 노드 (종료) -->
+  <circle cx="154" cy="360" r="26" fill="#9AAEC2"/>
+  <rect x="230" y="300" width="790" height="230" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="230" y="300" width="12" height="230" rx="6" fill="#9AAEC2"/>
+  <text x="270" y="365" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#5B6B7C">1차 신청 (종료)</text>
+  <text x="270" y="435" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#2B2F36">5.22(금) ~ 6.22(월)</text>
+  <text x="270" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="40" fill="#5B6B7C">서류·가구원 동의 마감 6.29(월)</text>
+
+  <!-- 2차 노드 (예상) -->
+  <circle cx="154" cy="700" r="30" fill="#1B5FA6"/>
+  <rect x="230" y="620" width="790" height="360" rx="18" fill="#ffffff" stroke="#1B5FA6" stroke-width="3"/>
+  <rect x="230" y="620" width="12" height="360" rx="6" fill="#1B5FA6"/>
+  <text x="270" y="690" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6">2차 신청 (예상)</text>
+  <rect x="770" y="648" width="228" height="60" rx="30" fill="#FFD23F"/>
+  <text x="884" y="690" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a" text-anchor="middle">마지막 기회</text>
+  <text x="270" y="770" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#2B2F36">8월 중순 ~ 9월 초 (예상)</text>
+  <text x="270" y="835" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#5B6B7C">*재단 미고지, 2025년 실적 기준 추정</text>
+  <text x="270" y="895" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#5B6B7C">참고: 2025년 2차 8.13~9.10 진행</text>
+  <text x="270" y="950" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1B5FA6">8월 초부터 재단 공지 확인 필수</text>
+
+  <!-- 안내 -->
+  <rect x="60" y="1030" width="960" height="200" rx="18" fill="#FFF6D6" stroke="#F0D98A" stroke-width="2"/>
+  <text x="100" y="1105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#8A6D1A">⚠ 정확한 일정은 한국장학재단 공식 공지로</text>
+  <text x="100" y="1165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#8A6D1A">   반드시 직접 확인하세요 (www.kosaf.go.kr)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 한국장학재단(kosaf.go.kr) · 2025년 실적 기준 예상</text>
+</svg>

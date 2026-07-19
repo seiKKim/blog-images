@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#FBF4F6"/>
+<rect width="1080" height="200" fill="#E0556E"/>
+<text x="60" y="125" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="60" fill="#ffffff">발급 규칙 — 3가지만 기억</text>
+<rect x="60" y="280" width="960" height="150" rx="16" fill="#ffffff" stroke="#F0D4DA" stroke-width="2"/>
+<text x="100" y="370" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="44" font-weight="bold" fill="#1a1a1a">발급 시간</text>
+<text x="980" y="370" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="52" font-weight="bold" fill="#E0556E" text-anchor="end">매일 오전 10시</text><rect x="60" y="460" width="960" height="150" rx="16" fill="#ffffff" stroke="#F0D4DA" stroke-width="2"/>
+<text x="100" y="550" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="44" font-weight="bold" fill="#1a1a1a">쿠폰 유효기간</text>
+<text x="980" y="550" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="52" font-weight="bold" fill="#E0556E" text-anchor="end">다음날 오전 7시</text><rect x="60" y="640" width="960" height="150" rx="16" fill="#ffffff" stroke="#F0D4DA" stroke-width="2"/>
+<text x="100" y="730" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="44" font-weight="bold" fill="#1a1a1a">발급 조건</text>
+<text x="980" y="730" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="52" font-weight="bold" fill="#E0556E" text-anchor="end">1인 1매 · 19세+</text><rect x="60" y="820" width="960" height="150" rx="16" fill="#ffffff" stroke="#F0D4DA" stroke-width="2"/>
+<text x="100" y="910" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="44" font-weight="bold" fill="#1a1a1a">발급·입실 기간</text>
+<text x="980" y="910" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="52" font-weight="bold" fill="#E0556E" text-anchor="end">6.11 ~ 8.17</text>
+<text x="60" y="1060" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="38" fill="#7A5560">* 선착순 총 30만 장 · 하루 1개 여행사 · 1개 권종만 선택 가능</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#F3E2E7"/>
+<text x="60" y="1322" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="34" fill="#8A5B68">출처: ktostay.visitkorea.or.kr (2026.7.20 확인)</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">소득구간별 연간 지원금액</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">국가장학금 Ⅰ유형 (2026년, 연간 기준)</text>
+
+  <!-- 막대: 기준 x=340, 최대폭 620 → 600만원 = 620px -->
+  <!-- 기초·차상위 전액 -->
+  <text x="60" y="330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#2B2F36">기초·차상위</text>
+  <rect x="60" y="350" width="620" height="90" rx="12" fill="#0F4B86"/>
+  <text x="690" y="410" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#0F4B86">등록금 전액</text>
+
+  <!-- 1~3구간 600 -->
+  <text x="60" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#2B2F36">1~3구간</text>
+  <rect x="60" y="520" width="620" height="90" rx="12" fill="#1B5FA6"/>
+  <text x="690" y="580" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6">600만원</text>
+
+  <!-- 4~6구간 440 → 455px -->
+  <text x="60" y="670" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#2B2F36">4~6구간</text>
+  <rect x="60" y="690" width="455" height="90" rx="12" fill="#3E7FC0"/>
+  <text x="525" y="750" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6">440만원</text>
+
+  <!-- 7~8구간 360 → 372px -->
+  <text x="60" y="840" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#2B2F36">7~8구간</text>
+  <rect x="60" y="860" width="372" height="90" rx="12" fill="#5E96CF"/>
+  <text x="442" y="920" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6">360만원</text>
+
+  <!-- 9구간 100 → 103px -->
+  <text x="60" y="1010" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#2B2F36">9구간</text>
+  <rect x="60" y="1030" width="103" height="90" rx="12" fill="#8FB6DE"/>
+  <text x="173" y="1090" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6">100만원</text>
+
+  <!-- 안내 -->
+  <rect x="60" y="1155" width="960" height="90" rx="16" fill="#FFF6D6" stroke="#F0D98A" stroke-width="2"/>
+  <text x="540" y="1213" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#8A6D1A" text-anchor="middle">💡 지원은 등록금 범위 내 · 다른 장학금과 합산 시 감액</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 한국장학재단(kosaf.go.kr) · 9구간 학기당 50만원</text>
+</svg>
