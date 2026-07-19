@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1F8A53"/>
+  <text x="60" y="82" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">5년 기산은 '법정신고기한 다음 날'부터</text>
+  <text x="60" y="130" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="32" fill="#D8F0E2">귀속연도별로 청구 마감이 다릅니다</text>
+
+  <!-- 케이스 1: 2025 귀속 -->
+  <g>
+    <rect x="48" y="210" width="984" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="48" y="210" width="14" height="180" rx="7" fill="#1F8A53"/>
+    <text x="96" y="284" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+          font-size="44" fill="#14663C">2025년 귀속분</text>
+    <text x="96" y="342" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+          font-size="32" fill="#4A5A6A">신고기한 2026.5.31</text>
+    <!-- 화살표 -->
+    <path d="M560 300 h240" stroke="#1F8A53" stroke-width="6"/>
+    <path d="M796 300 l-20 -12 v24 z" fill="#1F8A53"/>
+    <rect x="812" y="248" width="200" height="104" rx="16" fill="#E6F3EC"/>
+    <text x="912" y="296" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+          font-size="34" fill="#14663C" text-anchor="middle">2031.5.31</text>
+    <text x="912" y="336" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+          font-size="30" fill="#1F8A53" text-anchor="middle">까지 청구</text>
+  </g>
+
+  <!-- 케이스 2: 2021 귀속 -->
+  <g>
+    <rect x="48" y="420" width="984" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="48" y="420" width="14" height="180" rx="7" fill="#E8722C"/>
+    <text x="96" y="494" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+          font-size="44" fill="#B5551A">2021년 귀속분</text>
+    <text x="96" y="552" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+          font-size="32" fill="#4A5A6A">신고기한 2022.5.31</text>
+    <path d="M560 510 h240" stroke="#E8722C" stroke-width="6"/>
+    <path d="M796 510 l-20 -12 v24 z" fill="#E8722C"/>
+    <rect x="812" y="458" width="200" height="104" rx="16" fill="#FBE7D6"/>
+    <text x="912" y="506" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+          font-size="34" fill="#B5551A" text-anchor="middle">2027.5.31</text>
+    <text x="912" y="546" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+          font-size="30" fill="#E8722C" text-anchor="middle">까지 청구</text>
+  </g>
+
+  <text x="60" y="672" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1F8A53">2026년 7월 현재, 대체로 2021년 귀속분까지 소급 가능</text>
+</svg>

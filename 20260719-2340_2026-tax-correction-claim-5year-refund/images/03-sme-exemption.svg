@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="188" fill="#1F8A53"/>
+  <text x="60" y="92" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">중소기업 취업자 소득세 감면</text>
+  <text x="60" y="148" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#D8F0E2">놓쳤어도 경정청구로 소급 환급</text>
+
+  <!-- 대상 블록 -->
+  <rect x="48" y="230" width="984" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="48" y="230" width="220" height="200" rx="20" fill="#E6F3EC"/>
+  <text x="158" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#14663C" text-anchor="middle">대상</text>
+  <text x="300" y="308" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#1a1a1a">청년(만 15~34세), 만 60세 이상 고령자,</text>
+  <text x="300" y="368" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#1a1a1a">장애인, 경력단절 근로자</text>
+
+  <!-- 감면율 표 헤더 -->
+  <rect x="48" y="460" width="984" height="86" rx="16" fill="#1F8A53"/>
+  <text x="240" y="516" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">구분</text>
+  <text x="620" y="516" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">감면율</text>
+  <text x="900" y="516" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">기간</text>
+
+  <!-- 행 1: 청년 -->
+  <rect x="48" y="560" width="984" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="240" y="634" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a" text-anchor="middle">청년</text>
+  <text x="620" y="634" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1F8A53" text-anchor="middle">90% 감면</text>
+  <text x="900" y="634" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a" text-anchor="middle">5년간</text>
+
+  <!-- 행 2: 그 외 -->
+  <rect x="48" y="694" width="984" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="240" y="768" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">그 외 대상</text>
+  <text x="620" y="768" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1F8A53" text-anchor="middle">70% 감면</text>
+  <text x="900" y="768" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a" text-anchor="middle">3년간</text>
+
+  <!-- 한도 -->
+  <rect x="48" y="850" width="984" height="110" rx="16" fill="#FFF6D9" stroke="#FFD23F" stroke-width="2"/>
+  <text x="90" y="918" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#7A5B00">한도: 연 200만원 · 특정 업종 중소기업 취업자</text>
+
+  <!-- 출처 -->
+  <rect x="0" y="1000" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1052" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="32" fill="#5B6B7C">출처: 조세특례제한법상 중소기업 취업자 소득세 감면</text>
+</svg>

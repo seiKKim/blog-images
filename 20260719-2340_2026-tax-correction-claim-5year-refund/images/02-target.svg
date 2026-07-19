@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1F8A53"/>
+  <text x="60" y="98" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">나도 경정청구 대상일까?</text>
+
+  <!-- 카드 1: 근로소득자 -->
+  <g>
+    <rect x="48" y="200" width="308" height="380" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="202" cy="300" r="52" fill="#E6F3EC"/>
+    <circle cx="202" cy="284" r="20" fill="#1F8A53"/>
+    <path d="M166 336 q36 -34 72 0 v14 h-72 z" fill="#1F8A53"/>
+    <text x="202" y="418" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+          font-size="42" fill="#14663C" text-anchor="middle">근로소득자</text>
+    <text x="202" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+          font-size="30" fill="#4A5A6A" text-anchor="middle">연말정산에서</text>
+    <text x="202" y="510" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+          font-size="30" fill="#4A5A6A" text-anchor="middle">공제를 빠뜨린 분</text>
+  </g>
+
+  <!-- 카드 2: 사업자·프리랜서 -->
+  <g>
+    <rect x="386" y="200" width="308" height="380" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="540" cy="300" r="52" fill="#E6F3EC"/>
+    <rect x="510" y="278" width="60" height="44" rx="6" fill="#1F8A53"/>
+    <rect x="528" y="266" width="24" height="16" rx="4" fill="#1F8A53"/>
+    <text x="540" y="418" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+          font-size="42" fill="#14663C" text-anchor="middle">사업자·프리랜서</text>
+    <text x="540" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+          font-size="30" fill="#4A5A6A" text-anchor="middle">종소세 신고 때</text>
+    <text x="540" y="510" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+          font-size="30" fill="#4A5A6A" text-anchor="middle">경비·감면 누락</text>
+  </g>
+
+  <!-- 카드 3: 중도퇴사자 -->
+  <g>
+    <rect x="724" y="200" width="308" height="380" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="878" cy="300" r="52" fill="#E6F3EC"/>
+    <path d="M852 278 h40 v44 h-40 z" fill="#1F8A53"/>
+    <path d="M896 292 l22 8 -22 8 z" fill="#1F8A53"/>
+    <text x="878" y="418" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+          font-size="42" fill="#14663C" text-anchor="middle">이직·퇴사자</text>
+    <text x="878" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+          font-size="30" fill="#4A5A6A" text-anchor="middle">연말정산을</text>
+    <text x="878" y="510" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+          font-size="30" fill="#4A5A6A" text-anchor="middle">제대로 못 한 분</text>
+  </g>
+
+  <text x="60" y="662" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1F8A53">전제 조건: 법정신고기한까지 신고를 마친 사람(또는 기한후신고자)</text>
+</svg>
