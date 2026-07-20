@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#243B6B"/>
+  <text x="60" y="90" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#ffffff">정부기여금 매칭 비율</text>
+  <text x="60" y="148" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="36" fill="#E8EEF5">청년미래적금 · 월 납입금 기준</text>
+
+  <!-- 기준선 (막대 바닥) y=880 -->
+  <line x1="120" y1="880" x2="1020" y2="880" stroke="#C7D3E0" stroke-width="3"/>
+
+  <!-- 일반형 6% -->
+  <rect x="200" y="600" width="240" height="280" rx="12" fill="#8FA6C9"/>
+  <text x="320" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="86" fill="#243B6B" text-anchor="middle">6%</text>
+  <text x="320" y="940" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#243B6B" text-anchor="middle">일반형</text>
+  <text x="320" y="990" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#5B6B7C" text-anchor="middle">월 50만원 → 월 3만원</text>
+
+  <!-- 우대형 12% -->
+  <rect x="640" y="320" width="240" height="560" rx="12" fill="#FFD23F"/>
+  <text x="760" y="280" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="86" fill="#243B6B" text-anchor="middle">12%</text>
+  <text x="760" y="940" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#243B6B" text-anchor="middle">우대형</text>
+  <text x="760" y="990" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#5B6B7C" text-anchor="middle">월 50만원 → 월 6만원</text>
+
+  <text x="540" y="1050" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#8A97A6" text-anchor="middle">비과세 전용형은 기여금 없이 이자소득세만 비과세 · 취급은행 정리 기준</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#243B6B"/>
+  <text x="60" y="97" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#ffffff">나는 어느 쪽? 갈림길 안내</text>
+
+  <!-- 왼쪽: 기존 가입자 -->
+  <rect x="60" y="200" width="460" height="420" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="200" width="460" height="90" rx="24" fill="#243B6B"/>
+  <rect x="60" y="250" width="460" height="40" fill="#243B6B"/>
+  <text x="290" y="262" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#ffffff" text-anchor="middle">기존 가입자</text>
+  <text x="290" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#243B6B" text-anchor="middle">청년도약계좌</text>
+  <text x="290" y="440" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#1F8A53" text-anchor="middle">그대로 유지</text>
+  <text x="290" y="510" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#5B6B7C" text-anchor="middle">월 70만원 · 5년 만기</text>
+  <text x="290" y="558" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#5B6B7C" text-anchor="middle">혜택 만기까지 유지</text>
+
+  <!-- 오른쪽: 신규 청년 -->
+  <rect x="560" y="200" width="460" height="420" rx="24" fill="#ffffff" stroke="#FFD23F" stroke-width="4"/>
+  <rect x="560" y="200" width="460" height="90" rx="24" fill="#FFD23F"/>
+  <rect x="560" y="250" width="460" height="40" fill="#FFD23F"/>
+  <text x="790" y="262" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#16264A" text-anchor="middle">신규 청년</text>
+  <text x="790" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#243B6B" text-anchor="middle">청년미래적금</text>
+  <text x="790" y="440" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#243B6B" text-anchor="middle">신규 가입</text>
+  <text x="790" y="510" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#5B6B7C" text-anchor="middle">월 50만원 · 3년 만기</text>
+  <text x="790" y="558" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#5B6B7C" text-anchor="middle">다음 신규모집 12월</text>
+
+  <text x="540" y="680" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#8A97A6" text-anchor="middle">청년도약계좌 신규 가입은 2025.12.31 종료</text>
+</svg>

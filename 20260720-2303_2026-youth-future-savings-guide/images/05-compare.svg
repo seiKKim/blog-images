@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#243B6B"/>
+  <text x="60" y="115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">한눈에 비교표</text>
+
+  <!-- 헤더 행 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="230" width="360" height="110" rx="14" fill="#E8EEF5"/>
+    <rect x="430" y="230" width="290" height="110" rx="14" fill="#FFD23F"/>
+    <rect x="730" y="230" width="290" height="110" rx="14" fill="#8FA6C9"/>
+    <text x="240" y="298" font-size="34" font-weight="bold" fill="#5B6B7C" text-anchor="middle">항목</text>
+    <text x="575" y="298" font-size="34" font-weight="bold" fill="#16264A" text-anchor="middle">청년미래적금</text>
+    <text x="875" y="298" font-size="32" font-weight="bold" fill="#243B6B" text-anchor="middle">청년도약계좌</text>
+  </g>
+
+  <!-- 데이터 행 렌더 함수처럼 반복 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36">
+    <!-- 대상 -->
+    <rect x="60" y="360" width="960" height="140" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="438" font-weight="bold" fill="#243B6B">대상</text>
+    <text x="575" y="418" font-weight="bold" fill="#1a1a1a" text-anchor="middle">만 19~34세</text>
+    <text x="575" y="466" font-size="30" fill="#5B6B7C" text-anchor="middle">총급여 7,500만 이하</text>
+    <text x="875" y="418" font-weight="bold" fill="#1a1a1a" text-anchor="middle">만 19~34세</text>
+    <text x="875" y="466" font-size="30" fill="#5B6B7C" text-anchor="middle">총급여 7,500만 이하</text>
+
+    <!-- 월 한도 -->
+    <rect x="60" y="516" width="960" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="588" font-weight="bold" fill="#243B6B">월 한도</text>
+    <text x="575" y="588" font-weight="bold" fill="#1a1a1a" text-anchor="middle">최대 50만원</text>
+    <text x="875" y="588" font-weight="bold" fill="#1a1a1a" text-anchor="middle">최대 70만원</text>
+
+    <!-- 만기 -->
+    <rect x="60" y="652" width="960" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="724" font-weight="bold" fill="#243B6B">만기</text>
+    <text x="575" y="724" font-weight="bold" fill="#1a1a1a" text-anchor="middle">3년</text>
+    <text x="875" y="724" font-weight="bold" fill="#1a1a1a" text-anchor="middle">5년(60개월)</text>
+
+    <!-- 정부기여금 -->
+    <rect x="60" y="788" width="960" height="140" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="866" font-weight="bold" fill="#243B6B">정부기여금</text>
+    <text x="575" y="846" font-weight="bold" fill="#1a1a1a" text-anchor="middle">일반 6% · 우대 12%</text>
+    <text x="575" y="894" font-size="30" fill="#5B6B7C" text-anchor="middle">월 납입금 매칭</text>
+    <text x="875" y="846" font-weight="bold" fill="#1a1a1a" text-anchor="middle">월 최대 3.3만원</text>
+    <text x="875" y="894" font-size="30" fill="#5B6B7C" text-anchor="middle">5년 최대 360만원</text>
+
+    <!-- 비과세 -->
+    <rect x="60" y="944" width="960" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="1016" font-weight="bold" fill="#243B6B">비과세</text>
+    <text x="575" y="1016" font-weight="bold" fill="#1F8A53" text-anchor="middle">이자소득세 면제</text>
+    <text x="875" y="1016" font-weight="bold" fill="#1F8A53" text-anchor="middle">이자소득세 면제</text>
+
+    <!-- 신규 가입 -->
+    <rect x="60" y="1080" width="960" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="1152" font-weight="bold" fill="#243B6B">신규 가입</text>
+    <text x="575" y="1152" font-weight="bold" fill="#243B6B" text-anchor="middle">가능(다음 12월)</text>
+    <text x="875" y="1152" font-weight="bold" fill="#B23B3B" text-anchor="middle">종료(25.12.31)</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="32" fill="#5B6B7C">출처: 금융위원회·서민금융진흥원(kinfa.or.kr) 기준 정리</text>
+</svg>

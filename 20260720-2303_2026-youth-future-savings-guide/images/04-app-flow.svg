@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#243B6B"/>
+  <text x="60" y="90" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#ffffff">취급은행 앱 신청 순서</text>
+  <text x="60" y="148" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="36" fill="#E8EEF5">비대면 · 별도 서류 없이 앱 안에서</text>
+
+  <!-- 스마트폰 목업 -->
+  <rect x="360" y="250" width="360" height="640" rx="44" fill="#ffffff" stroke="#243B6B" stroke-width="6"/>
+  <rect x="360" y="250" width="360" height="90" rx="44" fill="#243B6B"/>
+  <rect x="360" y="300" width="360" height="40" fill="#243B6B"/>
+  <text x="540" y="312" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#ffffff" text-anchor="middle">청년미래적금</text>
+
+  <!-- 앱 내부 단계 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <circle cx="430" cy="430" r="26" fill="#243B6B"/>
+    <text x="430" y="442" font-size="30" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="480" y="442" font-size="34" font-weight="bold" fill="#1a1a1a">자격조회</text>
+
+    <line x1="430" y1="470" x2="430" y2="510" stroke="#C7D3E0" stroke-width="4"/>
+
+    <circle cx="430" cy="550" r="26" fill="#243B6B"/>
+    <text x="430" y="562" font-size="30" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="480" y="562" font-size="34" font-weight="bold" fill="#1a1a1a">일반형/우대형 확인</text>
+
+    <line x1="430" y1="590" x2="430" y2="630" stroke="#C7D3E0" stroke-width="4"/>
+
+    <circle cx="430" cy="670" r="26" fill="#243B6B"/>
+    <text x="430" y="682" font-size="30" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="480" y="682" font-size="34" font-weight="bold" fill="#1a1a1a">신청 접수</text>
+
+    <line x1="430" y1="710" x2="430" y2="750" stroke="#C7D3E0" stroke-width="4"/>
+
+    <circle cx="430" cy="790" r="26" fill="#FFD23F"/>
+    <text x="430" y="802" font-size="30" font-weight="bold" fill="#16264A" text-anchor="middle">4</text>
+    <text x="480" y="802" font-size="34" font-weight="bold" fill="#1a1a1a">심사·계좌개설</text>
+  </g>
+
+  <!-- 안내 박스 -->
+  <rect x="120" y="940" width="840" height="110" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="540" y="990" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#243B6B" text-anchor="middle">취급기관 총 14곳 · 콜센터 1397</text>
+  <text x="540" y="1030" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="28" fill="#5B6B7C" text-anchor="middle">공식 안내: ylaccount.kinfa.or.kr · kinfa.or.kr</text>
+</svg>
