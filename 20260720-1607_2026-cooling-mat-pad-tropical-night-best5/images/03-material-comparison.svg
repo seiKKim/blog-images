@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="58" fill="#ffffff">소재별 냉감 비교</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="600"
+        font-size="34" fill="#CFE6FF">젤 · 인견 · 라텍스 · 메모리폼 · 폴리 냉감원단</text>
+
+  <!-- 헤더 행 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800" font-size="30" fill="#ffffff">
+    <rect x="60" y="252" width="290" height="70" rx="12" fill="#12314F"/>
+    <text x="205" y="297" text-anchor="middle">소재</text>
+    <rect x="356" y="252" width="330" height="70" rx="12" fill="#12314F"/>
+    <text x="521" y="297" text-anchor="middle">장점</text>
+    <rect x="692" y="252" width="328" height="70" rx="12" fill="#12314F"/>
+    <text x="856" y="297" text-anchor="middle">주의점</text>
+  </g>
+
+  <!-- 행 템플릿 함수 대신 반복 -->
+  <!-- 젤 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#243B4A">
+    <rect x="60" y="332" width="960" height="180" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="332" width="290" height="180" rx="14" fill="#FFF4D6"/>
+    <text x="205" y="410" text-anchor="middle" font-weight="800" font-size="38" fill="#B9820C">젤(쿨링젤)</text>
+    <text x="205" y="456" text-anchor="middle" font-weight="600" font-size="28" fill="#7A6410">초기 냉감 강함</text>
+    <text x="376" y="405" font-weight="700">닿는 순간 확실</text>
+    <text x="376" y="452">전기 불필요</text>
+    <text x="712" y="405" font-weight="700" fill="#C0442A">무겁고 금방 미지근</text>
+    <text x="712" y="452" fill="#C0442A">물세탁 불가 많음</text>
+  </g>
+  <!-- 인견 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#243B4A">
+    <rect x="60" y="522" width="960" height="180" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="522" width="290" height="180" rx="14" fill="#DCF0FF"/>
+    <text x="205" y="600" text-anchor="middle" font-weight="800" font-size="38" fill="#1B5FA6">인견(레이온)</text>
+    <text x="205" y="646" text-anchor="middle" font-weight="600" font-size="28" fill="#2E6EA6">통기·흡습 우수</text>
+    <text x="376" y="595" font-weight="700">'냉장고 섬유'급</text>
+    <text x="376" y="642">시원함·땀 배출</text>
+    <text x="712" y="595" font-weight="700" fill="#C0442A">물·열·마찰에 약함</text>
+    <text x="712" y="642" fill="#C0442A">수축·구김 잘 생김</text>
+  </g>
+  <!-- 라텍스 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#243B4A">
+    <rect x="60" y="712" width="960" height="160" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="712" width="290" height="160" rx="14" fill="#FBE4D6"/>
+    <text x="205" y="782" text-anchor="middle" font-weight="800" font-size="38" fill="#C0562A">라텍스</text>
+    <text x="205" y="826" text-anchor="middle" font-weight="600" font-size="28" fill="#A0532E">냉감 약함</text>
+    <text x="376" y="778" font-weight="700">체압분산·지지력</text>
+    <text x="376" y="820" font-size="27">여름엔 열축적</text>
+    <text x="712" y="778" font-weight="700" fill="#C0442A">고온 시 경화 위험</text>
+    <text x="712" y="820" fill="#C0442A" font-size="27">냉감 소재 아님</text>
+  </g>
+  <!-- 메모리폼 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#243B4A">
+    <rect x="60" y="882" width="960" height="160" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="882" width="290" height="160" rx="14" fill="#EDEAF5"/>
+    <text x="205" y="952" text-anchor="middle" font-weight="800" font-size="38" fill="#5B4C8A">메모리폼</text>
+    <text x="205" y="996" text-anchor="middle" font-weight="600" font-size="28" fill="#5B4C8A">냉감 약함</text>
+    <text x="376" y="948" font-weight="700">감싸는 지지력</text>
+    <text x="376" y="990" font-size="27">열 갇힘 주의</text>
+    <text x="712" y="948" font-weight="700" fill="#C0442A">표면 냉감층 여부</text>
+    <text x="712" y="990" fill="#C0442A" font-size="27">확인 필요</text>
+  </g>
+  <!-- 폴리 냉감원단 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#243B4A">
+    <rect x="60" y="1052" width="960" height="160" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="1052" width="290" height="160" rx="14" fill="#DAF3E6"/>
+    <text x="205" y="1122" text-anchor="middle" font-weight="800" font-size="34" fill="#1F8A53">폴리 냉감원단</text>
+    <text x="205" y="1166" text-anchor="middle" font-weight="600" font-size="28" fill="#1F8A53">닿는 순간 시원</text>
+    <text x="376" y="1118" font-weight="700">내구성·세탁 편리</text>
+    <text x="376" y="1160">가성비 축</text>
+    <text x="712" y="1118" font-weight="700" fill="#C0442A">통기성은</text>
+    <text x="712" y="1160" fill="#C0442A">천연 대비 낮은 편</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">통기·시원함→인견 / 가성비·세탁→폴리 / 순간 냉감→젤</text>
+</svg>

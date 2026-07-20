@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E3A66"/>
+      <stop offset="0.55" stop-color="#1B5FA6"/>
+      <stop offset="1" stop-color="#2E7BC9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식: 냉감/눈결정 느낌 원 -->
+  <circle cx="940" cy="200" r="270" fill="#ffffff" opacity="0.07"/>
+  <circle cx="120" cy="1000" r="230" fill="#ffffff" opacity="0.06"/>
+  <circle cx="880" cy="880" r="150" fill="#7FD4FF" opacity="0.10"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="86" rx="34" ry="34" width="240" height="68" fill="#FFD23F"/>
+  <text x="200" y="132" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="36" fill="#12314F" text-anchor="middle">여름 생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="288" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="52" fill="#CFE6FF">2026 열대야 숙면 · 쿨매트 고르는 법</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="452" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="118" fill="#ffffff">Q-max 숫자에</text>
+  <text x="80" y="580" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="118" fill="#FFD23F">속지 마세요</text>
+
+  <!-- 강조 라인 -->
+  <text x="80" y="672" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="46" fill="#CFE6FF">브랜드보다 <tspan fill="#ffffff" font-weight="800">소재 + 측정조건</tspan> 먼저</text>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="748" rx="22" ry="22" width="920" height="132" fill="#ffffff" opacity="0.13"/>
+  <text x="112" y="808" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="44" fill="#FFD23F">완제품 · 온도차 10&#8451;(JIS L 1927)</text>
+  <text x="112" y="856" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="600"
+        font-size="34" fill="#EAF3FF">원사·20&#8451; 기준은 부풀린 수치일 수 있어요</text>
+
+  <!-- 소재 태그 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700" font-size="30" fill="#12314F">
+    <rect x="80" y="916" rx="20" width="150" height="56" fill="#FFD23F"/><text x="155" y="953" text-anchor="middle">젤</text>
+    <rect x="246" y="916" rx="20" width="150" height="56" fill="#7FD4FF"/><text x="321" y="953" text-anchor="middle">인견</text>
+    <rect x="412" y="916" rx="20" width="200" height="56" fill="#E8722C"/><text x="512" y="953" text-anchor="middle" fill="#ffffff">라텍스</text>
+    <rect x="628" y="916" rx="20" width="330" height="56" fill="#CFE6FF"/><text x="793" y="953" text-anchor="middle">메모리폼·냉감원단</text>
+  </g>
+
+  <text x="80" y="1028" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="400"
+        font-size="32" fill="#B9D6F2">blog.naver.com/trip_chocho</text>
+</svg>

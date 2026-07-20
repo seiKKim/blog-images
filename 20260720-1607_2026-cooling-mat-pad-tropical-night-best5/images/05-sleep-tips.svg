@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#0E3A66"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="58" fill="#ffffff">열대야 숙면 팁</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="600"
+        font-size="34" fill="#CFE6FF">쿨매트만으론 부족 · 에어컨·선풍기 병행</text>
+
+  <!-- 핵심 온도 카드 -->
+  <rect x="60" y="256" width="960" height="230" rx="20" fill="#1B5FA6"/>
+  <text x="120" y="336" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700" font-size="40" fill="#CFE6FF">여름철 실내온도 유지</text>
+  <text x="120" y="452" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800" font-size="120" fill="#FFD23F">24~26&#8451;</text>
+  <text x="620" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700" font-size="36" fill="#ffffff">에어컨은 취침 적정온도보다</text>
+  <text x="620" y="430" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800" font-size="64" fill="#FFD23F">2~3도 높게</text>
+  <text x="620" y="472" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="600" font-size="30" fill="#CFE6FF">과냉방 방지</text>
+
+  <!-- 팁 리스트 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="520" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="140" cy="595" r="40" fill="#2E7BC9"/>
+    <text x="140" y="612" text-anchor="middle" font-weight="800" font-size="44" fill="#ffffff">1</text>
+    <text x="210" y="580" font-weight="800" font-size="40" fill="#1a1a1a">선풍기·서큘레이터 병행</text>
+    <text x="210" y="636" font-weight="600" font-size="32" fill="#5B6B7C">공기 순환, 단 바람이 몸에 직접 닿지 않게</text>
+
+    <rect x="60" y="686" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="140" cy="761" r="40" fill="#2E7BC9"/>
+    <text x="140" y="778" text-anchor="middle" font-weight="800" font-size="44" fill="#ffffff">2</text>
+    <text x="210" y="746" font-weight="800" font-size="40" fill="#1a1a1a">잠든 뒤 1~2시간 타이머</text>
+    <text x="210" y="802" font-weight="600" font-size="32" fill="#5B6B7C">밤새 냉방은 호흡기 건조 우려</text>
+
+    <rect x="60" y="852" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="140" cy="927" r="40" fill="#2E7BC9"/>
+    <text x="140" y="944" text-anchor="middle" font-weight="800" font-size="44" fill="#ffffff">3</text>
+    <text x="210" y="912" font-weight="800" font-size="40" fill="#1a1a1a">머리·발은 시원하게</text>
+    <text x="210" y="968" font-weight="600" font-size="32" fill="#5B6B7C">얇은 잠옷·얇은 이불로 배만 덮기</text>
+  </g>
+
+  <!-- 조합 -->
+  <rect x="60" y="1030" width="960" height="180" rx="20" fill="#DCF0FF"/>
+  <text x="90" y="1096" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800" font-size="40" fill="#1B5FA6">함께 쓰면 좋은 조합</text>
+  <text x="90" y="1156" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700" font-size="36" fill="#12314F">표면=쿨매트 · 덮개=냉감 이불 · 머리=냉감 베개패드</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 서울아산병원 등 전문가 권고 (본문 참조)</text>
+</svg>
