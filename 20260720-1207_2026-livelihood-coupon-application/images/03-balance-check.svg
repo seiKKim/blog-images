@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="220" fill="#2B2F36"/>
+  <rect x="60" y="70" rx="26" ry="26" width="200" height="56" fill="#E23B3B"/>
+  <text x="160" y="108" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#ffffff" text-anchor="middle">오늘의 이슈</text>
+  <text x="60" y="185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">내 잔액 조회하는 법</text>
+
+  <!-- 행 1 -->
+  <rect x="60" y="290" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#E23B3B">신용·체크카드</text>
+  <text x="100" y="428" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" fill="#2B2F36">카드사 홈페이지·앱의</text>
+  <text x="100" y="472" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#2B2F36">'고유가 피해지원금' 메뉴</text>
+
+  <!-- 행 2 -->
+  <rect x="60" y="510" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="580" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#E23B3B">지역사랑상품권</text>
+  <text x="100" y="648" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" fill="#2B2F36">해당 앱의</text>
+  <text x="100" y="692" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#2B2F36">'내 지갑'·'정책수당' 메뉴</text>
+
+  <!-- 행 3 -->
+  <rect x="60" y="730" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="100" y="800" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#E23B3B">선불카드</text>
+  <text x="100" y="868" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" fill="#2B2F36">카드 뒷면 고객센터 문의</text>
+  <text x="100" y="912" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#2B2F36">또는 결제 영수증 확인</text>
+
+  <!-- 문의처 강조 -->
+  <rect x="60" y="960" width="960" height="200" rx="20" fill="#2B2F36"/>
+  <text x="540" y="1040" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#ffffff" text-anchor="middle">문의는 국민콜 110</text>
+  <text x="540" y="1100" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#FFD23F" text-anchor="middle">또는 카드사·지자체가 가장 확실</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">※ 받은 지급 수단에 따라 조회 경로가 다름</text>
+</svg>
