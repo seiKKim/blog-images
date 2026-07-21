@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="103" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">제습 방법 비교</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#FFE3CC">제습기 · 에어컨 제습모드 · 제습제</text>
+
+  <!-- 표 헤더 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="260" width="440" height="80" rx="12" fill="#2F5D8A"/>
+    <text x="90" y="313" font-weight="bold" font-size="38" fill="#ffffff">수단</text>
+    <rect x="510" y="260" width="510" height="80" rx="12" fill="#2F5D8A"/>
+    <text x="540" y="313" font-weight="bold" font-size="38" fill="#ffffff">소비전력 · 특징</text>
+
+    <!-- 제습기 -->
+    <rect x="60" y="360" width="440" height="200" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="440" font-weight="bold" font-size="44" fill="#E8722C">제습기</text>
+    <text x="90" y="510" font-size="34" fill="#5B6B7C">방·거실 본격 제습</text>
+    <rect x="510" y="360" width="510" height="200" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="540" y="435" font-weight="bold" font-size="42" fill="#1a1a1a">평균 ~300W</text>
+    <text x="540" y="500" font-size="34" fill="#5B6B7C">강력·연속, 실내건조 유리</text>
+
+    <!-- 에어컨 제습모드 -->
+    <rect x="60" y="580" width="440" height="200" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="655" font-weight="bold" font-size="40" fill="#E8722C">에어컨 제습</text>
+    <text x="90" y="720" font-size="34" fill="#5B6B7C">더위+습기 동시</text>
+    <rect x="510" y="580" width="510" height="200" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="540" y="655" font-weight="bold" font-size="42" fill="#1a1a1a">700~2200W</text>
+    <text x="540" y="720" font-size="33" fill="#5B6B7C">냉방과 요금 차 거의 없음</text>
+
+    <!-- 제습제 -->
+    <rect x="60" y="800" width="440" height="200" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="875" font-weight="bold" font-size="40" fill="#E8722C">염화칼슘·숯</text>
+    <text x="90" y="940" font-size="34" fill="#5B6B7C">옷장·신발장 소공간</text>
+    <rect x="510" y="800" width="510" height="200" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="540" y="875" font-weight="bold" font-size="42" fill="#1a1a1a">저렴 (소모품)</text>
+    <text x="540" y="940" font-size="34" fill="#5B6B7C">밀폐 소공간 보조용</text>
+  </g>
+
+  <!-- 포인트 박스 -->
+  <rect x="60" y="1030" width="960" height="180" rx="20" fill="#FFF1E9" stroke="#F0B79A"/>
+  <text x="100" y="1100" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#E8722C">핵심</text>
+  <text x="100" y="1165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="37" fill="#1a1a1a">방 전체 40~60% 관리는 기계식(제습기·에어컨)이 필요</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 본문 정리 (다수 전문가 의견)</text>
+</svg>

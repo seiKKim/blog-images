@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="103" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">욕실 실리콘·타일 곰팡이</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#FFE3CC">젤 타입 제거제 3단계</text>
+
+  <!-- 스텝 카드 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="270" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="150" cy="370" r="52" fill="#E8722C"/>
+    <text x="150" y="388" font-weight="bold" font-size="56" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="240" y="355" font-weight="bold" font-size="46" fill="#1a1a1a">실리콘 틈새에 고르게 바르기</text>
+    <text x="240" y="415" font-size="36" fill="#5B6B7C">젤 타입 곰팡이 제거제를 틈새에</text>
+
+    <rect x="60" y="500" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="150" cy="600" r="52" fill="#E8722C"/>
+    <text x="150" y="618" font-weight="bold" font-size="56" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="240" y="585" font-weight="bold" font-size="46" fill="#1a1a1a">키친타월로 덮어 방치</text>
+    <text x="240" y="645" font-size="36" fill="#5B6B7C">30분~1시간 (너무 오래 두지 말 것)</text>
+
+    <rect x="60" y="730" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="150" cy="830" r="52" fill="#E8722C"/>
+    <text x="150" y="848" font-weight="bold" font-size="56" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="240" y="815" font-weight="bold" font-size="46" fill="#1a1a1a">물로 씻어내고 환기</text>
+    <text x="240" y="875" font-size="36" fill="#5B6B7C">사용 후 환풍기 충분히 가동</text>
+  </g>
+
+  <!-- 주의 박스 -->
+  <rect x="60" y="970" width="960" height="230" rx="20" fill="#FFF1E9" stroke="#F0B79A"/>
+  <text x="100" y="1042" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#E8722C">주의</text>
+  <text x="100" y="1108" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">합성수지 표면은 영구 손상될 수 있고,</text>
+  <text x="100" y="1160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">실리콘 코킹도 장시간 노출 시 손상 가능</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 유한락스 공식 안내 (본문 정리)</text>
+</svg>

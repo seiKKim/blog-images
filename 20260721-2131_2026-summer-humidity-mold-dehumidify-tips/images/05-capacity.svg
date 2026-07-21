@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="103" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">평수별 제습기 용량</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#FFE3CC">우리 집엔 몇 L짜리? (권장 가이드)</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 행1 -->
+    <rect x="60" y="270" width="960" height="180" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="345" font-weight="bold" font-size="44" fill="#1a1a1a">원룸·드레스룸·고시원</text>
+    <text x="100" y="405" font-size="36" fill="#5B6B7C">10평 이하</text>
+    <text x="1000" y="380" font-weight="bold" font-size="60" fill="#E8722C" text-anchor="end">7~12L</text>
+
+    <!-- 행2 -->
+    <rect x="60" y="470" width="960" height="180" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="545" font-weight="bold" font-size="44" fill="#1a1a1a">오피스텔·소형 아파트</text>
+    <text x="100" y="605" font-size="36" fill="#5B6B7C">15~20평</text>
+    <text x="1000" y="580" font-weight="bold" font-size="60" fill="#E8722C" text-anchor="end">16~18L</text>
+
+    <!-- 행3 -->
+    <rect x="60" y="670" width="960" height="180" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="745" font-weight="bold" font-size="44" fill="#1a1a1a">일반 아파트 거실</text>
+    <text x="100" y="805" font-size="36" fill="#5B6B7C">20~30평</text>
+    <text x="1000" y="780" font-weight="bold" font-size="60" fill="#E8722C" text-anchor="end">18~21L</text>
+
+    <!-- 행4 -->
+    <rect x="60" y="870" width="960" height="180" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="945" font-weight="bold" font-size="44" fill="#1a1a1a">30평대 이상·복층</text>
+    <text x="100" y="1005" font-size="36" fill="#5B6B7C">빨래방 동시 사용</text>
+    <text x="1000" y="980" font-weight="bold" font-size="60" fill="#E8722C" text-anchor="end">23L 이상</text>
+  </g>
+
+  <!-- 팁 박스 -->
+  <rect x="60" y="1075" width="960" height="150" rx="20" fill="#FFF1E9" stroke="#F0B79A"/>
+  <text x="100" y="1140" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#E8722C">TIP</text>
+  <text x="205" y="1140" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#1a1a1a">애매한 평수라면 한 단계 큰 용량이 후회 없음</text>
+  <text x="100" y="1195" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">아파트 기준 1평당 약 0.76L 적정</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 통용 권장 가이드 (본문 정리 · 공식 스펙 아님)</text>
+</svg>
