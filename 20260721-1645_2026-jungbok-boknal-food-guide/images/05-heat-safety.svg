@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="hb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B7FC4"/>
+      <stop offset="1" stop-color="#155F94"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#EAF3FA"/>
+  <rect width="1080" height="230" fill="url(#hb)"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">온열질환 3대 예방수칙</text>
+  <text x="60" y="178" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="38" fill="#D4E9F7">삼복더위·폭염, 안전하게 나는 법</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1 -->
+    <rect x="60" y="300" width="960" height="270" rx="24" fill="#ffffff" stroke="#CDE1F0" stroke-width="2"/>
+    <circle cx="180" cy="435" r="70" fill="#1B7FC4"/>
+    <text x="180" y="458" font-size="72" text-anchor="middle">💧</text>
+    <text x="290" y="410" font-size="52" font-weight="800" fill="#155F94">1. 물 자주 마시기</text>
+    <text x="290" y="470" font-size="34" fill="#2C4657">갈증 없어도 규칙적으로. 하루 약 1.5~2L,</text>
+    <text x="290" y="518" font-size="34" fill="#2C4657">야외활동 시 20~30분마다 한 컵씩 보충</text>
+
+    <!-- 2 -->
+    <rect x="60" y="595" width="960" height="270" rx="24" fill="#ffffff" stroke="#CDE1F0" stroke-width="2"/>
+    <circle cx="180" cy="730" r="70" fill="#1B7FC4"/>
+    <text x="180" y="753" font-size="72" text-anchor="middle">☀️</text>
+    <text x="290" y="705" font-size="52" font-weight="800" fill="#155F94">2. 더운 시간대 활동 자제</text>
+    <text x="290" y="765" font-size="34" fill="#2C4657">가장 더운 낮 12~17시 무리한 야외활동·</text>
+    <text x="290" y="813" font-size="34" fill="#2C4657">작업 피하고, 자주 휴식하며 물 마시기</text>
+
+    <!-- 3 -->
+    <rect x="60" y="890" width="960" height="270" rx="24" fill="#ffffff" stroke="#CDE1F0" stroke-width="2"/>
+    <circle cx="180" cy="1025" r="70" fill="#1B7FC4"/>
+    <text x="180" y="1048" font-size="72" text-anchor="middle">🧊</text>
+    <text x="290" y="1000" font-size="52" font-weight="800" fill="#155F94">3. 시원하게 지내기</text>
+    <text x="290" y="1060" font-size="34" fill="#2C4657">샤워 자주, 헐렁하고 밝은 색 옷,</text>
+    <text x="290" y="1108" font-size="34" fill="#2C4657">외출 시 양산·모자로 햇볕 차단</text>
+  </g>
+
+  <rect x="0" y="1274" width="1080" height="76" fill="#D4E9F7"/>
+  <text x="60" y="1323" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#2C5170">출처: 질병관리청 온열질환 예방수칙 · 증상 심하면 119</text>
+</svg>

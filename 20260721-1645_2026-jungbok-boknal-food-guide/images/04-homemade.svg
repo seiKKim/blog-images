@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F1E6"/>
+  <rect width="1080" height="190" fill="#E8722C"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">집에서 간단 여름 보양식</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="260" width="960" height="180" rx="20" fill="#ffffff" stroke="#E4D6BC" stroke-width="2"/>
+    <text x="105" y="345" font-size="54" text-anchor="middle">🥡</text>
+    <text x="180" y="330" font-size="46" font-weight="800" fill="#C4451C">삼계탕 밀키트 · 즉석식</text>
+    <text x="180" y="392" font-size="33" fill="#5A3A1E">손질 통닭+약재 패키지 / 데우기만 하는 파우치</text>
+
+    <rect x="60" y="464" width="960" height="180" rx="20" fill="#ffffff" stroke="#E4D6BC" stroke-width="2"/>
+    <text x="105" y="549" font-size="54" text-anchor="middle">🍜</text>
+    <text x="180" y="534" font-size="46" font-weight="800" fill="#C4451C">초계탕 · 초계국수</text>
+    <text x="180" y="596" font-size="33" fill="#5A3A1E">닭가슴살+냉면육수+식초+연겨자, 입맛 없을 때</text>
+
+    <rect x="60" y="668" width="960" height="180" rx="20" fill="#ffffff" stroke="#E4D6BC" stroke-width="2"/>
+    <text x="105" y="753" font-size="54" text-anchor="middle">🥣</text>
+    <text x="180" y="738" font-size="46" font-weight="800" fill="#C4451C">콩국수</text>
+    <text x="180" y="800" font-size="33" fill="#5A3A1E">불린 콩 갈아 콩국물 만들고 소면만 말면 완성</text>
+
+    <rect x="60" y="872" width="960" height="180" rx="20" fill="#ffffff" stroke="#E4D6BC" stroke-width="2"/>
+    <text x="105" y="957" font-size="54" text-anchor="middle">🍖</text>
+    <text x="180" y="942" font-size="46" font-weight="800" fill="#C4451C">오리주물럭</text>
+    <text x="180" y="1004" font-size="33" fill="#5A3A1E">손질 오리고기에 양념만 더하면 간단 조리</text>
+
+    <rect x="60" y="1076" width="960" height="180" rx="20" fill="#ffffff" stroke="#E4D6BC" stroke-width="2"/>
+    <text x="105" y="1161" font-size="54" text-anchor="middle">🍲</text>
+    <text x="180" y="1146" font-size="46" font-weight="800" fill="#C4451C">전복죽 · 닭백숙</text>
+    <text x="180" y="1208" font-size="33" fill="#5A3A1E">삼계탕이 부담스러울 때 담백한 대체 보양 메뉴</text>
+  </g>
+
+  <rect x="0" y="1284" width="1080" height="66" fill="#EFE4CE"/>
+  <text x="60" y="1327" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#7A5A38">※ 밀키트·식재료는 시점마다 가격·구성이 자주 바뀝니다</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F1E6"/>
+  <rect width="1080" height="190" fill="#C4451C"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">복날 대표 보양식 5</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 삼계탕 -->
+    <rect x="60" y="250" width="960" height="180" rx="20" fill="#ffffff" stroke="#E4D6BC" stroke-width="2"/>
+    <circle cx="150" cy="340" r="52" fill="#F4E3C4"/>
+    <text x="150" y="360" font-size="52" text-anchor="middle">🍲</text>
+    <text x="240" y="330" font-size="50" font-weight="800" fill="#C4451C">삼계탕</text>
+    <text x="240" y="392" font-size="34" fill="#5A3A1E">찹쌀·인삼·대추 넣어 푹 끓인 대표 보양식, 수분 보충</text>
+
+    <!-- 장어 -->
+    <rect x="60" y="454" width="960" height="180" rx="20" fill="#ffffff" stroke="#E4D6BC" stroke-width="2"/>
+    <circle cx="150" cy="544" r="52" fill="#F4E3C4"/>
+    <text x="150" y="564" font-size="52" text-anchor="middle">🐟</text>
+    <text x="240" y="534" font-size="50" font-weight="800" fill="#C4451C">장어</text>
+    <text x="240" y="596" font-size="34" fill="#5A3A1E">단백질·불포화지방산·비타민, 여름 체력 보충</text>
+
+    <!-- 전복 -->
+    <rect x="60" y="658" width="960" height="180" rx="20" fill="#ffffff" stroke="#E4D6BC" stroke-width="2"/>
+    <circle cx="150" cy="748" r="52" fill="#F4E3C4"/>
+    <text x="150" y="768" font-size="52" text-anchor="middle">🐚</text>
+    <text x="240" y="738" font-size="50" font-weight="800" fill="#C4451C">전복</text>
+    <text x="240" y="800" font-size="34" fill="#5A3A1E">저지방 고단백, 죽·삼계탕 부재료로도 활용</text>
+
+    <!-- 오리 -->
+    <rect x="60" y="862" width="960" height="180" rx="20" fill="#ffffff" stroke="#E4D6BC" stroke-width="2"/>
+    <circle cx="150" cy="952" r="52" fill="#F4E3C4"/>
+    <text x="150" y="972" font-size="52" text-anchor="middle">🦆</text>
+    <text x="240" y="942" font-size="50" font-weight="800" fill="#C4451C">오리</text>
+    <text x="240" y="1004" font-size="34" fill="#5A3A1E">불포화지방산·단백질 풍부, 오리주물럭 등으로</text>
+
+    <!-- 콩국수 -->
+    <rect x="60" y="1066" width="960" height="180" rx="20" fill="#ffffff" stroke="#E4D6BC" stroke-width="2"/>
+    <circle cx="150" cy="1156" r="52" fill="#F4E3C4"/>
+    <text x="150" y="1176" font-size="52" text-anchor="middle">🥣</text>
+    <text x="240" y="1146" font-size="50" font-weight="800" fill="#C4451C">콩국수</text>
+    <text x="240" y="1208" font-size="34" fill="#5A3A1E">식물성 단백질, 뜨거운 국물이 부담스러울 때 좋음</text>
+  </g>
+
+  <rect x="0" y="1274" width="1080" height="76" fill="#EFE4CE"/>
+  <text x="60" y="1323" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#7A5A38">※ 일반 음식·영양 상식 수준의 소개이며 의약적 효능 단정은 아닙니다</text>
+</svg>

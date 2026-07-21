@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F7F1E6"/>
+  <rect width="1080" height="150" fill="#C4451C"/>
+  <text x="60" y="97" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">2026년은 &#39;월복(越伏)&#39; 해</text>
+
+  <!-- 타임라인 축 -->
+  <line x1="150" y1="380" x2="930" y2="380" stroke="#C9B79A" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- 세 노드 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" text-anchor="middle">
+    <circle cx="150" cy="380" r="26" fill="#E8722C"/>
+    <circle cx="480" cy="380" r="30" fill="#C4451C"/>
+    <circle cx="930" cy="380" r="26" fill="#E8722C"/>
+
+    <text x="150" y="320" font-size="40" font-weight="bold" fill="#5A3A1E">초복</text>
+    <text x="150" y="452" font-size="46" font-weight="800" fill="#C4451C">7/15</text>
+    <text x="480" y="312" font-size="44" font-weight="bold" fill="#5A3A1E">중복</text>
+    <text x="480" y="452" font-size="50" font-weight="800" fill="#C4451C">7/25</text>
+    <text x="930" y="320" font-size="40" font-weight="bold" fill="#5A3A1E">말복</text>
+    <text x="930" y="452" font-size="46" font-weight="800" fill="#C4451C">8/14</text>
+  </g>
+
+  <!-- 간격 라벨 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" text-anchor="middle">
+    <rect x="245" y="520" rx="18" width="170" height="76" fill="#2E9E6B"/>
+    <text x="330" y="570" font-size="42" font-weight="800" fill="#ffffff">10일</text>
+    <text x="330" y="628" font-size="30" fill="#5A3A1E">초복→중복</text>
+
+    <rect x="600" y="520" rx="18" width="210" height="76" fill="#C4451C"/>
+    <text x="705" y="570" font-size="42" font-weight="800" fill="#ffffff">20일</text>
+    <text x="705" y="628" font-size="30" font-weight="bold" fill="#C4451C">중복→말복 (월복!)</text>
+  </g>
+
+  <text x="60" y="245" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="38" fill="#5A3A1E">중복과 말복 사이가 20일로 벌어져 더위가 길게 이어집니다</text>
+</svg>
