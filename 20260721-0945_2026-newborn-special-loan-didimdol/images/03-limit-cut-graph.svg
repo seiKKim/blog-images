@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">한도 축소 이력</text>
+  <text x="60" y="170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">2025년 6·27 부동산대책으로 한도 축소</text>
+
+  <!-- 디딤돌 섹션 -->
+  <text x="60" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6">디딤돌 (구입)</text>
+
+  <!-- 이전 5억 막대 -->
+  <rect x="60" y="340" width="900" height="120" rx="16" fill="#C9D6E5"/>
+  <text x="100" y="415" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#5B6B7C">이전  5억</text>
+  <text x="930" y="410" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="30" fill="#5B6B7C" text-anchor="end">6·27 이전</text>
+  <!-- 화살표 -->
+  <text x="540" y="518" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#E23B3B" text-anchor="middle">▼ 1억 축소</text>
+  <!-- 현행 4억 막대 -->
+  <rect x="60" y="545" width="720" height="130" rx="16" fill="#1B5FA6"/>
+  <text x="100" y="628" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">현행  4억</text>
+  <rect x="800" y="560" width="160" height="100" rx="16" fill="#FFD23F"/>
+  <text x="880" y="622" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">현재</text>
+
+  <!-- 버팀목 섹션 -->
+  <text x="60" y="800" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#243B6B">버팀목 (전세)</text>
+
+  <!-- 이전 3억 막대 -->
+  <rect x="60" y="840" width="820" height="120" rx="16" fill="#C9D6E5"/>
+  <text x="100" y="915" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#5B6B7C">이전  3억</text>
+  <text x="850" y="910" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="30" fill="#5B6B7C" text-anchor="end">6·27 이전</text>
+  <text x="540" y="1018" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#E23B3B" text-anchor="middle">▼ 0.6억 축소</text>
+  <!-- 현행 2.4억 막대 -->
+  <rect x="60" y="1045" width="656" height="130" rx="16" fill="#243B6B"/>
+  <text x="100" y="1128" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">현행  2.4억</text>
+  <rect x="736" y="1060" width="160" height="100" rx="16" fill="#FFD23F"/>
+  <text x="816" y="1122" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">현재</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">※ 6·27 이전 계약분은 이전 한도 적용</text>
+</svg>

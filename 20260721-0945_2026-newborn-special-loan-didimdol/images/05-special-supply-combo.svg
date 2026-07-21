@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#ffffff">특별공급 + 특례대출 조합</text>
+  <text x="60" y="170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">청약 당첨 → 잔금은 디딤돌대출로</text>
+
+  <!-- STEP 1 특공 -->
+  <rect x="90" y="270" width="900" height="240" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="90" y="270" width="16" height="240" rx="8" fill="#1B5FA6"/>
+  <text x="140" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1B5FA6">STEP 1</text>
+  <text x="140" y="410" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1a1a1a">신생아 특별공급 (청약)</text>
+  <text x="140" y="460" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#5B6B7C">2026.6.15~ 민영주택 물량 10% 배정</text>
+  <text x="140" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#5B6B7C">만 2세 미만 자녀 무주택 세대주 (혼인요건 없음)</text>
+
+  <!-- 화살표 -->
+  <text x="540" y="590" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#1B5FA6" text-anchor="middle">▼</text>
+  <text x="540" y="628" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1B5FA6" text-anchor="middle">당첨 후 잔금 마련</text>
+
+  <!-- STEP 2 디딤돌 -->
+  <rect x="90" y="660" width="900" height="240" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="90" y="660" width="16" height="240" rx="8" fill="#FFD23F"/>
+  <text x="140" y="735" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1B5FA6">STEP 2</text>
+  <text x="140" y="800" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1a1a1a">신생아 특례 디딤돌대출</text>
+  <text x="140" y="850" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#5B6B7C">구입자금 최대 4억 · 평가액 9억 이하 주택</text>
+  <text x="140" y="890" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#5B6B7C">잔금 대출로 활용</text>
+
+  <!-- 주의 박스 -->
+  <rect x="90" y="960" width="900" height="230" rx="20" fill="#FFF6D6" stroke="#E9C94A"/>
+  <text x="130" y="1030" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#B98700">⚠ 소득기준은 각각 별개로 산정</text>
+  <text x="130" y="1090" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#7A6410">특공 소득기준(월평균소득 %)과</text>
+  <text x="130" y="1132" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#7A6410">특례대출 소득기준(연소득 억 원)은 별도 —</text>
+  <text x="130" y="1174" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#7A6410">두 기준을 각각 충족해야 합니다.</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">※ 신청 전 최신 자격·소득기준 확인 필수</text>
+</svg>

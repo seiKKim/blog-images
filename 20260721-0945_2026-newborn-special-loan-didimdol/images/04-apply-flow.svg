@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">신청 방법 · 절차</text>
+  <text x="60" y="170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">온라인 기금e든든 또는 수탁은행 5곳 방문</text>
+
+  <!-- 신청 창구 두 카드 -->
+  <rect x="60" y="240" width="465" height="180" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="308" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1B5FA6">온라인</text>
+  <text x="100" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#1a1a1a">기금e든든</text>
+  <text x="100" y="400" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="28" fill="#5B6B7C">nhuf.molit.go.kr</text>
+
+  <rect x="555" y="240" width="465" height="180" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="595" y="308" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1B5FA6">오프라인</text>
+  <text x="595" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a">수탁은행 5곳 방문</text>
+  <text x="595" y="400" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="28" fill="#5B6B7C">우리·국민·신한·농협·하나</text>
+
+  <!-- 절차 흐름 -->
+  <text x="60" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a">신청 흐름</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="530" width="960" height="90" rx="14" fill="#EAF1F9" stroke="#B9CEE4"/>
+    <circle cx="115" cy="575" r="26" fill="#1B5FA6"/>
+    <text x="115" y="588" font-size="34" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+    <text x="170" y="588" font-size="40" fill="#1a1a1a" font-weight="bold">조건확인</text>
+
+    <rect x="60" y="640" width="960" height="90" rx="14" fill="#EAF1F9" stroke="#B9CEE4"/>
+    <circle cx="115" cy="685" r="26" fill="#1B5FA6"/>
+    <text x="115" y="698" font-size="34" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+    <text x="170" y="698" font-size="40" fill="#1a1a1a" font-weight="bold">동의 / 정보제공</text>
+
+    <rect x="60" y="750" width="960" height="90" rx="14" fill="#EAF1F9" stroke="#B9CEE4"/>
+    <circle cx="115" cy="795" r="26" fill="#1B5FA6"/>
+    <text x="115" y="808" font-size="34" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+    <text x="170" y="808" font-size="40" fill="#1a1a1a" font-weight="bold">서류제출</text>
+
+    <rect x="60" y="860" width="960" height="90" rx="14" fill="#EAF1F9" stroke="#B9CEE4"/>
+    <circle cx="115" cy="905" r="26" fill="#1B5FA6"/>
+    <text x="115" y="918" font-size="34" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
+    <text x="170" y="918" font-size="40" fill="#1a1a1a" font-weight="bold">자산·소득·담보 심사</text>
+
+    <rect x="60" y="970" width="960" height="90" rx="14" fill="#EAF1F9" stroke="#B9CEE4"/>
+    <circle cx="115" cy="1015" r="26" fill="#1B5FA6"/>
+    <text x="115" y="1028" font-size="34" fill="#ffffff" font-weight="bold" text-anchor="middle">5</text>
+    <text x="170" y="1028" font-size="40" fill="#1a1a1a" font-weight="bold">승인</text>
+
+    <rect x="60" y="1080" width="960" height="90" rx="14" fill="#1B5FA6"/>
+    <circle cx="115" cy="1125" r="26" fill="#FFD23F"/>
+    <text x="115" y="1138" font-size="34" fill="#1a1a1a" font-weight="bold" text-anchor="middle">6</text>
+    <text x="170" y="1138" font-size="40" fill="#ffffff" font-weight="bold">실행</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">※ 문의: 주택도시보증공사 콜센터 1566-9009</text>
+</svg>
