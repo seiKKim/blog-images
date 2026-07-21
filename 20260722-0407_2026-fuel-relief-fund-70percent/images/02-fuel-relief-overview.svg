@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="60" y="60" rx="30" ry="30" width="200" height="60" fill="#FFD23F"/>
+  <text x="160" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">2026 진행</text>
+  <text x="60" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">고유가 피해지원금 한눈에</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 대상 -->
+    <rect x="60" y="260" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="322" font-size="38" font-weight="bold" fill="#5B6B7C">대상</text>
+    <text x="100" y="388" font-size="54" font-weight="bold" fill="#1B5FA6">소득 하위 70%</text>
+    <text x="980" y="410" font-size="32" fill="#5B6B7C" text-anchor="end">건강보험료 기준 · 약 3,577만명</text>
+
+    <!-- 금액 -->
+    <rect x="60" y="460" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="522" font-size="38" font-weight="bold" fill="#5B6B7C">금액</text>
+    <text x="100" y="588" font-size="54" font-weight="bold" fill="#1B5FA6">1인 10만~60만원 차등</text>
+    <text x="980" y="610" font-size="32" fill="#5B6B7C" text-anchor="end">4인 가구 최대 240만원 수준</text>
+
+    <!-- 지급 형태 -->
+    <rect x="60" y="660" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="722" font-size="38" font-weight="bold" fill="#5B6B7C">지급 형태</text>
+    <text x="100" y="788" font-size="54" font-weight="bold" fill="#1B5FA6">지역화폐</text>
+    <text x="980" y="810" font-size="32" fill="#5B6B7C" text-anchor="end">지역사랑상품권 · 선불카드</text>
+
+    <!-- 재원 -->
+    <rect x="60" y="860" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="922" font-size="38" font-weight="bold" fill="#5B6B7C">재원</text>
+    <text x="100" y="988" font-size="54" font-weight="bold" fill="#1B5FA6">2026년도 추경안</text>
+    <text x="980" y="1010" font-size="32" fill="#5B6B7C" text-anchor="end">배정 약 4.8조~6.1조원</text>
+  </g>
+
+  <!-- 주의 띠 -->
+  <rect x="60" y="1070" width="960" height="130" rx="20" fill="#FFF4D6" stroke="#F0CE5A" stroke-width="2"/>
+  <text x="100" y="1130" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" font-weight="bold" fill="#8A6D1A">신청일·지급일·최대 지급액은 아직 확정 발표 전</text>
+  <text x="100" y="1178" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8A6D1A">일부 수치는 심의 과정에서 변동될 수 있습니다</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 정책브리핑(korea.kr) · 행정안전부 발표 기준</text>
+</svg>
