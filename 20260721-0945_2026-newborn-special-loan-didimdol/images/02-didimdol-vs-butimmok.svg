@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">디딤돌 vs 버팀목 한눈 비교</text>
+  <text x="60" y="170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">집을 사면 디딤돌 · 전세면 버팀목 (택1)</text>
+
+  <!-- 두 열 헤더 -->
+  <rect x="60" y="240" width="470" height="110" rx="16" fill="#1B5FA6"/>
+  <text x="295" y="292" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff" text-anchor="middle">디딤돌 (구입)</text>
+  <text x="295" y="332" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="28" fill="#E8EEF5" text-anchor="middle">주택 매매</text>
+
+  <rect x="550" y="240" width="470" height="110" rx="16" fill="#243B6B"/>
+  <text x="785" y="292" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff" text-anchor="middle">버팀목 (전세)</text>
+  <text x="785" y="332" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="28" fill="#E8EEF5" text-anchor="middle">전세보증금</text>
+
+  <!-- 비교 행: 라벨은 중앙, 값은 좌우 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 대출한도 -->
+    <rect x="60" y="370" width="470" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="550" y="370" width="470" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="540" y="405" font-size="28" fill="#5B6B7C" text-anchor="middle" font-weight="bold">대출한도</text>
+    <text x="295" y="470" font-size="70" fill="#1B5FA6" font-weight="bold" text-anchor="middle">4억원</text>
+    <text x="785" y="470" font-size="70" fill="#243B6B" font-weight="bold" text-anchor="middle">2.4억원</text>
+    <text x="295" y="505" font-size="26" fill="#5B6B7C" text-anchor="middle">최대</text>
+    <text x="785" y="505" font-size="26" fill="#5B6B7C" text-anchor="middle">호당 최대</text>
+
+    <!-- 금리 -->
+    <rect x="60" y="540" width="470" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="550" y="540" width="470" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="540" y="575" font-size="28" fill="#5B6B7C" text-anchor="middle" font-weight="bold">금리(대략)</text>
+    <text x="295" y="648" font-size="52" fill="#1a1a1a" font-weight="bold" text-anchor="middle">1.8~4.5%</text>
+    <text x="785" y="648" font-size="52" fill="#1a1a1a" font-weight="bold" text-anchor="middle">1.3~4.3%</text>
+
+    <!-- 담보/보증 -->
+    <rect x="60" y="700" width="470" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="550" y="700" width="470" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="540" y="735" font-size="28" fill="#5B6B7C" text-anchor="middle" font-weight="bold">담보 / 보증</text>
+    <text x="295" y="793" font-size="38" fill="#1a1a1a" font-weight="bold" text-anchor="middle">LTV 70% 이내</text>
+    <text x="295" y="825" font-size="26" fill="#5B6B7C" text-anchor="middle">생애최초·비규제 80%</text>
+    <text x="785" y="793" font-size="38" fill="#1a1a1a" font-weight="bold" text-anchor="middle">보증금 80% 이내</text>
+
+    <!-- 대상주택 -->
+    <rect x="60" y="860" width="470" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="550" y="860" width="470" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="540" y="895" font-size="28" fill="#5B6B7C" text-anchor="middle" font-weight="bold">대상 주택</text>
+    <text x="295" y="948" font-size="36" fill="#1a1a1a" font-weight="bold" text-anchor="middle">평가액 9억 이하</text>
+    <text x="295" y="985" font-size="28" fill="#5B6B7C" text-anchor="middle">전용 85㎡ 이하</text>
+    <text x="785" y="928" font-size="30" fill="#1a1a1a" font-weight="bold" text-anchor="middle">보증금 수도권 5억·</text>
+    <text x="785" y="962" font-size="30" fill="#1a1a1a" font-weight="bold" text-anchor="middle">비수도권 4억 이하</text>
+    <text x="785" y="994" font-size="26" fill="#5B6B7C" text-anchor="middle">전용 85㎡ 이하</text>
+
+    <!-- 특례기간 -->
+    <rect x="60" y="1030" width="470" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="550" y="1030" width="470" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="540" y="1065" font-size="28" fill="#5B6B7C" text-anchor="middle" font-weight="bold">특례기간</text>
+    <text x="295" y="1118" font-size="38" fill="#1a1a1a" font-weight="bold" text-anchor="middle">기본 5년</text>
+    <text x="295" y="1155" font-size="28" fill="#5B6B7C" text-anchor="middle">최장 15년</text>
+    <text x="785" y="1118" font-size="38" fill="#1a1a1a" font-weight="bold" text-anchor="middle">기본 4년</text>
+    <text x="785" y="1155" font-size="28" fill="#5B6B7C" text-anchor="middle">최장 12년</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">※ 2025년 6·27 대책 반영 · 신청 전 최신 기준 확인</text>
+</svg>
