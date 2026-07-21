@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <rect x="60" y="86" rx="30" ry="30" width="150" height="60" fill="#FFD23F"/>
+  <text x="135" y="127" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#153a26" text-anchor="middle">채널</text>
+  <text x="240" y="130" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">4가지 납부 채널</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1 위택스 -->
+    <rect x="60" y="270" width="465" height="440" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="270" width="465" height="90" rx="24" fill="#1F8A53"/>
+    <rect x="60" y="320" width="465" height="40" fill="#1F8A53"/>
+    <text x="292" y="332" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">위택스</text>
+    <text x="292" y="440" font-size="34" fill="#5B6B7C" text-anchor="middle">wetax.go.kr</text>
+    <text x="292" y="510" font-size="36" font-weight="bold" fill="#1a1a1a" text-anchor="middle">전국 지방세</text>
+    <text x="292" y="570" font-size="32" fill="#5B6B7C" text-anchor="middle">행안부 통합 시스템</text>
+    <text x="292" y="640" font-size="32" fill="#5B6B7C" text-anchor="middle">카드·계좌이체·간편결제</text>
+
+    <!-- 2 서울 이택스 -->
+    <rect x="555" y="270" width="465" height="440" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="555" y="270" width="465" height="90" rx="24" fill="#1F8A53"/>
+    <rect x="555" y="320" width="465" height="40" fill="#1F8A53"/>
+    <text x="787" y="332" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">서울 이택스</text>
+    <text x="787" y="440" font-size="34" fill="#5B6B7C" text-anchor="middle">etax.seoul.go.kr</text>
+    <text x="787" y="510" font-size="36" font-weight="bold" fill="#1a1a1a" text-anchor="middle">서울시 지방세</text>
+    <text x="787" y="570" font-size="32" fill="#5B6B7C" text-anchor="middle">서울 거주자에 빠름</text>
+    <text x="787" y="640" font-size="32" fill="#5B6B7C" text-anchor="middle">납부 단계 연결 잦음</text>
+
+    <!-- 3 STAX -->
+    <rect x="60" y="740" width="465" height="440" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="740" width="465" height="90" rx="24" fill="#166B41"/>
+    <rect x="60" y="790" width="465" height="40" fill="#166B41"/>
+    <text x="292" y="802" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">STAX · 앱</text>
+    <text x="292" y="910" font-size="34" fill="#5B6B7C" text-anchor="middle">스마트위택스 / STAX</text>
+    <text x="292" y="980" font-size="36" font-weight="bold" fill="#1a1a1a" text-anchor="middle">모바일 앱 조회·납부</text>
+    <text x="292" y="1040" font-size="32" fill="#5B6B7C" text-anchor="middle">카카오·네이버·토스</text>
+    <text x="292" y="1110" font-size="32" fill="#5B6B7C" text-anchor="middle">간편결제 지원</text>
+
+    <!-- 4 간편결제 -->
+    <rect x="555" y="740" width="465" height="440" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="555" y="740" width="465" height="90" rx="24" fill="#166B41"/>
+    <rect x="555" y="790" width="465" height="40" fill="#166B41"/>
+    <text x="787" y="802" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">간편결제</text>
+    <text x="787" y="910" font-size="34" fill="#5B6B7C" text-anchor="middle">카카오·네이버·토스</text>
+    <text x="787" y="980" font-size="36" font-weight="bold" fill="#1a1a1a" text-anchor="middle">모바일 고지서</text>
+    <text x="787" y="1040" font-size="32" fill="#5B6B7C" text-anchor="middle">종이 없이 알림 수신</text>
+    <text x="787" y="1110" font-size="32" fill="#5B6B7C" text-anchor="middle">바로 결제</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">ARS·은행앱·ATM·편의점 납부도 가능 · 본문 정리</text>
+</svg>

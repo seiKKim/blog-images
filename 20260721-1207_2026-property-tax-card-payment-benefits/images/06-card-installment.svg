@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <rect x="60" y="86" rx="30" ry="30" width="150" height="60" fill="#FFD23F"/>
+  <text x="135" y="127" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#153a26" text-anchor="middle">납부</text>
+  <text x="240" y="130" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">무이자할부 회차 선택</text>
+
+  <text x="60" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1a1a1a">카드 앱에서 할부 개월을 고르면 끝</text>
+
+  <!-- 모의 앱 카드 -->
+  <rect x="140" y="360" width="800" height="700" rx="30" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="140" y="360" width="800" height="100" rx="30" fill="#166B41"/>
+  <rect x="140" y="420" width="800" height="40" fill="#166B41"/>
+  <text x="540" y="425" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff" text-anchor="middle">지방세 카드 납부</text>
+
+  <text x="180" y="540" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#5B6B7C">납부 세목</text>
+  <text x="900" y="540" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="bold" fill="#1a1a1a" text-anchor="end">재산세</text>
+  <line x1="180" y1="575" x2="900" y2="575" stroke="#E3E9F1" stroke-width="2"/>
+
+  <text x="180" y="645" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#5B6B7C">대행 수수료</text>
+  <text x="900" y="645" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" font-weight="bold" fill="#1F8A53" text-anchor="end">0원</text>
+  <line x1="180" y1="680" x2="900" y2="680" stroke="#E3E9F1" stroke-width="2"/>
+
+  <text x="180" y="750" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#5B6B7C">할부 개월 선택</text>
+
+  <!-- 할부 버튼들 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold">
+    <rect x="180" y="790" width="220" height="90" rx="16" fill="#EAF6EF" stroke="#1F8A53" stroke-width="2"/>
+    <text x="290" y="838" font-size="34" fill="#166B41" text-anchor="middle">2개월 무이자</text>
+    <rect x="420" y="790" width="220" height="90" rx="16" fill="#1F8A53"/>
+    <text x="530" y="838" font-size="34" fill="#ffffff" text-anchor="middle">3개월 무이자</text>
+    <rect x="660" y="790" width="220" height="90" rx="16" fill="#EAF6EF" stroke="#1F8A53" stroke-width="2"/>
+    <text x="770" y="838" font-size="34" fill="#166B41" text-anchor="middle">6개월 부분</text>
+  </g>
+
+  <rect x="180" y="920" width="720" height="100" rx="18" fill="#1F8A53"/>
+  <text x="540" y="985" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff" text-anchor="middle">이 카드로 결제하기</text>
+
+  <text x="540" y="1130" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a" text-anchor="middle">최소 결제액 5만 원 이상 조건이 흔함</text>
+  <text x="540" y="1185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#5B6B7C" text-anchor="middle">개월수·대상은 카드사별 상이 · 결제 직전 확인</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">화면은 이해를 돕기 위한 예시 · 본문 정리</text>
+</svg>

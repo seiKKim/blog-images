@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <rect x="60" y="86" rx="30" ry="30" width="150" height="60" fill="#FFD23F"/>
+  <text x="135" y="127" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#153a26" text-anchor="middle">비교</text>
+  <text x="240" y="130" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">신용카드 vs 체크카드</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 신용카드 -->
+    <rect x="60" y="270" width="465" height="820" rx="24" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+    <rect x="60" y="270" width="465" height="110" rx="24" fill="#1F8A53"/>
+    <rect x="60" y="330" width="465" height="50" fill="#1F8A53"/>
+    <text x="292" y="345" font-size="50" font-weight="bold" fill="#ffffff" text-anchor="middle">신용카드</text>
+    <text x="292" y="460" font-size="40" font-weight="bold" fill="#1F8A53" text-anchor="middle">무이자 할부</text>
+    <text x="292" y="560" font-size="34" fill="#1a1a1a" text-anchor="middle">목돈 부담을</text>
+    <text x="292" y="608" font-size="34" fill="#1a1a1a" text-anchor="middle">나눠 낼 수 있음</text>
+    <text x="292" y="700" font-size="34" fill="#1a1a1a" text-anchor="middle">2~3개월 무이자</text>
+    <text x="292" y="748" font-size="34" fill="#1a1a1a" text-anchor="middle">6/10/12 부분무이자</text>
+    <line x1="120" y1="810" x2="465" y2="810" stroke="#E3E9F1" stroke-width="2"/>
+    <text x="292" y="880" font-size="30" fill="#B03030" text-anchor="middle">무이자 시 포인트·실적</text>
+    <text x="292" y="922" font-size="30" fill="#B03030" text-anchor="middle">제외되는 경우 흔함</text>
+    <rect x="120" y="970" width="345" height="90" rx="16" fill="#EAF6EF"/>
+    <text x="292" y="1010" font-size="30" fill="#166B41" text-anchor="middle" font-weight="bold">목돈 나눠 내기 목적</text>
+    <text x="292" y="1046" font-size="30" fill="#166B41" text-anchor="middle" font-weight="bold">이면 유리</text>
+
+    <!-- 체크카드 -->
+    <rect x="555" y="270" width="465" height="820" rx="24" fill="#ffffff" stroke="#166B41" stroke-width="3"/>
+    <rect x="555" y="270" width="465" height="110" rx="24" fill="#166B41"/>
+    <rect x="555" y="330" width="465" height="50" fill="#166B41"/>
+    <text x="787" y="345" font-size="50" font-weight="bold" fill="#ffffff" text-anchor="middle">체크카드</text>
+    <text x="787" y="460" font-size="40" font-weight="bold" fill="#166B41" text-anchor="middle">캐시백 이벤트</text>
+    <text x="787" y="560" font-size="34" fill="#1a1a1a" text-anchor="middle">소액 리워드를</text>
+    <text x="787" y="608" font-size="34" fill="#1a1a1a" text-anchor="middle">돌려받을 수 있음</text>
+    <text x="787" y="700" font-size="34" fill="#1a1a1a" text-anchor="middle">할부는 불가</text>
+    <text x="787" y="748" font-size="34" fill="#1a1a1a" text-anchor="middle">즉시 출금 · 지출 관리</text>
+    <line x1="615" y1="810" x2="960" y2="810" stroke="#E3E9F1" stroke-width="2"/>
+    <text x="787" y="880" font-size="30" fill="#5B6B7C" text-anchor="middle">신한 0.1% · KB국민 0.2%</text>
+    <text x="787" y="922" font-size="30" fill="#5B6B7C" text-anchor="middle">(사전응모 등 조건·변동)</text>
+    <rect x="615" y="970" width="345" height="90" rx="16" fill="#EAF6EF"/>
+    <text x="787" y="1010" font-size="30" fill="#166B41" text-anchor="middle" font-weight="bold">소액이라도 즉시</text>
+    <text x="787" y="1046" font-size="30" fill="#166B41" text-anchor="middle" font-weight="bold">리워드 목적이면 유리</text>
+  </g>
+
+  <text x="540" y="1180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#1a1a1a" text-anchor="middle">재산세는 어느 쪽이든 수수료 0원 · 손해 없음</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">캐시백률·조건은 카드사별 변동 · 결제 전 재확인</text>
+</svg>

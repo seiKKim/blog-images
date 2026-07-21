@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <rect x="60" y="86" rx="30" ry="30" width="150" height="60" fill="#FFD23F"/>
+  <text x="135" y="127" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#153a26" text-anchor="middle">절차</text>
+  <text x="240" y="130" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">재산세 납부 한눈에</text>
+
+  <!-- Step 1 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="270" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="360" r="48" fill="#1F8A53"/>
+    <text x="150" y="378" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="240" y="345" font-size="48" font-weight="bold" fill="#1a1a1a">과세기준일 6월 1일</text>
+    <text x="240" y="410" font-size="36" fill="#5B6B7C">6/1 현재 소유자에게 부과</text>
+  </g>
+  <text x="150" y="500" font-size="54" fill="#1F8A53" text-anchor="middle" font-weight="bold">▼</text>
+
+  <!-- Step 2 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="530" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="620" r="48" fill="#1F8A53"/>
+    <text x="150" y="638" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="240" y="605" font-size="48" font-weight="bold" fill="#1a1a1a">고지서 발송</text>
+    <text x="240" y="670" font-size="36" fill="#5B6B7C">위택스·이택스에서 조회 가능</text>
+  </g>
+  <text x="150" y="760" font-size="54" fill="#1F8A53" text-anchor="middle" font-weight="bold">▼</text>
+
+  <!-- Step 3 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="790" width="960" height="180" rx="20" fill="#FFF4E0" stroke="#E23B3B" stroke-width="3"/>
+    <circle cx="150" cy="880" r="48" fill="#E23B3B"/>
+    <text x="150" y="898" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="240" y="865" font-size="48" font-weight="bold" fill="#1a1a1a">7월 31일 마감</text>
+    <text x="240" y="930" font-size="36" fill="#B03030">주택분 1기 · 하루 넘기면 가산세 3%</text>
+  </g>
+  <text x="150" y="1020" font-size="54" fill="#1F8A53" text-anchor="middle" font-weight="bold">▼</text>
+
+  <!-- Step 4 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="1050" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="1140" r="48" fill="#1F8A53"/>
+    <text x="150" y="1158" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="240" y="1125" font-size="48" font-weight="bold" fill="#1a1a1a">카드로 납부</text>
+    <text x="240" y="1190" font-size="36" fill="#5B6B7C">수수료 0원 · 무이자할부 활용</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">주택분 1기 납부기간 7/16~7/31 · 본문 정리</text>
+</svg>
