@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">정률 환급 vs 모두의 카드</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#E8EEF5">2026년 신설 · 유리한 쪽 자동 적용</text>
+
+  <!-- 두 방식 비교 카드 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="255" width="460" height="360" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="255" width="460" height="80" rx="20" fill="#1F8A53"/>
+    <rect x="60" y="300" width="460" height="35" fill="#1F8A53"/>
+    <text x="290" y="308" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">기존 정률 환급</text>
+    <text x="290" y="420" font-size="38" font-weight="bold" fill="#1a1a1a" text-anchor="middle">쓴 금액의</text>
+    <text x="290" y="490" font-size="60" font-weight="bold" fill="#1F8A53" text-anchor="middle">20~53.3%</text>
+    <text x="290" y="555" font-size="32" fill="#5B6B7C" text-anchor="middle">비율만큼 환급</text>
+
+    <rect x="560" y="255" width="460" height="360" rx="20" fill="#ffffff" stroke="#E0CE7A"/>
+    <rect x="560" y="255" width="460" height="80" rx="20" fill="#C79A00"/>
+    <rect x="560" y="300" width="460" height="35" fill="#C79A00"/>
+    <text x="790" y="308" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">모두의 카드(정액형)</text>
+    <text x="790" y="420" font-size="38" font-weight="bold" fill="#1a1a1a" text-anchor="middle">기준금액 초과분</text>
+    <text x="790" y="490" font-size="60" font-weight="bold" fill="#C79A00" text-anchor="middle">전액 환급</text>
+    <text x="790" y="555" font-size="32" fill="#8A7220" text-anchor="middle">별도 카드 발급 불필요</text>
+  </g>
+
+  <!-- 기준금액 표 (수도권) -->
+  <text x="60" y="700" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" font-weight="bold" fill="#1a1a1a">수도권 기준금액</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38">
+    <rect x="60" y="730" width="480" height="80" rx="12" fill="#DCEDE3"/>
+    <text x="90" y="782" font-weight="bold" fill="#1a1a1a">구분</text>
+    <rect x="540" y="730" width="240" height="80" fill="#DCEDE3"/>
+    <text x="660" y="782" font-weight="bold" fill="#1a1a1a" text-anchor="middle">일반형</text>
+    <rect x="780" y="730" width="240" height="80" rx="12" fill="#DCEDE3"/>
+    <text x="900" y="782" font-weight="bold" fill="#1a1a1a" text-anchor="middle">플러스형</text>
+
+    <rect x="60" y="815" width="960" height="80" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="867" fill="#1a1a1a">일반 국민</text>
+    <text x="660" y="867" fill="#1F8A53" font-weight="bold" text-anchor="middle">6만 2천원</text>
+    <text x="900" y="867" fill="#1F8A53" font-weight="bold" text-anchor="middle">10만원</text>
+
+    <rect x="60" y="897" width="960" height="80" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="949" font-size="32" fill="#1a1a1a">청년·어르신·2자녀</text>
+    <text x="660" y="949" fill="#1F8A53" font-weight="bold" text-anchor="middle">5만 5천원</text>
+    <text x="900" y="949" fill="#1F8A53" font-weight="bold" text-anchor="middle">9만원</text>
+
+    <rect x="60" y="979" width="960" height="80" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="1031" font-size="32" fill="#1a1a1a">저소득·3자녀 이상</text>
+    <text x="660" y="1031" fill="#1F8A53" font-weight="bold" text-anchor="middle">4만 5천원</text>
+    <text x="900" y="1031" fill="#1F8A53" font-weight="bold" text-anchor="middle">8만원</text>
+  </g>
+
+  <rect x="60" y="1095" width="960" height="130" rx="16" fill="#E7F1EB"/>
+  <text x="90" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="bold" fill="#1F8A53">✔ 월 60회·하루 2회 적립 제한 폐지</text>
+  <text x="90" y="1198" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#3A4A5A">정률·정액 중 유리한 쪽을 시스템이 자동 적용</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: K-패스 공식 홈페이지(korea-pass.kr) · 본문 정리</text>
+</svg>

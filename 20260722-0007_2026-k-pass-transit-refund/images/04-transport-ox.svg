@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">적용되는 교통수단</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#E8EEF5">되는 것 vs 안 되는 것 한눈에</text>
+
+  <!-- O 컬럼 -->
+  <rect x="60" y="255" width="460" height="90" rx="16" fill="#1F8A53"/>
+  <text x="290" y="315" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">적립 대상 (O)</text>
+  <!-- X 컬럼 -->
+  <rect x="560" y="255" width="460" height="90" rx="16" fill="#B34141"/>
+  <text x="790" y="315" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">적립 제외 (X)</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" font-weight="bold">
+    <!-- O 항목 -->
+    <rect x="60" y="365" width="460" height="100" rx="14" fill="#ffffff" stroke="#CDE4D7"/>
+    <text x="105" y="428" fill="#1F8A53">✔</text><text x="165" y="428" fill="#1a1a1a">시내·마을버스</text>
+    <rect x="60" y="477" width="460" height="100" rx="14" fill="#ffffff" stroke="#CDE4D7"/>
+    <text x="105" y="540" fill="#1F8A53">✔</text><text x="165" y="540" fill="#1a1a1a">지하철</text>
+    <rect x="60" y="589" width="460" height="100" rx="14" fill="#ffffff" stroke="#CDE4D7"/>
+    <text x="105" y="652" fill="#1F8A53">✔</text><text x="165" y="652" fill="#1a1a1a">광역버스</text>
+    <rect x="60" y="701" width="460" height="100" rx="14" fill="#ffffff" stroke="#CDE4D7"/>
+    <text x="105" y="764" fill="#1F8A53">✔</text><text x="165" y="764" fill="#1a1a1a">신분당선</text>
+    <rect x="60" y="813" width="460" height="100" rx="14" fill="#FFF7DA" stroke="#E0CE7A"/>
+    <text x="105" y="876" fill="#C79A00">✔</text><text x="165" y="876" fill="#1a1a1a">GTX</text>
+    <rect x="60" y="925" width="460" height="100" rx="14" fill="#ffffff" stroke="#CDE4D7"/>
+    <text x="105" y="988" fill="#1F8A53">✔</text><text x="165" y="988" fill="#1a1a1a">공항철도</text>
+
+    <!-- X 항목 -->
+    <rect x="560" y="365" width="460" height="100" rx="14" fill="#ffffff" stroke="#EAD3D3"/>
+    <text x="605" y="428" fill="#B34141">✕</text><text x="665" y="428" fill="#1a1a1a">KTX</text>
+    <rect x="560" y="477" width="460" height="100" rx="14" fill="#ffffff" stroke="#EAD3D3"/>
+    <text x="605" y="540" fill="#B34141">✕</text><text x="665" y="540" fill="#1a1a1a">SRT</text>
+    <rect x="560" y="589" width="460" height="100" rx="14" fill="#ffffff" stroke="#EAD3D3"/>
+    <text x="605" y="652" fill="#B34141">✕</text><text x="665" y="652" fill="#1a1a1a">고속(시외)버스</text>
+    <rect x="560" y="701" width="460" height="100" rx="14" fill="#ffffff" stroke="#EAD3D3"/>
+    <text x="605" y="764" fill="#B34141">✕</text><text x="665" y="764" fill="#1a1a1a">공항버스</text>
+  </g>
+
+  <rect x="60" y="1055" width="960" height="165" rx="16" fill="#E7F1EB"/>
+  <text x="90" y="1115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="bold" fill="#1F8A53">💡 GTX·광역버스·신분당선·공항철도는 적립 대상</text>
+  <text x="90" y="1170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#3A4A5A">KTX·SRT·고속버스·공항버스는 별도 발권이라 제외</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: K-패스 공식 홈페이지(korea-pass.kr) · 본문 정리</text>
+</svg>

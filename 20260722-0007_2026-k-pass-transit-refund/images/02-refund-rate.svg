@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">유형별 환급률 (2026)</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#E8EEF5">월 15회 이상 이용 시 · 다음 달 환급</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44">
+    <!-- 헤더행 -->
+    <rect x="60" y="250" width="960" height="90" rx="14" fill="#DCEDE3"/>
+    <text x="100" y="310" font-weight="bold" fill="#1a1a1a">유형</text>
+    <text x="1000" y="310" font-weight="bold" fill="#1a1a1a" text-anchor="end">환급률</text>
+
+    <rect x="60" y="352" width="960" height="110" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="420" font-weight="bold" fill="#1a1a1a">일반</text>
+    <text x="1000" y="420" font-weight="bold" fill="#1F8A53" text-anchor="end">20%</text>
+
+    <rect x="60" y="474" width="960" height="110" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="530" font-weight="bold" fill="#1a1a1a">청년(만 19~34세)</text>
+    <text x="100" y="568" font-size="30" fill="#5B6B7C">생년월일 자동 적용</text>
+    <text x="1000" y="542" font-weight="bold" fill="#1F8A53" text-anchor="end">30%</text>
+
+    <rect x="60" y="596" width="960" height="110" rx="14" fill="#FFF7DA" stroke="#E0CE7A"/>
+    <text x="100" y="652" font-weight="bold" fill="#1a1a1a">저소득층(수급자·차상위)</text>
+    <text x="100" y="690" font-size="30" fill="#8A7220">가장 높은 환급률</text>
+    <text x="1000" y="664" font-weight="bold" fill="#C79A00" text-anchor="end">53.3%</text>
+
+    <rect x="60" y="718" width="960" height="110" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="774" font-weight="bold" fill="#1a1a1a">어르신(만 65세 이상)</text>
+    <text x="100" y="812" font-size="30" fill="#5B6B7C">2026년 20%→30% 인상</text>
+    <text x="1000" y="788" font-weight="bold" fill="#1F8A53" text-anchor="end">30%</text>
+
+    <rect x="60" y="840" width="960" height="110" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="908" font-weight="bold" fill="#1a1a1a">2자녀 부모</text>
+    <text x="1000" y="908" font-weight="bold" fill="#1F8A53" text-anchor="end">30%</text>
+
+    <rect x="60" y="962" width="960" height="110" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="1030" font-weight="bold" fill="#1a1a1a">3자녀 이상 부모</text>
+    <text x="1000" y="1030" font-weight="bold" fill="#1F8A53" text-anchor="end">50%</text>
+  </g>
+
+  <rect x="60" y="1110" width="960" height="110" rx="16" fill="#E7F1EB"/>
+  <text x="90" y="1155" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" font-weight="bold" fill="#1F8A53">💡 경기·인천 거주자</text>
+  <text x="90" y="1198" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#3A4A5A">청년 환급률(30%)을 만 39세까지 적용</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: K-패스 공식 홈페이지(korea-pass.kr) · 본문 정리</text>
+</svg>
