@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="glass2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#EAF4FC"/>
+      <stop offset="1" stop-color="#CFE4F5"/>
+    </linearGradient>
+    <pattern id="mesh" width="14" height="14" patternUnits="userSpaceOnUse">
+      <path d="M0 0H14M0 0V14" stroke="#8FB7D6" stroke-width="1.5"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="170" fill="#1B7FC4"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">모기 차단! 틈새 마감</text>
+
+  <!-- 창문 프레임 -->
+  <rect x="180" y="230" width="720" height="600" rx="10" fill="url(#glass2)" stroke="#4A83AC" stroke-width="8"/>
+
+  <!-- 본체 -->
+  <rect x="330" y="440" width="420" height="200" rx="12" fill="#ffffff" stroke="#4A83AC" stroke-width="6"/>
+  <rect x="365" y="475" width="350" height="90" rx="6" fill="#E7F1F9" stroke="#9CC6E6" stroke-width="3"/>
+  <line x1="365" y1="505" x2="715" y2="505" stroke="#BcD6E8" stroke-width="4"/>
+  <line x1="365" y1="535" x2="715" y2="535" stroke="#BcD6E8" stroke-width="4"/>
+  <text x="540" y="618" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#123A5C" text-anchor="middle">창문형 본체</text>
+
+  <!-- 상단 패널 (실리콘 마감) -->
+  <rect x="188" y="238" width="704" height="90" fill="url(#mesh)"/>
+  <rect x="188" y="238" width="704" height="90" fill="#F2C94C" opacity="0.35"/>
+  <text x="540" y="292" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#5B4410" text-anchor="middle">상단 패널 + 실리콘·스펀지 마감</text>
+
+  <!-- 하단 패널 (모기망 키트) -->
+  <rect x="188" y="732" width="704" height="90" fill="url(#mesh)"/>
+  <rect x="188" y="732" width="704" height="90" fill="#F2C94C" opacity="0.35"/>
+  <text x="540" y="786" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#5B4410" text-anchor="middle">하단 패널 + 전용 모기망 키트</text>
+
+  <!-- 모기 아이콘 차단 표시 -->
+  <g>
+    <circle cx="960" cy="530" r="70" fill="#ffffff" stroke="#E23B3B" stroke-width="10"/>
+    <text x="960" y="558" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="70" text-anchor="middle">🦟</text>
+    <line x1="915" y1="485" x2="1005" y2="575" stroke="#E23B3B" stroke-width="10"/>
+  </g>
+
+  <!-- 하단 요점 박스 -->
+  <rect x="60" y="880" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="90" y="938" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1B7FC4">마감 부실이 모기 유입의 주원인</text>
+  <text x="90" y="988" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">상하 패널로 틈을 메운 뒤 실리콘·스펀지 마감 상태를 반드시 확인</text>
+</svg>

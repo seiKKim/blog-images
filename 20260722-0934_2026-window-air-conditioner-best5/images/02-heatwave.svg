@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="150" fill="#1B7FC4"/>
+  <text x="60" y="95" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">2026년 7월, 열대야가 몰고 온 냉방 수요</text>
+
+  <!-- 기온 카드 2개 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="200" width="470" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="95" y="262" font-size="34" font-weight="bold" fill="#5B6B7C">7/13 경기 하남 춘궁동</text>
+    <text x="95" y="372" font-size="120" font-weight="bold" fill="#E23B3B">37.8℃</text>
+    <text x="95" y="410" font-size="26" fill="#8A97A6">낮 최고기온(비공식 기록)</text>
+
+    <rect x="550" y="200" width="470" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="585" y="262" font-size="34" font-weight="bold" fill="#5B6B7C">7/14 대구 동구 신암동</text>
+    <text x="585" y="372" font-size="120" font-weight="bold" fill="#E8722C">37.7℃</text>
+    <text x="585" y="410" font-size="26" fill="#8A97A6">낮 최고기온</text>
+  </g>
+
+  <!-- 검색량 급증 배너 -->
+  <rect x="60" y="470" width="960" height="150" rx="20" fill="#1B7FC4"/>
+  <text x="95" y="540" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#ffffff">밤에도 안 떨어지는 기온</text>
+  <text x="95" y="595" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F">→ 실외기 공사 없는 창문형 검색량 급증</text>
+  <text x="940" y="565" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="90" fill="#FFD23F" text-anchor="end">📈</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="640" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="690" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">기온은 본문 기재 기록 기준 · 창문형 에어컨 고르는 법 2026</text>
+</svg>

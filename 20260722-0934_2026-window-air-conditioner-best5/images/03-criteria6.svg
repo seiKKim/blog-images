@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#1B7FC4"/>
+  <text x="60" y="115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">창문형 에어컨 고르는 기준</text>
+  <text x="60" y="180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="50" fill="#FFD23F">핵심 6가지</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 항목 반복 -->
+    <!-- 1 -->
+    <rect x="60" y="255" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="330" r="46" fill="#1B7FC4"/>
+    <text x="150" y="348" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="235" y="315" font-size="46" font-weight="bold" fill="#1a1a1a">냉방능력(평형)</text>
+    <text x="235" y="368" font-size="34" fill="#5B6B7C">공급면적 말고 '실제 식힐 방' 기준</text>
+
+    <!-- 2 -->
+    <rect x="60" y="425" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="500" r="46" fill="#1B7FC4"/>
+    <text x="150" y="518" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="235" y="485" font-size="46" font-weight="bold" fill="#1a1a1a">소음(dB·취침모드)</text>
+    <text x="235" y="538" font-size="34" fill="#5B6B7C">원룸에선 수면 위치와의 거리가 관건</text>
+
+    <!-- 3 -->
+    <rect x="60" y="595" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="670" r="46" fill="#1B7FC4"/>
+    <text x="150" y="688" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="235" y="655" font-size="46" font-weight="bold" fill="#1a1a1a">설치 방식</text>
+    <text x="235" y="708" font-size="34" fill="#5B6B7C">내 창문에 되는지가 진짜 관문</text>
+
+    <!-- 4 -->
+    <rect x="60" y="765" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="840" r="46" fill="#1B7FC4"/>
+    <text x="150" y="858" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="235" y="825" font-size="46" font-weight="bold" fill="#1a1a1a">인버터 vs 정속형</text>
+    <text x="235" y="878" font-size="34" fill="#5B6B7C">오래 틀 거면 인버터가 유리</text>
+
+    <!-- 5 -->
+    <rect x="60" y="935" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="1010" r="46" fill="#1B7FC4"/>
+    <text x="150" y="1028" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="235" y="995" font-size="46" font-weight="bold" fill="#1a1a1a">배수·스마트 기능</text>
+    <text x="235" y="1048" font-size="34" fill="#5B6B7C">자가증발·앱제어로 관리 편의를 가른다</text>
+
+    <!-- 6 -->
+    <rect x="60" y="1105" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="1180" r="46" fill="#1B7FC4"/>
+    <text x="150" y="1198" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">6</text>
+    <text x="235" y="1165" font-size="46" font-weight="bold" fill="#1a1a1a">가격대·A/S</text>
+    <text x="235" y="1218" font-size="34" fill="#5B6B7C">보급형~프리미엄으로 급이 나뉜다</text>
+  </g>
+
+  <!-- 하단 띠 -->
+  <rect x="0" y="1275" width="1080" height="75" fill="#E8EEF5"/>
+  <text x="60" y="1323" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">브랜드보다 냉방능력 → 소음 → 창문 규격 순으로</text>
+</svg>

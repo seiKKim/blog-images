@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#EAF4FC"/>
+      <stop offset="1" stop-color="#CFE4F5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="170" fill="#1B7FC4"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">창문형 에어컨 설치 방식</text>
+
+  <!-- 창문 프레임 -->
+  <rect x="150" y="240" width="780" height="640" rx="10" fill="url(#glass)" stroke="#4A83AC" stroke-width="8"/>
+  <!-- 미닫이창 레일 중앙선 -->
+  <line x1="540" y1="240" x2="540" y2="880" stroke="#7FA9C9" stroke-width="4" stroke-dasharray="10 8"/>
+
+  <!-- 상단 패널 -->
+  <rect x="158" y="248" width="764" height="90" fill="#F2C94C" opacity="0.9"/>
+  <text x="540" y="308" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#5B4410" text-anchor="middle">상단 패널 (틈 메움)</text>
+
+  <!-- 에어컨 본체 -->
+  <rect x="290" y="440" width="500" height="240" rx="14" fill="#ffffff" stroke="#4A83AC" stroke-width="6"/>
+  <rect x="330" y="480" width="420" height="120" rx="8" fill="#E7F1F9" stroke="#9CC6E6" stroke-width="3"/>
+  <line x1="330" y1="520" x2="750" y2="520" stroke="#BcD6E8" stroke-width="4"/>
+  <line x1="330" y1="560" x2="750" y2="560" stroke="#BcD6E8" stroke-width="4"/>
+  <text x="540" y="655" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#123A5C" text-anchor="middle">창문형 본체 거치</text>
+
+  <!-- 하단 패널 -->
+  <rect x="158" y="782" width="764" height="90" fill="#F2C94C" opacity="0.9"/>
+  <text x="540" y="842" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#5B4410" text-anchor="middle">하단 패널 (틈 메움)</text>
+
+  <!-- 열 배출 화살표 -->
+  <text x="960" y="575" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#E23B3B" text-anchor="middle">→</text>
+  <text x="960" y="630" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#E23B3B" text-anchor="middle">열 배출</text>
+
+  <!-- 하단 요점 박스 -->
+  <rect x="60" y="920" width="960" height="130" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="90" y="978" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1B7FC4">타공·실외기 공사 없이 미닫이창에 거치</text>
+  <text x="90" y="1025" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">자가설치 키트로 20~30분 내외 · 고정창 높이 1,200mm 이하면 대부분 가능</text>
+</svg>
