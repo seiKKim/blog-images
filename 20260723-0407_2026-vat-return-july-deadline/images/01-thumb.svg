@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1F8A53"/>
+  <circle cx="950" cy="170" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="110" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="64" y="80" rx="34" ry="34" width="200" height="68" fill="#FFD23F"/>
+  <text x="164" y="126" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">세금·환급</text>
+
+  <!-- 서브 카피 -->
+  <text x="64" y="240" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#E8EEF5">2026 부가가치세 1기 확정신고</text>
+
+  <!-- 메인 카피 -->
+  <text x="64" y="356" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="72" fill="#ffffff">"25일 마감?" 아니에요</text>
+  <text x="64" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="96" fill="#FFD23F">실제 마감 <tspan fill="#ffffff">7/27</tspan>(월)</text>
+
+  <!-- 미니 달력 -->
+  <g>
+    <rect x="64" y="540" width="952" height="356" rx="28" fill="#ffffff"/>
+    <rect x="64" y="540" width="952" height="72" rx="28" fill="#146b3f"/>
+    <rect x="64" y="580" width="952" height="32" fill="#146b3f"/>
+    <text x="540" y="590" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+          font-size="40" fill="#ffffff" text-anchor="middle">2026년 7월</text>
+
+    <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">
+      <!-- 요일 헤더 -->
+      <text x="180" y="676" fill="#E23B3B">일</text>
+      <text x="316" y="676" fill="#3a3a3a">월</text>
+      <text x="452" y="676" fill="#3a3a3a">화</text>
+      <text x="588" y="676" fill="#3a3a3a">수</text>
+      <text x="724" y="676" fill="#3a3a3a">목</text>
+      <text x="860" y="676" fill="#3a3a3a">금</text>
+      <text x="960" y="676" fill="#1F8A53">토</text>
+    </g>
+
+    <!-- 날짜 행: 목22 금23(오늘) 토24? -->
+    <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="46" font-weight="bold" text-anchor="middle" fill="#3a3a3a">
+      <text x="724" y="778">23</text>
+      <text x="860" y="778">24</text>
+      <text x="960" y="778" fill="#1F8A53">25</text>
+    </g>
+    <!-- 오늘 23일 표시 -->
+    <text x="724" y="820" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#888">오늘</text>
+    <!-- 25일(토) 취소선 느낌 회색 -->
+    <text x="960" y="820" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F8A53">토요일</text>
+
+    <!-- 27일 빨간 동그라미 -->
+    <circle cx="316" cy="850" r="52" fill="none" stroke="#E23B3B" stroke-width="9"/>
+    <text x="316" y="866" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="52" font-weight="bold" text-anchor="middle" fill="#E23B3B">27</text>
+    <text x="316" y="705" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="46" font-weight="bold" text-anchor="middle" fill="#E23B3B">▼</text>
+  </g>
+
+  <!-- 디테일 띠 -->
+  <rect x="64" y="928" rx="20" ry="20" width="952" height="88" fill="#ffffff" opacity="0.16"/>
+  <text x="90" y="984" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff">개인 일반과세자 신고방법·가산세 총정리</text>
+
+  <text x="64" y="1050" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="30" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
