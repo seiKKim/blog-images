@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="0" y="200" width="1080" height="8" fill="#3FD0C9"/>
+  <text x="60" y="112" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">가구원수별 지원금액</text>
+  <text x="60" y="164" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="34" fill="#CFE0F0">2026년 연간 총액 (기간 내 자유 사용)</text>
+
+  <!-- 막대: 기준선 x=340, 최대폭 620px (=701,300원) -->
+  <!-- 1인 295,200 -> 261px -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <text x="60" y="352" font-weight="bold" font-size="46" fill="#173A5E">1인</text>
+    <rect x="340" y="308" width="261" height="72" rx="12" fill="#7FB3DD"/>
+    <text x="620" y="357" font-weight="bold" font-size="44" fill="#1B5FA6">295,200원</text>
+
+    <text x="60" y="512" font-weight="bold" font-size="46" fill="#173A5E">2인</text>
+    <rect x="340" y="468" width="360" height="72" rx="12" fill="#5B9BD5"/>
+    <text x="719" y="517" font-weight="bold" font-size="44" fill="#1B5FA6">407,500원</text>
+
+    <text x="60" y="672" font-weight="bold" font-size="46" fill="#173A5E">3인</text>
+    <rect x="340" y="628" width="471" height="72" rx="12" fill="#3D82C4"/>
+    <text x="830" y="677" font-weight="bold" font-size="44" fill="#1B5FA6">532,700원</text>
+
+    <text x="60" y="832" font-weight="bold" font-size="46" fill="#173A5E">4인↑</text>
+    <rect x="340" y="788" width="620" height="72" rx="12" fill="#1B5FA6"/>
+    <text x="360" y="837" font-weight="bold" font-size="44" fill="#ffffff">701,300원</text>
+  </g>
+
+  <!-- 강조 박스 -->
+  <rect x="60" y="920" width="960" height="200" rx="20" fill="#E7F6F5" stroke="#3FD0C9" stroke-width="3"/>
+  <text x="100" y="994" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="42" fill="#0E7C74">4인 이상 세대는 70만 원 이상</text>
+  <text x="100" y="1054" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="36" fill="#33565E">여름 냉방비 + 겨울 난방비를 함께 지원하는</text>
+  <text x="100" y="1100" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="36" fill="#33565E">연간 총액 기준 금액입니다.</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">본문 기준 · 한국에너지공단 안내 금액</text>
+</svg>
