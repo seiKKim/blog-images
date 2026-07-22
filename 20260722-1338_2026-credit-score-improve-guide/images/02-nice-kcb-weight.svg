@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">같은 사람인데 왜 점수가 다를까?</text>
+  <text x="60" y="162" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F">NICE vs KCB 평가비중 비교 (공식 공시)</text>
+
+  <!-- NICE 컬럼 헤더 -->
+  <rect x="60" y="250" width="465" height="90" rx="16" fill="#243B6B"/>
+  <text x="292" y="310" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#ffffff" text-anchor="middle">NICE 지키미</text>
+  <rect x="555" y="250" width="465" height="90" rx="16" fill="#1F8A53"/>
+  <text x="787" y="310" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#ffffff" text-anchor="middle">KCB 올크레딧</text>
+
+  <!-- NICE rows -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="360" width="465" height="104" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="88" y="410" font-size="34" fill="#1a1a1a">상환이력</text>
+    <text x="497" y="426" font-size="52" font-weight="bold" fill="#243B6B" text-anchor="end">28.4%</text>
+
+    <rect x="60" y="480" width="465" height="104" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="88" y="530" font-size="34" fill="#1a1a1a">신용형태</text>
+    <text x="497" y="546" font-size="52" font-weight="bold" fill="#243B6B" text-anchor="end">27.5%</text>
+
+    <rect x="60" y="600" width="465" height="104" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="88" y="650" font-size="34" fill="#1a1a1a">부채수준</text>
+    <text x="497" y="666" font-size="52" font-weight="bold" fill="#5B6B7C" text-anchor="end">24.5%</text>
+
+    <rect x="60" y="720" width="465" height="104" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="88" y="770" font-size="34" fill="#1a1a1a">신용거래기간</text>
+    <text x="497" y="786" font-size="52" font-weight="bold" fill="#5B6B7C" text-anchor="end">12.3%</text>
+
+    <rect x="60" y="840" width="465" height="104" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="88" y="890" font-size="34" fill="#1a1a1a">비금융·마이데이터</text>
+    <text x="497" y="906" font-size="52" font-weight="bold" fill="#5B6B7C" text-anchor="end">7.3%</text>
+  </g>
+
+  <!-- KCB rows (일반고객) -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="555" y="360" width="465" height="104" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="583" y="410" font-size="34" fill="#1a1a1a">신용거래형태</text>
+    <text x="992" y="426" font-size="52" font-weight="bold" fill="#1F8A53" text-anchor="end">38%</text>
+
+    <rect x="555" y="480" width="465" height="104" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="583" y="530" font-size="34" fill="#1a1a1a">부채수준</text>
+    <text x="992" y="546" font-size="52" font-weight="bold" fill="#5B6B7C" text-anchor="end">24%</text>
+
+    <rect x="555" y="600" width="465" height="104" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="583" y="650" font-size="34" fill="#1a1a1a">상환이력</text>
+    <text x="992" y="666" font-size="52" font-weight="bold" fill="#5B6B7C" text-anchor="end">21%</text>
+
+    <rect x="555" y="720" width="465" height="104" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="583" y="770" font-size="34" fill="#1a1a1a">비금융·마이데이터</text>
+    <text x="992" y="786" font-size="52" font-weight="bold" fill="#5B6B7C" text-anchor="end">8%</text>
+
+    <rect x="555" y="840" width="465" height="104" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="583" y="890" font-size="34" fill="#1a1a1a">신용거래기간</text>
+    <text x="992" y="906" font-size="52" font-weight="bold" fill="#5B6B7C" text-anchor="end">9%</text>
+  </g>
+
+  <!-- 요점 박스 -->
+  <rect x="60" y="990" width="960" height="200" rx="18" fill="#E8EEF5"/>
+  <text x="90" y="1058" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#243B6B">NICE는 상환이력, KCB는 신용거래형태에</text>
+  <text x="90" y="1112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#243B6B">무게중심 → 같은 사람도 점수가 다를 수 있음</text>
+  <text x="90" y="1160" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C">※ KCB는 일반고객 기준 (장기연체 경험고객은 반영비중 다름)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#243B6B"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#E8EEF5">출처: NICE평가정보·KCB 공식 공시</text>
+</svg>

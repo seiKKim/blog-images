@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">신용점수 무료 조회 채널</text>
+  <text x="60" y="162" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F">조회는 점수 영향 없음 · 자주 확인 OK</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="270" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="270" width="14" height="140" rx="7" fill="#243B6B"/>
+    <text x="104" y="332" font-size="40" font-weight="bold" fill="#1a1a1a">NICE지키미 · 올크레딧</text>
+    <text x="104" y="382" font-size="32" fill="#5B6B7C">CB사 공식 · 각각 4개월에 1회, 연 3회 무료</text>
+
+    <rect x="60" y="430" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="430" width="14" height="140" rx="7" fill="#243B6B"/>
+    <text x="104" y="492" font-size="40" font-weight="bold" fill="#1a1a1a">토스</text>
+    <text x="104" y="542" font-size="32" fill="#5B6B7C">KCB 제휴 · 무제한 무료 + 변동 알림</text>
+
+    <rect x="60" y="590" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="590" width="14" height="140" rx="7" fill="#243B6B"/>
+    <text x="104" y="652" font-size="40" font-weight="bold" fill="#1a1a1a">뱅크샐러드</text>
+    <text x="104" y="702" font-size="32" fill="#5B6B7C">무제한 무료 조회</text>
+
+    <rect x="60" y="750" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="750" width="14" height="140" rx="7" fill="#243B6B"/>
+    <text x="104" y="812" font-size="40" font-weight="bold" fill="#1a1a1a">카카오페이 '신용관리'</text>
+    <text x="104" y="862" font-size="32" fill="#5B6B7C">KCB·NICE 두 곳 점수 모두 확인</text>
+
+    <rect x="60" y="910" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="910" width="14" height="140" rx="7" fill="#243B6B"/>
+    <text x="104" y="972" font-size="40" font-weight="bold" fill="#1a1a1a">네이버페이</text>
+    <text x="104" y="1022" font-size="32" fill="#5B6B7C">PAY → 약관 동의·계좌 연결 후 조회</text>
+  </g>
+
+  <!-- 팁 박스 -->
+  <rect x="60" y="1080" width="960" height="130" rx="18" fill="#E8EEF5"/>
+  <text x="90" y="1142" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#243B6B">3~6개월 흐름 관찰로 하락 요인 조기 발견</text>
+  <text x="90" y="1188" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C">※ 조건·반영 기관은 시점마다 바뀔 수 있으니 최신 화면에서 확인</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#243B6B"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#E8EEF5">출처: 각 서비스 무료 조회 안내</text>
+</svg>

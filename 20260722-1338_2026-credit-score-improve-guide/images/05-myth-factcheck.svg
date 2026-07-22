@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">신용점수 흔한 오해 3가지</text>
+  <text x="60" y="162" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F">O·X 팩트체크</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 오해1 -->
+    <rect x="60" y="270" width="960" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="150" cy="360" r="52" fill="#E23B3B"/>
+    <text x="150" y="382" font-size="66" font-weight="bold" fill="#ffffff" text-anchor="middle">X</text>
+    <text x="240" y="352" font-size="40" font-weight="bold" fill="#1a1a1a">"내 점수를 조회하면 떨어진다"</text>
+    <text x="240" y="410" font-size="34" fill="#5B6B7C">본인 조회는 영향 없음. 금융사 단순 조회도</text>
+    <text x="240" y="454" font-size="34" fill="#5B6B7C">2011년 10월부터 평가에 반영 안 함.</text>
+    <text x="240" y="510" font-size="34" font-weight="bold" fill="#243B6B">→ 실제 대출 승인·카드 발급 시에만 영향</text>
+
+    <!-- 오해2 -->
+    <rect x="60" y="590" width="960" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="150" cy="680" r="52" fill="#E23B3B"/>
+    <text x="150" y="702" font-size="66" font-weight="bold" fill="#ffffff" text-anchor="middle">X</text>
+    <text x="240" y="672" font-size="40" font-weight="bold" fill="#1a1a1a">"소득이 높으면 점수가 높다"</text>
+    <text x="240" y="730" font-size="34" fill="#5B6B7C">'소득 자체'는 핵심 평가항목이 아님.</text>
+    <text x="240" y="774" font-size="34" fill="#5B6B7C">고소득자도 연체하면 점수가 낮다.</text>
+    <text x="240" y="830" font-size="34" font-weight="bold" fill="#243B6B">→ 상환이력·부채 관리가 점수를 만든다</text>
+
+    <!-- 오해3 -->
+    <rect x="60" y="910" width="960" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="150" cy="1000" r="52" fill="#E23B3B"/>
+    <text x="150" y="1022" font-size="66" font-weight="bold" fill="#ffffff" text-anchor="middle">X</text>
+    <text x="240" y="992" font-size="40" font-weight="bold" fill="#1a1a1a">"카드를 많이 쓰면 점수가 오른다"</text>
+    <text x="240" y="1050" font-size="34" fill="#5B6B7C">금액을 많이 써도 오르지 않음.</text>
+    <text x="240" y="1094" font-size="34" fill="#5B6B7C">많이 쓰면 사용률이 올라 오히려 부정적.</text>
+    <text x="240" y="1150" font-size="34" font-weight="bold" fill="#243B6B">→ 사용률 30% 이하 + 연체 없는 결제</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#243B6B"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#E8EEF5">출처: NICE·KCB 평가기준 및 관련 안내</text>
+</svg>
