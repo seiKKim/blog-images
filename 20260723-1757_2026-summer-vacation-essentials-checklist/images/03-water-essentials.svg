@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F2F4"/>
+  <rect width="1080" height="220" fill="#E0556E"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">물놀이 3대 필수품</text>
+  <text x="60" y="176" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#FFE9D6">계곡·해수욕장·워터파크 공통 · 선택 아닌 필수</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1 구명조끼 -->
+    <rect x="60" y="290" width="960" height="300" rx="24" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+    <circle cx="150" cy="440" r="58" fill="#E0556E"/>
+    <text x="150" y="460" font-size="60" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="250" y="410" font-size="56" font-weight="bold" fill="#2a2a2a">구명조끼</text>
+    <text x="250" y="480" font-size="38" fill="#555">공식 안전수칙상 '선택 아닌 필수'</text>
+    <text x="250" y="536" font-size="38" fill="#C93F5B" font-weight="bold">가랑이 끈(생명줄)까지 채우기</text>
+
+    <!-- 2 아쿠아슈즈 -->
+    <rect x="60" y="620" width="960" height="300" rx="24" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+    <circle cx="150" cy="770" r="58" fill="#E0556E"/>
+    <text x="150" y="790" font-size="60" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="250" y="740" font-size="56" font-weight="bold" fill="#2a2a2a">아쿠아슈즈</text>
+    <text x="250" y="810" font-size="38" fill="#555">미끄러운 바닥·돌·유리로부터 발 보호</text>
+    <text x="250" y="866" font-size="38" fill="#C93F5B" font-weight="bold">미끄럼방지 밑창·배수구멍·고정스트랩</text>
+
+    <!-- 3 자외선차단제 -->
+    <rect x="60" y="950" width="960" height="300" rx="24" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+    <circle cx="150" cy="1100" r="58" fill="#E0556E"/>
+    <text x="150" y="1120" font-size="60" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="250" y="1070" font-size="56" font-weight="bold" fill="#2a2a2a">자외선차단제</text>
+    <text x="250" y="1140" font-size="38" fill="#555">외출 약 15분 전 · 수시로 덧바르기</text>
+    <text x="250" y="1196" font-size="38" fill="#C93F5B" font-weight="bold">물놀이용은 '내수성' 표시 제품 고려</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EDE2E6"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#7A6B70">참고: 공식 물놀이 안전수칙 · 식약처 자외선차단제 안내</text>
+</svg>

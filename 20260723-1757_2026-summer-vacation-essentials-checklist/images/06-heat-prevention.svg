@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F7F2F4"/>
+  <rect width="1080" height="150" fill="#E0556E"/>
+  <text x="60" y="95" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#ffffff">폭염 건강수칙 '물·그늘·휴식'</text>
+
+  <!-- 3대 수칙 카드 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" text-anchor="middle">
+    <rect x="60" y="200" width="300" height="240" rx="24" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+    <text x="210" y="300" font-size="72">💧</text>
+    <text x="210" y="368" font-size="48" font-weight="bold" fill="#E0556E">물</text>
+    <text x="210" y="418" font-size="32" fill="#555">규칙적으로 수분</text>
+
+    <rect x="390" y="200" width="300" height="240" rx="24" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+    <text x="540" y="300" font-size="72">🌳</text>
+    <text x="540" y="368" font-size="48" font-weight="bold" fill="#E0556E">그늘</text>
+    <text x="540" y="418" font-size="32" fill="#555">냉방·무더위쉼터</text>
+
+    <rect x="720" y="200" width="300" height="240" rx="24" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+    <text x="870" y="300" font-size="72">😴</text>
+    <text x="870" y="368" font-size="48" font-weight="bold" fill="#E0556E">휴식</text>
+    <text x="870" y="418" font-size="32" fill="#555">더울 땐 활동 자제</text>
+  </g>
+
+  <!-- 위험도 박스 -->
+  <rect x="60" y="480" width="960" height="150" rx="20" fill="#FBE9ED" stroke="#E0556E" stroke-width="2"/>
+  <text x="95" y="548" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#C93F5B">⚠️ 체감온도 38℃(폭염중대경보) 시</text>
+  <text x="95" y="600" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#3a3a3a">전체 사망위험 1.16배 · 심혈관질환 사망위험 1.14배 ↑</text>
+
+  <rect x="0" y="650" width="1080" height="70" fill="#EDE2E6"/>
+  <text x="60" y="695" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#7A6B70">출처: 질병관리청 (2026년 여름 온열질환 예방 안내)</text>
+</svg>

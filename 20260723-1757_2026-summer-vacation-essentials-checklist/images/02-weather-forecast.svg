@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F2F4"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="220" fill="#E0556E"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">2026 여름철 기온 전망</text>
+  <text x="60" y="176" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#FFE9D6">평년보다 '높음' 확률 · 기상청 5/22 발표</text>
+
+  <!-- 막대그래프 영역 -->
+  <!-- 기준선 텍스트 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 축 -->
+    <line x1="150" y1="900" x2="1000" y2="900" stroke="#D6C6CB" stroke-width="3"/>
+
+    <!-- 6월 60% -->
+    <rect x="230" y="500" width="150" height="400" rx="14" fill="#E0556E"/>
+    <text x="305" y="470" font-size="60" font-weight="bold" fill="#C93F5B" text-anchor="middle">60%</text>
+    <text x="305" y="960" font-size="46" font-weight="bold" fill="#3a3a3a" text-anchor="middle">6월</text>
+
+    <!-- 7월 60% -->
+    <rect x="465" y="500" width="150" height="400" rx="14" fill="#E0556E"/>
+    <text x="540" y="470" font-size="60" font-weight="bold" fill="#C93F5B" text-anchor="middle">60%</text>
+    <text x="540" y="960" font-size="46" font-weight="bold" fill="#3a3a3a" text-anchor="middle">7월</text>
+
+    <!-- 8월 50% -->
+    <rect x="700" y="567" width="150" height="333" rx="14" fill="#F0A0AE"/>
+    <text x="775" y="537" font-size="60" font-weight="bold" fill="#C93F5B" text-anchor="middle">50%</text>
+    <text x="775" y="960" font-size="46" font-weight="bold" fill="#3a3a3a" text-anchor="middle">8월</text>
+  </g>
+
+  <!-- 강수량 메모 박스 -->
+  <rect x="60" y="1030" width="960" height="180" rx="20" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+  <text x="95" y="1100" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#E0556E">☔ 강수량 전망</text>
+  <text x="95" y="1158" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#3a3a3a">6~7월 평년보다 많음 · 국지적 매우 강한 비 가능</text>
+  <text x="95" y="1200" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#3a3a3a">→ 계곡·하천 수위 급변 주의</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#EDE2E6"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#7A6B70">출처: 기상청 2026 여름철 기후 전망(2026-05-22)</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F2F4"/>
+  <rect width="1080" height="220" fill="#E0556E"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">이안류 실시간 감시 서비스</text>
+  <text x="60" y="176" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#FFE9D6">2026 여름 신규 운영 · 해양수산부 6/23 발표</text>
+
+  <!-- 표 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" fill="#2a2a2a">
+    <rect x="60" y="290" width="960" height="118" rx="16" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+    <text x="100" y="365" font-weight="bold">대상</text>
+    <text x="1000" y="365" font-weight="bold" fill="#C93F5B" text-anchor="end">전국 10개 해수욕장</text>
+
+    <rect x="60" y="424" width="960" height="118" rx="16" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+    <text x="100" y="499" font-weight="bold">운영 기간</text>
+    <text x="1000" y="499" font-weight="bold" fill="#C93F5B" text-anchor="end">개장기간 6~9월</text>
+
+    <rect x="60" y="558" width="960" height="118" rx="16" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+    <text x="100" y="633" font-weight="bold">신규 도입</text>
+    <text x="1000" y="633" font-weight="bold" fill="#C93F5B" text-anchor="end">AI 기반 실시간 탐지</text>
+
+    <rect x="60" y="692" width="960" height="118" rx="16" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+    <text x="100" y="767" font-weight="bold">확인 방법</text>
+    <text x="1000" y="767" font-weight="bold" fill="#C93F5B" text-anchor="end">'안전해(海)' 앱</text>
+  </g>
+
+  <!-- 이안류지수 4단계 -->
+  <text x="60" y="905" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#2a2a2a">이안류지수 4단계</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" text-anchor="middle" fill="#ffffff">
+    <rect x="60" y="930" width="222" height="110" rx="16" fill="#2E9E6B"/>
+    <text x="171" y="998">관심</text>
+    <rect x="306" y="930" width="222" height="110" rx="16" fill="#E8B23C"/>
+    <text x="417" y="998">주의</text>
+    <rect x="552" y="930" width="222" height="110" rx="16" fill="#E8722C"/>
+    <text x="663" y="998">경계</text>
+    <rect x="798" y="930" width="222" height="110" rx="16" fill="#C93F5B"/>
+    <text x="909" y="998">위험</text>
+  </g>
+
+  <!-- 안내 박스 -->
+  <rect x="60" y="1080" width="960" height="150" rx="20" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+  <text x="95" y="1148" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#E0556E">📱 해수욕 전 '안전해(海)' 앱 미리 설치</text>
+  <text x="95" y="1200" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#3a3a3a">실시간 CCTV·이안류지수·위험 시 안내문자 통보</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EDE2E6"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#7A6B70">출처: 해양수산부(2026-06-23) · 국립해양조사원 khoa.go.kr</text>
+</svg>

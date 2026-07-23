@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F2F4"/>
+  <rect width="1080" height="220" fill="#E0556E"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">여름 캠핑 준비물 3축</text>
+  <text x="60" y="176" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#FFE9D6">더위 · 식품안전 · 방충 — 이 셋이면 빠짐없음</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 더위 -->
+    <rect x="60" y="290" width="960" height="300" rx="24" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+    <rect x="60" y="290" width="16" height="300" rx="8" fill="#E0556E"/>
+    <text x="110" y="368" font-size="52" font-weight="bold" fill="#2a2a2a">🌡️ 더위·냉방</text>
+    <text x="110" y="432" font-size="36" fill="#444">· 배터리형 선풍기·서큘레이터</text>
+    <text x="110" y="484" font-size="36" fill="#444">· 파워스테이션 500Wh 이상</text>
+    <text x="110" y="536" font-size="36" fill="#444">· 타프·그늘막 / 차량용 블라인드</text>
+
+    <!-- 식품 -->
+    <rect x="60" y="620" width="960" height="300" rx="24" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+    <rect x="60" y="620" width="16" height="300" rx="8" fill="#E0556E"/>
+    <text x="110" y="698" font-size="52" font-weight="bold" fill="#2a2a2a">🧊 식품 보관</text>
+    <text x="110" y="762" font-size="36" fill="#444">· 아이스박스 4인 40L 이상 하드쿨러</text>
+    <text x="110" y="814" font-size="36" fill="#444">· 얼음 3~4kg + 아이스팩 병행</text>
+    <text x="110" y="866" font-size="36" fill="#444">· 물: 2L × 인원수 × 1.5배로 넉넉히</text>
+
+    <!-- 방충 -->
+    <rect x="60" y="950" width="960" height="300" rx="24" fill="#ffffff" stroke="#EAD7DC" stroke-width="2"/>
+    <rect x="60" y="950" width="16" height="300" rx="8" fill="#E0556E"/>
+    <text x="110" y="1028" font-size="52" font-weight="bold" fill="#2a2a2a">🦟 방충</text>
+    <text x="110" y="1092" font-size="36" fill="#444">· 모기 기피제 (아이용은 이카리딘 권장)</text>
+    <text x="110" y="1144" font-size="36" fill="#444">· UV 포충기: 텐트 입구 2~3m 밖 설치</text>
+    <text x="110" y="1196" font-size="36" fill="#444">· 출발 전 텐트 방충망 구멍 점검</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EDE2E6"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#7A6B70">※ 모기 기피제 성분·연령 기준은 제품 표시 확인 후 사용</text>
+</svg>
