@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1FAFB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="210" fill="#0E6BA8"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">제습기 사용·관리 팁</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#CDE9F5">관리 안 하면 곰팡이·냄새의 원인이 돼요</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 팁1 물통 세척 -->
+    <rect x="60" y="266" width="960" height="176" rx="18" fill="#ffffff" stroke="#CFE6EE" stroke-width="2"/>
+    <circle cx="150" cy="354" r="46" fill="#EAFBFE"/>
+    <text x="150" y="372" font-size="46" text-anchor="middle">🪣</text>
+    <text x="232" y="336" font-weight="bold" font-size="42" fill="#0E6BA8">물통 세척</text>
+    <text x="232" y="388" font-size="33" fill="#40505C">구연산·식초로 물때 제거 후 헹궈</text>
+    <text x="232" y="428" font-size="33" fill="#40505C">완전히 말리고, 만수 센서 물기도 제거</text>
+
+    <!-- 팁2 필터 청소 -->
+    <rect x="60" y="458" width="960" height="176" rx="18" fill="#ffffff" stroke="#CFE6EE" stroke-width="2"/>
+    <circle cx="150" cy="546" r="46" fill="#EAFBFE"/>
+    <text x="150" y="564" font-size="46" text-anchor="middle">🧹</text>
+    <text x="232" y="528" font-weight="bold" font-size="42" fill="#0E6BA8">필터 청소</text>
+    <text x="232" y="580" font-size="33" fill="#40505C">필터·흡기망 2~4주마다 세척</text>
+    <text x="232" y="620" font-size="33" fill="#40505C">1~3개월마다 교체 · 흡기부 먼지 주의</text>
+
+    <!-- 팁3 연속배수 세팅 -->
+    <rect x="60" y="650" width="960" height="176" rx="18" fill="#ffffff" stroke="#CFE6EE" stroke-width="2"/>
+    <circle cx="150" cy="738" r="46" fill="#EAFBFE"/>
+    <text x="150" y="756" font-size="46" text-anchor="middle">💧</text>
+    <text x="232" y="720" font-weight="bold" font-size="42" fill="#0E6BA8">연속배수 세팅</text>
+    <text x="232" y="772" font-size="33" fill="#40505C">호스가 꺾이면 배수 안 됨 → 제습기를</text>
+    <text x="232" y="812" font-size="33" fill="#40505C">조금 높은 곳에 두고 경사 확실히</text>
+
+    <!-- 팁4 곰팡이·악취 방지 -->
+    <rect x="60" y="842" width="960" height="176" rx="18" fill="#ffffff" stroke="#CFE6EE" stroke-width="2"/>
+    <circle cx="150" cy="930" r="46" fill="#EAFBFE"/>
+    <text x="150" y="948" font-size="46" text-anchor="middle">🌿</text>
+    <text x="232" y="912" font-weight="bold" font-size="42" fill="#0E6BA8">곰팡이·악취 방지</text>
+    <text x="232" y="964" font-size="33" fill="#40505C">연속배수로 물이 오래 머물지 않게</text>
+    <text x="232" y="1004" font-size="33" fill="#40505C">내부 자동건조 기능도 함께 활용</text>
+  </g>
+
+  <!-- 주의 박스 -->
+  <rect x="60" y="1042" width="960" height="150" rx="18" fill="#FFF6DA" stroke="#F3D97A" stroke-width="2"/>
+  <text x="96" y="1106" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#8A6D00">⚠️ 알아두기</text>
+  <text x="96" y="1160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a">작동 중 열 배출로 실내 온도가 약 1~2℃ 오를 수 있어요</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#DDEFF4"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">여름 제습기 관리 체크리스트 · blog.naver.com/trip_chocho</text>
+</svg>

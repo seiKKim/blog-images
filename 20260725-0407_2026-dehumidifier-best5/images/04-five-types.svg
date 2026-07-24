@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1FAFB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="210" fill="#0E6BA8"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">용도별 추천 5유형</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#CDE9F5">상황에 맞는 급/유형을 먼저 정하세요</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 유형1 -->
+    <rect x="60" y="262" width="960" height="188" rx="18" fill="#ffffff" stroke="#CFE6EE" stroke-width="2"/>
+    <rect x="60" y="262" width="14" height="188" rx="6" fill="#0FA3B1"/>
+    <circle cx="150" cy="356" r="42" fill="#EAFBFE"/>
+    <text x="150" y="372" font-weight="bold" font-size="46" fill="#0E6BA8" text-anchor="middle">1</text>
+    <text x="228" y="332" font-weight="bold" font-size="44" fill="#1a1a1a">대용량 거실·다인가구용</text>
+    <text x="228" y="384" font-size="33" fill="#40505C">16~20L급 · 20평 이상, 빨래 많은 집</text>
+    <text x="228" y="428" font-weight="bold" font-size="34" fill="#0E6BA8">약 25~46만원</text>
+
+    <!-- 유형2 -->
+    <rect x="60" y="466" width="960" height="188" rx="18" fill="#ffffff" stroke="#CFE6EE" stroke-width="2"/>
+    <rect x="60" y="466" width="14" height="188" rx="6" fill="#0FA3B1"/>
+    <circle cx="150" cy="560" r="42" fill="#EAFBFE"/>
+    <text x="150" y="576" font-weight="bold" font-size="46" fill="#0E6BA8" text-anchor="middle">2</text>
+    <text x="228" y="536" font-weight="bold" font-size="44" fill="#1a1a1a">인버터 저전력·저소음형</text>
+    <text x="228" y="588" font-size="33" fill="#40505C">14~18L 1등급 · 침실·야간·상시가동</text>
+    <text x="228" y="632" font-weight="bold" font-size="34" fill="#0E6BA8">약 20~45만원</text>
+
+    <!-- 유형3 -->
+    <rect x="60" y="670" width="960" height="188" rx="18" fill="#ffffff" stroke="#CFE6EE" stroke-width="2"/>
+    <rect x="60" y="670" width="14" height="188" rx="6" fill="#0FA3B1"/>
+    <circle cx="150" cy="764" r="42" fill="#EAFBFE"/>
+    <text x="150" y="780" font-weight="bold" font-size="46" fill="#0E6BA8" text-anchor="middle">3</text>
+    <text x="228" y="740" font-weight="bold" font-size="44" fill="#1a1a1a">소형 원룸·옷장/드레스룸용</text>
+    <text x="228" y="792" font-size="33" fill="#40505C">6~10L급 및 미니 펠티어형</text>
+    <text x="228" y="836" font-weight="bold" font-size="34" fill="#0E6BA8">미니 펠티어형 정가 약 9만원대</text>
+
+    <!-- 유형4 -->
+    <rect x="60" y="874" width="960" height="188" rx="18" fill="#ffffff" stroke="#CFE6EE" stroke-width="2"/>
+    <rect x="60" y="874" width="14" height="188" rx="6" fill="#0FA3B1"/>
+    <circle cx="150" cy="968" r="42" fill="#EAFBFE"/>
+    <text x="150" y="984" font-weight="bold" font-size="46" fill="#0E6BA8" text-anchor="middle">4</text>
+    <text x="228" y="944" font-weight="bold" font-size="44" fill="#1a1a1a">빨래건조 특화형</text>
+    <text x="228" y="996" font-size="33" fill="#40505C">16L 이상 · 강풍 · 연속배수 강조</text>
+    <text x="228" y="1040" font-weight="bold" font-size="34" fill="#0E6BA8">1평당 0.8~1.0L로 여유 있게</text>
+
+    <!-- 유형5 -->
+    <rect x="60" y="1078" width="960" height="188" rx="18" fill="#ffffff" stroke="#CFE6EE" stroke-width="2"/>
+    <rect x="60" y="1078" width="14" height="188" rx="6" fill="#0FA3B1"/>
+    <circle cx="150" cy="1172" r="42" fill="#EAFBFE"/>
+    <text x="150" y="1188" font-weight="bold" font-size="46" fill="#0E6BA8" text-anchor="middle">5</text>
+    <text x="228" y="1148" font-weight="bold" font-size="44" fill="#1a1a1a">가성비 입문형</text>
+    <text x="228" y="1200" font-size="33" fill="#40505C">14~16L 콤팩트 · 예산 15만원 이하 중심</text>
+    <text x="228" y="1244" font-weight="bold" font-size="34" fill="#0E6BA8">약 10~20만원</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1290" width="1080" height="60" fill="#DDEFF4"/>
+  <text x="60" y="1330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">가격은 소스 기반 대략 범위(특가 아님) · blog.naver.com/trip_chocho</text>
+</svg>

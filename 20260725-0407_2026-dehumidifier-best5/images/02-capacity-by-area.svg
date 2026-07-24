@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1FAFB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="210" fill="#0E6BA8"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">평수별 권장 용량 매칭</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#CDE9F5">가장 중요! 공간에 맞는 제습능력(L/일)</text>
+
+  <!-- 헤더 행 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="266" width="960" height="86" rx="14" fill="#0FA3B1"/>
+    <text x="100" y="322" font-weight="bold" font-size="40" fill="#ffffff">공간</text>
+    <text x="470" y="322" font-weight="bold" font-size="40" fill="#ffffff">권장 용량</text>
+    <text x="740" y="322" font-weight="bold" font-size="40" fill="#ffffff">비고</text>
+  </g>
+
+  <!-- 표 행 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- row1 -->
+    <rect x="60" y="368" width="960" height="150" rx="16" fill="#ffffff" stroke="#CFE6EE" stroke-width="2"/>
+    <text x="100" y="440" font-weight="bold" font-size="42" fill="#1a1a1a">원룸</text>
+    <text x="100" y="486" font-weight="normal" font-size="32" fill="#5B6B7C">5~8평</text>
+    <text x="470" y="459" font-weight="bold" font-size="48" fill="#0E6BA8">약 6~10L</text>
+    <text x="740" y="440" font-weight="normal" font-size="30" fill="#5B6B7C">빨래·전체제습</text>
+    <text x="740" y="480" font-weight="normal" font-size="30" fill="#5B6B7C">겸하면 여유</text>
+
+    <!-- row2 -->
+    <rect x="60" y="534" width="960" height="150" rx="16" fill="#ffffff" stroke="#CFE6EE" stroke-width="2"/>
+    <text x="100" y="606" font-weight="bold" font-size="42" fill="#1a1a1a">1인가구</text>
+    <text x="100" y="652" font-weight="normal" font-size="32" fill="#5B6B7C">10~15평</text>
+    <text x="470" y="625" font-weight="bold" font-size="48" fill="#0E6BA8">약 10~16L</text>
+    <text x="740" y="606" font-weight="normal" font-size="30" fill="#5B6B7C">스펙 낮게 잡히니</text>
+    <text x="740" y="646" font-weight="normal" font-size="30" fill="#5B6B7C">16L급도 고려</text>
+
+    <!-- row3 -->
+    <rect x="60" y="700" width="960" height="150" rx="16" fill="#ffffff" stroke="#CFE6EE" stroke-width="2"/>
+    <text x="100" y="772" font-weight="bold" font-size="42" fill="#1a1a1a">신혼·거실</text>
+    <text x="100" y="818" font-weight="normal" font-size="32" fill="#5B6B7C">20~25평</text>
+    <text x="470" y="791" font-weight="bold" font-size="48" fill="#0E6BA8">약 16~18L</text>
+    <text x="740" y="772" font-weight="normal" font-size="30" fill="#5B6B7C">물통·연속배수</text>
+    <text x="740" y="812" font-weight="normal" font-size="30" fill="#5B6B7C">함께 확인</text>
+
+    <!-- row4 -->
+    <rect x="60" y="866" width="960" height="150" rx="16" fill="#ffffff" stroke="#CFE6EE" stroke-width="2"/>
+    <text x="100" y="938" font-weight="bold" font-size="42" fill="#1a1a1a">다인가구</text>
+    <text x="100" y="984" font-weight="normal" font-size="32" fill="#5B6B7C">25~35평</text>
+    <text x="470" y="957" font-weight="bold" font-size="40" fill="#0E6BA8">약 18~20L 이상</text>
+    <text x="740" y="938" font-weight="normal" font-size="30" fill="#5B6B7C">빨래건조까지</text>
+    <text x="740" y="978" font-weight="normal" font-size="30" fill="#5B6B7C">커버</text>
+  </g>
+
+  <!-- 계산 팁 박스 -->
+  <rect x="60" y="1058" width="960" height="164" rx="18" fill="#FFF6DA" stroke="#F3D97A" stroke-width="2"/>
+  <text x="96" y="1122" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#8A6D00">📐 계산이 애매하면?</text>
+  <text x="96" y="1178" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#1a1a1a">1평당 약 0.6~0.8L (빨래건조는 0.8~1.0L)</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#DDEFF4"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">애매할 땐 한 단계 큰 용량이 안전 · blog.naver.com/trip_chocho</text>
+</svg>
