@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="0" y="0" width="14" height="200" fill="#E23B3B"/>
+  <text x="60" y="122" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">8월 확정 vs 확인 필요</text>
+
+  <!-- 확정 헤더 -->
+  <rect x="60" y="250" width="960" height="86" rx="16" fill="#1F8A53"/>
+  <text x="100" y="308" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff">확정 (날짜까지 정해짐)</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="40" fill="#1a1a1a">
+    <rect x="60" y="352" width="960" height="90" rx="14" fill="#EAF3EC" stroke="#B6DBC3"/>
+    <text x="100" y="410" font-weight="bold" fill="#1F8A53">8/12</text>
+    <text x="260" y="410">국가장학금 2차 신청 시작</text>
+
+    <rect x="60" y="454" width="960" height="90" rx="14" fill="#EAF3EC" stroke="#B6DBC3"/>
+    <text x="100" y="512" font-weight="bold" fill="#1F8A53">8/20</text>
+    <text x="260" y="512">단기 육아휴직 신설</text>
+
+    <rect x="60" y="556" width="960" height="90" rx="14" fill="#EAF3EC" stroke="#B6DBC3"/>
+    <text x="100" y="614" font-weight="bold" fill="#1F8A53">8/28</text>
+    <text x="260" y="614">암표(부정 재판매) 전면 금지</text>
+  </g>
+
+  <!-- 확인 필요 헤더 -->
+  <rect x="60" y="690" width="960" height="86" rx="16" fill="#E8722C"/>
+  <text x="100" y="748" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff">확인 필요 (8월 미확정)</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="38" fill="#1a1a1a">
+    <rect x="60" y="792" width="960" height="110" rx="14" fill="#FFF4E5" stroke="#F0C99A"/>
+    <text x="100" y="850" font-weight="bold" fill="#E8722C">?</text>
+    <text x="150" y="850">민생회복 소비쿠폰 8월 마감 일정</text>
+    <text x="150" y="890" font-size="30" fill="#7a5a2c">지자체별로 안내가 달라 연결 불명확</text>
+
+    <rect x="60" y="914" width="960" height="110" rx="14" fill="#FFF4E5" stroke="#F0C99A"/>
+    <text x="100" y="972" font-weight="bold" fill="#E8722C">?</text>
+    <text x="150" y="972">전기·가스 등 공공요금 8월 인상 여부</text>
+    <text x="150" y="1012" font-size="30" fill="#7a5a2c">8월 시행 공식 확인 안 됨</text>
+
+    <rect x="60" y="1036" width="960" height="110" rx="14" fill="#FFF4E5" stroke="#F0C99A"/>
+    <text x="100" y="1094" font-weight="bold" fill="#E8722C">?</text>
+    <text x="150" y="1094">고속도로 통행료 다자녀 감면 시점</text>
+    <text x="150" y="1134" font-size="30" fill="#7a5a2c">정부 자료는 "하반기 중"으로만 표기</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">2026.7.24 기준 · 확인 필요 항목은 정부24·복지로 등 최신 공지로 재확인</text>
+</svg>

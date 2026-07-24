@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="130" fill="#1B5FA6"/>
+  <text x="60" y="85" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">학교급별 연간 지원액 (2026)</text>
+
+  <!-- 기준선 -->
+  <line x1="120" y1="600" x2="1020" y2="600" stroke="#C9D6E4" stroke-width="3"/>
+
+  <!-- 초등 502,000 : 최대 860,000 기준 스케일. bar top y = 600 - (v/860000*380) -->
+  <!-- 초 : 600 - 222 = 378 높이 222 -->
+  <rect x="180" y="378" width="180" height="222" rx="10" fill="#8CB4DC"/>
+  <text x="270" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1B5FA6" text-anchor="middle">502,000</text>
+  <text x="270" y="655" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="middle">초등</text>
+
+  <!-- 중 699,000 : 600 - 309 = 291 높이 309 -->
+  <rect x="450" y="291" width="180" height="309" rx="10" fill="#3F7CC0"/>
+  <text x="540" y="258" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1B5FA6" text-anchor="middle">699,000</text>
+  <text x="540" y="655" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="middle">중등</text>
+
+  <!-- 고 860,000 : 600 - 380 = 220 높이 380 -->
+  <rect x="720" y="220" width="180" height="380" rx="10" fill="#1B5FA6"/>
+  <text x="810" y="187" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1B5FA6" text-anchor="middle">860,000</text>
+  <text x="810" y="655" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="middle">고등</text>
+
+  <text x="1020" y="695" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C" text-anchor="end">단위: 원 · 연 1회 · 전년比 평균 6%↑</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="230" fill="#2B2F36"/>
+  <rect x="0" y="0" width="14" height="230" fill="#E23B3B"/>
+  <text x="60" y="110" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">단기 육아휴직 신설</text>
+  <text x="60" y="178" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="42" fill="#FFD23F">2026년 8월 20일 시행</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="300" width="960" height="170" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="378" font-size="42" font-weight="bold" fill="#1a1a1a">사용 횟수</text>
+    <text x="1000" y="378" font-size="52" font-weight="bold" fill="#E23B3B" text-anchor="end">연 1회</text>
+    <text x="100" y="432" font-size="34" fill="#5B6B7C">짧은 돌봄이 필요할 때 골라서 사용</text>
+
+    <rect x="60" y="490" width="960" height="170" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="568" font-size="42" font-weight="bold" fill="#1a1a1a">사용 단위</text>
+    <text x="1000" y="568" font-size="46" font-weight="bold" fill="#E23B3B" text-anchor="end">1주 또는 2주</text>
+    <text x="100" y="622" font-size="34" fill="#5B6B7C">기존 육아휴직보다 짧게 활용</text>
+
+    <rect x="60" y="680" width="960" height="170" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="758" font-size="42" font-weight="bold" fill="#1a1a1a">활용 상황</text>
+    <text x="100" y="812" font-size="34" fill="#5B6B7C">자녀 방학·휴원·휴교·질병 등 단기 돌봄 공백</text>
+
+    <rect x="60" y="870" width="960" height="170" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="948" font-size="42" font-weight="bold" fill="#1a1a1a">소관</text>
+    <text x="100" y="1002" font-size="34" fill="#5B6B7C">고용노동부 · 세부 신청 절차는 공지 확인</text>
+  </g>
+
+  <rect x="60" y="1075" width="960" height="130" rx="16" fill="#EAF3EC" stroke="#1F8A53"/>
+  <text x="100" y="1155" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="38" fill="#1F8A53">방학·휴교 예상 시 8/20 이후 일정으로 미리 계획</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">출처: 고용노동부 · 2026 하반기부터 이렇게 달라집니다</text>
+</svg>

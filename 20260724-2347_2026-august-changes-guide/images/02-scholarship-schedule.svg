@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="230" fill="#2B2F36"/>
+  <rect x="0" y="0" width="14" height="230" fill="#E23B3B"/>
+  <text x="60" y="110" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">2학기 국가장학금 2차 신청</text>
+  <text x="60" y="178" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="42" fill="#FFD23F">8월 12일(수) 09:00 시작</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="300" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="368" font-size="40" font-weight="bold" fill="#1a1a1a">2차 신청</text>
+    <text x="100" y="422" font-size="36" fill="#5B6B7C">8/12(수) 09:00 ~ 9/9(수) 18:00</text>
+
+    <rect x="60" y="470" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="538" font-size="40" font-weight="bold" fill="#1a1a1a">가구원 동의·서류제출</text>
+    <text x="100" y="592" font-size="36" fill="#5B6B7C">8/12(수) 09:00 ~ 9/16(수) 18:00</text>
+
+    <rect x="60" y="640" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="708" font-size="40" font-weight="bold" fill="#1a1a1a">신청 방법</text>
+    <text x="100" y="762" font-size="36" fill="#5B6B7C">한국장학재단 홈페이지·모바일 앱 '통합 신청'</text>
+
+    <rect x="60" y="810" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="878" font-size="40" font-weight="bold" fill="#1a1a1a">상담센터</text>
+    <text x="100" y="932" font-size="36" fill="#5B6B7C">1599-2000</text>
+  </g>
+
+  <!-- 주의 박스 -->
+  <rect x="60" y="1000" width="960" height="200" rx="16" fill="#FFF4E5" stroke="#E8722C"/>
+  <text x="100" y="1068" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="40" fill="#E8722C">지원구간 산정에 약 8주 소요</text>
+  <text x="100" y="1128" font-family="'Noto Sans KR','Malgun Gothic',sans-serif"
+        font-size="36" fill="#7a5a2c">마감일 몰림 주의 — 되도록 조기 신청이 안전</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">출처: 한국장학재단 · 2026 하반기부터 이렇게 달라집니다</text>
+</svg>

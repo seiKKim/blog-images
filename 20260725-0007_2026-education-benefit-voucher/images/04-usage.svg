@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">바우처, 어디에 쓸까?</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F">2학기 준비물, 교육 목적 품목에 사용</text>
+
+  <!-- 사용 가능 5개 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="270" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="270" width="14" height="120" rx="6" fill="#1F8A53"/>
+    <text x="110" y="332" font-weight="bold" font-size="42" fill="#1a1a1a">일반 학용품</text>
+    <text x="110" y="378" font-size="32" fill="#5B6B7C">필기구·노트·클립·스탠드·책가방</text>
+
+    <rect x="60" y="410" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="410" width="14" height="120" rx="6" fill="#1F8A53"/>
+    <text x="110" y="472" font-weight="bold" font-size="42" fill="#1a1a1a">교과 학용품</text>
+    <text x="110" y="518" font-size="32" fill="#5B6B7C">교과서·참고서·문제집·학습 보조서</text>
+
+    <rect x="60" y="550" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="550" width="14" height="120" rx="6" fill="#1F8A53"/>
+    <text x="110" y="612" font-weight="bold" font-size="42" fill="#1a1a1a">도서</text>
+    <text x="110" y="658" font-size="32" fill="#5B6B7C">도서·전자책 등</text>
+
+    <rect x="60" y="690" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="690" width="14" height="120" rx="6" fill="#1F8A53"/>
+    <text x="110" y="752" font-weight="bold" font-size="42" fill="#1a1a1a">온라인 강의</text>
+    <text x="110" y="798" font-size="32" fill="#5B6B7C">인터넷 강의 등</text>
+
+    <rect x="60" y="830" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <rect x="60" y="830" width="14" height="120" rx="6" fill="#1F8A53"/>
+    <text x="110" y="892" font-weight="bold" font-size="42" fill="#1a1a1a">스마트기기</text>
+    <text x="110" y="938" font-size="32" fill="#5B6B7C">태블릿·PC 등 (결제 전 승인 확인)</text>
+  </g>
+
+  <!-- 사용 제한 -->
+  <rect x="60" y="1000" width="960" height="200" rx="18" fill="#FBECEC" stroke="#E9C4C4" stroke-width="2"/>
+  <text x="100" y="1068" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#C0392B">사용 제한 품목</text>
+  <text x="100" y="1122" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#7a3b3b">음식료·의류·화장품·의약품 등 일반용품</text>
+  <text x="100" y="1170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#7a3b3b">유흥·사행성 업종, 통신요금 등</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 교육급여 바우처 누리집(e-voucher.kosaf.go.kr)</text>
+</svg>
