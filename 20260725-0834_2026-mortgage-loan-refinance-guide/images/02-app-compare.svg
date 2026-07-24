@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">앱에서 여러 은행 금리 비교</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">대출비교 플랫폼 화면 예시 · 소요 5~10분</text>
+
+  <!-- 폰(스마트폰) 프레임 -->
+  <rect x="290" y="250" width="500" height="900" rx="46" ry="46" fill="#ffffff" stroke="#D6E0EC" stroke-width="4"/>
+  <rect x="440" y="278" width="200" height="20" rx="10" fill="#E8EEF5"/>
+
+  <!-- 앱 헤더 -->
+  <text x="330" y="380" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a">내 대출 금리 비교</text>
+  <text x="330" y="425" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="28" fill="#5B6B7C">기존 4.5% · 잔액 3억원</text>
+  <line x1="330" y1="450" x2="750" y2="450" stroke="#E8EEF5" stroke-width="3"/>
+
+  <!-- 은행 A (최저 - 강조) -->
+  <rect x="330" y="480" width="420" height="130" rx="18" fill="#EEF3FB" stroke="#243B6B" stroke-width="3"/>
+  <text x="356" y="535" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a">A은행</text>
+  <text x="356" y="582" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="26" fill="#1F8A53">최저 금리 · 추천</text>
+  <text x="724" y="562" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#243B6B" text-anchor="end">연 3.5%</text>
+
+  <!-- 은행 B -->
+  <rect x="330" y="630" width="420" height="120" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="356" y="682" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a">B은행</text>
+  <text x="724" y="705" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#5B6B7C" text-anchor="end">연 3.8%</text>
+
+  <!-- 은행 C -->
+  <rect x="330" y="770" width="420" height="120" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="356" y="822" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a">C은행</text>
+  <text x="724" y="845" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#5B6B7C" text-anchor="end">연 4.1%</text>
+
+  <!-- 비교 버튼 -->
+  <rect x="330" y="930" width="420" height="90" rx="20" fill="#243B6B"/>
+  <text x="540" y="988" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">비교하고 갈아타기</text>
+
+  <!-- 안내문 -->
+  <text x="330" y="1075" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="26" fill="#5B6B7C">* 플랫폼 7곳 · 은행 앱 16곳에서 조회 가능</text>
+  <text x="330" y="1112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="26" fill="#5B6B7C">* 금리는 시점·상품별로 달라짐 (예시 화면)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 금융위원회 온라인·원스톱 대환대출 인프라</text>
+</svg>

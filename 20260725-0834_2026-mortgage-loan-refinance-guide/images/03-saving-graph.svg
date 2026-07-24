@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">금리 1%p 인하 시 절감액</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">잔액 3억원·20년·원리금균등 (4.5%→3.5% 예시)</text>
+
+  <!-- 월 상환액 비교 -->
+  <text x="60" y="290" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#243B6B">월 상환액</text>
+
+  <!-- 기존 막대 -->
+  <text x="60" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#5B6B7C">기존 4.5%</text>
+  <rect x="60" y="380" width="900" height="70" rx="10" fill="#B9C6D8"/>
+  <text x="940" y="428" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1a1a1a" text-anchor="end">약 190만원</text>
+
+  <!-- 대환 막대 -->
+  <text x="60" y="510" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#243B6B">대환 3.5%</text>
+  <rect x="60" y="530" width="800" height="70" rx="10" fill="#243B6B"/>
+  <text x="840" y="578" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="end">약 174만원</text>
+
+  <!-- 월 절감 강조 -->
+  <rect x="60" y="640" width="960" height="120" rx="18" fill="#FFF6D6" stroke="#FFD23F" stroke-width="3"/>
+  <text x="100" y="716" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">월 상환액</text>
+  <text x="980" y="716" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="52" fill="#C0392B" text-anchor="end">약 -16만원</text>
+
+  <!-- 총이자 비교 -->
+  <text x="60" y="850" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#243B6B">20년 총이자</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="880" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="944" font-weight="bold" font-size="40" fill="#1a1a1a">기존(4.5%)</text>
+    <text x="980" y="944" font-weight="bold" font-size="42" fill="#5B6B7C" text-anchor="end">약 1억 5,600만원</text>
+
+    <rect x="60" y="995" width="960" height="100" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="1059" font-weight="bold" font-size="40" fill="#1a1a1a">대환(3.5%)</text>
+    <text x="980" y="1059" font-weight="bold" font-size="42" fill="#243B6B" text-anchor="end">약 1억 1,700만원</text>
+  </g>
+
+  <!-- 순이득 강조 -->
+  <rect x="60" y="1120" width="960" height="120" rx="18" fill="#243B6B"/>
+  <text x="100" y="1178" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#ffffff">부대비용 제외 순이득</text>
+  <text x="100" y="1220" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="28" fill="#E8EEF5">부대비용 약 100~200만원 반영</text>
+  <text x="980" y="1205" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="56" fill="#FFD23F" text-anchor="end">약 3,700만원↑</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">민간 시뮬레이션 예시 · 상환방식·잔여기간에 따라 달라짐</text>
+</svg>
