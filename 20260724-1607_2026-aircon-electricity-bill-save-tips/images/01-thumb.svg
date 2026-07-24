@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1D8FC9"/>
+      <stop offset="1" stop-color="#0E5C8A"/>
+    </linearGradient>
+  </defs>
+  <!-- 배경: 시원한 여름 블루 -->
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식 도형 -->
+  <circle cx="960" cy="150" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="110" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 (좌상단, 브랜드 오렌지) -->
+  <rect x="80" y="88" rx="34" ry="34" width="196" height="68" fill="#E8722C"/>
+  <text x="178" y="134" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="272" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#E8F4FB">2026 여름 냉방비 폭탄 피하기</text>
+  <text x="80" y="348" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#E8F4FB">이 숫자만 기억하세요</text>
+
+  <!-- 메인 카피 (핵심 숫자) -->
+  <text x="80" y="560" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="230" fill="#FFD23F">450</text>
+  <text x="712" y="560" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="120" fill="#ffffff">kWh</text>
+  <text x="80" y="660" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">넘지 않으면 최고단가 피한다</text>
+
+  <!-- 디테일 (7~8월 누진 완화) -->
+  <rect x="80" y="740" rx="20" ry="20" width="920" height="200" fill="#ffffff" opacity="0.14"/>
+  <text x="112" y="812" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#FFD23F">7~8월 누진 완화 · 신청 불필요</text>
+  <text x="112" y="890" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">26℃ · 인버터/정속 · 서큘레이터</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1016" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="34" fill="#E8F4FB" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

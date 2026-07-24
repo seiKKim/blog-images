@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F9FC"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#0E5C8A"/>
+  <rect x="0" y="0" width="14" height="200" fill="#E8722C"/>
+  <text x="60" y="112" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">이건 속설이에요</text>
+  <text x="60" y="172" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F">오해하기 쉬운 냉방 절약법</text>
+
+  <g font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 항목 1 -->
+    <rect x="60" y="270" width="960" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="360" r="46" fill="#F0B429"/>
+    <text x="150" y="378" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">△</text>
+    <text x="230" y="378" font-weight="bold" font-size="46" fill="#1a1a1a">제습 모드가 더 싸다?</text>
+    <text x="90" y="452" font-size="38" fill="#3B4A57">→ 큰 차이 없음. 둘 다 실외기 가동으로</text>
+    <text x="90" y="502" font-size="38" fill="#3B4A57">   전력이 결정됩니다. 냉방 후 유지 단계에서</text>
+    <text x="90" y="552" font-size="38" fill="#3B4A57">   제습 전환은 실용적일 수 있어요.</text>
+
+    <!-- 항목 2 -->
+    <rect x="60" y="590" width="960" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="680" r="46" fill="#E23B3B"/>
+    <text x="150" y="698" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">X</text>
+    <text x="230" y="698" font-weight="bold" font-size="46" fill="#1a1a1a">단열필름·암막커튼 대폭 절감?</text>
+    <text x="90" y="772" font-size="38" fill="#3B4A57">→ 근거 약함. 실측(난방)에서 암막커튼</text>
+    <text x="90" y="822" font-size="38" fill="#3B4A57">   절감률 1.4%, 두 겹도 1.6%.</text>
+    <text x="90" y="872" font-size="38" fill="#3B4A57">   태양열 가리는 '보조 수단' 정도.</text>
+
+    <!-- 항목 3 -->
+    <rect x="60" y="910" width="960" height="240" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <circle cx="150" cy="1000" r="46" fill="#E23B3B"/>
+    <text x="150" y="1018" font-weight="bold" font-size="52" fill="#ffffff" text-anchor="middle">X</text>
+    <text x="230" y="1018" font-weight="bold" font-size="46" fill="#1a1a1a">방문은 무조건 닫아야 절약?</text>
+    <text x="90" y="1092" font-size="38" fill="#3B4A57">→ 근거 강하지 않음. 공기 순환 관점에선</text>
+    <text x="90" y="1142" font-size="38" fill="#3B4A57">   열어두는 편이 낫다는 견해도 있어요.</text>
+  </g>
+
+  <!-- 하단 주의 띠 -->
+  <rect x="60" y="1190" width="960" height="90" rx="16" fill="#FFF3D6"/>
+  <text x="90" y="1245" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#8A6D1A">'필터 청소 27% 절감' 같은 큰 수치는 과장일 가능성</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1290" width="1080" height="60" fill="#E8EEF5"/>
+  <text x="60" y="1330" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#5B6B7C">출처: 본문 정리 · 공식 수치 기준</text>
+</svg>

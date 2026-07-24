@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F9FC"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="150" fill="#0E5C8A"/>
+  <rect x="0" y="0" width="12" height="150" fill="#E8722C"/>
+  <text x="56" y="95" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">2026 여름 최대 전력수요 전망</text>
+
+  <!-- 기준선 -->
+  <line x1="120" y1="600" x2="1000" y2="600" stroke="#C5D6E2" stroke-width="3"/>
+
+  <!-- 막대: 94.1 (기본 전망) -->
+  <rect x="180" y="380" width="180" height="220" rx="10" fill="#1D8FC9"/>
+  <text x="270" y="350" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="52" fill="#0E5C8A" text-anchor="middle">94.1</text>
+  <text x="270" y="655" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#3B4A57" text-anchor="middle">기본 전망</text>
+  <text x="270" y="698" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">GW</text>
+
+  <!-- 막대: 97.1 (역대 최고, 2024.8.20) -->
+  <rect x="450" y="322" width="180" height="278" rx="10" fill="#6B7C8A"/>
+  <text x="540" y="292" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="52" fill="#3B4A57" text-anchor="middle">97.1</text>
+  <text x="540" y="655" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#3B4A57" text-anchor="middle">역대 최고</text>
+  <text x="540" y="698" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">2024.8.20 · GW</text>
+
+  <!-- 막대: 98.8 (최악 시나리오) -->
+  <rect x="720" y="280" width="180" height="320" rx="10" fill="#E8722C"/>
+  <text x="810" y="250" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="52" fill="#C25A18" text-anchor="middle">98.8</text>
+  <text x="810" y="655" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#3B4A57" text-anchor="middle">최악 시나리오</text>
+  <text x="810" y="698" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">GW</text>
+
+  <!-- 정점 시기 메모 -->
+  <text x="120" y="205" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="34" fill="#0E5C8A">폭염 피크 전망: 8월 3주차</text>
+</svg>

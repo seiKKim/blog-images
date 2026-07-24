@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F9FC"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="150" fill="#0E5C8A"/>
+  <rect x="0" y="0" width="12" height="150" fill="#E8722C"/>
+  <text x="56" y="95" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">필터 청소 2주 1회</text>
+
+  <!-- 필터 일러스트 (SVG 직접 그림) -->
+  <g transform="translate(120,235)">
+    <rect x="0" y="0" width="300" height="360" rx="24" fill="#ffffff" stroke="#1D8FC9" stroke-width="6"/>
+    <!-- 격자 메쉬 -->
+    <g stroke="#9EC7DE" stroke-width="4">
+      <line x1="40" y1="30" x2="40" y2="330"/>
+      <line x1="90" y1="30" x2="90" y2="330"/>
+      <line x1="140" y1="30" x2="140" y2="330"/>
+      <line x1="190" y1="30" x2="190" y2="330"/>
+      <line x1="240" y1="30" x2="240" y2="330"/>
+      <line x1="30" y1="70" x2="270" y2="70"/>
+      <line x1="30" y1="130" x2="270" y2="130"/>
+      <line x1="30" y1="190" x2="270" y2="190"/>
+      <line x1="30" y1="250" x2="270" y2="250"/>
+      <line x1="30" y1="310" x2="270" y2="310"/>
+    </g>
+    <!-- 물방울(세척) -->
+    <circle cx="150" cy="180" r="34" fill="#1D8FC9" opacity="0.85"/>
+    <path d="M150 130 q34 44 0 78 q-34 -34 0 -78 z" fill="#0E5C8A"/>
+  </g>
+
+  <!-- 핵심 수치 카드 -->
+  <g font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="500" y="235" width="500" height="115" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="530" y="286" font-weight="bold" font-size="34" fill="#5B6B7C">미청소 시 소비전력</text>
+    <text x="530" y="333" font-weight="bold" font-size="40" fill="#E8722C">평균 3~5% 증가</text>
+
+    <rect x="500" y="367" width="500" height="115" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="530" y="418" font-weight="bold" font-size="34" fill="#5B6B7C">청소 여부 전력 차이</text>
+    <text x="530" y="465" font-weight="bold" font-size="40" fill="#0E5C8A">월 10.7kWh</text>
+
+    <rect x="500" y="499" width="500" height="115" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="530" y="550" font-weight="bold" font-size="34" fill="#5B6B7C">세척 방법</text>
+    <text x="530" y="597" font-weight="bold" font-size="40" fill="#0E5C8A">중성세제로 세척</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="660" width="1080" height="60" fill="#E8EEF5"/>
+  <text x="56" y="700" font-family="'Noto Sans CJK KR','Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#5B6B7C">출처: 한국에너지공단 실측 기준</text>
+</svg>
