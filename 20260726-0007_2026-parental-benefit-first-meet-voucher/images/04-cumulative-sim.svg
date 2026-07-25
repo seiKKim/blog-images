@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF5F7"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="56" fill="#ffffff">얼마나 겹쳐 받나요?</text>
+  <text x="60" y="162" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="38" fill="#FFE1E8">첫째 출생아 기준 · 실수령 시나리오</text>
+
+  <!-- 매월 수령 -->
+  <text x="60" y="288" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="46" fill="#1a1a1a">매월 받는 돈 (0세 · 가정양육)</text>
+
+  <rect x="60" y="322" width="960" height="150" rx="22" fill="#ffffff" stroke="#F4C4CE"/>
+  <text x="100" y="392" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="40" fill="#1a1a1a">부모급여 100만 ＋ 아동수당 10만</text>
+  <text x="100" y="450" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="56" fill="#E0556E">= 월 <tspan font-size="64" fill="#C33B55">110만원</tspan> (비수도권은 추가)</text>
+
+  <!-- 출산 시 별도 -->
+  <text x="60" y="558" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="46" fill="#1a1a1a">여기에 별도로 (일시금 바우처)</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" fill="#1a1a1a">
+    <rect x="60" y="596" width="960" height="110" rx="16" fill="#ffffff" stroke="#F4C4CE"/>
+    <text x="100" y="666" font-weight="700">첫만남이용권 (첫째)</text>
+    <text x="1000" y="666" font-weight="800" fill="#E0556E" text-anchor="end">200만원</text>
+
+    <rect x="60" y="720" width="960" height="110" rx="16" fill="#ffffff" stroke="#F4C4CE"/>
+    <text x="100" y="790" font-weight="700">임신·출산 진료비 (단태아)</text>
+    <text x="1000" y="790" font-weight="800" fill="#E0556E" text-anchor="end">100만원</text>
+  </g>
+
+  <!-- 누적 강조 박스 -->
+  <rect x="60" y="866" width="960" height="196" rx="24" fill="#E0556E"/>
+  <text x="540" y="938" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="42" fill="#FFE1E8" text-anchor="middle">부모급여 · 첫만남 · 아동수당 누적 시</text>
+  <text x="540" y="1018" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="80" fill="#FFD23F" text-anchor="middle">수천만 원대 지원</text>
+
+  <!-- 안내 -->
+  <text x="60" y="1130" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="36" fill="#8A6b70">＊부모급여·아동수당은 중복 수령 가능</text>
+  <text x="60" y="1182" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="36" fill="#8A6b70">＊어린이집 이용·지역·자녀순위에 따라 총액이 달라져요</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#F6D9E0"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#8A6b70">출처: 정책브리핑 · 보건복지부</text>
+</svg>

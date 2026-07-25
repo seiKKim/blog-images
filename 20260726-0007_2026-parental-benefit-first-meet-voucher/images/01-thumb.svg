@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F06E85"/>
+      <stop offset="1" stop-color="#E0556E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식 도형 -->
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.10"/>
+  <circle cx="130" cy="960" r="210" fill="#ffffff" opacity="0.08"/>
+  <circle cx="880" cy="900" r="90" fill="#FFD23F" opacity="0.20"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="88" rx="34" ry="34" width="230" height="68" fill="#FFD23F"/>
+  <text x="195" y="134" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="262" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="54" fill="#FFF3F5">2026 출산·육아 지원금 총정리</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="410" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="72" fill="#ffffff">0세 부모급여</text>
+  <text x="80" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="148" fill="#FFD23F">월 100만원</text>
+
+  <!-- 서브 혜택 두 줄 -->
+  <text x="80" y="668" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="60" fill="#ffffff">＋ 첫만남 <tspan fill="#FFD23F">200만~300만원</tspan></text>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="742" rx="24" ry="24" width="920" height="150" fill="#ffffff" opacity="0.16"/>
+  <text x="112" y="808" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="46" fill="#ffffff">⏰ 신청 기한이 핵심!</text>
+  <text x="112" y="866" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="42" fill="#FFF3F5">출생 후 60일 이내 신청 · 자격·신청법 정리</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1002" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="400"
+        font-size="34" fill="#FFF3F5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

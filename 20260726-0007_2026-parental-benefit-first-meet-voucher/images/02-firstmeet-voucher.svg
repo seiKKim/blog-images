@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF5F7"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="58" fill="#ffffff">첫만남이용권</text>
+  <text x="60" y="162" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="38" fill="#FFE1E8">국민행복카드 바우처 · 사용기한 2년</text>
+
+  <!-- 금액 카드 2개 -->
+  <rect x="60" y="252" width="465" height="300" rx="24" fill="#ffffff" stroke="#F4C4CE"/>
+  <text x="292" y="332" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="44" fill="#1a1a1a" text-anchor="middle">첫째아</text>
+  <text x="292" y="452" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="92" fill="#E0556E" text-anchor="middle">200만원</text>
+  <text x="292" y="512" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="400"
+        font-size="34" fill="#8A6b70" text-anchor="middle">출생아 1명당</text>
+
+  <rect x="555" y="252" width="465" height="300" rx="24" fill="#ffffff" stroke="#F4C4CE"/>
+  <text x="787" y="332" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="44" fill="#1a1a1a" text-anchor="middle">둘째아 이상</text>
+  <text x="787" y="452" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="92" fill="#E0556E" text-anchor="middle">300만원</text>
+  <text x="787" y="512" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="400"
+        font-size="34" fill="#8A6b70" text-anchor="middle">2024.1.1 출생아부터</text>
+
+  <!-- 어디에 쓰나 -->
+  <text x="60" y="662" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="46" fill="#1a1a1a">어디에 쓰나요? (육아용품에 바로)</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700" font-size="42" fill="#1a1a1a">
+    <rect x="60" y="700" width="960" height="100" rx="16" fill="#ffffff" stroke="#F4C4CE"/>
+    <text x="100" y="762">🍼  기저귀 · 분유 · 아기 의류</text>
+    <rect x="60" y="812" width="960" height="100" rx="16" fill="#ffffff" stroke="#F4C4CE"/>
+    <text x="100" y="874">🏥  병원 · 약국 · 산후조리</text>
+    <rect x="60" y="924" width="960" height="100" rx="16" fill="#ffffff" stroke="#F4C4CE"/>
+    <text x="100" y="986">🛒  대형 온라인 쇼핑몰(카드 등록 필요)</text>
+  </g>
+
+  <!-- 제외 안내 -->
+  <rect x="60" y="1052" width="960" height="150" rx="20" fill="#FDE6EB"/>
+  <text x="90" y="1112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="40" fill="#C33B55">사용 제외</text>
+  <text x="90" y="1168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="38" fill="#8A2E44">유흥 · 사행 · 레저 · 성인용품 · 면세점 등</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#F6D9E0"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#8A6b70">출처: 정책브리핑 · 보건복지부</text>
+</svg>

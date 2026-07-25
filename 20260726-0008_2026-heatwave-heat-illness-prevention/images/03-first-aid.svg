@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#FDF5F7"/>
+<rect width="1080" height="200" fill="#E0556E"/>
+<text x="60" y="125" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="62" fill="#ffffff" text-anchor="start">열탈진 vs 열사병 응급처치</text>
+<rect x="60" y="270" width="960" height="420" rx="20" fill="#ffffff" stroke="#F0D2D9" stroke-width="2"/>
+<rect x="60" y="270" width="960" height="96" rx="20" fill="#F6A5B5"/>
+<text x="100" y="334" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#5A1F2C" text-anchor="start">열탈진 — 아직 의식이 있어요</text>
+<text x="100" y="440" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="42" fill="#1a1a1a" text-anchor="start">· 땀 많이 남 · 힘 빠짐 · 어지러움</text>
+<text x="100" y="510" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="start">→ 시원한 곳으로 옮겨 휴식</text>
+<text x="100" y="580" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="start">→ 물·전해질 음료 마시기</text>
+<text x="100" y="650" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="start">→ 시원한 물로 샤워도 좋아요</text>
+<rect x="60" y="730" width="960" height="470" rx="20" fill="#ffffff" stroke="#F0D2D9" stroke-width="2"/>
+<rect x="60" y="730" width="960" height="96" rx="20" fill="#E0556E"/>
+<text x="100" y="794" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="start">열사병 — 응급상황, 즉시 119</text>
+<text x="100" y="900" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="42" fill="#1a1a1a" text-anchor="start">· 체온 40℃ 이상 · 피부 뜨겁고 건조 · 의식 흐림</text>
+<text x="100" y="970" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#E0556E" text-anchor="start">→ 즉시 119 신고</text>
+<text x="100" y="1040" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#1a1a1a" text-anchor="start">→ 시원한 곳 이동, 물 뿌리고 부채질</text>
+<text x="100" y="1110" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#B03A52" text-anchor="start">→ 의식 없으면 절대 물 먹이지 않기(질식 위험)</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1322" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="34" fill="#5B6B7C" text-anchor="start">출처: 질병관리청·정책브리핑(korea.kr)</text>
+</svg>

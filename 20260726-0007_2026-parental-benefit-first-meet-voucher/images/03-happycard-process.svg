@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FFF5F7"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="56" fill="#ffffff">임신·출산 진료비 바우처</text>
+  <text x="60" y="162" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="38" fill="#FFE1E8">국민행복카드 발급 · 신청 절차</text>
+
+  <!-- 지원 금액 표 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" fill="#1a1a1a">
+    <rect x="60" y="252" width="960" height="110" rx="16" fill="#ffffff" stroke="#F4C4CE"/>
+    <text x="100" y="322" font-weight="700">단태아</text>
+    <text x="1000" y="322" font-weight="800" fill="#E0556E" text-anchor="end">100만원</text>
+
+    <rect x="60" y="376" width="960" height="110" rx="16" fill="#ffffff" stroke="#F4C4CE"/>
+    <text x="100" y="446" font-weight="700">다태아 (기본)</text>
+    <text x="1000" y="446" font-weight="800" fill="#E0556E" text-anchor="end">140만원</text>
+
+    <rect x="60" y="500" width="960" height="110" rx="16" fill="#ffffff" stroke="#F4C4CE"/>
+    <text x="100" y="570" font-weight="700">분만취약지 거주</text>
+    <text x="1000" y="570" font-weight="800" fill="#E0556E" text-anchor="end">＋20만원</text>
+  </g>
+
+  <!-- 신청 절차 -->
+  <text x="60" y="712" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="46" fill="#1a1a1a">신청 절차 (3단계)</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="748" width="960" height="112" rx="18" fill="#ffffff" stroke="#F4C4CE"/>
+    <circle cx="128" cy="804" r="38" fill="#E0556E"/>
+    <text x="128" y="820" font-weight="800" font-size="44" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="196" y="820" font-weight="700" font-size="40" fill="#1a1a1a">산부인과에서 임신·출산 확인</text>
+
+    <rect x="60" y="876" width="960" height="112" rx="18" fill="#ffffff" stroke="#F4C4CE"/>
+    <circle cx="128" cy="932" r="38" fill="#E0556E"/>
+    <text x="128" y="948" font-weight="800" font-size="44" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="196" y="948" font-weight="700" font-size="38" fill="#1a1a1a">건보공단·카드사(6개)에서 카드 발급</text>
+
+    <rect x="60" y="1004" width="960" height="112" rx="18" fill="#ffffff" stroke="#F4C4CE"/>
+    <circle cx="128" cy="1060" r="38" fill="#E0556E"/>
+    <text x="128" y="1076" font-weight="800" font-size="44" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="196" y="1076" font-weight="700" font-size="40" fill="#1a1a1a">진료비 결제에 바우처 사용</text>
+  </g>
+
+  <!-- 사용 기한 안내 -->
+  <rect x="60" y="1148" width="960" height="94" rx="18" fill="#FDE6EB"/>
+  <text x="90" y="1207" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="38" fill="#8A2E44">사용기한: 발급일 ~ 분만예정일로부터 2년</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#F6D9E0"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#8A6b70">출처: 국민건강보험공단 · 정책브리핑</text>
+</svg>

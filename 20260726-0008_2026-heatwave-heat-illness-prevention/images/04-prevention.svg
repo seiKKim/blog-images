@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+<rect width="1080" height="720" fill="#E0556E"/>
+<circle cx="980" cy="80" r="180" fill="#ffffff" opacity="0.07"/>
+<text x="60" y="110" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="58" fill="#ffffff" text-anchor="start">온열질환 예방 3대 수칙</text>
+<text x="60" y="180" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="40" fill="#E8EEF5" text-anchor="start">가장 더운 오후 2~5시 야외활동은 자제하세요</text>
+<circle cx="230" cy="380" r="130" fill="#ffffff" opacity="0.16"/><text x="230" y="400" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="64" fill="#ffffff" text-anchor="middle">물</text><text x="230" y="560" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="36" fill="#E8EEF5" text-anchor="middle">갈증 전에 미리</text>
+<circle cx="540" cy="380" r="130" fill="#ffffff" opacity="0.16"/><text x="540" y="400" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="64" fill="#ffffff" text-anchor="middle">그늘</text><text x="540" y="560" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="36" fill="#E8EEF5" text-anchor="middle">모자·양산 활용</text>
+<circle cx="850" cy="380" r="130" fill="#ffffff" opacity="0.16"/><text x="850" y="400" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="64" fill="#ffffff" text-anchor="middle">휴식</text><text x="850" y="560" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="36" fill="#E8EEF5" text-anchor="middle">무리하면 바로 쉬기</text>
+<rect x="0" y="640" width="1080" height="80" fill="#00000022"/>
+<text x="60" y="692" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="32" fill="#E8EEF5" text-anchor="start">출처: 질병관리청</text>
+<text x="1020" y="692" font-family="Noto Sans CJK KR, Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="30" fill="#E8EEF5" text-anchor="end">blog.naver.com/trip_chocho</text>
+</svg>
