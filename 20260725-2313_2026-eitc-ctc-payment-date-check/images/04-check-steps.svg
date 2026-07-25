@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">지급액 조회 방법</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#E8EEF5">홈택스 · 손택스 심사진행상황 조회</text>
+
+  <!-- STEP 1 -->
+  <rect x="60" y="270" width="960" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="145" cy="345" r="46" fill="#1F8A53"/>
+  <text x="145" y="362" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="230" y="330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">홈택스(PC)·손택스(앱) 로그인</text>
+  <text x="230" y="388" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="34" fill="#5B6B7C">공동·간편인증서로 본인 인증</text>
+
+  <!-- 화살표 -->
+  <text x="540" y="465" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1F8A53" text-anchor="middle">▼</text>
+
+  <!-- STEP 2 -->
+  <rect x="60" y="490" width="960" height="150" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="145" cy="565" r="46" fill="#1F8A53"/>
+  <text x="145" y="582" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="230" y="550" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1a1a1a">장려금·연말정산·기부금</text>
+  <text x="230" y="608" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="34" fill="#5B6B7C">→ 근로장려금 정기/반기 신청</text>
+
+  <text x="540" y="685" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1F8A53" text-anchor="middle">▼</text>
+
+  <!-- STEP 3 -->
+  <rect x="60" y="710" width="960" height="150" rx="20" fill="#E9F5EE" stroke="#1F8A53" stroke-width="2"/>
+  <circle cx="145" cy="785" r="46" fill="#1F8A53"/>
+  <text x="145" y="802" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="50" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="230" y="770" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1F8A53">심사진행상황 조회</text>
+  <text x="230" y="828" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="34" fill="#3B7A57">접수됨 → 심사 중 → 지급 결정 확인</text>
+
+  <!-- 진행 단계 뱃지 -->
+  <rect x="60" y="905" width="290" height="90" rx="45" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="205" y="962" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#5B6B7C" text-anchor="middle">신청 접수됨</text>
+  <text x="378" y="962" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1F8A53" text-anchor="middle">›</text>
+  <rect x="395" y="905" width="230" height="90" rx="45" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="510" y="962" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#5B6B7C" text-anchor="middle">심사 중</text>
+  <text x="653" y="962" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1F8A53" text-anchor="middle">›</text>
+  <rect x="670" y="905" width="290" height="90" rx="45" fill="#1F8A53"/>
+  <text x="815" y="962" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">지급 결정</text>
+
+  <!-- 전화 조회 -->
+  <rect x="60" y="1050" width="960" height="170" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="95" y="1108" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1a1a1a">전화 조회</text>
+  <text x="95" y="1165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#1F8A53">ARS 1544-9944</text>
+  <text x="480" y="1165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal" font-size="34" fill="#5B6B7C">상담센터 1566-3636 · 국세상담 126</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 국세청 홈택스·손택스 조회 안내</text>
+</svg>
