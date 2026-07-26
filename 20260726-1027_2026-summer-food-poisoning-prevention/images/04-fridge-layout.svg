@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1F8F7"/>
+  <rect width="1080" height="200" fill="#0E7C86"/>
+  <rect x="60" y="86" rx="30" ry="30" width="176" height="60" fill="#E8722C"/>
+  <text x="148" y="127" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="32" fill="#ffffff" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="182" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="58" fill="#ffffff">냉장고 칸별 식품 배치</text>
+
+  <!-- 냉장고 몸체 -->
+  <rect x="120" y="260" width="600" height="920" rx="30" fill="#E3EFED" stroke="#B9D2CF" stroke-width="6"/>
+  <!-- 손잡이 -->
+  <rect x="120" y="360" width="20" height="180" rx="10" fill="#B9D2CF"/>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 상단칸: 익힌 음식 -->
+    <rect x="150" y="300" width="540" height="250" rx="16" fill="#8FBF7F"/>
+    <text x="180" y="380" font-size="42" font-weight="bold" fill="#ffffff">상단</text>
+    <text x="180" y="450" font-size="46" font-weight="900" fill="#ffffff">익힌 음식·가공식품</text>
+    <text x="180" y="510" font-size="34" fill="#eaf5e6">이미 조리된 음식은 위쪽에</text>
+
+    <!-- 중간칸: 어패류·육류 -->
+    <rect x="150" y="570" width="540" height="250" rx="16" fill="#F0A93E"/>
+    <text x="180" y="650" font-size="42" font-weight="bold" fill="#ffffff">중간~하단</text>
+    <text x="180" y="720" font-size="46" font-weight="900" fill="#ffffff">어패류·육류</text>
+    <text x="180" y="780" font-size="34" fill="#fff3e2">밀폐용기에 담아 보관</text>
+
+    <!-- 하단칸: 가금류·생고기 -->
+    <rect x="150" y="840" width="540" height="290" rx="16" fill="#E23B3B"/>
+    <text x="180" y="920" font-size="42" font-weight="bold" fill="#ffffff">제일 하단</text>
+    <text x="180" y="990" font-size="46" font-weight="900" fill="#ffffff">가금류·생고기</text>
+    <text x="180" y="1050" font-size="34" fill="#ffe4e4">핏물이 아래로 떨어지지 않게</text>
+    <text x="180" y="1095" font-size="34" fill="#ffe4e4">가장 낮고 안정적인 칸에</text>
+  </g>
+
+  <!-- 우측 핵심 수치 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="760" y="300" width="260" height="230" rx="20" fill="#ffffff" stroke="#D6E6E4"/>
+    <text x="890" y="380" font-size="38" fill="#3f5250" text-anchor="middle">냉장실</text>
+    <text x="890" y="450" font-size="66" font-weight="900" fill="#0E7C86" text-anchor="middle">5℃</text>
+    <text x="890" y="500" font-size="34" fill="#5B6B7C" text-anchor="middle">이하</text>
+
+    <rect x="760" y="560" width="260" height="230" rx="20" fill="#ffffff" stroke="#D6E6E4"/>
+    <text x="890" y="640" font-size="38" fill="#3f5250" text-anchor="middle">적재율</text>
+    <text x="890" y="710" font-size="66" font-weight="900" fill="#0E7C86" text-anchor="middle">70%</text>
+    <text x="890" y="760" font-size="34" fill="#5B6B7C" text-anchor="middle">이하만</text>
+
+    <rect x="760" y="820" width="260" height="310" rx="20" fill="#FFF3E6" stroke="#F0C89A"/>
+    <text x="890" y="895" font-size="36" font-weight="bold" fill="#B9581C" text-anchor="middle">꿀팁</text>
+    <text x="890" y="960" font-size="34" fill="#B9581C" text-anchor="middle">생고기·생선은</text>
+    <text x="890" y="1005" font-size="34" fill="#B9581C" text-anchor="middle">지퍼백·밀폐</text>
+    <text x="890" y="1050" font-size="34" fill="#B9581C" text-anchor="middle">용기 이중으로</text>
+    <text x="890" y="1095" font-size="34" fill="#B9581C" text-anchor="middle">아래 칸에</text>
+  </g>
+
+  <rect x="0" y="1280" width="1080" height="70" fill="#DCEDEB"/>
+  <text x="60" y="1325" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#4C6360">출처: 식품의약품안전처 냉장고 보관 요령 정리</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1F8F7"/>
+  <rect width="1080" height="200" fill="#0E7C86"/>
+  <rect x="60" y="86" rx="30" ry="30" width="176" height="60" fill="#E8722C"/>
+  <text x="148" y="127" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="32" fill="#ffffff" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="182" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="58" fill="#ffffff">식중독 예방 6대 수칙</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 카드 6개, 2열 x 3행 -->
+    <!-- helper: card at x,y width 460 height 300 -->
+
+    <!-- 1 손 씻기 -->
+    <rect x="60" y="250" width="460" height="300" rx="24" fill="#ffffff" stroke="#D6E6E4"/>
+    <circle cx="150" cy="345" r="46" fill="#0E7C86"/>
+    <text x="150" y="362" font-size="48" font-weight="900" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="228" y="360" font-size="44" font-weight="bold" fill="#1a1a1a">손 씻기</text>
+    <text x="90" y="450" font-size="36" fill="#3f5250">흐르는 물 + 비누로</text>
+    <text x="90" y="500" font-size="40" font-weight="bold" fill="#0E7C86">30초 이상</text>
+
+    <!-- 2 익혀 먹기 -->
+    <rect x="560" y="250" width="460" height="300" rx="24" fill="#ffffff" stroke="#D6E6E4"/>
+    <circle cx="650" cy="345" r="46" fill="#0E7C86"/>
+    <text x="650" y="362" font-size="48" font-weight="900" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="728" y="360" font-size="44" font-weight="bold" fill="#1a1a1a">익혀 먹기</text>
+    <text x="590" y="450" font-size="36" fill="#3f5250">육류 75℃·어패류 85℃</text>
+    <text x="590" y="500" font-size="40" font-weight="bold" fill="#0E7C86">1분 이상</text>
+
+    <!-- 3 끓여 먹기 -->
+    <rect x="60" y="580" width="460" height="300" rx="24" fill="#ffffff" stroke="#D6E6E4"/>
+    <circle cx="150" cy="675" r="46" fill="#0E7C86"/>
+    <text x="150" y="692" font-size="48" font-weight="900" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="228" y="690" font-size="44" font-weight="bold" fill="#1a1a1a">끓여 먹기</text>
+    <text x="90" y="780" font-size="36" fill="#3f5250">물은 끓이거나</text>
+    <text x="90" y="830" font-size="40" font-weight="bold" fill="#0E7C86">100℃ 이상</text>
+
+    <!-- 4 세척·소독 -->
+    <rect x="560" y="580" width="460" height="300" rx="24" fill="#ffffff" stroke="#D6E6E4"/>
+    <circle cx="650" cy="675" r="46" fill="#0E7C86"/>
+    <text x="650" y="692" font-size="48" font-weight="900" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="728" y="690" font-size="44" font-weight="bold" fill="#1a1a1a">세척·소독</text>
+    <text x="590" y="780" font-size="36" fill="#3f5250">식재료·조리기구를</text>
+    <text x="590" y="830" font-size="40" font-weight="bold" fill="#0E7C86">깨끗이 세척</text>
+
+    <!-- 5 구분 사용 -->
+    <rect x="60" y="910" width="460" height="300" rx="24" fill="#ffffff" stroke="#D6E6E4"/>
+    <circle cx="150" cy="1005" r="46" fill="#0E7C86"/>
+    <text x="150" y="1022" font-size="48" font-weight="900" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="228" y="1020" font-size="44" font-weight="bold" fill="#1a1a1a">구분 사용</text>
+    <text x="90" y="1110" font-size="36" fill="#3f5250">날음식·조리음식</text>
+    <text x="90" y="1160" font-size="40" font-weight="bold" fill="#0E7C86">칼·도마 구분</text>
+
+    <!-- 6 보관 온도 -->
+    <rect x="560" y="910" width="460" height="300" rx="24" fill="#ffffff" stroke="#D6E6E4"/>
+    <circle cx="650" cy="1005" r="46" fill="#0E7C86"/>
+    <text x="650" y="1022" font-size="48" font-weight="900" fill="#ffffff" text-anchor="middle">6</text>
+    <text x="728" y="1020" font-size="44" font-weight="bold" fill="#1a1a1a">보관 온도</text>
+    <text x="590" y="1110" font-size="36" fill="#3f5250">냉장 5℃·냉동</text>
+    <text x="590" y="1160" font-size="40" font-weight="bold" fill="#0E7C86">-18℃ 이하</text>
+  </g>
+
+  <rect x="0" y="1280" width="1080" height="70" fill="#DCEDEB"/>
+  <text x="60" y="1325" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#4C6360">출처: 식품의약품안전처 식중독 예방 6대 수칙</text>
+</svg>
