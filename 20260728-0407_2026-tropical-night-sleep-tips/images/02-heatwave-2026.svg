@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="170" fill="#E8722C"/>
+  <rect x="60" y="52" rx="26" ry="26" width="150" height="56" fill="#FFD23F"/>
+  <text x="135" y="90" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#1a1a1a" text-anchor="middle">2026.7</text>
+  <text x="240" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#ffffff">7월 27일 밤 열대야 · 폭염 현황</text>
+
+  <!-- 좌: 열대야 발생 지역 -->
+  <rect x="60" y="220" width="470" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="90" y="285" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#E8722C">열대야 발생 지역</text>
+  <text x="90" y="350" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a">· 수도권</text>
+  <text x="90" y="415" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a">· 영남 내륙</text>
+  <text x="90" y="480" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a">· 남서해안</text>
+
+  <!-- 우: 최고기온 -->
+  <rect x="550" y="220" width="470" height="290" rx="20" fill="#2B2F36"/>
+  <text x="785" y="285" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F" text-anchor="middle">이날 낮 최고기온</text>
+  <text x="785" y="415" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#ffffff" text-anchor="middle">39.3℃</text>
+  <text x="785" y="475" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#E8EEF5" text-anchor="middle">경남 양산 · 밀양</text>
+
+  <!-- 열대야 기준 안내 -->
+  <rect x="60" y="540" width="960" height="86" rx="16" fill="#FFF1E4" stroke="#F3C79E"/>
+  <text x="540" y="595" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#C65516" text-anchor="middle">열대야 = 밤 최저기온 25℃ 이상인 날</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="650" width="1080" height="70" fill="#E8EEF5"/>
+  <text x="60" y="695" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">출처: 기상청 · 2026.7.27 관측 (본문 인용)</text>
+</svg>

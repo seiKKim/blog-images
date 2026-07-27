@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <rect x="60" y="66" rx="30" ry="30" width="230" height="64" fill="#FFD23F"/>
+  <text x="175" y="110" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a" text-anchor="middle">숙면 모드</text>
+  <text x="320" y="128" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">에어컨 타이머 설정</text>
+
+  <!-- 스텝 1 -->
+  <rect x="60" y="270" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="150" cy="370" r="52" fill="#E8722C"/>
+  <text x="150" y="388" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="250" y="350" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1a1a1a">취침 온도보다 2~3℃ 높게 설정</text>
+  <text x="250" y="415" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="36" fill="#5B6B7C">밤새 최저온도 대신 24~27℃대로</text>
+
+  <!-- 스텝 2 -->
+  <rect x="60" y="500" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="150" cy="600" r="52" fill="#E8722C"/>
+  <text x="150" y="618" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="250" y="580" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1a1a1a">잠든 뒤 1~2시간 후 타이머 OFF</text>
+  <text x="250" y="645" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="36" fill="#5B6B7C">초반엔 시원하게, 새벽 체온 급강하 방지</text>
+
+  <!-- 스텝 3 -->
+  <rect x="60" y="730" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="150" cy="830" r="52" fill="#E8722C"/>
+  <text x="150" y="848" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="250" y="810" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1a1a1a">새벽 5시경 다시 켜지도록 재가동</text>
+  <text x="250" y="875" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="36" fill="#5B6B7C">더위로 깨는 새벽 시간대 커버</text>
+
+  <!-- 주의 박스 -->
+  <rect x="60" y="980" width="960" height="230" rx="20" fill="#2B2F36"/>
+  <text x="100" y="1055" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#FFD23F">⚠ 밤새 최저온도로 켜두면</text>
+  <text x="100" y="1120" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#ffffff">새벽 각성 · 저체온, 목·코 건조 위험</text>
+  <text x="100" y="1175" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFE9D2">"시원하게"보다 "덜 깨게"가 목표</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">※ 제품별 설정 방식은 다를 수 있어요 (본문 정리)</text>
+</svg>

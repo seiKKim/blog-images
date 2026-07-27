@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <rect x="60" y="66" rx="30" ry="30" width="210" height="64" fill="#FFD23F"/>
+  <text x="165" y="110" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a" text-anchor="middle">냉감침구</text>
+  <text x="300" y="128" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">종류별 특징 비교</text>
+
+  <!-- 표 헤더 -->
+  <rect x="60" y="250" width="300" height="90" rx="14" fill="#C65516"/>
+  <rect x="368" y="250" width="360" height="90" rx="14" fill="#C65516"/>
+  <rect x="736" y="250" width="284" height="90" rx="14" fill="#C65516"/>
+  <text x="210" y="308" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">구분</text>
+  <text x="548" y="308" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">핵심 특징</text>
+  <text x="878" y="308" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#ffffff" text-anchor="middle">고르는 지표</text>
+
+  <!-- 행 1: 냉감패드 -->
+  <rect x="60" y="352" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="210" y="425" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#E8722C" text-anchor="middle">냉감패드</text>
+  <text x="210" y="480" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">검색량 234%↑</text>
+  <text x="390" y="430" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#1a1a1a">닿는 순간 시원함</text>
+  <text x="390" y="480" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#1a1a1a">깔고 자는 냉감 원단</text>
+  <text x="878" y="452" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#E8722C" text-anchor="middle">Q-max ↑</text>
+
+  <!-- 행 2: 냉감이불세트 -->
+  <rect x="60" y="544" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="210" y="617" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#E8722C" text-anchor="middle">냉감이불</text>
+  <text x="210" y="672" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">검색량 249%↑</text>
+  <text x="390" y="622" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#1a1a1a">얇게 덮는 냉감 이불</text>
+  <text x="390" y="672" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#1a1a1a">소재별 흡습·촉감 차이</text>
+  <text x="878" y="644" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#E8722C" text-anchor="middle">Q-max · 소재</text>
+
+  <!-- 행 3: 쿨매트 -->
+  <rect x="60" y="736" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="210" y="809" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#E8722C" text-anchor="middle">쿨매트</text>
+  <text x="210" y="864" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">검색량 153%↑</text>
+  <text x="390" y="814" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#1a1a1a">젤 냉매로 열 흡수</text>
+  <text x="390" y="864" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#1a1a1a">전기 없이 시원함</text>
+  <text x="878" y="836" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#E8722C" text-anchor="middle">냉매 · 크기</text>
+
+  <!-- 안내 박스 -->
+  <rect x="60" y="960" width="960" height="250" rx="20" fill="#FFF1E4" stroke="#F3C79E"/>
+  <text x="100" y="1035" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#C65516">이렇게 고르세요</text>
+  <text x="100" y="1095" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#1a1a1a">· 닿는 순간 시원 → Q-max 높은 패드·이불</text>
+  <text x="100" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#1a1a1a">· 전기 없이 → 젤 냉매 쿨매트</text>
+  <text x="100" y="1195" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#1a1a1a">· 땀 많은 편 → 흡습·통기 좋은 소재</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">※ 검색량 증가율: 2026년 4월 대비 (본문 인용)</text>
+</svg>
