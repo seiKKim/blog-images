@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#243B6B"/>
+  <rect x="60" y="52" rx="26" ry="26" width="196" height="60" fill="#FFD23F"/>
+  <text x="158" y="94" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+  <text x="60" y="180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">청년도약계좌 가입조건 4가지</text>
+
+  <!-- 카드 1: 나이 -->
+  <rect x="60" y="270" width="960" height="230" rx="22" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="150" cy="385" r="58" fill="#EAF0F9"/>
+  <text x="150" y="405" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="60" text-anchor="middle">🎂</text>
+  <text x="250" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#243B6B">나이</text>
+  <text x="250" y="430" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">가입일 기준 만 19~34세</text>
+  <text x="250" y="478" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">병역기간 최대 6년 연령에서 제외</text>
+
+  <!-- 카드 2: 개인소득 -->
+  <rect x="60" y="524" width="960" height="230" rx="22" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="150" cy="639" r="58" fill="#EAF0F9"/>
+  <text x="150" y="659" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="58" text-anchor="middle">💼</text>
+  <text x="250" y="614" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#243B6B">개인소득</text>
+  <text x="250" y="684" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">총급여 7,500만원 이하</text>
+  <text x="250" y="732" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">기여금은 6,000만원 이하만 지급</text>
+
+  <!-- 카드 3: 가구소득 -->
+  <rect x="60" y="778" width="960" height="230" rx="22" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="150" cy="893" r="58" fill="#EAF0F9"/>
+  <text x="150" y="913" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="58" text-anchor="middle">🏠</text>
+  <text x="250" y="868" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#243B6B">가구소득</text>
+  <text x="250" y="938" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">기준 중위소득 180% 이하</text>
+
+  <!-- 카드 4: 월 납입 -->
+  <rect x="60" y="1032" width="960" height="230" rx="22" fill="#ffffff" stroke="#D6E0EC"/>
+  <circle cx="150" cy="1147" r="58" fill="#EAF0F9"/>
+  <text x="150" y="1167" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="58" text-anchor="middle">💰</text>
+  <text x="250" y="1122" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#243B6B">월 납입 · 만기</text>
+  <text x="250" y="1192" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">1,000원~70만원 · 5년(60개월)</text>
+
+  <rect x="0" y="1290" width="1080" height="60" fill="#E8EEF5"/>
+  <text x="60" y="1330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">※ 신규 가입 운영 당시 기준 · 2026년 7월 현재 신규 신청 불가</text>
+</svg>

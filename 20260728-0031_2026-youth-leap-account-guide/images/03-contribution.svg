@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#243B6B"/>
+  <rect x="60" y="52" rx="26" ry="26" width="196" height="60" fill="#FFD23F"/>
+  <text x="158" y="94" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+  <text x="60" y="160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">2025년 정부기여금 확대</text>
+  <text x="60" y="190" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#C9D6EC">총급여 2,400만원 이하 · 월 70만원 납입 기준</text>
+
+  <!-- 월 기여금 비교 -->
+  <text x="60" y="320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#243B6B">월 기여금</text>
+  <!-- 축 -->
+  <line x1="330" y1="360" x2="330" y2="640" stroke="#D6E0EC" stroke-width="3"/>
+  <!-- 개편 전 바 -->
+  <rect x="360" y="500" width="240" height="120" rx="10" fill="#B9C6DA"/>
+  <text x="480" y="475" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="52" fill="#5B6B7C" text-anchor="middle">2.4만원</text>
+  <text x="480" y="690" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C" text-anchor="middle">개편 전</text>
+  <!-- 개편 후 바 -->
+  <rect x="700" y="400" width="240" height="220" rx="10" fill="#243B6B"/>
+  <text x="820" y="375" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="60" fill="#243B6B" text-anchor="middle">3.3만원</text>
+  <text x="820" y="690" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#243B6B" text-anchor="middle">2025년~</text>
+
+  <!-- 5년 총액 비교 -->
+  <text x="60" y="800" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#243B6B">5년 총 기여금</text>
+  <line x1="330" y1="840" x2="330" y2="1120" stroke="#D6E0EC" stroke-width="3"/>
+  <rect x="360" y="990" width="240" height="120" rx="10" fill="#B9C6DA"/>
+  <text x="480" y="965" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="52" fill="#5B6B7C" text-anchor="middle">144만원</text>
+  <text x="480" y="1180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C" text-anchor="middle">개편 전</text>
+  <rect x="700" y="880" width="240" height="230" rx="10" fill="#FFB020"/>
+  <text x="820" y="855" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="60" fill="#C77E00" text-anchor="middle">최대 198만원</text>
+  <text x="820" y="1180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#C77E00" text-anchor="middle">2025년~</text>
+
+  <rect x="0" y="1250" width="1080" height="100" fill="#243B6B"/>
+  <text x="540" y="1312" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#FFD23F" text-anchor="middle">확대구간 3.0% 매칭 · 기존 가입자도 소급 적용</text>
+</svg>

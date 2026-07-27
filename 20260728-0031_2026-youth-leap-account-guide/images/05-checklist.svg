@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#243B6B"/>
+  <rect x="60" y="52" rx="26" ry="26" width="196" height="60" fill="#FFD23F"/>
+  <text x="158" y="94" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+  <text x="60" y="180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">상황별 체크리스트</text>
+
+  <!-- 카드 1 -->
+  <rect x="60" y="270" width="960" height="270" rx="22" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="270" width="14" height="270" rx="7" fill="#243B6B"/>
+  <text x="110" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#243B6B">이미 가입한 청년이라면?</text>
+  <text x="110" y="418" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">만기까지 유지</text>
+  <text x="110" y="482" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">정부기여금·비과세 그대로 챙기기</text>
+  <text x="110" y="522" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">2025년~ 5년 최대 198만원 기여금</text>
+
+  <!-- 카드 2 -->
+  <rect x="60" y="565" width="960" height="270" rx="22" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="565" width="14" height="270" rx="7" fill="#1F6FB2"/>
+  <text x="110" y="640" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1F6FB2">지금 새로 목돈 만들려면?</text>
+  <text x="110" y="713" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">청년미래적금 먼저 확인</text>
+  <text x="110" y="777" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">월 50만원 · 3년 · 기여금 6~12%</text>
+  <text x="110" y="817" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">2026년 6월 출시 · 비과세 적용</text>
+
+  <!-- 카드 3 -->
+  <rect x="60" y="860" width="960" height="270" rx="22" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="860" width="14" height="270" rx="7" fill="#2E8B6A"/>
+  <text x="110" y="935" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#2E8B6A">소득이 낮은 편이라면?</text>
+  <text x="110" y="1008" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">청년내일저축계좌 자격 조회</text>
+  <text x="110" y="1072" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">월 10만 저축 시 정부 30만원 매칭</text>
+  <text x="110" y="1112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">만 15~39세 · 중위 50% 이하(생계형)</text>
+
+  <rect x="0" y="1160" width="1080" height="190" fill="#243B6B"/>
+  <text x="540" y="1235" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#FFD23F" text-anchor="middle">신규는 종료, 대안은 있다</text>
+  <text x="540" y="1295" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#C9D6EC" text-anchor="middle">정확한 수치는 서민금융진흥원·취급은행</text>
+  <text x="540" y="1335" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#C9D6EC" text-anchor="middle">공식 안내에서 최신 정보 확인</text>
+</svg>

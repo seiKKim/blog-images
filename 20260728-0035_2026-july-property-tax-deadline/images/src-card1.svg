@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F5F7"/>
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="60" y="60" rx="22" ry="22" width="190" height="56" fill="#FFD23F"/>
+  <text x="155" y="99" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">오늘의 이슈</text>
+  <text x="60" y="172" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="60" fill="#ffffff">7월분 재산세 한눈에</text>
+  <rect x="60" y="280" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6DBE2"/>
+        <text x="100" y="356" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">납부기간</text>
+        <text x="980" y="356" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="46" fill="#E23B3B" text-anchor="end">7/16 ~ 7/31(금)</text><rect x="60" y="430" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6DBE2"/>
+        <text x="100" y="506" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">주택</text>
+        <text x="980" y="506" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="46" fill="#E23B3B" text-anchor="end">세액의 1/2</text><rect x="60" y="580" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6DBE2"/>
+        <text x="100" y="656" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">건축물(상가 등)</text>
+        <text x="980" y="656" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="46" fill="#E23B3B" text-anchor="end">전액</text><rect x="60" y="730" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6DBE2"/>
+        <text x="100" y="806" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">선박·항공기</text>
+        <text x="980" y="806" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="46" fill="#E23B3B" text-anchor="end">전액</text><rect x="60" y="880" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6DBE2"/>
+        <text x="100" y="956" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">토지</text>
+        <text x="980" y="956" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="46" fill="#E23B3B" text-anchor="end">9월에 부과</text>
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="34" fill="#5B6B7C">출처: 행정안전부 · 정책브리핑(korea.kr)</text>
+</svg>
