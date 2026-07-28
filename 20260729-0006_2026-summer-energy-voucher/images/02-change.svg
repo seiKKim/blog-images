@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#1B5FA6"/>
+  <text x="60" y="95" font-family="Noto Sans CJK KR" font-weight="bold" font-size="54" fill="#ffffff">2026년 달라진 점 — 계절 구분 폐지</text>
+
+  <!-- 변경 전 -->
+  <rect x="60" y="210" rx="24" ry="24" width="400" height="300" fill="#ffffff" stroke="#D6E0EC" stroke-width="3"/>
+  <rect x="150" y="245" rx="26" ry="26" width="220" height="52" fill="#E8EEF5"/>
+  <text x="260" y="282" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#5B6B7C" text-anchor="middle">변경 전</text>
+  <text x="260" y="390" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#1a1a1a" text-anchor="middle">하절기·동절기</text>
+  <text x="260" y="455" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#1a1a1a" text-anchor="middle">금액 구분</text>
+
+  <!-- 화살표 -->
+  <rect x="480" y="345" width="90" height="26" fill="#1B5FA6"/>
+  <polygon points="570,325 570,391 615,358" fill="#1B5FA6"/>
+
+  <!-- 2026년 -->
+  <rect x="640" y="210" rx="24" ry="24" width="400" height="300" fill="#1B5FA6"/>
+  <rect x="730" y="245" rx="26" ry="26" width="220" height="52" fill="#FFD23F"/>
+  <text x="840" y="282" font-family="Noto Sans CJK KR" font-weight="bold" font-size="30" fill="#1a1a1a" text-anchor="middle">2026년부터</text>
+  <text x="840" y="390" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">연간 총액</text>
+  <text x="840" y="455" font-family="Noto Sans CJK KR" font-weight="bold" font-size="48" fill="#FFD23F" text-anchor="middle">자유 사용</text>
+
+  <!-- 하단 노트 -->
+  <text x="60" y="590" font-family="Noto Sans CJK KR" font-weight="bold" font-size="36" fill="#1B5FA6">사용기간 2026.7.1 ~ 2027.5.31</text>
+  <text x="60" y="650" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">겨울에 몰아 쓰려면 '하절기 요금 미차감' 신청 (2027.5.31까지)</text>
+</svg>

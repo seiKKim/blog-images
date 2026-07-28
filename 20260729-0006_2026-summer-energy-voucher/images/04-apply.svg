@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#1B5FA6"/>
+  <text x="60" y="100" font-family="Noto Sans CJK KR" font-weight="bold" font-size="60" fill="#ffffff">신청방법 3가지</text>
+  <text x="60" y="152" font-family="Noto Sans CJK KR" font-size="34" fill="#E8EEF5">신청기간 2026.6.15 ~ 12.31</text>
+
+  <g font-family="Noto Sans CJK KR">
+    <rect x="60" y="230" rx="16" ry="16" width="960" height="130" fill="#ffffff" stroke="#D6E0EC" stroke-width="3"/>
+    <circle cx="130" cy="295" r="34" fill="#1B5FA6"/>
+    <text x="130" y="310" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="195" y="285" font-weight="bold" font-size="40" fill="#1a1a1a">방문신청</text>
+    <text x="195" y="335" font-size="30" fill="#5B6B7C">읍·면·동 행정복지센터 (대리인 신청 가능)</text>
+
+    <rect x="60" y="380" rx="16" ry="16" width="960" height="130" fill="#ffffff" stroke="#D6E0EC" stroke-width="3"/>
+    <circle cx="130" cy="445" r="34" fill="#1B5FA6"/>
+    <text x="130" y="460" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="195" y="435" font-weight="bold" font-size="40" fill="#1a1a1a">직권신청</text>
+    <text x="195" y="485" font-size="30" fill="#5B6B7C">담당 공무원이 대상자 동의를 얻어 신청</text>
+
+    <rect x="60" y="530" rx="16" ry="16" width="960" height="130" fill="#ffffff" stroke="#D6E0EC" stroke-width="3"/>
+    <circle cx="130" cy="595" r="34" fill="#1B5FA6"/>
+    <text x="130" y="610" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="195" y="585" font-weight="bold" font-size="40" fill="#1a1a1a">온라인신청</text>
+    <text x="195" y="635" font-size="30" fill="#5B6B7C">복지로(bokjiro.go.kr)</text>
+  </g>
+
+  <!-- 복지로 경로 -->
+  <text x="60" y="750" font-family="Noto Sans CJK KR" font-weight="bold" font-size="42" fill="#1B5FA6">복지로 온라인 신청 경로</text>
+  <g font-family="Noto Sans CJK KR" font-weight="bold" font-size="29">
+    <rect x="60" y="785" rx="34" ry="34" width="290" height="68" fill="#ffffff" stroke="#1B5FA6" stroke-width="3"/>
+    <text x="205" y="829" fill="#1a1a1a" text-anchor="middle">1. 로그인</text>
+    <rect x="395" y="785" rx="34" ry="34" width="290" height="68" fill="#ffffff" stroke="#1B5FA6" stroke-width="3"/>
+    <text x="540" y="829" fill="#1a1a1a" text-anchor="middle">2. 서비스 신청</text>
+    <rect x="730" y="785" rx="34" ry="34" width="290" height="68" fill="#ffffff" stroke="#1B5FA6" stroke-width="3"/>
+    <text x="875" y="829" fill="#1a1a1a" text-anchor="middle">3. 복지서비스 신청</text>
+    <rect x="60" y="880" rx="34" ry="34" width="290" height="68" fill="#ffffff" stroke="#1B5FA6" stroke-width="3"/>
+    <text x="205" y="924" fill="#1a1a1a" text-anchor="middle">4. 복지급여 신청</text>
+    <rect x="395" y="880" rx="34" ry="34" width="290" height="68" fill="#ffffff" stroke="#1B5FA6" stroke-width="3"/>
+    <text x="540" y="924" fill="#1a1a1a" text-anchor="middle">5. 저소득층</text>
+    <rect x="730" y="880" rx="34" ry="34" width="290" height="68" fill="#1B5FA6"/>
+    <text x="875" y="924" fill="#FFD23F" text-anchor="middle">6. 에너지바우처</text>
+    <text x="372" y="827" font-size="30" fill="#1B5FA6">▶</text>
+    <text x="707" y="827" font-size="30" fill="#1B5FA6">▶</text>
+    <text x="372" y="922" font-size="30" fill="#1B5FA6">▶</text>
+    <text x="707" y="922" font-size="30" fill="#1B5FA6">▶</text>
+  </g>
+
+  <!-- 유의사항 -->
+  <rect x="60" y="1010" rx="16" ry="16" width="960" height="200" fill="#FFF4CC"/>
+  <text x="100" y="1075" font-family="Noto Sans CJK KR" font-weight="bold" font-size="32" fill="#1a1a1a">⚠ 이사·세대원 변동이 있으면 자동신청 불가 → 신규신청 필요</text>
+  <text x="100" y="1135" font-family="Noto Sans CJK KR" font-size="30" fill="#5B6B7C">신청 일시중단: 6.27~6.30 · 10.1~10.2 · 12월 말 2~3일</text>
+  <text x="100" y="1180" font-family="Noto Sans CJK KR" font-size="30" fill="#5B6B7C">하절기 요금차감은 신청 다음 달부터 적용</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans CJK KR" font-size="32" fill="#5B6B7C">출처: 에너지바우처 공식 사이트(energyv.or.kr)</text>
+</svg>

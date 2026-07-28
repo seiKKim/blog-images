@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="220" fill="#1B5FA6"/>
+  <rect x="0" y="220" width="1080" height="8" fill="#0E7C8C"/>
+  <text x="60" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">지원 대상 (두 조건 모두 충족)</text>
+  <text x="60" y="178" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#BFF3EA">소득기준 AND 세대원 특성기준</text>
+
+  <!-- 벤 다이어그램 -->
+  <circle cx="420" cy="560" r="270" fill="#1B5FA6" opacity="0.28"/>
+  <circle cx="660" cy="560" r="270" fill="#0E7C8C" opacity="0.30"/>
+  <text x="330" y="420" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#1B5FA6" text-anchor="middle">소득기준</text>
+  <text x="750" y="420" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#0E7C8C" text-anchor="middle">세대원 특성</text>
+  <text x="540" y="545" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#243B6B" text-anchor="middle">둘 다</text>
+  <text x="540" y="600" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#243B6B" text-anchor="middle">충족 시</text>
+  <text x="540" y="655" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#E8722C" text-anchor="middle">지원 대상</text>
+
+  <!-- 조건 카드 -->
+  <rect x="60" y="880" width="465" height="380" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="60" y="880" width="465" height="72" rx="20" fill="#1B5FA6"/>
+  <text x="90" y="928" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#ffffff">① 소득기준</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="33" fill="#243B6B">
+    <text x="90" y="1010">국민기초생활보장법상</text>
+    <text x="90" y="1058" font-weight="bold">· 생계급여</text>
+    <text x="90" y="1106" font-weight="bold">· 의료급여</text>
+    <text x="90" y="1154" font-weight="bold">· 주거급여</text>
+    <text x="90" y="1202" font-weight="bold">· 교육급여 수급자</text>
+  </g>
+
+  <rect x="555" y="880" width="465" height="380" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <rect x="555" y="880" width="465" height="72" rx="20" fill="#0E7C8C"/>
+  <text x="585" y="928" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#ffffff">② 세대원 특성 (1명↑)</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="31" fill="#243B6B">
+    <text x="585" y="1004" font-weight="bold">· 노인 (61.12.31 이전 출생)</text>
+    <text x="585" y="1048" font-weight="bold">· 영유아 · 임산부</text>
+    <text x="585" y="1092" font-weight="bold">· 등록 장애인</text>
+    <text x="585" y="1136" font-weight="bold">· 중증·희귀·난치질환자</text>
+    <text x="585" y="1180" font-weight="bold">· 한부모 · 소년소녀가정</text>
+    <text x="585" y="1224" font-weight="bold" fill="#E8722C">· 다자녀세대 (25년 신규)</text>
+  </g>
+
+  <rect x="0" y="1290" width="1080" height="60" fill="#E8EEF5"/>
+  <text x="60" y="1330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 본문 정리 · 문의 에너지바우처 통합상담센터 1600-3190</text>
+</svg>
