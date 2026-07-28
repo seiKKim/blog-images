@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#243B6B"/>
+  <text x="60" y="95" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">이자소득세 15.4% 계산 예시</text>
+
+  <!-- 세전 -->
+  <rect x="60" y="220" width="380" height="240" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="250" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#5B6B7C" text-anchor="middle">세전 이자</text>
+  <text x="250" y="400" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="72" fill="#243B6B" text-anchor="middle">100만원</text>
+
+  <!-- 화살표 + 세금 -->
+  <text x="540" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="80" fill="#E23B3B" text-anchor="middle">→</text>
+  <rect x="490" y="470" width="180" height="72" rx="16" fill="#FDE2E2"/>
+  <text x="580" y="518" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#E23B3B" text-anchor="middle">-15.4%</text>
+
+  <!-- 세후 -->
+  <rect x="640" y="220" width="380" height="240" rx="20" fill="#243B6B"/>
+  <text x="830" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#E8EEF5" text-anchor="middle">세후 실수령</text>
+  <text x="830" y="400" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="66" fill="#FFD23F" text-anchor="middle">약 84.6만원</text>
+
+  <!-- 설명 띠 -->
+  <rect x="60" y="580" width="960" height="90" rx="16" fill="#E8EEF5"/>
+  <text x="90" y="638" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#243B6B">이자소득세 14% + 지방소득세 1.4% = 15.4% 원천징수</text>
+</svg>

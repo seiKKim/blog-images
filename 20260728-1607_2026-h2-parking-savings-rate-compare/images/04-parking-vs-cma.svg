@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="125" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">파킹통장 vs CMA</text>
+
+  <!-- 헤더 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="270" width="300" height="100" rx="14" fill="#E8EEF5"/>
+    <rect x="380" y="270" width="320" height="100" rx="14" fill="#243B6B"/>
+    <rect x="720" y="270" width="300" height="100" rx="14" fill="#4A6295"/>
+    <text x="210" y="333" font-weight="bold" font-size="40" fill="#243B6B" text-anchor="middle">구분</text>
+    <text x="540" y="333" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">파킹통장</text>
+    <text x="870" y="333" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">CMA</text>
+  </g>
+
+  <!-- 행들 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#1a1a1a">
+    <!-- 금리 -->
+    <rect x="60" y="390" width="960" height="160" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="485" font-weight="bold">금리</text>
+    <text x="540" y="465" text-anchor="middle" font-weight="bold" fill="#243B6B">토스 연 3.5%</text>
+    <text x="540" y="512" text-anchor="middle" font-size="30" fill="#5B6B7C">(우대조건 없음)</text>
+    <text x="870" y="465" text-anchor="middle" font-weight="bold" fill="#243B6B">MMW형 3.55~3.56%</text>
+    <text x="870" y="512" text-anchor="middle" font-size="30" fill="#5B6B7C">(2026.04 기준)</text>
+
+    <!-- 예금자보호 -->
+    <rect x="60" y="570" width="960" height="160" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="665" font-weight="bold">예금자보호</text>
+    <text x="540" y="645" text-anchor="middle" font-weight="bold" fill="#1F8A53">보호 (1억원)</text>
+    <text x="540" y="692" text-anchor="middle" font-size="30" fill="#5B6B7C">은행·저축은행</text>
+    <text x="870" y="645" text-anchor="middle" font-weight="bold" fill="#E23B3B">원칙 비보호</text>
+    <text x="870" y="692" text-anchor="middle" font-size="30" fill="#5B6B7C">종금형만 예외 보호</text>
+
+    <!-- 이자지급 -->
+    <rect x="60" y="750" width="960" height="140" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="835" font-weight="bold">이자지급</text>
+    <text x="540" y="835" text-anchor="middle">매일(토스 일복리)</text>
+    <text x="870" y="835" text-anchor="middle">매일</text>
+
+    <!-- 용도 -->
+    <rect x="60" y="910" width="960" height="140" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="995" font-weight="bold">용도</text>
+    <text x="540" y="995" text-anchor="middle">비상금·수시 자금</text>
+    <text x="870" y="995" text-anchor="middle">단기 매매 대기자금</text>
+  </g>
+
+  <!-- 주의 박스 -->
+  <rect x="60" y="1080" width="960" height="140" rx="16" fill="#FFF3D6" stroke="#FFD23F" stroke-width="2"/>
+  <text x="100" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#8a6d00">CMA는 종금형을 빼면 원칙적으로 비보호!</text>
+  <text x="100" y="1195" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#8a6d00">비상금이라면 보호 여부부터 확인하세요.</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 본문 정리 · 금융상품 한눈에(finlife.fss.or.kr) 재확인 권장</text>
+</svg>

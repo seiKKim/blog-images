@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#243B6B"/>
+  <text x="60" y="95" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">한국은행 기준금리 추이</text>
+
+  <!-- 축/그래프 영역: x 120~1000, y 240(하) ~ 600(위 3.5%) -->
+  <!-- 격자선 -->
+  <g stroke="#D6E0EC" stroke-width="1">
+    <line x1="120" y1="600" x2="1000" y2="600"/>
+    <line x1="120" y1="520" x2="1000" y2="520"/>
+    <line x1="120" y1="440" x2="1000" y2="440"/>
+    <line x1="120" y1="360" x2="1000" y2="360"/>
+    <line x1="120" y1="280" x2="1000" y2="280"/>
+  </g>
+
+  <!-- 라인: 3.50%(2023.01) -> 인하 -> 2.50% -> 2.75%(2026.07 반등) -->
+  <!-- 값 매핑: 2.50%->600, 2.75%->560, 3.50%->440(대략) -->
+  <polyline fill="none" stroke="#7C8BA5" stroke-width="7"
+    points="180,410 380,470 560,560 760,600 900,600"/>
+  <!-- 반등 구간 강조 -->
+  <polyline fill="none" stroke="#E23B3B" stroke-width="9"
+    points="900,600 990,520"/>
+
+  <!-- 데이터 포인트 -->
+  <circle cx="180" cy="410" r="9" fill="#7C8BA5"/>
+  <circle cx="900" cy="600" r="9" fill="#7C8BA5"/>
+  <circle cx="990" cy="520" r="14" fill="#E23B3B"/>
+
+  <!-- 라벨 -->
+  <text x="180" y="385" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#243B6B" text-anchor="middle">3.50%</text>
+  <text x="180" y="645" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="28" fill="#5B6B7C" text-anchor="middle">2023.01</text>
+
+  <text x="900" y="655" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="28" fill="#5B6B7C" text-anchor="middle">2.50%</text>
+
+  <rect x="850" y="415" rx="14" width="200" height="72" fill="#E23B3B"/>
+  <text x="950" y="463" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff" text-anchor="middle">2.75%</text>
+  <text x="950" y="690" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="28" fill="#E23B3B" text-anchor="middle">2026.07 인상</text>
+
+  <!-- 요약 배지 -->
+  <text x="60" y="690" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#243B6B">3년 6개월 만의 첫 인상 (만장일치)</text>
+</svg>

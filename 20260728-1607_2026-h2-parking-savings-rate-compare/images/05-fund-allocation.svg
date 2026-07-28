@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="125" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">자금 성격별 배분 가이드</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 카드 1: 비상금 -->
+    <rect x="60" y="270" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="270" width="14" height="230" rx="7" fill="#243B6B"/>
+    <text x="110" y="345" font-weight="bold" font-size="44" fill="#1a1a1a">비상금</text>
+    <rect x="700" y="305" width="290" height="70" rx="35" fill="#243B6B"/>
+    <text x="845" y="353" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">파킹통장</text>
+    <text x="110" y="425" font-size="34" fill="#5B6B7C">예금자보호(1억원) + 수시입출</text>
+
+    <!-- 카드 2: 1~3개월 단기 -->
+    <rect x="60" y="530" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="530" width="14" height="230" rx="7" fill="#4A6295"/>
+    <text x="110" y="605" font-weight="bold" font-size="44" fill="#1a1a1a">1~3개월 단기</text>
+    <rect x="640" y="565" width="350" height="70" rx="35" fill="#4A6295"/>
+    <text x="815" y="613" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">파킹통장 / CMA</text>
+    <text x="110" y="685" font-size="34" fill="#5B6B7C">유동성 우선(보호 필요 시 파킹)</text>
+
+    <!-- 카드 3: 3~12개월 중기 -->
+    <rect x="60" y="790" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="790" width="14" height="230" rx="7" fill="#1F8A53"/>
+    <text x="110" y="865" font-weight="bold" font-size="44" fill="#1a1a1a">3~12개월 중기</text>
+    <rect x="720" y="825" width="270" height="70" rx="35" fill="#1F8A53"/>
+    <text x="855" y="873" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">정기예금</text>
+    <text x="110" y="945" font-size="34" fill="#5B6B7C">금리 우대 + 기간 확실</text>
+
+    <!-- 카드 4: 단기 매매 대기 -->
+    <rect x="60" y="1050" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="1050" width="14" height="230" rx="7" fill="#8494B3"/>
+    <text x="110" y="1125" font-weight="bold" font-size="44" fill="#1a1a1a">단기 매매 대기</text>
+    <rect x="670" y="1085" width="320" height="70" rx="35" fill="#8494B3"/>
+    <text x="830" y="1133" font-weight="bold" font-size="38" fill="#ffffff" text-anchor="middle">CMA(RP형)</text>
+    <text x="110" y="1205" font-size="34" fill="#5B6B7C">증권계좌 연동·수시입출</text>
+  </g>
+
+  <text x="1020" y="1330" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C" text-anchor="end">"언제 쓸 돈인가"부터 정하고 배분</text>
+</svg>
