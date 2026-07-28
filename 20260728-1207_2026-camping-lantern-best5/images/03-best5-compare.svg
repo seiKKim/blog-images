@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#f3f6fb"/>
+
+  <!-- header -->
+  <rect width="1080" height="210" fill="#14294a"/>
+  <rect x="64" y="60" rx="26" ry="26" width="230" height="56" fill="#ffcf6b"/>
+  <text x="179" y="99" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#14294a" text-anchor="middle">2026 BEST 5</text>
+  <text x="64" y="180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">여름 캠핑 랜턴 추천</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1위 -->
+    <rect x="60" y="258" width="960" height="188" rx="18" fill="#ffffff" stroke="#dbe4f0"/>
+    <rect x="60" y="258" width="10" height="188" rx="5" fill="#ffcf6b"/>
+    <text x="104" y="322" font-size="34" font-weight="bold" fill="#ffab2e">1위</text>
+    <text x="104" y="372" font-size="40" font-weight="bold" fill="#14294a">루메나 M3 멀티플</text>
+    <text x="104" y="420" font-size="31" fill="#5b6b7c">300루멘 · IP67 · 약 95g · 차박/서브 올라운더</text>
+    <text x="988" y="360" font-size="33" font-weight="bold" fill="#14294a" text-anchor="end">약 5~7만원</text>
+
+    <!-- 2위 -->
+    <rect x="60" y="462" width="960" height="188" rx="18" fill="#ffffff" stroke="#dbe4f0"/>
+    <rect x="60" y="462" width="10" height="188" rx="5" fill="#ffcf6b"/>
+    <text x="104" y="526" font-size="34" font-weight="bold" fill="#ffab2e">2위</text>
+    <text x="104" y="576" font-size="40" font-weight="bold" fill="#14294a">루메나 M4 멀티플</text>
+    <text x="104" y="624" font-size="31" fill="#5b6b7c">200루멘 · IP66 · 약 120g · 오래가는 무드/수면등</text>
+    <text x="988" y="564" font-size="33" font-weight="bold" fill="#14294a" text-anchor="end">약 7~10만원</text>
+
+    <!-- 3위 -->
+    <rect x="60" y="666" width="960" height="188" rx="18" fill="#ffffff" stroke="#dbe4f0"/>
+    <rect x="60" y="666" width="10" height="188" rx="5" fill="#ffcf6b"/>
+    <text x="104" y="730" font-size="34" font-weight="bold" fill="#ffab2e">3위</text>
+    <text x="104" y="780" font-size="40" font-weight="bold" fill="#14294a">골제로 마이크로 플래쉬</text>
+    <text x="104" y="828" font-size="31" fill="#5b6b7c">150루멘 · 카라비너·잔량표시 · 백패킹 경량</text>
+    <text x="988" y="768" font-size="33" font-weight="bold" fill="#14294a" text-anchor="end">약 5만원대</text>
+
+    <!-- 4위 -->
+    <rect x="60" y="870" width="960" height="188" rx="18" fill="#ffffff" stroke="#dbe4f0"/>
+    <rect x="60" y="870" width="10" height="188" rx="5" fill="#ffcf6b"/>
+    <text x="104" y="934" font-size="34" font-weight="bold" fill="#ffab2e">4위</text>
+    <text x="104" y="984" font-size="40" font-weight="bold" fill="#14294a">크레모아 3페이스 네오</text>
+    <text x="104" y="1032" font-size="31" fill="#5b6b7c">고광량 메인 바형 · 3면 발광 · 사이트/차박 천장</text>
+    <text x="988" y="972" font-size="30" font-weight="bold" fill="#14294a" text-anchor="end">약 11.9~22.9만원</text>
+
+    <!-- 5위 -->
+    <rect x="60" y="1074" width="960" height="188" rx="18" fill="#ffffff" stroke="#dbe4f0"/>
+    <rect x="60" y="1074" width="10" height="188" rx="5" fill="#ffcf6b"/>
+    <text x="104" y="1138" font-size="34" font-weight="bold" fill="#ffab2e">5위</text>
+    <text x="104" y="1188" font-size="40" font-weight="bold" fill="#14294a">코베아 감성 가스 랜턴</text>
+    <text x="104" y="1236" font-size="31" fill="#5b6b7c">불멍·감성캠핑 · 이소가스 · 텐트 외부 사용</text>
+    <text x="988" y="1176" font-size="33" font-weight="bold" fill="#14294a" text-anchor="end">약 3~8만원대</text>
+  </g>
+
+  <!-- footer -->
+  <rect x="0" y="1284" width="1080" height="66" fill="#e8eef5"/>
+  <text x="64" y="1326" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="29" fill="#5b6b7c">가격·스펙은 조사 시점(2026.7) 판매처 표기 기준 대략 범위</text>
+</svg>

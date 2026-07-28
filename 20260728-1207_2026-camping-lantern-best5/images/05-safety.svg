@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#f3f6fb"/>
+
+  <!-- header -->
+  <rect width="1080" height="210" fill="#14294a"/>
+  <rect x="64" y="60" rx="26" ry="26" width="230" height="56" fill="#ffcf6b"/>
+  <text x="179" y="99" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#14294a" text-anchor="middle">사기 전 필독</text>
+  <text x="64" y="180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">여름 캠핑 랜턴 안전수칙</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- block 1: gas -->
+    <rect x="60" y="262" width="960" height="430" rx="18" fill="#ffffff" stroke="#f0c4c4"/>
+    <rect x="60" y="262" width="960" height="86" rx="18" fill="#e23b3b"/>
+    <rect x="60" y="310" width="960" height="38" fill="#e23b3b"/>
+    <text x="100" y="320" font-size="40" font-weight="bold" fill="#ffffff">가스 랜턴 — 유해가스·화상</text>
+
+    <text x="100" y="416" font-size="35" font-weight="bold" fill="#14294a">텐트 등 밀폐공간 연소기구 사용 금지</text>
+    <text x="100" y="480" font-size="32" fill="#5b6b7c">· 무색·무취 일산화탄소, 마셔도 모른 채 위험</text>
+    <text x="100" y="530" font-size="32" fill="#5b6b7c">· 2,000ppm 1~2시간 내 의식불명</text>
+    <text x="100" y="580" font-size="32" fill="#5b6b7c">· 5,000ppm 30분 내 사망 가능</text>
+    <text x="100" y="644" font-size="32" font-weight="bold" fill="#e23b3b">가스·석유 기구는 환기구 + 일산화탄소 경보기 필수</text>
+
+    <!-- block 2: lithium -->
+    <rect x="60" y="712" width="960" height="470" rx="18" fill="#ffffff" stroke="#f0c4c4"/>
+    <rect x="60" y="712" width="960" height="86" rx="18" fill="#e23b3b"/>
+    <rect x="60" y="760" width="960" height="38" fill="#e23b3b"/>
+    <text x="100" y="770" font-size="40" font-weight="bold" fill="#ffffff">충전식 리튬이온 — 발열·폭발</text>
+
+    <text x="100" y="866" font-size="35" font-weight="bold" fill="#14294a">여름철 차량 내부 보관 금지</text>
+    <text x="100" y="930" font-size="32" fill="#5b6b7c">· 뙤약볕 차 안 90℃ 이상 → 화재·폭발 위험 큼</text>
+    <text x="100" y="980" font-size="32" fill="#5b6b7c">· -20℃↓·40℃↑·직사광선·가연물 근처 보관 금지</text>
+    <text x="100" y="1030" font-size="32" fill="#5b6b7c">· KC 공식인증 제품(배터리+충전기) 확인</text>
+    <text x="100" y="1080" font-size="32" fill="#5b6b7c">· 충전은 벽면 콘센트 직결, 과충전·충격 주의</text>
+    <text x="100" y="1144" font-size="32" font-weight="bold" fill="#e23b3b">이 두 가지만 지켜도 대부분 예방됩니다</text>
+  </g>
+
+  <!-- footer -->
+  <rect x="0" y="1284" width="1080" height="66" fill="#e8eef5"/>
+  <text x="64" y="1326" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="29" fill="#5b6b7c">blog.naver.com/trip_chocho · 여름 캠핑 랜턴 안전 안내</text>
+</svg>
