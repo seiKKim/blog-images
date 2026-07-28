@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <marker id="arrGreen" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#1F8A53"/>
+    </marker>
+    <marker id="arrRed" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#E23B3B"/>
+    </marker>
+  </defs>
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="180" fill="#1B5FA6"/>
+  <rect x="0" y="180" width="1080" height="8" fill="#E23B3B"/>
+  <text x="60" y="90" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">이안류(역파도) 탈출법</text>
+  <text x="60" y="146" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">휩쓸리면 해안과 약 45도 방향으로 헤엄치기</text>
+
+  <!-- 바다 영역 -->
+  <rect x="0" y="188" width="1080" height="470" fill="#8FC7E8"/>
+  <!-- 모래사장 -->
+  <rect x="0" y="658" width="1080" height="130" fill="#EAD9A8"/>
+  <text x="540" y="740" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#8a7433" text-anchor="middle">해 안 (모래사장)</text>
+
+  <!-- 이안류 물살(빠져나가는 좁은 흐름) -->
+  <path d="M475 658 L445 250 L635 250 L605 658 Z" fill="#3E6E9E" opacity="0.78"/>
+  <text x="540" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#ffffff" text-anchor="middle">이안류</text>
+  <text x="540" y="404" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="28" fill="#ffffff" text-anchor="middle">(바다 쪽으로 빠르게)</text>
+
+  <!-- 사람 위치 표시 -->
+  <circle cx="540" cy="560" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+  <text x="540" y="572" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">나</text>
+
+  <!-- 빨강: 해안 직진 금지 (짧게, 사람 아래로) -->
+  <line x1="540" y1="592" x2="540" y2="650" stroke="#E23B3B" stroke-width="12"
+        stroke-dasharray="18 12" marker-end="url(#arrRed)"/>
+  <rect x="600" y="595" width="176" height="58" rx="12" fill="#E23B3B"/>
+  <text x="688" y="635" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#ffffff" text-anchor="middle">직진 X</text>
+
+  <!-- 초록: 좌우 45도 방향 탈출 -->
+  <line x1="512" y1="548" x2="250" y2="470" stroke="#1F8A53" stroke-width="13" marker-end="url(#arrGreen)"/>
+  <line x1="568" y1="548" x2="830" y2="470" stroke="#1F8A53" stroke-width="13" marker-end="url(#arrGreen)"/>
+  <rect x="120" y="482" width="230" height="58" rx="12" fill="#1F8A53"/>
+  <text x="235" y="522" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#ffffff" text-anchor="middle">45° 방향 O</text>
+  <rect x="730" y="482" width="230" height="58" rx="12" fill="#1F8A53"/>
+  <text x="845" y="522" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#ffffff" text-anchor="middle">45° 방향 O</text>
+
+  <!-- 하단 핵심 수칙 -->
+  <text x="60" y="850" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a">1. 당황 금지 — 물속으로 끌고 들어가지 않습니다</text>
+  <text x="60" y="912" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a">2. 해안 직진 X → 좌우 45도로 흐름에서 벗어나기</text>
+  <text x="60" y="974" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a">3. 부력물 없으면 힘 빼고 누워 떠서 구조 대기</text>
+  <text x="60" y="1040" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="30" fill="#5B6B7C">참고: 해양경찰청 · 국립해양조사원 '안전해(海)'</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <rect x="0" y="210" width="1080" height="8" fill="#E23B3B"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">물놀이 안전장비 체크리스트</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">계곡 · 바다 가족 물놀이 기본 준비물</text>
+
+  <!-- 항목 카드 (4개) -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 구명조끼 -->
+    <rect x="60" y="270" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="270" width="14" height="230" rx="7" fill="#E23B3B"/>
+    <text x="110" y="342" font-weight="bold" font-size="50" fill="#1a1a1a">구명조끼</text>
+    <rect x="760" y="300" width="220" height="56" rx="28" fill="#E23B3B"/>
+    <text x="870" y="338" font-weight="bold" font-size="32" fill="#ffffff" text-anchor="middle">필수</text>
+    <text x="110" y="408" font-size="38" fill="#3a4756">모든 자연수역·다슬기·해루질·수상스포츠</text>
+    <text x="110" y="464" font-size="36" fill="#1B5FA6" font-weight="bold">→ 몸에 맞는 사이즈가 핵심</text>
+
+    <!-- 아쿠아슈즈 -->
+    <rect x="60" y="524" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="524" width="14" height="230" rx="7" fill="#1B5FA6"/>
+    <text x="110" y="596" font-weight="bold" font-size="50" fill="#1a1a1a">아쿠아슈즈</text>
+    <text x="110" y="662" font-size="38" fill="#3a4756">계곡·하천 미끄러짐 방지</text>
+    <text x="110" y="718" font-size="36" fill="#1B5FA6" font-weight="bold">→ 행정안전부가 직접 권장</text>
+
+    <!-- 튜브/부력물 -->
+    <rect x="60" y="778" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="778" width="14" height="230" rx="7" fill="#1B5FA6"/>
+    <text x="110" y="850" font-weight="bold" font-size="50" fill="#1a1a1a">튜브 · 부력물</text>
+    <text x="110" y="916" font-size="38" fill="#3a4756">얕은 물 보조·구조 시 던지는 용도</text>
+    <text x="110" y="972" font-size="36" fill="#E23B3B" font-weight="bold">→ 바다 이안류 상황에선 의존 금물</text>
+
+    <!-- 래시가드/수영모/미아방지밴드 -->
+    <rect x="60" y="1032" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="1032" width="14" height="230" rx="7" fill="#1B5FA6"/>
+    <text x="110" y="1104" font-weight="bold" font-size="50" fill="#1a1a1a">래시가드 · 수영모</text>
+    <text x="110" y="1170" font-size="38" fill="#3a4756">자외선·체온·머리 보호</text>
+    <text x="110" y="1226" font-size="36" fill="#1B5FA6" font-weight="bold">→ 가족 단위 준비물</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1290" width="1080" height="60" fill="#E8EEF5"/>
+  <text x="60" y="1330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 행정안전부 국민재난안전포털 물놀이 안전수칙</text>
+</svg>
