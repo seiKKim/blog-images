@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">고지서 못 받았을 때</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F">위택스 '납부대상 확인'으로 조회</text>
+
+  <!-- 단계 리스트 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- step 1 -->
+    <circle cx="120" cy="330" r="42" fill="#1F8A53"/>
+    <text x="120" y="345" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="200" y="330" font-size="42" font-weight="bold" fill="#1a1a1a">위택스 접속 후 로그인(본인인증)</text>
+    <text x="200" y="378" font-size="30" fill="#5B6B7C">www.wetax.go.kr</text>
+
+    <!-- step 2 -->
+    <circle cx="120" cy="480" r="42" fill="#1F8A53"/>
+    <text x="120" y="495" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="200" y="480" font-size="42" font-weight="bold" fill="#1a1a1a">'납부 &gt; 납부대상 확인' 메뉴</text>
+    <text x="200" y="528" font-size="30" fill="#5B6B7C">부과 내역 조회</text>
+
+    <!-- step 3 -->
+    <circle cx="120" cy="630" r="42" fill="#1F8A53"/>
+    <text x="120" y="645" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="200" y="630" font-size="42" font-weight="bold" fill="#1a1a1a">주소지·전자고지 설정 확인</text>
+
+    <!-- step 4 -->
+    <circle cx="120" cy="750" r="42" fill="#1F8A53"/>
+    <text x="120" y="765" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="200" y="750" font-size="42" font-weight="bold" fill="#1a1a1a">조회 화면에서 바로 납부</text>
+
+    <!-- step 5 -->
+    <circle cx="120" cy="870" r="42" fill="#E23B3B"/>
+    <text x="120" y="885" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="200" y="870" font-size="42" font-weight="bold" fill="#1a1a1a">조회 안 되면 시·군·구 세무부서 문의</text>
+  </g>
+
+  <!-- 연결선 -->
+  <line x1="120" y1="372" x2="120" y2="438" stroke="#BFD6C9" stroke-width="6"/>
+  <line x1="120" y1="522" x2="120" y2="588" stroke="#BFD6C9" stroke-width="6"/>
+  <line x1="120" y1="672" x2="120" y2="708" stroke="#BFD6C9" stroke-width="6"/>
+  <line x1="120" y1="792" x2="120" y2="828" stroke="#BFD6C9" stroke-width="6"/>
+
+  <!-- 안내 박스 -->
+  <rect x="60" y="960" width="960" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="1035" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#243B6B">고지서가 안 와도</text>
+  <text x="100" y="1100" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#E23B3B">안 내도 되는 건 아닙니다</text>
+  <text x="100" y="1145" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#5B6B7C">서울 거주자는 서울시 이택스(ETAX)에서도 조회 가능</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 위택스(wetax.go.kr) · 정부24 지방세 연계</text>
+</svg>

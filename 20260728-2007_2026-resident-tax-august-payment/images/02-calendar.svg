@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">2026년 8월 납부기간</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#FFD23F">8월 16일 ~ 8월 31일</text>
+
+  <!-- 요일 헤더 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="bold" text-anchor="middle">
+    <text x="128" y="300" fill="#E23B3B">일</text>
+    <text x="270" y="300" fill="#4A5A6A">월</text>
+    <text x="412" y="300" fill="#4A5A6A">화</text>
+    <text x="554" y="300" fill="#4A5A6A">수</text>
+    <text x="696" y="300" fill="#4A5A6A">목</text>
+    <text x="838" y="300" fill="#4A5A6A">금</text>
+    <text x="980" y="300" fill="#1F8A53">토</text>
+  </g>
+
+  <!-- 달력 셀: 2026년 8월 (8/1 = 토요일) -->
+  <!-- 열 x중심: 128,270,412,554,696,838,980  셀 88x88 rx14 -->
+  <!-- 행 y상단: 330, 460, 590, 720, 850 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" font-weight="bold" text-anchor="middle">
+    <!-- 주1: 1(토) -->
+    <text x="980" y="392" fill="#1F8A53">1</text>
+    <!-- 주2: 2~8 -->
+    <text x="128" y="522" fill="#E23B3B">2</text>
+    <text x="270" y="522" fill="#243B6B">3</text>
+    <text x="412" y="522" fill="#243B6B">4</text>
+    <text x="554" y="522" fill="#243B6B">5</text>
+    <text x="696" y="522" fill="#243B6B">6</text>
+    <text x="838" y="522" fill="#243B6B">7</text>
+    <text x="980" y="522" fill="#1F8A53">8</text>
+    <!-- 주3: 9~15 -->
+    <text x="128" y="652" fill="#E23B3B">9</text>
+    <text x="270" y="652" fill="#243B6B">10</text>
+    <text x="412" y="652" fill="#243B6B">11</text>
+    <text x="554" y="652" fill="#243B6B">12</text>
+    <text x="696" y="652" fill="#243B6B">13</text>
+    <text x="838" y="652" fill="#243B6B">14</text>
+    <text x="980" y="652" fill="#1F8A53">15</text>
+  </g>
+
+  <!-- 납부기간 하이라이트 밴드: 16(토)~31(월) -->
+  <!-- 주4: 16~22 전체 하이라이트 -->
+  <rect x="84" y="720" width="912" height="96" rx="16" fill="#1F8A53" opacity="0.16"/>
+  <!-- 주5: 23~29 전체 하이라이트 -->
+  <rect x="84" y="850" width="912" height="96" rx="16" fill="#1F8A53" opacity="0.16"/>
+  <!-- 주6: 30~31 하이라이트 -->
+  <rect x="84" y="980" width="228" height="96" rx="16" fill="#1F8A53" opacity="0.16"/>
+
+  <!-- 16 시작 배지 -->
+  <circle cx="128" cy="812" r="46" fill="#1F8A53"/>
+  <!-- 31 마감 배지 -->
+  <circle cx="270" cy="1072" r="46" fill="#E23B3B"/>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" font-weight="bold" text-anchor="middle">
+    <!-- 주4: 16~22 -->
+    <text x="128" y="826" fill="#ffffff">16</text>
+    <text x="270" y="826" fill="#243B6B">17</text>
+    <text x="412" y="826" fill="#243B6B">18</text>
+    <text x="554" y="826" fill="#243B6B">19</text>
+    <text x="696" y="826" fill="#243B6B">20</text>
+    <text x="838" y="826" fill="#243B6B">21</text>
+    <text x="980" y="826" fill="#1F8A53">22</text>
+    <!-- 주5: 23~29 -->
+    <text x="128" y="956" fill="#E23B3B">23</text>
+    <text x="270" y="956" fill="#243B6B">24</text>
+    <text x="412" y="956" fill="#243B6B">25</text>
+    <text x="554" y="956" fill="#243B6B">26</text>
+    <text x="696" y="956" fill="#243B6B">27</text>
+    <text x="838" y="956" fill="#243B6B">28</text>
+    <text x="980" y="956" fill="#1F8A53">29</text>
+    <!-- 주6: 30~31 -->
+    <text x="128" y="1086" fill="#E23B3B">30</text>
+    <text x="270" y="1086" fill="#ffffff">31</text>
+  </g>
+
+  <!-- 마감 강조 라벨 -->
+  <rect x="60" y="1140" width="960" height="96" rx="18" fill="#E23B3B"/>
+  <text x="540" y="1202" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff" text-anchor="middle">8월 31일(월) 마감 · 넘기면 3% 가산세</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">정확한 마감일은 고지서·위택스(wetax.go.kr)에서 확인</text>
+</svg>

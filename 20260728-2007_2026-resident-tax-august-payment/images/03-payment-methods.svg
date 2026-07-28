@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">주민세 납부 방법</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F">위택스(지방세)에서 조회 → 납부</text>
+
+  <!-- 채널 카드들 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="270" width="960" height="118" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="332" font-size="44" font-weight="bold" fill="#1a1a1a">위택스(전국)</text>
+    <text x="100" y="378" font-size="30" fill="#5B6B7C">wetax.go.kr · 운영 00:30~23:30</text>
+    <text x="1000" y="345" font-size="34" font-weight="bold" fill="#1F8A53" text-anchor="end">PC·웹</text>
+
+    <rect x="60" y="404" width="960" height="118" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="466" font-size="44" font-weight="bold" fill="#1a1a1a">스마트위택스 앱</text>
+    <text x="100" y="512" font-size="30" fill="#5B6B7C">모바일 앱으로 조회·납부</text>
+    <text x="1000" y="479" font-size="34" font-weight="bold" fill="#1F8A53" text-anchor="end">모바일</text>
+
+    <rect x="60" y="538" width="960" height="118" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="600" font-size="44" font-weight="bold" fill="#1a1a1a">서울 이택스(ETAX)</text>
+    <text x="100" y="646" font-size="30" fill="#5B6B7C">서울 거주자 지방세 전용</text>
+    <text x="1000" y="613" font-size="34" font-weight="bold" fill="#1F8A53" text-anchor="end">서울</text>
+
+    <rect x="60" y="672" width="960" height="118" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="734" font-size="44" font-weight="bold" fill="#1a1a1a">간편결제</text>
+    <text x="100" y="780" font-size="30" fill="#5B6B7C">카카오페이·네이버페이·페이코 등</text>
+    <text x="1000" y="747" font-size="34" font-weight="bold" fill="#1F8A53" text-anchor="end">QR·번호</text>
+
+    <rect x="60" y="806" width="960" height="118" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="868" font-size="44" font-weight="bold" fill="#1a1a1a">은행 창구·CD/ATM</text>
+    <text x="100" y="914" font-size="30" fill="#5B6B7C">인터넷지로(giro.or.kr) 포함</text>
+    <text x="1000" y="881" font-size="34" font-weight="bold" fill="#1F8A53" text-anchor="end">오프라인</text>
+  </g>
+
+  <!-- 핵심 강조 박스: 카드 수수료 0원 -->
+  <rect x="60" y="960" width="960" height="200" rx="20" fill="#1F8A53"/>
+  <text x="540" y="1035" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff" text-anchor="middle">지방세는 카드 납부 수수료</text>
+  <text x="540" y="1112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="86" fill="#FFD23F" text-anchor="middle">0원</text>
+
+  <!-- 핵심: 전자납부번호 -->
+  <text x="60" y="1235" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#243B6B">고지서의 전자납부번호·가상계좌만 있으면 어느 채널이든 납부</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">최신 조건은 위택스·카드사에서 한 번 더 확인</text>
+</svg>
