@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF5EF"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="118" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">장소별 곰팡이 제거법</text>
+  <text x="60" y="170" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#FFE9D6">원인이 다르면 제거 방법도 다릅니다</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 욕실 -->
+    <rect x="60" y="260" width="960" height="230" rx="18" fill="#ffffff" stroke="#EAD9C7"/>
+    <rect x="60" y="260" width="16" height="230" rx="8" fill="#E8722C"/>
+    <text x="110" y="330" font-size="46" font-weight="bold" fill="#1a1a1a">욕실 실리콘·타일 줄눈</text>
+    <text x="110" y="392" font-size="36" fill="#5B6B7C">1단계 베이킹소다+식초(1:1)</text>
+    <text x="110" y="440" font-size="36" fill="#5B6B7C">2단계 곰팡이 전용 제거제 1~2분</text>
+    <text x="110" y="480" font-size="36" fill="#5B6B7C">3단계 락스 희석액 '습포'</text>
+
+    <!-- 창틀 -->
+    <rect x="60" y="510" width="960" height="150" rx="18" fill="#ffffff" stroke="#EAD9C7"/>
+    <rect x="60" y="510" width="16" height="150" rx="8" fill="#2E9DB0"/>
+    <text x="110" y="578" font-size="46" font-weight="bold" fill="#1a1a1a">창틀 결로 부위</text>
+    <text x="110" y="632" font-size="36" fill="#5B6B7C">락스 희석액+화장지 하루 → 물로 닦고 건조</text>
+
+    <!-- 벽지 -->
+    <rect x="60" y="680" width="960" height="150" rx="18" fill="#ffffff" stroke="#EAD9C7"/>
+    <rect x="60" y="680" width="16" height="150" rx="8" fill="#7B8794"/>
+    <text x="110" y="748" font-size="46" font-weight="bold" fill="#1a1a1a">벽지</text>
+    <text x="110" y="802" font-size="36" fill="#5B6B7C">누수가 원인이면 청소만으론 재발 → 근본 수리</text>
+
+    <!-- 옷장·신발장 -->
+    <rect x="60" y="850" width="960" height="150" rx="18" fill="#ffffff" stroke="#EAD9C7"/>
+    <rect x="60" y="850" width="16" height="150" rx="8" fill="#1F8A53"/>
+    <text x="110" y="918" font-size="46" font-weight="bold" fill="#1a1a1a">옷장·신발장</text>
+    <text x="110" y="972" font-size="36" fill="#5B6B7C">제거보다 예방 — 숯·제습제, 에탄올 희석액</text>
+
+    <!-- 세탁기 -->
+    <rect x="60" y="1020" width="960" height="190" rx="18" fill="#ffffff" stroke="#EAD9C7"/>
+    <rect x="60" y="1020" width="16" height="190" rx="8" fill="#C85A1A"/>
+    <text x="110" y="1088" font-size="46" font-weight="bold" fill="#1a1a1a">세탁기 고무패킹</text>
+    <text x="110" y="1142" font-size="36" fill="#5B6B7C">잔수 제거 → 락스 물 1:5 희석액</text>
+    <text x="110" y="1186" font-size="36" fill="#5B6B7C">키친타월 30분 방치 → 물수건 2~3회</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE4D8"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#7a6a58">주의: 산성 제품과 락스는 같은 자리에 동시 사용 금지</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E8722C"/>
+      <stop offset="1" stop-color="#C85A1A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식: 물방울/습기 원 -->
+  <circle cx="950" cy="170" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="130" cy="960" r="210" fill="#ffffff" opacity="0.06"/>
+  <circle cx="880" cy="900" r="120" fill="#2E9DB0" opacity="0.18"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="200" height="68" fill="#FFD23F"/>
+  <text x="180" y="136" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="330" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#FFE9D6">장마 끝났다고 방심하면</text>
+  <text x="80" y="400" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#FFE9D6">지금부터 곰팡이 번식!</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="560" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="132" fill="#ffffff">실내습도</text>
+  <text x="80" y="710" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="150" fill="#FFD23F">60% 넘기면</text>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="800" rx="20" ry="20" width="920" height="130" fill="#ffffff" opacity="0.16"/>
+  <text x="110" y="860" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">장소별 제거법 · 락스 안전수칙</text>
+  <text x="110" y="912" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">제습·환기 요령까지 총정리</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1015" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="34" fill="#FFE9D6" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

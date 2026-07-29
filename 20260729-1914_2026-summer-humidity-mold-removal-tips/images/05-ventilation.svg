@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FBF5EF"/>
+  <rect width="1080" height="160" fill="#E8722C"/>
+  <text x="60" y="98" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">곰팡이 예방의 핵심 = 환기</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 시간대 -->
+    <rect x="60" y="200" width="960" height="150" rx="18" fill="#EAF6EE" stroke="#2E9DB0" stroke-width="2"/>
+    <text x="90" y="262" font-size="40" font-weight="bold" fill="#1F8A53">습도 낮은 환기 시간대</text>
+    <text x="90" y="320" font-size="38" fill="#3a5a48">오전 10시~오후 3시 (또는 오전 9~11시·오후 3~5시)</text>
+
+    <!-- 루틴 -->
+    <rect x="60" y="370" width="960" height="150" rx="18" fill="#FFF3E8" stroke="#E8722C" stroke-width="2"/>
+    <text x="90" y="432" font-size="40" font-weight="bold" fill="#C85A1A">환기 방법</text>
+    <text x="90" y="490" font-size="38" fill="#5a4a3a">길게 한 번보다 짧게 여러 번 (10~15분씩) 맞바람</text>
+  </g>
+
+  <!-- 핵심 숫자 강조 -->
+  <rect x="60" y="540" width="960" height="120" rx="18" fill="#E8722C"/>
+  <text x="540" y="617" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="50" fill="#ffffff" text-anchor="middle">젖은 자재는 24~48시간 내 건조</text>
+
+  <text x="60" y="700" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#7a6a58">출처: 공공자료·미국 EPA 권고</text>
+</svg>

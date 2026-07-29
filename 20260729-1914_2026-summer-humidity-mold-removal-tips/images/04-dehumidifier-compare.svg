@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF5EF"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="118" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">제습, 뭘 언제 쓸까</text>
+  <text x="60" y="170" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#FFE9D6">제습기 · 에어컨 제습모드 · 제습제</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 비교 헤더 -->
+    <rect x="60" y="260" width="470" height="90" rx="16" fill="#2E9DB0"/>
+    <text x="295" y="320" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">에어컨 제습모드</text>
+    <rect x="550" y="260" width="470" height="90" rx="16" fill="#1F8A53"/>
+    <text x="785" y="320" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">제습기</text>
+
+    <!-- 행: 작동기준 -->
+    <text x="60" y="415" font-size="34" fill="#7a6a58">작동 기준</text>
+    <rect x="60" y="435" width="470" height="90" rx="14" fill="#ffffff" stroke="#EAD9C7"/>
+    <text x="295" y="492" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">희망 온도까지</text>
+    <rect x="550" y="435" width="470" height="90" rx="14" fill="#ffffff" stroke="#EAD9C7"/>
+    <text x="785" y="492" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">희망 습도까지</text>
+
+    <!-- 행: 바람 -->
+    <text x="60" y="585" font-size="34" fill="#7a6a58">바람</text>
+    <rect x="60" y="605" width="470" height="90" rx="14" fill="#ffffff" stroke="#EAD9C7"/>
+    <text x="295" y="662" font-size="40" font-weight="bold" fill="#1a1a1a" text-anchor="middle">시원한 바람</text>
+    <rect x="550" y="605" width="470" height="90" rx="14" fill="#ffffff" stroke="#EAD9C7"/>
+    <text x="785" y="662" font-size="38" font-weight="bold" fill="#1a1a1a" text-anchor="middle">뜨겁고 건조한 바람</text>
+
+    <!-- 행: 상황 -->
+    <text x="60" y="755" font-size="34" fill="#7a6a58">어울리는 상황</text>
+    <rect x="60" y="775" width="470" height="110" rx="14" fill="#ffffff" stroke="#EAD9C7"/>
+    <text x="295" y="835" font-size="36" font-weight="bold" fill="#1a1a1a" text-anchor="middle">무더운 날</text>
+    <text x="295" y="875" font-size="36" font-weight="bold" fill="#1a1a1a" text-anchor="middle">쾌적하게</text>
+    <rect x="550" y="775" width="470" height="110" rx="14" fill="#ffffff" stroke="#EAD9C7"/>
+    <text x="785" y="835" font-size="36" font-weight="bold" fill="#1a1a1a" text-anchor="middle">빨래·눅눅함</text>
+    <text x="785" y="875" font-size="36" font-weight="bold" fill="#1a1a1a" text-anchor="middle">집중 제거</text>
+  </g>
+
+  <!-- 제습제 안내 -->
+  <rect x="60" y="920" width="960" height="290" rx="20" fill="#FFF3E8" stroke="#E8722C" stroke-width="2"/>
+  <text x="90" y="985" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="44" fill="#C85A1A">제습제는 '밀폐 소공간용'</text>
+  <text x="90" y="1050" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="37" fill="#5a4a3a">실리카겔 → 서랍·신발장·카메라 가방</text>
+  <text x="90" y="1100" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="37" fill="#5a4a3a">물먹는하마 → 옷장·장롱</text>
+  <text x="90" y="1170" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="37" fill="#1a1a1a">방 전체 제습은 제습기·에어컨의 영역</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE4D8"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#7a6a58">참고: 냉방↔제습 전기세 차이 작음, 제습만 목적이면 제습기가 저렴할 수 있음</text>
+</svg>
