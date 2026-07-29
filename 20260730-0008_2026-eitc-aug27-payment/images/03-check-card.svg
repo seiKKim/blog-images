@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F4F7FB"/>
+<rect width="1080" height="200" fill="#1F8A53"/>
+<text x="60" y="90" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="60" fill="#ffffff">내 지급액 조회 방법 3가지</text>
+<text x="60" y="160" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="38" fill="#E8EEF5">심사 결과 · 지급 계좌 미리 확인</text>
+<rect x="60" y="280" width="960" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/><text x="100" y="365" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="48" fill="#1a1a1a">① 홈택스 (PC)</text><text x="980" y="365" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="50" fill="#1F8A53" text-anchor="end">심사진행상황 조회</text><text x="100" y="403" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="30" fill="#5B6B7C">장려금·연말정산·기부금 → 근로·자녀장려금</text>
+<rect x="60" y="470" width="960" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/><text x="100" y="555" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="48" fill="#1a1a1a">② 손택스 (앱)</text><text x="980" y="555" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="50" fill="#1F8A53" text-anchor="end">모바일 조회</text><text x="100" y="593" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="30" fill="#5B6B7C">같은 메뉴 · 지급 계좌도 함께 확인</text>
+<rect x="60" y="660" width="960" height="140" rx="16" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/><text x="100" y="745" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="48" fill="#1a1a1a">③ 전화 문의</text><text x="980" y="745" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="50" fill="#1F8A53" text-anchor="end">국세상담센터 126</text><text x="100" y="783" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="30" fill="#5B6B7C">평일 상담 가능</text>
+<rect x="60" y="890" width="960" height="270" rx="16" fill="#E4F2EA"/>
+<text x="100" y="975" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">계좌 등록 안 했다면?</text>
+<text x="100" y="1045" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="36" fill="#333">우편 통지서로 우체국 수령 → 시간이 더 걸려요.</text>
+<text x="100" y="1100" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="36" fill="#333">지급일 전 홈택스에서 계좌 등록을 확인하세요.</text>
+<rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+<text x="60" y="1322" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="34" fill="#5B6B7C">출처: 국세청 홈택스(hometax.go.kr)</text>
+</svg>

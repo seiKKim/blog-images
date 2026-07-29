@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">복지로 온라인 신청 경로</text>
+  <text x="60" y="165" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">bokjiro.go.kr · 청년월세 한시 특별지원</text>
+
+  <!-- 스텝 5개 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- step 1 -->
+    <circle cx="120" cy="330" r="46" fill="#1B5FA6"/>
+    <text x="120" y="348" text-anchor="middle" font-size="48" font-weight="bold" fill="#FFD23F">1</text>
+    <rect x="200" y="284" width="820" height="92" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="235" y="342" font-size="40" font-weight="bold" fill="#1a1a1a">복지로 로그인</text>
+
+    <line x1="120" y1="376" x2="120" y2="440" stroke="#B9C9DB" stroke-width="6"/>
+    <!-- step 2 -->
+    <circle cx="120" cy="490" r="46" fill="#1B5FA6"/>
+    <text x="120" y="508" text-anchor="middle" font-size="48" font-weight="bold" fill="#FFD23F">2</text>
+    <rect x="200" y="444" width="820" height="92" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="235" y="502" font-size="40" font-weight="bold" fill="#1a1a1a">서비스 신청</text>
+
+    <line x1="120" y1="536" x2="120" y2="600" stroke="#B9C9DB" stroke-width="6"/>
+    <!-- step 3 -->
+    <circle cx="120" cy="650" r="46" fill="#1B5FA6"/>
+    <text x="120" y="668" text-anchor="middle" font-size="48" font-weight="bold" fill="#FFD23F">3</text>
+    <rect x="200" y="604" width="820" height="92" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="235" y="662" font-size="40" font-weight="bold" fill="#1a1a1a">복지급여 신청</text>
+
+    <line x1="120" y1="696" x2="120" y2="760" stroke="#B9C9DB" stroke-width="6"/>
+    <!-- step 4 -->
+    <circle cx="120" cy="810" r="46" fill="#1B5FA6"/>
+    <text x="120" y="828" text-anchor="middle" font-size="48" font-weight="bold" fill="#FFD23F">4</text>
+    <rect x="200" y="764" width="820" height="92" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="235" y="822" font-size="40" font-weight="bold" fill="#1a1a1a">기타</text>
+
+    <line x1="120" y1="856" x2="120" y2="920" stroke="#B9C9DB" stroke-width="6"/>
+    <!-- step 5 -->
+    <circle cx="120" cy="970" r="46" fill="#FFD23F"/>
+    <text x="120" y="988" text-anchor="middle" font-size="48" font-weight="bold" fill="#1B5FA6">5</text>
+    <rect x="200" y="924" width="820" height="92" rx="16" fill="#1B5FA6"/>
+    <text x="235" y="982" font-size="38" font-weight="bold" fill="#ffffff">청년월세 한시 특별지원</text>
+  </g>
+
+  <!-- 오프라인 안내 -->
+  <rect x="60" y="1070" width="960" height="150" rx="16" fill="#E9EFF7"/>
+  <text x="90" y="1128" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" font-weight="bold" fill="#243B6B">오프라인: 주소지 관할 주민센터 방문</text>
+  <text x="90" y="1178" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#5B6B7C">문의 국토교통부 044-201-3640 · 지급은 청년 본인 계좌</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">신청 전 복지로 공고로 현재 접수 상태 최종 확인</text>
+</svg>

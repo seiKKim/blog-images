@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">국토부 vs 서울시 한눈 비교</text>
+  <text x="60" y="165" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">2026 청년 월세 지원 · 완전히 다른 별개 사업</text>
+
+  <!-- 헤더 행 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="60" y="250" width="300" height="96" rx="12" fill="#243B6B"/>
+    <rect x="372" y="250" width="324" height="96" rx="12" fill="#1B5FA6"/>
+    <rect x="708" y="250" width="312" height="96" rx="12" fill="#E0556E"/>
+    <text x="210" y="310" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">구분</text>
+    <text x="534" y="310" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">국토부 특별지원</text>
+    <text x="864" y="310" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">서울시 월세지원</text>
+  </g>
+
+  <!-- 비교 행 템플릿 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="33">
+    <!-- row1 -->
+    <rect x="60"  y="360" width="300" height="150" rx="12" fill="#E9EFF7"/>
+    <rect x="372" y="360" width="324" height="150" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="708" y="360" width="312" height="150" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="210" y="443" text-anchor="middle" font-weight="bold" fill="#1a1a1a">대상 나이</text>
+    <text x="534" y="443" text-anchor="middle" font-weight="bold" fill="#1B5FA6">만 19~34세</text>
+    <text x="864" y="425" text-anchor="middle" font-weight="bold" fill="#E0556E">만 19~39세</text>
+    <text x="864" y="470" text-anchor="middle" fill="#5B6B7C" font-size="27">(제대군인 최대 42세)</text>
+
+    <!-- row2 -->
+    <rect x="60"  y="524" width="300" height="170" rx="12" fill="#E9EFF7"/>
+    <rect x="372" y="524" width="324" height="170" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="708" y="524" width="312" height="170" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="210" y="618" text-anchor="middle" font-weight="bold" fill="#1a1a1a">소득 기준</text>
+    <text x="534" y="600" text-anchor="middle" font-weight="bold" fill="#1B5FA6" font-size="30">중위 60% 이하</text>
+    <text x="534" y="640" text-anchor="middle" fill="#5B6B7C" font-size="27">+ 원가구 100% 이하</text>
+    <text x="864" y="600" text-anchor="middle" font-weight="bold" fill="#E0556E" font-size="30">중위 48% 초과</text>
+    <text x="864" y="640" text-anchor="middle" fill="#5B6B7C" font-size="27">~150% 이하</text>
+
+    <!-- row3 -->
+    <rect x="60"  y="708" width="300" height="150" rx="12" fill="#E9EFF7"/>
+    <rect x="372" y="708" width="324" height="150" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="708" y="708" width="312" height="150" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="210" y="791" text-anchor="middle" font-weight="bold" fill="#1a1a1a">지원 금액</text>
+    <text x="534" y="791" text-anchor="middle" font-weight="bold" fill="#1B5FA6">월 20만원</text>
+    <text x="864" y="791" text-anchor="middle" font-weight="bold" fill="#E0556E">월 20만원</text>
+
+    <!-- row4 -->
+    <rect x="60"  y="872" width="300" height="170" rx="12" fill="#E9EFF7"/>
+    <rect x="372" y="872" width="324" height="170" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="708" y="872" width="312" height="170" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="210" y="966" text-anchor="middle" font-weight="bold" fill="#1a1a1a">지원 기간</text>
+    <text x="534" y="948" text-anchor="middle" font-weight="bold" fill="#1B5FA6" font-size="30">최대 24개월</text>
+    <text x="534" y="988" text-anchor="middle" fill="#5B6B7C" font-size="27">총 480만원</text>
+    <text x="864" y="948" text-anchor="middle" font-weight="bold" fill="#E0556E" font-size="30">12개월 · 240만원</text>
+    <text x="864" y="988" text-anchor="middle" fill="#5B6B7C" font-size="27">생애 1회</text>
+
+    <!-- row5 -->
+    <rect x="60"  y="1056" width="300" height="150" rx="12" fill="#E9EFF7"/>
+    <rect x="372" y="1056" width="324" height="150" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="708" y="1056" width="312" height="150" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="210" y="1139" text-anchor="middle" font-weight="bold" fill="#1a1a1a">2026 신청</text>
+    <text x="534" y="1139" text-anchor="middle" font-weight="bold" fill="#1B5FA6" font-size="30">복지로 공고 확인</text>
+    <text x="864" y="1139" text-anchor="middle" font-weight="bold" fill="#E0556E" font-size="30">5/6~5/19 종료</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">신청 전 복지로(bokjiro.go.kr)·서울주거포털 공식 공고 최종 확인</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">원룸 자취 세팅 체크리스트</text>
+  <text x="60" y="165" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">첫 자취 준비, 이 순서로 챙기면 안 빠뜨려요</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 그룹1: 필수 가전 -->
+    <rect x="60" y="250" width="960" height="320" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="250" width="960" height="72" rx="20" fill="#E9EFF7"/>
+    <rect x="60" y="290" width="960" height="32" fill="#E9EFF7"/>
+    <text x="90" y="300" font-size="36" font-weight="bold" fill="#1B5FA6">이사 첫날 필수 가전</text>
+    <text x="100" y="380" font-size="34" fill="#1a1a1a">냉장고 · 세탁기 · 전자레인지</text>
+    <text x="100" y="440" font-size="34" fill="#1a1a1a">전기밥솥 · 공유기</text>
+    <text x="100" y="500" font-size="34" fill="#1a1a1a">멀티탭 · 청소기</text>
+
+    <!-- 그룹2: 가구·패브릭 -->
+    <rect x="60" y="600" width="960" height="320" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="600" width="960" height="72" rx="20" fill="#E9EFF7"/>
+    <rect x="60" y="640" width="960" height="32" fill="#E9EFF7"/>
+    <text x="90" y="650" font-size="36" font-weight="bold" fill="#1B5FA6">가구 · 패브릭</text>
+    <text x="100" y="730" font-size="34" fill="#1a1a1a">매트리스 · 침대프레임 (첫날 필요)</text>
+    <text x="100" y="790" font-size="34" fill="#1a1a1a">이불 · 베개</text>
+    <text x="100" y="850" font-size="34" fill="#5B6B7C">행거 · 수납장 · 거울 · 탁자 (천천히)</text>
+
+    <!-- 그룹3: 소모품 -->
+    <rect x="60" y="950" width="960" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="950" width="960" height="72" rx="20" fill="#E9EFF7"/>
+    <rect x="60" y="990" width="960" height="32" fill="#E9EFF7"/>
+    <text x="90" y="1000" font-size="36" font-weight="bold" fill="#1B5FA6">생활 · 주방 · 욕실 소모품</text>
+    <text x="100" y="1080" font-size="34" fill="#1a1a1a">수건 · 세면용품 · 대야</text>
+    <text x="100" y="1140" font-size="34" fill="#1a1a1a">그릇 · 수저 · 냄비</text>
+    <text x="100" y="1200" font-size="34" fill="#1a1a1a">옷걸이 · 쓰레기봉투</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B7C">가격·조건은 시점마다 다르니 최신가로 비교하세요</text>
+</svg>

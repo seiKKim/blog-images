@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#E0556E"/>
+  <text x="60" y="90" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="50" fill="#ffffff">서울시 청년월세지원 안내</text>
+  <text x="60" y="132" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="30" fill="#FBE3E9">housing.seoul.go.kr · 100% 온라인</text>
+
+  <!-- 종료 배지 -->
+  <rect x="60" y="200" width="440" height="90" rx="18" fill="#E0556E"/>
+  <text x="90" y="258" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="40" font-weight="bold" fill="#ffffff">2026 접수 이미 종료</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34">
+    <rect x="60" y="320" width="465" height="110" rx="16" fill="#ffffff" stroke="#EFC6CF"/>
+    <text x="90" y="368" font-size="28" fill="#5B6B7C">신청 기간</text>
+    <text x="90" y="410" font-weight="bold" fill="#1a1a1a">5/6 10시 ~ 5/19 18시</text>
+
+    <rect x="555" y="320" width="465" height="110" rx="16" fill="#ffffff" stroke="#EFC6CF"/>
+    <text x="585" y="368" font-size="28" fill="#5B6B7C">선정 방식</text>
+    <text x="585" y="410" font-weight="bold" fill="#1a1a1a">소득구간별 무작위 추첨</text>
+
+    <rect x="60" y="450" width="465" height="110" rx="16" fill="#ffffff" stroke="#EFC6CF"/>
+    <text x="90" y="498" font-size="28" fill="#5B6B7C">일정</text>
+    <text x="90" y="540" font-weight="bold" fill="#1a1a1a">7월 말 심사 · 8월 말 지급</text>
+
+    <rect x="555" y="450" width="465" height="110" rx="16" fill="#ffffff" stroke="#EFC6CF"/>
+    <text x="585" y="498" font-size="28" fill="#5B6B7C">2026 확대 대상</text>
+    <text x="585" y="540" font-weight="bold" fill="#1a1a1a">총 15,000명</text>
+  </g>
+
+  <text x="60" y="640" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" fill="#5B6B7C">지원: 월 20만원 × 12개월(총 240만원) · 생애 1회</text>
+  <text x="60" y="688" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="28" fill="#5B6B7C">국토부 사업과 별개 · 대상·소득기준 다름</text>
+</svg>
