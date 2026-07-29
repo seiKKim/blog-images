@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="60" y="70" width="10" height="64" fill="#E23B3B"/>
+  <text x="90" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">최종 표결 결과</text>
+  <text x="90" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#B9C2CC">2026.7.14 최저임금위 제14차 전원회의</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 근로자위원안 -->
+    <rect x="60" y="280" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="360" font-size="46" font-weight="bold" fill="#1a1a1a">근로자위원안</text>
+    <text x="100" y="450" font-size="86" font-weight="bold" fill="#5B6B7C">10,730원</text>
+    <rect x="720" y="330" width="240" height="130" rx="16" fill="#EEF2F7"/>
+    <text x="840" y="400" font-size="40" fill="#5B6B7C" text-anchor="middle">득표</text>
+    <text x="840" y="450" font-size="52" font-weight="bold" fill="#5B6B7C" text-anchor="middle">11표</text>
+
+    <!-- VS -->
+    <circle cx="540" cy="560" r="52" fill="#E23B3B"/>
+    <text x="540" y="578" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">VS</text>
+
+    <!-- 사용자위원안 (채택) -->
+    <rect x="60" y="610" width="960" height="250" rx="20" fill="#2B2F36"/>
+    <rect x="100" y="640" rx="24" ry="24" width="220" height="52" fill="#FFD23F"/>
+    <text x="210" y="678" font-size="34" font-weight="bold" fill="#2B2F36" text-anchor="middle">채택 ✓</text>
+    <text x="100" y="760" font-size="46" font-weight="bold" fill="#ffffff">사용자위원안</text>
+    <text x="100" y="835" font-size="86" font-weight="bold" fill="#FFD23F">10,700원</text>
+    <rect x="720" y="700" width="240" height="130" rx="16" fill="#E23B3B"/>
+    <text x="840" y="770" font-size="40" fill="#ffffff" text-anchor="middle">득표</text>
+    <text x="840" y="820" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">15표</text>
+
+    <!-- 요약 -->
+    <rect x="60" y="900" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="965" font-size="42" font-weight="bold" fill="#1a1a1a">두 안의 격차는 단 <tspan fill="#E23B3B">30원</tspan></text>
+    <text x="100" y="1020" font-size="36" fill="#5B6B7C">재적 27명 전원 투표 · 무효 1표</text>
+  </g>
+
+  <!-- 참고 문구 -->
+  <text x="60" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#8A97A6">※ 최초 요구안(노 12,000 · 경 10,320)과는 다른 최종 표결안</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 최저임금위원회 제14차 전원회의 표결 결과</text>
+</svg>

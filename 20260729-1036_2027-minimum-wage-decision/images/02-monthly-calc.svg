@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="60" y="70" width="10" height="64" fill="#E23B3B"/>
+  <text x="90" y="125" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">월급 환산 (주휴 포함)</text>
+
+  <!-- 계산 카드들 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 시급 -->
+    <rect x="60" y="280" width="960" height="130" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="362" font-size="46" font-weight="bold" fill="#1a1a1a">시급</text>
+    <text x="980" y="362" font-size="52" font-weight="bold" fill="#2B2F36" text-anchor="end">10,700원</text>
+
+    <!-- 곱하기 -->
+    <text x="540" y="470" font-size="54" font-weight="bold" fill="#E23B3B" text-anchor="middle">×</text>
+
+    <!-- 월 소정근로시간 -->
+    <rect x="60" y="500" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="570" font-size="46" font-weight="bold" fill="#1a1a1a">월 소정근로시간</text>
+    <text x="100" y="620" font-size="34" fill="#5B6B7C">주 40시간 + 주휴시간</text>
+    <text x="980" y="595" font-size="52" font-weight="bold" fill="#2B2F36" text-anchor="end">209시간</text>
+
+    <!-- 등호 -->
+    <text x="540" y="720" font-size="54" font-weight="bold" fill="#E23B3B" text-anchor="middle">=</text>
+
+    <!-- 월 환산액 강조 -->
+    <rect x="60" y="750" width="960" height="180" rx="16" fill="#2B2F36"/>
+    <text x="100" y="835" font-size="48" font-weight="bold" fill="#ffffff">월 환산액</text>
+    <text x="100" y="890" font-size="32" fill="#E8EEF5">주휴수당 포함 · 세전 기준</text>
+    <text x="980" y="870" font-size="72" font-weight="bold" fill="#FFD23F" text-anchor="end">2,236,300원</text>
+
+    <!-- 연봉 참고 -->
+    <rect x="60" y="960" width="960" height="120" rx="16" fill="#EEF2F7" stroke="#D6E0EC"/>
+    <text x="100" y="1035" font-size="42" font-weight="bold" fill="#5B6B7C">연봉 환산 (참고)</text>
+    <text x="980" y="1035" font-size="48" font-weight="bold" fill="#5B6B7C" text-anchor="end">약 26,835,600원</text>
+  </g>
+
+  <!-- 참고 문구 -->
+  <text x="60" y="1160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#8A97A6">※ 연봉·실수령은 조건에 따라 달라지는 참고·예시 수치</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 고용노동부·최저임금위원회 보도자료 기준</text>
+</svg>
