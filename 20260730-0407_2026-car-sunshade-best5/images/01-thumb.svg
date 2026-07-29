@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F0932B"/>
+      <stop offset="1" stop-color="#C9531B"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFF3B0"/>
+      <stop offset="1" stop-color="#FFD23F"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+
+  <!-- 태양 + 열기선 -->
+  <circle cx="890" cy="215" r="150" fill="url(#sun)" opacity="0.95"/>
+  <g stroke="#FFE98A" stroke-width="12" stroke-linecap="round" opacity="0.8">
+    <line x1="890" y1="20" x2="890" y2="60"/>
+    <line x1="1050" y1="215" x2="1010" y2="215"/>
+    <line x1="1000" y1="105" x2="972" y2="133"/>
+    <line x1="1000" y1="325" x2="972" y2="297"/>
+    <line x1="780" y1="105" x2="808" y2="133"/>
+  </g>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="340" height="68" fill="#FFD23F"/>
+  <text x="250" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">여름 폭염 차량관리</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#FFF3D6">54년만 폭염, 찜통차 대비!</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="510" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="118" fill="#ffffff">차량 햇빛가리개</text>
+  <text x="80" y="668" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="150" fill="#FFD23F">추천 BEST 5</text>
+
+  <!-- 자동차 실루엣 + 앞유리 가리개 -->
+  <g transform="translate(80,760)">
+    <rect x="0" y="70" rx="30" width="920" height="150" fill="#2B2F36" opacity="0.22"/>
+    <path d="M120 150 L200 78 Q210 70 225 70 L440 70 Q460 70 475 88 L540 150 Z"
+          fill="#ffffff" opacity="0.30"/>
+    <text x="230" y="130" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+          font-size="46" fill="#ffffff">유형별 비교 · 고르는 법 · 가격대</text>
+  </g>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1015" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#FFF3D6" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

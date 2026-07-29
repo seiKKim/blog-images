@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">종류별 실내온도 저감효과</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#FFE1C7">독일 ADAC 실험 · 무보호 대비</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 헤더 -->
+    <rect x="60" y="255" width="960" height="80" rx="12" fill="#E8722C"/>
+    <text x="95" y="308" font-weight="bold" font-size="36" fill="#ffffff">종류</text>
+    <text x="640" y="308" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="middle">실내온도</text>
+    <text x="1000" y="308" font-weight="bold" font-size="36" fill="#ffffff" text-anchor="end">무보호 대비</text>
+
+    <!-- 외부 하프 커버 -->
+    <rect x="60" y="350" width="960" height="130" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="428" font-weight="bold" font-size="42" fill="#1a1a1a">외부 하프 커버</text>
+    <text x="640" y="428" font-weight="bold" font-size="42" fill="#5B4636" text-anchor="middle">43℃</text>
+    <text x="1000" y="428" font-weight="bold" font-size="48" fill="#1F8A53" text-anchor="end">-10℃</text>
+
+    <!-- 외부 반사 필름 -->
+    <rect x="60" y="495" width="960" height="130" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="573" font-weight="bold" font-size="42" fill="#1a1a1a">외부 반사 필름</text>
+    <text x="640" y="573" font-weight="bold" font-size="42" fill="#5B4636" text-anchor="middle">45℃</text>
+    <text x="1000" y="573" font-weight="bold" font-size="48" fill="#1F8A53" text-anchor="end">-8℃</text>
+
+    <!-- 실내 아코디언식 -->
+    <rect x="60" y="640" width="960" height="130" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="718" font-weight="bold" font-size="42" fill="#1a1a1a">실내 아코디언식</text>
+    <text x="640" y="718" font-weight="bold" font-size="42" fill="#5B4636" text-anchor="middle">49℃</text>
+    <text x="1000" y="718" font-weight="bold" font-size="48" fill="#E8722C" text-anchor="end">-4℃</text>
+
+    <!-- 흰천/수건 -->
+    <rect x="60" y="785" width="960" height="130" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="863" font-weight="bold" font-size="42" fill="#1a1a1a">흰천 / 수건</text>
+    <text x="640" y="863" font-weight="bold" font-size="42" fill="#5B4636" text-anchor="middle">50℃</text>
+    <text x="1000" y="863" font-weight="bold" font-size="48" fill="#9AA4AF" text-anchor="end">-0℃</text>
+  </g>
+
+  <!-- 핵심 포인트 -->
+  <rect x="60" y="955" width="960" height="255" rx="22" fill="#FFF0DF" stroke="#E8722C" stroke-width="3"/>
+  <text x="95" y="1030" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#C9531B">핵심은 공기온도가 아니라 직사광 차단!</text>
+  <text x="95" y="1105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a">스티어링휠(핸들) 표면온도</text>
+  <text x="1000" y="1105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#E23B3B" text-anchor="end">최대 -26℃</text>
+  <text x="95" y="1170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#5B4636">열손상·눈부심·체감 열기를 확실히 줄여줍니다</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0E2D2"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8A6A50">출처: 독일 ADAC 실험 (측정 조건에 따라 범위가 다름)</text>
+</svg>

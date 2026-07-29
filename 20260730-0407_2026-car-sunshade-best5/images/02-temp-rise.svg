@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">폭염철 찜통차, 얼마나 뜨거워지나</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#FFE1C7">외부기온 30℃, 직사광선 야외주차 기준</text>
+
+  <!-- 온도 상승 막대 그래프 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 10분 -->
+    <text x="60" y="360" font-weight="bold" font-size="46" fill="#1a1a1a">10분 경과</text>
+    <rect x="60" y="385" width="620" height="90" rx="14" fill="#FFD9B8"/>
+    <rect x="60" y="385" width="380" height="90" rx="14" fill="#F0932B"/>
+    <text x="470" y="446" font-weight="bold" font-size="48" fill="#ffffff">40~50℃</text>
+
+    <!-- 90분 이상 -->
+    <text x="60" y="580" font-weight="bold" font-size="46" fill="#1a1a1a">장시간 방치</text>
+    <rect x="60" y="605" width="960" height="90" rx="14" fill="#FFD9B8"/>
+    <rect x="60" y="605" width="800" height="90" rx="14" fill="#D2481B"/>
+    <text x="640" y="666" font-weight="bold" font-size="48" fill="#ffffff">실내 60℃ 초과</text>
+
+    <!-- 표면온도 강조 박스 -->
+    <rect x="60" y="770" width="960" height="290" rx="22" fill="#ffffff" stroke="#E8722C" stroke-width="3"/>
+    <text x="100" y="850" font-weight="bold" font-size="42" fill="#C9531B">직사광선 받는 표면은 더 뜨겁다</text>
+
+    <text x="100" y="945" font-weight="bold" font-size="44" fill="#1a1a1a">대시보드 표면</text>
+    <text x="1000" y="945" font-weight="bold" font-size="52" fill="#E8722C" text-anchor="end">80℃ 이상</text>
+
+    <text x="100" y="1025" font-weight="bold" font-size="44" fill="#1a1a1a">핸들·대시보드(ADAC)</text>
+    <text x="1000" y="1025" font-weight="bold" font-size="52" fill="#E8722C" text-anchor="end">70℃ 넘음</text>
+  </g>
+
+  <!-- 포인트 문구 -->
+  <rect x="60" y="1095" width="960" height="115" rx="18" fill="#FFF0DF"/>
+  <text x="90" y="1148" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#C9531B">핸들 잡기 어렵고 대시보드가 갈라지는 게</text>
+  <text x="90" y="1195" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#C9531B">폭염철 실차 현실입니다</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0E2D2"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8A6A50">측정 조건에 따라 범위가 다름 · 독일 ADAC 등</text>
+</svg>

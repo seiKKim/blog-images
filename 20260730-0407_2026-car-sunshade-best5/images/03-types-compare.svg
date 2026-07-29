@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">유형별 BEST 5 한눈 비교</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#FFE1C7">유형 · 가격대 · 추천 대상</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 헤더행 -->
+    <rect x="60" y="250" width="960" height="80" rx="12" fill="#E8722C"/>
+    <text x="95" y="303" font-weight="bold" font-size="34" fill="#ffffff">유형</text>
+    <text x="560" y="303" font-weight="bold" font-size="34" fill="#ffffff" text-anchor="middle">가격대</text>
+    <text x="1000" y="303" font-weight="bold" font-size="34" fill="#ffffff" text-anchor="end">추천 대상</text>
+
+    <!-- BEST 1 -->
+    <rect x="60" y="345" width="960" height="165" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="415" font-weight="bold" font-size="40" fill="#1a1a1a">1. 전면 자동 우산형</text>
+    <text x="95" y="470" font-weight="bold" font-size="40" fill="#E8722C">8,000~15,000원</text>
+    <text x="1000" y="443" font-weight="bold" font-size="36" fill="#5B4636" text-anchor="end">매일 야외주차·빠른 탈착</text>
+
+    <!-- BEST 2 -->
+    <rect x="60" y="525" width="960" height="165" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="595" font-weight="bold" font-size="40" fill="#1a1a1a">2. 아코디언 은박형</text>
+    <text x="95" y="650" font-weight="bold" font-size="40" fill="#E8722C">5,000~15,000원</text>
+    <text x="1000" y="623" font-weight="bold" font-size="36" fill="#5B4636" text-anchor="end">가성비 입문·보조용</text>
+
+    <!-- BEST 3 -->
+    <rect x="60" y="705" width="960" height="165" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="775" font-weight="bold" font-size="40" fill="#1a1a1a">3. 측면 자석 암막형</text>
+    <text x="95" y="830" font-weight="bold" font-size="40" fill="#E8722C">9,900~13,000원</text>
+    <text x="1000" y="803" font-weight="bold" font-size="36" fill="#5B4636" text-anchor="end">뒷좌석 아이·카시트</text>
+
+    <!-- BEST 4 -->
+    <rect x="60" y="885" width="960" height="165" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="955" font-weight="bold" font-size="40" fill="#1a1a1a">4. 롤러·정전기 흡착형</text>
+    <text x="95" y="1010" font-weight="bold" font-size="40" fill="#E8722C">5,000~15,000원</text>
+    <text x="1000" y="983" font-weight="bold" font-size="36" fill="#5B4636" text-anchor="end">붙여두고 상시 사용</text>
+
+    <!-- BEST 5 -->
+    <rect x="60" y="1065" width="960" height="165" rx="16" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="1135" font-weight="bold" font-size="40" fill="#1a1a1a">5. 전좌석 풀세트</text>
+    <text x="95" y="1190" font-weight="bold" font-size="40" fill="#E8722C">9,000~25,000원</text>
+    <text x="1000" y="1163" font-weight="bold" font-size="36" fill="#5B4636" text-anchor="end">가족차·장거리·차박</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0E2D2"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8A6A50">가격·구성·차종 호환은 시점마다 달라질 수 있음</text>
+</svg>

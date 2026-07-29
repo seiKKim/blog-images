@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">상황별 추천 정리</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#FFE1C7">내 생활 패턴에 맞는 유형 고르기</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 항목 1 -->
+    <rect x="60" y="255" width="960" height="180" rx="18" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="325" font-weight="normal" font-size="38" fill="#5B4636">매일 야외주차·빠른 탈착이 최우선</text>
+    <text x="95" y="395" font-weight="bold" font-size="46" fill="#E8722C">→ 전면 자동 우산형</text>
+
+    <!-- 항목 2 -->
+    <rect x="60" y="450" width="960" height="180" rx="18" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="520" font-weight="normal" font-size="38" fill="#5B4636">가성비 좋게 입문·보조용으로</text>
+    <text x="95" y="590" font-weight="bold" font-size="46" fill="#E8722C">→ 전면 아코디언 은박형</text>
+
+    <!-- 항목 3 -->
+    <rect x="60" y="645" width="960" height="180" rx="18" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="715" font-weight="normal" font-size="38" fill="#5B4636">뒷좌석 아이·카시트 측면 차광</text>
+    <text x="95" y="785" font-weight="bold" font-size="46" fill="#E8722C">→ 측면 자석 암막 커튼형</text>
+
+    <!-- 항목 4 -->
+    <rect x="60" y="840" width="960" height="180" rx="18" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="910" font-weight="normal" font-size="38" fill="#5B4636">탈착 귀찮고 붙여두고 쓰고 싶다면</text>
+    <text x="95" y="980" font-weight="bold" font-size="46" fill="#E8722C">→ 측면 롤러·정전기 흡착형</text>
+
+    <!-- 항목 5 -->
+    <rect x="60" y="1035" width="960" height="180" rx="18" fill="#ffffff" stroke="#EAD8C6"/>
+    <text x="95" y="1105" font-weight="normal" font-size="38" fill="#5B4636">가족·장거리·차박, 전체 차광</text>
+    <text x="95" y="1175" font-weight="bold" font-size="46" fill="#E8722C">→ 전좌석 풀세트</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#F0E2D2"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8A6A50">매일 부담 없이 쓸 수 있는 유형이 가장 좋은 제품</text>
+</svg>
