@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">만기 후 연금이전 절세</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">하반기 절세의 핵심</text>
+
+  <!-- 흐름 단계 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="140" y="270" width="800" height="120" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="540" y="330" font-size="42" font-weight="bold" fill="#243B6B" text-anchor="middle">ISA 만기(해지)</text>
+    <text x="540" y="372" font-size="30" fill="#5B6B7C" text-anchor="middle">의무 3년 채운 뒤</text>
+
+    <text x="540" y="440" font-size="52" fill="#243B6B" text-anchor="middle">&#8595;</text>
+
+    <rect x="140" y="460" width="800" height="120" rx="18" fill="#FFD23F"/>
+    <text x="540" y="520" font-size="46" font-weight="bold" fill="#243B6B" text-anchor="middle">60일 이내 이전</text>
+    <text x="540" y="562" font-size="30" fill="#243B6B" text-anchor="middle">기한 넘기면 추가공제 소멸</text>
+
+    <text x="540" y="630" font-size="52" fill="#243B6B" text-anchor="middle">&#8595;</text>
+
+    <rect x="140" y="650" width="800" height="120" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="540" y="710" font-size="42" font-weight="bold" fill="#243B6B" text-anchor="middle">연금저축 / IRP 이전</text>
+    <text x="540" y="752" font-size="30" fill="#5B6B7C" text-anchor="middle">이전액의 10%, 최대 300만원 공제한도</text>
+
+    <text x="540" y="820" font-size="52" fill="#243B6B" text-anchor="middle">&#8595;</text>
+
+    <rect x="140" y="840" width="800" height="150" rx="18" fill="#243B6B"/>
+    <text x="540" y="905" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle">추가 세액공제 한도</text>
+    <text x="540" y="965" font-size="60" font-weight="bold" fill="#FFD23F" text-anchor="middle">최대 300만원</text>
+  </g>
+
+  <!-- 환급 예시 -->
+  <rect x="60" y="1030" width="450" height="200" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="285" y="1090" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">총급여 5,500만원 이하</text>
+  <text x="285" y="1155" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="52" fill="#1F8A53" text-anchor="middle">약 49.5만원</text>
+  <text x="285" y="1200" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">환급 (16.5%)</text>
+
+  <rect x="570" y="1030" width="450" height="200" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="795" y="1090" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">총급여 5,500만원 초과</text>
+  <text x="795" y="1155" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="52" fill="#1F8A53" text-anchor="middle">약 39.6만원</text>
+  <text x="795" y="1200" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C" text-anchor="middle">환급 (13.2%)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">만기 후 60일 기한 관리가 실전 포인트</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">누구에게 유리할까?</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">이런 분께 유리 · 이런 점 주의</text>
+
+  <!-- 유리 컬럼 -->
+  <rect x="60" y="250" width="960" height="470" rx="24" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+  <rect x="60" y="250" width="960" height="90" rx="24" fill="#1F8A53"/>
+  <rect x="60" y="300" width="960" height="40" fill="#1F8A53"/>
+  <text x="100" y="312" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#ffffff">이런 분께 유리</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#1a1a1a">
+    <text x="100" y="410">&#10003; 금융소득 많아 종합과세·건보료 걱정</text>
+    <text x="100" y="470">&#10003; 예금·펀드·ETF·주식 한 계좌 운용</text>
+    <text x="100" y="530">&#10003; 3년 이상 중장기 자금 운용 가능</text>
+    <text x="100" y="590">&#10003; 연말정산 세액공제 노리는 직장인</text>
+    <text x="100" y="650">&#10003; 총급여 5,000만원 이하(서민형 400만)</text>
+  </g>
+
+  <!-- 주의 컬럼 -->
+  <rect x="60" y="750" width="960" height="470" rx="24" fill="#ffffff" stroke="#E23B3B" stroke-width="3"/>
+  <rect x="60" y="750" width="960" height="90" rx="24" fill="#E23B3B"/>
+  <rect x="60" y="800" width="960" height="40" fill="#E23B3B"/>
+  <text x="100" y="812" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#ffffff">이런 점은 주의</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#1a1a1a">
+    <text x="100" y="910">&#33; 투자상품 원금손실은 투자자 책임</text>
+    <text x="100" y="970">&#33; 중개형 주식 등 예금자보호 대상 아님</text>
+    <text x="100" y="1030">&#33; 3년 전 해지 시 세제 혜택 추징</text>
+    <text x="100" y="1090">&#33; 중도인출 규칙이 상품별로 복잡</text>
+    <text x="100" y="1150">&#33; 급전 성격 자금은 부적합</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">3년 이상 여유자금으로 시작하는 게 안전</text>
+</svg>

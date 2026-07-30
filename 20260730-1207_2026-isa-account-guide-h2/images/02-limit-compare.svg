@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">ISA 한도, 현행 vs 추진안</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F">2026년 7월 현재 기준</text>
+
+  <!-- 컬럼 헤더 -->
+  <rect x="60" y="250" width="470" height="90" rx="16" fill="#243B6B"/>
+  <text x="295" y="310" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff" text-anchor="middle">현행 (시행 중)</text>
+  <rect x="550" y="250" width="470" height="90" rx="16" fill="#B9C3D6"/>
+  <text x="785" y="310" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#243B6B" text-anchor="middle">추진안 (미확정)</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 연 납입한도 -->
+    <text x="60" y="410" font-size="34" font-weight="bold" fill="#5B6B7C">연 납입한도</text>
+    <rect x="60" y="430" width="470" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="295" y="508" font-size="60" font-weight="bold" fill="#243B6B" text-anchor="middle">2,000만원</text>
+    <rect x="550" y="430" width="470" height="120" rx="16" fill="#EEF1F7" stroke="#D6E0EC"/>
+    <text x="785" y="508" font-size="60" font-weight="bold" fill="#9AA6BC" text-anchor="middle">4,000만원</text>
+
+    <!-- 총 한도 -->
+    <text x="60" y="610" font-size="34" font-weight="bold" fill="#5B6B7C">총(누적) 한도</text>
+    <rect x="60" y="630" width="470" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="295" y="708" font-size="60" font-weight="bold" fill="#243B6B" text-anchor="middle">1억원</text>
+    <rect x="550" y="630" width="470" height="120" rx="16" fill="#EEF1F7" stroke="#D6E0EC"/>
+    <text x="785" y="708" font-size="60" font-weight="bold" fill="#9AA6BC" text-anchor="middle">2억원</text>
+
+    <!-- 비과세 일반형 -->
+    <text x="60" y="810" font-size="34" font-weight="bold" fill="#5B6B7C">비과세 · 일반형</text>
+    <rect x="60" y="830" width="470" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="295" y="908" font-size="60" font-weight="bold" fill="#243B6B" text-anchor="middle">200만원</text>
+    <rect x="550" y="830" width="470" height="120" rx="16" fill="#EEF1F7" stroke="#D6E0EC"/>
+    <text x="785" y="908" font-size="60" font-weight="bold" fill="#9AA6BC" text-anchor="middle">500만원</text>
+
+    <!-- 비과세 서민형 -->
+    <text x="60" y="1010" font-size="34" font-weight="bold" fill="#5B6B7C">비과세 · 서민형</text>
+    <rect x="60" y="1030" width="470" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="295" y="1108" font-size="60" font-weight="bold" fill="#243B6B" text-anchor="middle">400만원</text>
+    <rect x="550" y="1030" width="470" height="120" rx="16" fill="#EEF1F7" stroke="#D6E0EC"/>
+    <text x="785" y="1108" font-size="60" font-weight="bold" fill="#9AA6BC" text-anchor="middle">1,000만원</text>
+  </g>
+
+  <!-- 경고 배너 -->
+  <rect x="60" y="1180" width="960" height="70" rx="16" fill="#FFD23F"/>
+  <text x="540" y="1226" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#243B6B" text-anchor="middle">추진안은 국회 미통과 · 아직 미확정</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">2025.12 국회 통과 세법에 ISA 한도 상향 미포함(현행 유지)</text>
+</svg>

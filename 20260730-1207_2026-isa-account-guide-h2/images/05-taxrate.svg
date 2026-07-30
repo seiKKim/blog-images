@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">세율, 15.4% vs 9.9%</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">비과세 한도 초과분 기준</text>
+
+  <!-- 일반계좌 카드 -->
+  <rect x="60" y="270" width="450" height="560" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="285" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#5B6B7C" text-anchor="middle">일반계좌</text>
+  <text x="285" y="520" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#E23B3B" text-anchor="middle">15.4%</text>
+  <text x="285" y="590" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#5B6B7C" text-anchor="middle">이자·배당 원천징수</text>
+  <rect x="90" y="650" width="390" height="150" rx="16" fill="#F4F7FB"/>
+  <text x="285" y="710" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#E23B3B" text-anchor="middle">금융소득 2,000만원</text>
+  <text x="285" y="755" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#E23B3B" text-anchor="middle">초과 시 종합과세</text>
+
+  <!-- ISA 카드 -->
+  <rect x="570" y="270" width="450" height="560" rx="24" fill="#243B6B"/>
+  <text x="795" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#FFD23F" text-anchor="middle">ISA 계좌</text>
+  <text x="795" y="520" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#ffffff" text-anchor="middle">9.9%</text>
+  <text x="795" y="590" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#E8EEF5" text-anchor="middle">저율 분리과세</text>
+  <rect x="600" y="650" width="390" height="150" rx="16" fill="#ffffff" opacity="0.14"/>
+  <text x="795" y="710" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#FFD23F" text-anchor="middle">금융소득</text>
+  <text x="795" y="755" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#FFD23F" text-anchor="middle">종합과세 합산 배제</text>
+
+  <!-- 비과세 한도 안내 -->
+  <rect x="60" y="880" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="540" y="945" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#243B6B" text-anchor="middle">비과세 한도(순이익)</text>
+  <text x="300" y="1015" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1a1a1a" text-anchor="middle">일반형 200만원</text>
+  <text x="780" y="1015" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1F8A53" text-anchor="middle">서민형 400만원</text>
+
+  <rect x="60" y="1100" width="960" height="120" rx="20" fill="#FFD23F"/>
+  <text x="540" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#243B6B" text-anchor="middle">한도 초과분만 9.9% 분리과세</text>
+  <text x="540" y="1198" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="30" fill="#243B6B" text-anchor="middle">(소득세 9% + 지방세 0.9%)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">ISA 이익은 금융소득종합과세 합산에서 제외</text>
+</svg>

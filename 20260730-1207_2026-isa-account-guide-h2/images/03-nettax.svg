@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">손익통산, 뭐가 다를까?</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">이익 100만 · 손실 40만인 경우</text>
+
+  <!-- 일반계좌 -->
+  <rect x="60" y="260" width="960" height="440" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="260" width="960" height="86" rx="24" fill="#B9C3D6"/>
+  <rect x="60" y="310" width="960" height="36" fill="#B9C3D6"/>
+  <text x="100" y="320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#243B6B">일반계좌</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" fill="#1a1a1a">
+    <text x="100" y="430">이익 상품</text>
+    <text x="980" y="430" font-weight="bold" text-anchor="end" fill="#243B6B">+100만원</text>
+    <text x="100" y="500">손실 상품</text>
+    <text x="980" y="500" font-weight="bold" text-anchor="end" fill="#9AA6BC">상계 안 됨</text>
+    <line x1="100" y1="540" x2="980" y2="540" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="620" font-weight="bold" font-size="46">과세 대상</text>
+    <text x="980" y="620" font-weight="bold" font-size="52" text-anchor="end" fill="#E23B3B">100만원 전체</text>
+  </g>
+
+  <!-- ISA -->
+  <rect x="60" y="740" width="960" height="440" rx="24" fill="#ffffff" stroke="#243B6B" stroke-width="3"/>
+  <rect x="60" y="740" width="960" height="86" rx="24" fill="#243B6B"/>
+  <rect x="60" y="790" width="960" height="36" fill="#243B6B"/>
+  <text x="100" y="800" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">ISA 계좌</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" fill="#1a1a1a">
+    <text x="100" y="910">이익 상품</text>
+    <text x="980" y="910" font-weight="bold" text-anchor="end" fill="#243B6B">+100만원</text>
+    <text x="100" y="980">손실 상품</text>
+    <text x="980" y="980" font-weight="bold" text-anchor="end" fill="#E23B3B">-40만원</text>
+    <line x1="100" y1="1020" x2="980" y2="1020" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="100" y="1100" font-weight="bold" font-size="46">순이익만 과세</text>
+    <text x="980" y="1100" font-weight="bold" font-size="52" text-anchor="end" fill="#1F8A53">60만원</text>
+  </g>
+
+  <rect x="60" y="1210" width="960" height="46" rx="14" fill="#FFD23F"/>
+  <text x="540" y="1245" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#243B6B" text-anchor="middle">순이익이 없으면 세금도 없다</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">ISA는 계좌 내 이익·손실을 상계한 순이익만 과세</text>
+</svg>

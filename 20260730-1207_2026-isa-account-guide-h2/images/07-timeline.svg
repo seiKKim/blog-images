@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">2026 한도 상향 팩트체크</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFD23F">현행 유지 vs 재추진 예정</text>
+
+  <!-- 타임라인 세로선 -->
+  <line x1="150" y1="290" x2="150" y2="1120" stroke="#B9C3D6" stroke-width="6"/>
+
+  <!-- 2024 -->
+  <circle cx="150" cy="360" r="26" fill="#9AA6BC"/>
+  <rect x="210" y="300" width="810" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="250" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#243B6B">2024년</text>
+  <text x="250" y="410" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">한도 상향안 발표 &#8594; 국회 통과 불발</text>
+
+  <!-- 2025.12 -->
+  <circle cx="150" cy="620" r="26" fill="#243B6B"/>
+  <rect x="210" y="510" width="810" height="230" rx="18" fill="#ffffff" stroke="#243B6B" stroke-width="3"/>
+  <text x="250" y="575" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#243B6B">2025.12.2 국회 본회의</text>
+  <text x="250" y="630" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">세법개정안 의결 &#8212; ISA 한도 상향</text>
+  <text x="250" y="675" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#E23B3B">미포함 (현행 유지 확정)</text>
+  <text x="250" y="720" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">편입상품 명확화 등 기술적 조정만 통과</text>
+
+  <!-- 2026.07 현재 -->
+  <circle cx="150" cy="850" r="26" fill="#FFD23F" stroke="#243B6B" stroke-width="4"/>
+  <rect x="210" y="790" width="810" height="150" rx="18" fill="#FFD23F"/>
+  <text x="250" y="850" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#243B6B">2026.7 현재</text>
+  <text x="250" y="900" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#243B6B">연 2,000만원 · 총 1억 · 비과세 200/400만원</text>
+
+  <!-- 2026 재추진 -->
+  <circle cx="150" cy="1060" r="26" fill="#9AA6BC"/>
+  <rect x="210" y="1000" width="810" height="150" rx="18" fill="#EEF1F7" stroke="#D6E0EC" stroke-width="2"/>
+  <text x="250" y="1060" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#9AA6BC">2026 세법개정</text>
+  <text x="250" y="1110" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">상향안 본격 재추진 예정 (미확정)</text>
+
+  <rect x="60" y="1180" width="960" height="70" rx="16" fill="#243B6B"/>
+  <text x="540" y="1226" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#ffffff" text-anchor="middle">"자동 4,000만원 적용"은 사실과 다름</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">상향은 국회 통과로 확정 &#8212; 아직 그 단계 아님</text>
+</svg>
