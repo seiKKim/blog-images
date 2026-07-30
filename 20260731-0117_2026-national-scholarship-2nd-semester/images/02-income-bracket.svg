@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="60" y="52" rx="30" ry="30" width="150" height="60" fill="#FFD23F"/>
+  <text x="135" y="94" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#154C86" text-anchor="middle">경곗값</text>
+  <text x="240" y="98" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#ffffff">소득분위(지원구간)</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">월 소득인정액 이하 · 기준중위소득 %</text>
+
+  <!-- 막대그래프: 9개 구간, x축 라벨 아래 -->
+  <!-- 기준선 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 각 막대. 최대값(9구간 19,484,214)을 기준으로 높이 스케일. 최대 막대 높이 620px -->
+    <!-- baseY = 1100, 라벨은 그 아래 -->
+    <!-- 1구간 1,948,421 -> 62 -->
+    <rect x="70"  y="1038" width="88" height="62"  rx="8" fill="#9DBBD8"/>
+    <!-- 2구간 3,247,369 -> 103 -->
+    <rect x="178" y="997"  width="88" height="103" rx="8" fill="#9DBBD8"/>
+    <!-- 3구간 4,546,317 -> 145 -->
+    <rect x="286" y="955"  width="88" height="145" rx="8" fill="#9DBBD8"/>
+    <!-- 4구간 5,845,264 -> 186 -->
+    <rect x="394" y="914"  width="88" height="186" rx="8" fill="#6F9BCB"/>
+    <!-- 5구간 6,494,738 -> 207 -->
+    <rect x="502" y="893"  width="88" height="207" rx="8" fill="#6F9BCB"/>
+    <!-- 6구간 8,443,559 -> 269 -->
+    <rect x="610" y="831"  width="88" height="269" rx="8" fill="#6F9BCB"/>
+    <!-- 7구간 9,742,107 -> 310 -->
+    <rect x="718" y="790"  width="88" height="310" rx="8" fill="#3E7BB6"/>
+    <!-- 8구간 12,989,476 -> 413  강조 -->
+    <rect x="826" y="687"  width="88" height="413" rx="8" fill="#E8722C"/>
+    <!-- 9구간 19,484,214 -> 620 -->
+    <rect x="934" y="480"  width="88" height="620" rx="8" fill="#3E7BB6"/>
+
+    <!-- 값 라벨(만원 단위 반올림 표시는 정확성 위해 생략, 대신 % 표기) -->
+    <g font-size="26" fill="#5B6B7C" text-anchor="middle" font-weight="bold">
+      <text x="114" y="1018">30%</text>
+      <text x="222" y="977">50%</text>
+      <text x="330" y="935">70%</text>
+      <text x="438" y="894">90%</text>
+      <text x="546" y="873">100%</text>
+      <text x="654" y="811">130%</text>
+      <text x="762" y="770">150%</text>
+      <text x="870" y="667" fill="#E8722C" font-size="30">200%</text>
+      <text x="978" y="460">300%</text>
+    </g>
+
+    <!-- x축 라벨 -->
+    <line x1="60" y1="1102" x2="1030" y2="1102" stroke="#C6D3E0" stroke-width="3"/>
+    <g font-size="30" fill="#1a1a1a" text-anchor="middle" font-weight="bold">
+      <text x="114" y="1146">1구간</text>
+      <text x="222" y="1146">2구간</text>
+      <text x="330" y="1146">3구간</text>
+      <text x="438" y="1146">4구간</text>
+      <text x="546" y="1146">5구간</text>
+      <text x="654" y="1146">6구간</text>
+      <text x="762" y="1146">7구간</text>
+      <text x="870" y="1146" fill="#E8722C">8구간</text>
+      <text x="978" y="1146">9구간</text>
+    </g>
+  </g>
+
+  <!-- 8구간 강조 콜아웃 -->
+  <rect x="60" y="1188" width="960" height="72" rx="16" fill="#FDF0E4" stroke="#E8722C" stroke-width="2"/>
+  <text x="90" y="1234" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a">8구간 경곗값 월 12,989,476원(중위 200%)까지 지원 대상</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">경곗값은 유력 정리값 · 정확값은 한국장학재단(kosaf.go.kr) 확인</text>
+</svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <rect x="60" y="52" rx="30" ry="30" width="215" height="60" fill="#FFD23F"/>
+  <text x="167" y="94" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#154C86" text-anchor="middle">마감 체크</text>
+  <text x="305" y="98" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#ffffff">놓치기 쉬운 마감일</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5">2차 신청 기준 (유력값) · 9월 캘린더</text>
+
+  <!-- 두 개의 날짜 카드 -->
+  <!-- 학생신청 마감 -->
+  <rect x="60" y="250" width="460" height="330" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="250" width="460" height="90" rx="24" fill="#1B5FA6"/>
+  <rect x="60" y="300" width="460" height="40" fill="#1B5FA6"/>
+  <text x="290" y="312" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#ffffff" text-anchor="middle">학생 신청 마감</text>
+  <text x="290" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#1B5FA6" text-anchor="middle">9/9</text>
+  <text x="290" y="540" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#5B6B7C" text-anchor="middle">(수) 18:00</text>
+
+  <!-- 서류·동의 마감 (강조) -->
+  <rect x="560" y="250" width="460" height="330" rx="24" fill="#ffffff" stroke="#E8722C" stroke-width="3"/>
+  <rect x="560" y="250" width="460" height="90" rx="24" fill="#E8722C"/>
+  <rect x="560" y="300" width="460" height="40" fill="#E8722C"/>
+  <text x="790" y="312" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#ffffff" text-anchor="middle">서류·가구원 동의</text>
+  <text x="790" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#E8722C" text-anchor="middle">9/16</text>
+  <text x="790" y="540" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#5B6B7C" text-anchor="middle">(수) 18:00</text>
+
+  <!-- 경고 배너 -->
+  <rect x="60" y="620" width="960" height="90" rx="16" fill="#FDF0E4" stroke="#E8722C" stroke-width="2"/>
+  <text x="540" y="678" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#E8722C" text-anchor="middle">서류·동의 마감이 신청 마감보다 늦다!</text>
+
+  <!-- 체크리스트 -->
+  <text x="60" y="790" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#154C86">자주 하는 실수</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 항목 1 -->
+    <rect x="60" y="822" width="46" height="46" rx="10" fill="#1B5FA6"/>
+    <path d="M71 845 l9 10 l16 -20" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="126" y="857" font-weight="bold" font-size="36" fill="#1a1a1a">가구원 정보제공 동의 완료했는가</text>
+
+    <rect x="60" y="892" width="46" height="46" rx="10" fill="#1B5FA6"/>
+    <path d="M71 915 l9 10 l16 -20" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="126" y="927" font-weight="bold" font-size="36" fill="#1a1a1a">신입생도 성적 없이 신청했는가</text>
+
+    <rect x="60" y="962" width="46" height="46" rx="10" fill="#1B5FA6"/>
+    <path d="M71 985 l9 10 l16 -20" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="126" y="997" font-weight="bold" font-size="36" fill="#1a1a1a">다자녀 가족관계증명서(상세) 제출했는가</text>
+
+    <rect x="60" y="1032" width="46" height="46" rx="10" fill="#1B5FA6"/>
+    <path d="M71 1055 l9 10 l16 -20" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="126" y="1067" font-weight="bold" font-size="36" fill="#1a1a1a">"신청 완료" 상태를 확인했는가</text>
+  </g>
+
+  <!-- 꿀팁 -->
+  <rect x="60" y="1122" width="960" height="120" rx="16" fill="#EAF1F9" stroke="#C6D3E0"/>
+  <text x="90" y="1178" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#154C86">가구원 동의 마감일을 캘린더에 따로 표시</text>
+  <text x="90" y="1222" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#1a1a1a">동의는 신청 직후 바로 요청하는 게 안전</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">2차 일정은 유력값 · 최종 일정 한국장학재단(kosaf.go.kr) 확인</text>
+</svg>
