@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF6F8"/>
+  <rect width="1080" height="150" fill="#E0556E"/>
+  <text x="60" y="98" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">물놀이 안전 1순위</text>
+
+  <!-- 구명조끼 O -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="200" width="460" height="440" rx="24" fill="#ffffff" stroke="#F2C6D0"/>
+    <circle cx="290" cy="300" r="60" fill="#1F8A53"/>
+    <text x="290" y="322" font-weight="bold" font-size="72" fill="#ffffff" text-anchor="middle">O</text>
+    <text x="290" y="430" font-weight="bold" font-size="52" fill="#1a1a1a" text-anchor="middle">구명조끼</text>
+    <text x="290" y="500" font-size="38" fill="#3A4A57" text-anchor="middle">만 5세 이하</text>
+    <text x="290" y="550" font-weight="bold" font-size="42" fill="#1F8A53" text-anchor="middle">착용 권장</text>
+    <text x="290" y="600" font-size="30" fill="#7A8A97" text-anchor="middle">얕은 물도 순식간에 위험</text>
+
+    <!-- 튜브 X -->
+    <rect x="560" y="200" width="460" height="440" rx="24" fill="#ffffff" stroke="#F2C6D0"/>
+    <circle cx="790" cy="300" r="60" fill="#E23B3B"/>
+    <text x="790" y="322" font-weight="bold" font-size="72" fill="#ffffff" text-anchor="middle">X</text>
+    <text x="790" y="430" font-weight="bold" font-size="52" fill="#1a1a1a" text-anchor="middle">튜브</text>
+    <text x="790" y="500" font-size="38" fill="#3A4A57" text-anchor="middle">뜨는 용도일 뿐</text>
+    <text x="790" y="550" font-weight="bold" font-size="42" fill="#E23B3B" text-anchor="middle">구명 기능 없음</text>
+    <text x="790" y="600" font-size="30" fill="#7A8A97" text-anchor="middle">구명조끼와 별도 준비</text>
+  </g>
+
+  <text x="1020" y="700" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="26" fill="#B08A94" text-anchor="end">blog.naver.com/trip_chocho</text>
+</svg>

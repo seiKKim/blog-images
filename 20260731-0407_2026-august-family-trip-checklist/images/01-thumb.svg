@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1E8BC3"/>
+      <stop offset="1" stop-color="#0E5C8A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식 도형 (물결/해) -->
+  <circle cx="930" cy="200" r="120" fill="#FFD23F" opacity="0.9"/>
+  <circle cx="120" cy="980" r="230" fill="#ffffff" opacity="0.07"/>
+  <path d="M0 900 q135 -60 270 0 t270 0 t270 0 t270 0 v180 H0 Z" fill="#ffffff" opacity="0.10"/>
+  <path d="M0 960 q135 -55 270 0 t270 0 t270 0 t270 0 v120 H0 Z" fill="#ffffff" opacity="0.12"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="330" height="68" fill="#E0556E"/>
+  <text x="245" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#ffffff" text-anchor="middle">여름 · 가족여행</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#E8F4FB">2026 8월 여름휴가</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="130" fill="#ffffff">가족여행지</text>
+  <text x="80" y="610" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="130" fill="#FFD23F">유형별 총정리</text>
+
+  <!-- 4유형 알약 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#0E5C8A" text-anchor="middle">
+    <rect x="80"  y="680" rx="26" width="200" height="86" fill="#ffffff"/><text x="180" y="736">바다</text>
+    <rect x="300" y="680" rx="26" width="200" height="86" fill="#ffffff"/><text x="400" y="736">계곡</text>
+    <rect x="520" y="680" rx="26" width="240" height="86" fill="#ffffff"/><text x="640" y="736">워터파크</text>
+    <rect x="780" y="680" rx="26" width="220" height="86" fill="#ffffff"/><text x="890" y="736">실내리조트</text>
+  </g>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="810" rx="20" ry="20" width="920" height="120" fill="#ffffff" opacity="0.16"/>
+  <text x="110" y="888" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#ffffff">8/15~8/17 3일 연휴 · 폭염 대비 준비물까지</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1010" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8F4FB" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
