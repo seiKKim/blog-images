@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1F9FA"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="200" fill="#0E7C8C"/>
+  <text x="60" y="112" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">용도별 제습기 BEST 5</text>
+  <text x="60" y="170" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#CFF3F7">내 공간엔 어떤 급이 맞을까?</text>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 1 소형 -->
+    <rect x="60" y="250" width="960" height="180" rx="20" fill="#ffffff" stroke="#CFE6E9"/>
+    <rect x="60" y="250" width="14" height="180" rx="7" fill="#3EBFCF"/>
+    <circle cx="150" cy="340" r="46" fill="#E4F4F6"/>
+    <text x="150" y="356" font-size="46" text-anchor="middle" font-weight="bold" fill="#0E7C8C">1</text>
+    <text x="230" y="322" font-size="46" font-weight="bold" fill="#22333A">소형 · 원룸/드레스룸</text>
+    <text x="230" y="382" font-size="40" fill="#3A4B52">10L급 이하 · 좁은 방 집중</text>
+
+    <!-- 2 중형 -->
+    <rect x="60" y="450" width="960" height="180" rx="20" fill="#ffffff" stroke="#CFE6E9"/>
+    <rect x="60" y="450" width="14" height="180" rx="7" fill="#3EBFCF"/>
+    <circle cx="150" cy="540" r="46" fill="#E4F4F6"/>
+    <text x="150" y="556" font-size="46" text-anchor="middle" font-weight="bold" fill="#0E7C8C">2</text>
+    <text x="230" y="522" font-size="46" font-weight="bold" fill="#22333A">중형 · 거실/방 2개</text>
+    <text x="230" y="582" font-size="40" fill="#3A4B52">16~20L급 · 15~20평대</text>
+
+    <!-- 3 대형 -->
+    <rect x="60" y="650" width="960" height="180" rx="20" fill="#ffffff" stroke="#CFE6E9"/>
+    <rect x="60" y="650" width="14" height="180" rx="7" fill="#3EBFCF"/>
+    <circle cx="150" cy="740" r="46" fill="#E4F4F6"/>
+    <text x="150" y="756" font-size="46" text-anchor="middle" font-weight="bold" fill="#0E7C8C">3</text>
+    <text x="230" y="722" font-size="46" font-weight="bold" fill="#22333A">대형 · 집 전체</text>
+    <text x="230" y="782" font-size="40" fill="#3A4B52">20L+ 인버터 · 20~30평 이상</text>
+
+    <!-- 4 저소음 -->
+    <rect x="60" y="850" width="960" height="180" rx="20" fill="#ffffff" stroke="#CFE6E9"/>
+    <rect x="60" y="850" width="14" height="180" rx="7" fill="#3EBFCF"/>
+    <circle cx="150" cy="940" r="46" fill="#E4F4F6"/>
+    <text x="150" y="956" font-size="46" text-anchor="middle" font-weight="bold" fill="#0E7C8C">4</text>
+    <text x="230" y="922" font-size="46" font-weight="bold" fill="#22333A">저소음 · 침실</text>
+    <text x="230" y="982" font-size="40" fill="#3A4B52">인버터 + 저소음 모드</text>
+
+    <!-- 5 가성비 -->
+    <rect x="60" y="1050" width="960" height="180" rx="20" fill="#ffffff" stroke="#CFE6E9"/>
+    <rect x="60" y="1050" width="14" height="180" rx="7" fill="#3EBFCF"/>
+    <circle cx="150" cy="1140" r="46" fill="#E4F4F6"/>
+    <text x="150" y="1156" font-size="46" text-anchor="middle" font-weight="bold" fill="#0E7C8C">5</text>
+    <text x="230" y="1122" font-size="46" font-weight="bold" fill="#22333A">가성비 · 예산 30만원 이하</text>
+    <text x="230" y="1182" font-size="40" fill="#3A4B52">1등급 라인 우선</text>
+  </g>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E4EFF1"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B72">정확한 용량·가격은 판매처·시점별로 확인</text>
+</svg>

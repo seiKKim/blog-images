@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E7C8C"/>
+      <stop offset="1" stop-color="#0A5E75"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 장식: 물방울/원 -->
+  <circle cx="950" cy="170" r="260" fill="#ffffff" opacity="0.07"/>
+  <circle cx="120" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+  <circle cx="880" cy="900" r="70" fill="#FFFFFF" opacity="0.10"/>
+  <circle cx="985" cy="820" r="42" fill="#FFFFFF" opacity="0.08"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="88" rx="34" ry="34" width="270" height="68" fill="#FFD23F"/>
+  <text x="215" y="134" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="36" fill="#0A5E75" text-anchor="middle">여름 습기 대비</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="288" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#CFF3F7">2026년 8월 한여름 곰팡이 대비</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="420" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="118" fill="#ffffff">제습기 추천</text>
+  <text x="80" y="558" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="150" fill="#FFD23F">BEST 5</text>
+
+  <!-- 서브 라인 -->
+  <text x="80" y="648" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">원룸 · 거실 · 침실 용량 비교</text>
+
+  <!-- 습도계 표시 박스 -->
+  <rect x="80" y="712" rx="24" ry="24" width="920" height="150" fill="#ffffff" opacity="0.14"/>
+  <circle cx="182" cy="787" r="52" fill="none" stroke="#FFD23F" stroke-width="12"/>
+  <text x="182" y="805" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="48" fill="#FFD23F" text-anchor="middle">60%</text>
+  <text x="270" y="770" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">쾌적 실내 습도 40~60%</text>
+  <text x="270" y="828" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#CFF3F7">60% 넘으면 곰팡이 번식 시작</text>
+
+  <!-- 하단 라인 + 채널 -->
+  <text x="80" y="945" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="42" fill="#FFD23F">평수 → 용량 → 소음 → 전기료까지 한눈에</text>
+  <text x="80" y="1012" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="32" fill="#CFF3F7" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

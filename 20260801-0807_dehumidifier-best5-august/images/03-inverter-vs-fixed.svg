@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F1F9FA"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="200" fill="#0E7C8C"/>
+  <text x="60" y="112" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">인버터형 vs 정속형</text>
+  <text x="60" y="170" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="38" fill="#CFF3F7">전기료 · 소음 · 가격을 가르는 핵심</text>
+
+  <!-- 헤더 행 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" text-anchor="middle">
+    <rect x="60" y="260" width="320" height="110" rx="16" fill="#E4EFF1"/>
+    <text x="220" y="328" font-size="40" fill="#3A4B52">항목</text>
+    <rect x="392" y="260" width="314" height="110" rx="16" fill="#0E7C8C"/>
+    <text x="549" y="328" font-size="42" fill="#ffffff">인버터형</text>
+    <rect x="718" y="260" width="302" height="110" rx="16" fill="#5B6B72"/>
+    <text x="869" y="328" font-size="42" fill="#ffffff">정속형</text>
+  </g>
+
+  <!-- 행들 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="38">
+    <!-- 소비전력 -->
+    <rect x="60" y="388" width="960" height="150" rx="16" fill="#ffffff" stroke="#CFE6E9"/>
+    <text x="90" y="480" font-weight="bold" fill="#3A4B52">소비전력</text>
+    <text x="549" y="465" text-anchor="middle" font-weight="bold" fill="#0E7C8C">낮음</text>
+    <text x="549" y="512" text-anchor="middle" fill="#3A4B52" font-size="34">예: 약 215W</text>
+    <text x="869" y="465" text-anchor="middle" font-weight="bold" fill="#3A4B52">큰 편</text>
+    <text x="869" y="512" text-anchor="middle" fill="#3A4B52" font-size="34">335~400W대</text>
+
+    <!-- 실제 요금 -->
+    <rect x="60" y="556" width="960" height="150" rx="16" fill="#ffffff" stroke="#CFE6E9"/>
+    <text x="90" y="648" font-weight="bold" fill="#3A4B52">실제 요금</text>
+    <text x="549" y="633" text-anchor="middle" font-weight="bold" fill="#0E7C8C">정격 대비</text>
+    <text x="549" y="680" text-anchor="middle" fill="#0E7C8C" font-weight="bold" font-size="40">30~40% 적게</text>
+    <text x="869" y="656" text-anchor="middle" fill="#3A4B52">상대적으로 큼</text>
+
+    <!-- 소음 -->
+    <rect x="60" y="724" width="960" height="150" rx="16" fill="#ffffff" stroke="#CFE6E9"/>
+    <text x="90" y="816" font-weight="bold" fill="#3A4B52">소음 체감</text>
+    <text x="549" y="800" text-anchor="middle" font-weight="bold" fill="#0E7C8C">일정 · 조용</text>
+    <text x="549" y="847" text-anchor="middle" fill="#3A4B52" font-size="34">약하게 계속 운전</text>
+    <text x="869" y="800" text-anchor="middle" font-weight="bold" fill="#3A4B52">큰 편</text>
+    <text x="869" y="847" text-anchor="middle" fill="#3A4B52" font-size="34">껐다 켜짐 반복</text>
+
+    <!-- 본체 가격 -->
+    <rect x="60" y="892" width="960" height="150" rx="16" fill="#ffffff" stroke="#CFE6E9"/>
+    <text x="90" y="984" font-weight="bold" fill="#3A4B52">본체 가격</text>
+    <text x="549" y="984" text-anchor="middle" fill="#3A4B52">상대적으로 높음</text>
+    <text x="869" y="984" text-anchor="middle" font-weight="bold" fill="#0E7C8C">저렴</text>
+  </g>
+
+  <!-- 결론 박스 -->
+  <rect x="60" y="1080" width="960" height="150" rx="20" fill="#0E7C8C"/>
+  <text x="540" y="1148" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="40" fill="#FFD23F" text-anchor="middle">오래·침실 사용 → 인버터형</text>
+  <text x="540" y="1200" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="40" fill="#ffffff" text-anchor="middle">가끔 짧게 → 정속형 가성비</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E4EFF1"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="32" fill="#5B6B72">수치는 본문 예시 기준 · 모델·조건별 편차 있음</text>
+</svg>

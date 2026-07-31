@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F1F9FA"/>
+  <!-- 상단 색띠 -->
+  <rect width="1080" height="150" fill="#0E7C8C"/>
+  <text x="60" y="95" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">물 비우기 vs 연속배수</text>
+
+  <!-- 왼쪽 카드: 물통형 -->
+  <rect x="60" y="200" width="450" height="440" rx="24" fill="#ffffff" stroke="#CFE6E9"/>
+  <text x="285" y="270" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="44" fill="#0E7C8C" text-anchor="middle">물통형</text>
+  <!-- 물통 아이콘 -->
+  <rect x="215" y="310" width="140" height="150" rx="16" fill="#E4F4F6" stroke="#3EBFCF" stroke-width="6"/>
+  <rect x="215" y="400" width="140" height="60" rx="0" fill="#7FD8E5"/>
+  <rect x="215" y="450" width="140" height="10" rx="5" fill="#7FD8E5"/>
+  <rect x="248" y="290" width="74" height="26" rx="8" fill="#3EBFCF"/>
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#3A4B52" text-anchor="middle">
+    <text x="285" y="520">투명 · 측면 분리형 편리</text>
+    <text x="285" y="570">6L 이상이면 비우는</text>
+    <text x="285" y="612">빈도 감소</text>
+  </g>
+
+  <!-- 오른쪽 카드: 연속배수 -->
+  <rect x="570" y="200" width="450" height="440" rx="24" fill="#ffffff" stroke="#CFE6E9"/>
+  <text x="795" y="270" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="44" fill="#0E7C8C" text-anchor="middle">연속배수(호스)</text>
+  <!-- 제습기+호스 아이콘 -->
+  <rect x="715" y="315" width="110" height="150" rx="16" fill="#E4F4F6" stroke="#3EBFCF" stroke-width="6"/>
+  <path d="M825 400 C900 400 900 470 960 470" fill="none" stroke="#7FD8E5" stroke-width="14" stroke-linecap="round"/>
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#3A4B52" text-anchor="middle">
+    <text x="795" y="520">물통 비울 필요 없음</text>
+    <text x="795" y="570">장시간·의류건조에 유리</text>
+    <text x="795" y="612">단, 배수구 위치 제약</text>
+  </g>
+
+  <!-- 하단 -->
+  <text x="540" y="690" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="34" fill="#0E7C8C" text-anchor="middle">물 비우기가 귀찮다면 → 대용량 물통 또는 연속배수 지원 확인</text>
+</svg>
