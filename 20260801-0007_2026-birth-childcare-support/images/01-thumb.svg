@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1B5FA6"/>
+  <circle cx="950" cy="170" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="110" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="64" y="80" rx="34" ry="34" width="230" height="68" fill="#FFD23F"/>
+  <text x="179" y="126" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <!-- 서브 카피 -->
+  <text x="64" y="250" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#E8EEF5">2026 출산·육아 지원금</text>
+  <text x="64" y="318" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#FFD23F">아이 하나 낳으면 얼마 받나?</text>
+
+  <!-- 금액 카드 3개 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 카드1 부모급여 -->
+    <rect x="64" y="380" rx="24" width="952" height="164" fill="#ffffff" opacity="0.14"/>
+    <text x="96" y="452" font-weight="bold" font-size="46" fill="#ffffff">부모급여 (0세)</text>
+    <text x="96" y="514" font-weight="normal" font-size="34" fill="#E8EEF5">매월 소득 무관</text>
+    <text x="984" y="490" text-anchor="end" font-weight="bold" font-size="82" fill="#FFD23F">월 100만원</text>
+
+    <!-- 카드2 첫만남 -->
+    <rect x="64" y="562" rx="24" width="952" height="164" fill="#ffffff" opacity="0.14"/>
+    <text x="96" y="634" font-weight="bold" font-size="46" fill="#ffffff">첫만남이용권</text>
+    <text x="96" y="696" font-weight="normal" font-size="34" fill="#E8EEF5">둘째 이상 · 바우처</text>
+    <text x="984" y="672" text-anchor="end" font-weight="bold" font-size="82" fill="#FFD23F">300만원</text>
+
+    <!-- 카드3 아동수당 -->
+    <rect x="64" y="744" rx="24" width="952" height="164" fill="#ffffff" opacity="0.14"/>
+    <text x="96" y="816" font-weight="bold" font-size="46" fill="#ffffff">아동수당</text>
+    <text x="96" y="878" font-weight="normal" font-size="34" fill="#E8EEF5">만 9세 미만 확대</text>
+    <text x="984" y="854" text-anchor="end" font-weight="bold" font-size="82" fill="#FFD23F">월 10만원</text>
+  </g>
+
+  <!-- 하단 마감 강조 -->
+  <text x="64" y="978" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#ffffff">부모급여 60일·첫만남 2년, 놓치면 못 받아요</text>
+  <text x="64" y="1032" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="30" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

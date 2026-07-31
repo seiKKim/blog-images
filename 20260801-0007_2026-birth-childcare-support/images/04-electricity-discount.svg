@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="108" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">출산가구 전기요금 감면</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#E8EEF5">놓치기 쉬운 한국전력 혜택</text>
+
+  <!-- 할인 강조 -->
+  <rect x="60" y="250" width="960" height="230" rx="20" fill="#1B5FA6"/>
+  <text x="540" y="352" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="110" fill="#FFD23F" text-anchor="middle">월 30% 할인</text>
+  <text x="540" y="430" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff" text-anchor="middle">월 최대 1만 6천원 한도</text>
+
+  <!-- 대상 -->
+  <rect x="60" y="510" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="576" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1B5FA6">대상</text>
+  <text x="100" y="632" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#1a1a1a">출생 후 3년 미만 영아 포함 주택용 전기 가구 (최대 3년 적용)</text>
+
+  <!-- 신청 경로 -->
+  <text x="60" y="750" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6">신청 경로</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" fill="#1a1a1a">
+    <rect x="60" y="780" width="960" height="96" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="840" font-weight="bold" font-size="42">한전 온라인</text>
+    <text x="1000" y="840" text-anchor="end" font-weight="normal" font-size="36" fill="#5B6B7C">cyber.kepco.co.kr</text>
+
+    <rect x="60" y="890" width="960" height="96" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="950" font-weight="bold" font-size="42">전화</text>
+    <text x="1000" y="950" text-anchor="end" font-weight="normal" font-size="36" fill="#5B6B7C">국번 없이 123</text>
+
+    <rect x="60" y="1000" width="960" height="96" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="1060" font-weight="bold" font-size="42">출생신고 시</text>
+    <text x="1000" y="1060" text-anchor="end" font-weight="normal" font-size="36" fill="#5B6B7C">행복출산 원스톱</text>
+  </g>
+
+  <!-- 주의 -->
+  <rect x="60" y="1120" width="960" height="110" rx="16" fill="#FDE7E7" stroke="#F0B4B4"/>
+  <text x="100" y="1188" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#B32020">소급 적용 X · 신청한 달부터만 할인</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">대상 연령은 자료마다 차이 · 신청 전 한전에서 조건 확인</text>
+</svg>

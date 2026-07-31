@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="108" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">첫만남이용권 사용처</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#E8EEF5">국민행복카드 바우처 · 이 업종만 빼고 사용 가능</text>
+
+  <!-- 사용 가능 -->
+  <rect x="60" y="250" width="960" height="70" rx="16" fill="#1F8A53"/>
+  <text x="92" y="298" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff">O  사용 가능</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" fill="#1a1a1a">
+    <rect x="60" y="340" width="960" height="96" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="400" font-weight="bold">대부분의 일반 업종</text>
+    <rect x="60" y="452" width="960" height="96" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="512" font-weight="bold">이·미용실</text>
+    <text x="988" y="512" text-anchor="end" font-weight="bold" font-size="38" fill="#1F8A53">사용 O</text>
+  </g>
+
+  <!-- 사용 제외 -->
+  <rect x="60" y="588" width="960" height="70" rx="16" fill="#E23B3B"/>
+  <text x="92" y="636" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff">X  사용 제외 업종</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" fill="#1a1a1a">
+    <rect x="60" y="678" width="465" height="96" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="292" y="738" text-anchor="middle" font-weight="bold">유흥 업종</text>
+    <rect x="555" y="678" width="465" height="96" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="787" y="738" text-anchor="middle" font-weight="bold">사행 업종</text>
+
+    <rect x="60" y="790" width="465" height="96" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="292" y="850" text-anchor="middle" font-weight="bold">레저 업종</text>
+    <rect x="555" y="790" width="465" height="96" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="787" y="850" text-anchor="middle" font-weight="bold">성인용품</text>
+
+    <rect x="60" y="902" width="960" height="96" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="540" y="962" text-anchor="middle" font-weight="bold">면세점 등</text>
+  </g>
+
+  <!-- 하단 안내 박스 -->
+  <rect x="60" y="1040" width="960" height="150" rx="16" fill="#FFF4CE" stroke="#F0D98A"/>
+  <text x="100" y="1108" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#8A6D00">사용기간: 출생일로부터 2년 이내</text>
+  <text x="100" y="1160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#8A6D00">기간 넘기면 잔여 포인트 소멸 (2024.1.1 이후 출생아 기준)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 본문 정리 · 정부24/복지로에서 최신 기준 확인</text>
+</svg>

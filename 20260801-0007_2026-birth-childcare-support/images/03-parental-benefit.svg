@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="108" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">부모급여 지급 구조</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#E8EEF5">가정양육 vs 어린이집 이용 시 차이</text>
+
+  <!-- 가정양육 -->
+  <text x="60" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6">가정에서 키우면 (전액 현금)</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" fill="#1a1a1a">
+    <rect x="60" y="330" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="406" font-weight="bold" font-size="46">0세 (0~11개월)</text>
+    <text x="1000" y="406" text-anchor="end" font-weight="bold" font-size="56" fill="#1B5FA6">월 100만원</text>
+
+    <rect x="60" y="470" width="960" height="120" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="546" font-weight="bold" font-size="46">1세 (12~23개월)</text>
+    <text x="1000" y="546" text-anchor="end" font-weight="bold" font-size="56" fill="#1B5FA6">월 50만원</text>
+  </g>
+
+  <!-- 어린이집 이용 -->
+  <text x="60" y="690" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6">어린이집 이용 시 (바우처 차감 후 차액)</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" fill="#1a1a1a">
+    <rect x="60" y="720" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="782" font-weight="bold" font-size="44">0세</text>
+    <text x="100" y="840" font-weight="normal" font-size="36" fill="#5B6B7C">100만원 − 보육료 바우처 58만4천원</text>
+    <text x="1000" y="820" text-anchor="end" font-weight="bold" font-size="52" fill="#1F8A53">현금 41만6천원</text>
+
+    <rect x="60" y="920" width="960" height="180" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="982" font-weight="bold" font-size="44">1세</text>
+    <text x="100" y="1040" font-weight="normal" font-size="36" fill="#5B6B7C">바우처 51만5천원 &gt; 급여 50만원</text>
+    <text x="1000" y="1020" text-anchor="end" font-weight="bold" font-size="46" fill="#E23B3B">현금 추가 없음</text>
+  </g>
+
+  <!-- 안내 박스 -->
+  <rect x="60" y="1130" width="960" height="110" rx="16" fill="#FFF4CE" stroke="#F0D98A"/>
+  <text x="100" y="1198" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#8A6D00">신청 기한: 출생 후 60일 이내 (지나면 소급 X)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">지급일: 가정양육 매월 25일 · 어린이집 차액 익월 20일</text>
+</svg>

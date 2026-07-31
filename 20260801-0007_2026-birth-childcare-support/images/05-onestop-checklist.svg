@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="108" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">행복출산 원스톱 서비스</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#E8EEF5">출생신고와 함께 한 번에 통합 신청</text>
+
+  <!-- 통합 신청 항목 -->
+  <text x="60" y="290" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#1B5FA6">한 번에 신청 가능한 전국 공통 항목</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" fill="#1a1a1a" font-weight="bold">
+    <rect x="60" y="320" width="960" height="90" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="112" cy="365" r="18" fill="#1F8A53"/><text x="104" y="378" font-size="26" fill="#fff">V</text>
+    <text x="150" y="378">첫만남이용권</text>
+    <rect x="60" y="424" width="960" height="90" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="112" cy="469" r="18" fill="#1F8A53"/><text x="104" y="482" font-size="26" fill="#fff">V</text>
+    <text x="150" y="482">부모급여</text>
+    <rect x="60" y="528" width="960" height="90" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="112" cy="573" r="18" fill="#1F8A53"/><text x="104" y="586" font-size="26" fill="#fff">V</text>
+    <text x="150" y="586">아동수당 · 양육수당</text>
+    <rect x="60" y="632" width="960" height="90" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="112" cy="677" r="18" fill="#1F8A53"/><text x="104" y="690" font-size="26" fill="#fff">V</text>
+    <text x="150" y="690">출산가구 전기료 경감</text>
+    <rect x="60" y="736" width="960" height="90" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="112" cy="781" r="18" fill="#1F8A53"/><text x="104" y="794" font-size="26" fill="#fff">V</text>
+    <text x="150" y="794">다자녀 공공요금 · KTX/SRT 할인</text>
+  </g>
+
+  <!-- 신청 방법 -->
+  <rect x="60" y="856" width="465" height="150" rx="16" fill="#1B5FA6"/>
+  <text x="292" y="920" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff" text-anchor="middle">온라인</text>
+  <text x="292" y="972" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#E8EEF5" text-anchor="middle">정부24</text>
+
+  <rect x="555" y="856" width="465" height="150" rx="16" fill="#1B5FA6"/>
+  <text x="787" y="920" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#ffffff" text-anchor="middle">방문</text>
+  <text x="787" y="972" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5" text-anchor="middle">주소지 읍·면·동 주민센터</text>
+
+  <!-- 기한 강조 -->
+  <rect x="60" y="1040" width="960" height="190" rx="16" fill="#FFF4CE" stroke="#F0D98A"/>
+  <text x="100" y="1108" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#8A6D00">꼭 지킬 기한</text>
+  <text x="100" y="1162" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#8A6D00">부모급여 60일 이내 · 첫만남 2년 이내</text>
+  <text x="100" y="1210" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#8A6D00">전기요금 감면은 소급 없음 (신청 월부터)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 본문 정리 · 신청 전 정부24/복지로 최신 기준 확인</text>
+</svg>
