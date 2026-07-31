@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">국세 미수령 환급금 조회</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#D6EFE0">필요 정보: 주민등록번호 + 이름</text>
+
+  <!-- 채널 헤더 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="260" width="620" height="90" rx="14" fill="#1F8A53"/>
+    <text x="90" y="320" font-size="40" font-weight="bold" fill="#ffffff">채널</text>
+    <rect x="700" y="260" width="320" height="90" rx="14" fill="#1F8A53"/>
+    <text x="730" y="320" font-size="40" font-weight="bold" fill="#ffffff">구분</text>
+
+    <!-- rows -->
+    <rect x="60" y="360" width="620" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="435" font-size="46" font-weight="bold" fill="#1a1a1a">홈택스</text>
+    <rect x="700" y="360" width="320" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="860" y="435" font-size="42" fill="#5B6B7C" text-anchor="middle">PC</text>
+
+    <rect x="60" y="490" width="620" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="565" font-size="46" font-weight="bold" fill="#1a1a1a">손택스</text>
+    <rect x="700" y="490" width="320" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="860" y="565" font-size="42" fill="#5B6B7C" text-anchor="middle">모바일 앱</text>
+
+    <rect x="60" y="620" width="620" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="695" font-size="46" font-weight="bold" fill="#1a1a1a">정부24</text>
+    <rect x="700" y="620" width="320" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="860" y="695" font-size="42" fill="#5B6B7C" text-anchor="middle">통합조회</text>
+
+    <rect x="60" y="750" width="620" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="815" font-size="40" font-weight="bold" fill="#1a1a1a">openservice</text>
+    <text x="90" y="855" font-size="30" fill="#5B6B7C">국세청 디지털서비스개방</text>
+    <rect x="700" y="750" width="320" height="120" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="860" y="815" font-size="42" fill="#5B6B7C" text-anchor="middle">웹 조회</text>
+  </g>
+
+  <!-- 포인트 박스 -->
+  <rect x="60" y="910" width="960" height="120" rx="18" fill="#E9F5EE" stroke="#1F8A53"/>
+  <text x="90" y="965" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" font-weight="bold" fill="#1F8A53">조회 범위: 환급결정일부터 5년까지</text>
+  <text x="90" y="1010" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">(소멸시효 5년과 동일)</text>
+
+  <!-- 지급 신청 -->
+  <rect x="60" y="1060" width="960" height="180" rx="18" fill="#FFF7E0" stroke="#F0C98A"/>
+  <text x="90" y="1120" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" font-weight="bold" fill="#1a1a1a">지급 신청</text>
+  <text x="90" y="1170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">홈택스·손택스 · ARS 1544-9944 · 가까운 세무서</text>
+  <text x="90" y="1215" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">통지서 지참 시 우체국 수령도 가능</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 국세청 공식 안내 · blog.naver.com/trip_chocho</text>
+</svg>

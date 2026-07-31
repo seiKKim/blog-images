@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">경정청구</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#D6EFE0">놓친 공제로 최근 5년치 돌려받기</text>
+
+  <!-- 기한 강조 -->
+  <rect x="60" y="260" width="960" height="200" rx="20" fill="#1F8A53"/>
+  <text x="90" y="330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" fill="#D6EFE0">신청 기한</text>
+  <text x="90" y="410" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="66" font-weight="bold" fill="#ffffff">법정신고기한 후 5년 이내</text>
+
+  <!-- 예시 -->
+  <rect x="60" y="490" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="90" y="550" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">예) 2021년 귀속 종합소득세 (신고기한 2022-05-31)</text>
+  <text x="90" y="610" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" font-weight="bold" fill="#1F8A53">→ 2027-05-31까지 청구 가능</text>
+
+  <!-- 놓치기 쉬운 공제 -->
+  <text x="60" y="720" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" font-weight="bold" fill="#1a1a1a">놓치기 쉬운 공제</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="750" width="960" height="110" rx="16" fill="#FFF7E0" stroke="#F0C98A"/>
+    <text x="90" y="800" font-size="40" font-weight="bold" fill="#1a1a1a">월세 세액공제</text>
+    <text x="90" y="840" font-size="32" fill="#5B6B7C">간소화 자료에 잘 안 잡힘 · 집주인 동의 없이 가능</text>
+
+    <rect x="60" y="870" width="960" height="90" rx="16" fill="#FFF7E0" stroke="#F0C98A"/>
+    <text x="90" y="928" font-size="40" font-weight="bold" fill="#1a1a1a">의료비 · 교육비 · 기부금 누락분</text>
+  </g>
+
+  <!-- 신청 방법 -->
+  <text x="60" y="1040" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" font-weight="bold" fill="#1a1a1a">신청 방법</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#1F8A53" font-weight="bold">
+    <rect x="60" y="1070" width="300" height="130" rx="16" fill="#E9F5EE" stroke="#1F8A53"/>
+    <text x="210" y="1145" text-anchor="middle">홈택스 온라인</text>
+    <rect x="390" y="1070" width="300" height="130" rx="16" fill="#E9F5EE" stroke="#1F8A53"/>
+    <text x="540" y="1145" text-anchor="middle">세무서 방문</text>
+    <rect x="720" y="1070" width="300" height="130" rx="16" fill="#E9F5EE" stroke="#1F8A53"/>
+    <text x="870" y="1130" text-anchor="middle">세무대리</text>
+    <text x="870" y="1170" text-anchor="middle" font-size="28" font-weight="normal" fill="#5B6B7C">(유료)</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 홈택스 경정청구 안내 · blog.naver.com/trip_chocho</text>
+</svg>

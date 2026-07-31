@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">정부24 통합조회</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#D6EFE0">한 번에 스캔, 단 신청은 항목별로</text>
+
+  <!-- 조회 항목 -->
+  <text x="60" y="270" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" font-weight="bold" fill="#1a1a1a">개인·법인 공통 조회 항목</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">
+    <rect x="60" y="300" width="960" height="80" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="352">✓ 국세 미환급금 · 지방세 환급금</text>
+    <rect x="60" y="390" width="960" height="80" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="442">✓ 보관금 및 송달료</text>
+    <rect x="60" y="480" width="960" height="80" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="532">✓ 건강보험 미환급금 · 국민연금 과오납금</text>
+  </g>
+
+  <text x="60" y="640" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" font-weight="bold" fill="#1a1a1a">개인만 추가</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#1a1a1a">
+    <rect x="60" y="670" width="960" height="80" rx="14" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="722">✓ 유료방송 미환급금 · 통신 미환급금</text>
+  </g>
+
+  <!-- 주의 박스 -->
+  <rect x="60" y="800" width="960" height="290" rx="20" fill="#FFF3E0" stroke="#E8722C" stroke-width="3"/>
+  <text x="90" y="870" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" font-weight="bold" fill="#E8722C">⚠️ 조회는 통합, 신청은 3종만</text>
+  <text x="90" y="935" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#1a1a1a">정부24에서 실제 신청까지 되는 건</text>
+  <text x="90" y="985" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" font-weight="bold" fill="#1F8A53">국세 · 건강보험 · 국민연금 3종뿐</text>
+  <text x="90" y="1045" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">지방세 등은 조회만 → 해당 기관 채널에서 신청</text>
+
+  <!-- 한줄 흐름 -->
+  <rect x="60" y="1120" width="960" height="110" rx="18" fill="#E9F5EE" stroke="#1F8A53"/>
+  <text x="540" y="1188" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" font-weight="bold" fill="#1F8A53" text-anchor="middle">조회는 정부24 → 신청은 항목별 채널</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 정부24 미환급금 조회 안내 · blog.naver.com/trip_chocho</text>
+</svg>

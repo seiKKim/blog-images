@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">소멸시효 5년</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#D6EFE0">안 찾으면 국고로 사라집니다</text>
+
+  <!-- 타임라인 -->
+  <text x="60" y="290" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#5B6B7C">행사할 수 있는 때</text>
+  <line x1="90" y1="360" x2="990" y2="360" stroke="#1F8A53" stroke-width="10"/>
+  <circle cx="90" cy="360" r="18" fill="#1F8A53"/>
+  <circle cx="990" cy="360" r="26" fill="#E23B3B"/>
+  <text x="540" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="52" font-weight="bold" fill="#1F8A53" text-anchor="middle">5년</text>
+  <text x="990" y="430" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="bold" fill="#E23B3B" text-anchor="end">시효 완성 → 국고 귀속</text>
+
+  <!-- 국세 카드 -->
+  <rect x="60" y="490" width="960" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="90" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="46" font-weight="bold" fill="#1F8A53">국세 (국세기본법 제54조)</text>
+  <text x="90" y="620" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#1a1a1a">행사할 수 있는 때부터 5년간 미행사 시</text>
+  <text x="90" y="668" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#1a1a1a">소멸시효 완성 → 국고 귀속</text>
+  <rect x="90" y="700" width="880" height="60" rx="12" fill="#FFF3E0"/>
+  <text x="110" y="742" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" font-weight="bold" fill="#E8722C">⚠️ 통지받아도 시효는 중단되지 않음</text>
+
+  <!-- 지방세 카드 -->
+  <rect x="60" y="810" width="960" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="90" y="880" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="46" font-weight="bold" fill="#1F8A53">지방세 (지방세기본법 제64조)</text>
+  <text x="90" y="940" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#1a1a1a">행사할 수 있는 때부터 5년간 미행사 시 소멸</text>
+  <text x="90" y="988" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#1a1a1a">과오납 지방세는 원칙적으로 납부일부터 5년</text>
+  <rect x="90" y="1020" width="880" height="60" rx="12" fill="#FFF3E0"/>
+  <text x="110" y="1062" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" font-weight="bold" fill="#E8722C">⚠️ 5년 이상 지나면 지방세외수입으로 귀속</text>
+
+  <!-- 결론 -->
+  <rect x="60" y="1130" width="960" height="100" rx="18" fill="#1F8A53"/>
+  <text x="540" y="1195" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">국세·지방세 모두 안 찾으면 5년 뒤 소멸</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 국세기본법·지방세기본법 · blog.naver.com/trip_chocho</text>
+</svg>

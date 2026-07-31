@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">지방세 환급금 조회</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#D6EFE0">국세와 채널이 완전히 다릅니다</text>
+
+  <!-- 채널 카드 2개 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="260" width="460" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="330" font-size="38" fill="#5B6B7C">전국 지방세</text>
+    <text x="90" y="400" font-size="56" font-weight="bold" fill="#1F8A53">위택스</text>
+    <text x="90" y="450" font-size="32" fill="#5B6B7C">wetax.go.kr · 환급금 조회</text>
+
+    <rect x="560" y="260" width="460" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="590" y="330" font-size="38" fill="#5B6B7C">서울시 지방세</text>
+    <text x="590" y="400" font-size="56" font-weight="bold" fill="#1F8A53">ETAX / STAX</text>
+    <text x="590" y="450" font-size="32" fill="#5B6B7C">etax.seoul.go.kr · ARS 1599-3900</text>
+  </g>
+
+  <!-- 조회 방법 -->
+  <rect x="60" y="520" width="960" height="120" rx="18" fill="#E9F5EE" stroke="#1F8A53"/>
+  <text x="90" y="575" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="bold" fill="#1F8A53">위택스 조회 방법</text>
+  <text x="90" y="620" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">주민등록번호/법인번호 입력 + 보안문자(캡차) 인증</text>
+
+  <!-- 환급 발생 예시 -->
+  <text x="60" y="720" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="44" font-weight="bold" fill="#1a1a1a">이런 경우 환급이 생겨요</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="750" width="960" height="180" rx="18" fill="#FFF7E0" stroke="#F0C98A"/>
+    <text x="90" y="815" font-size="42" font-weight="bold" fill="#1a1a1a">🚗 자동차세 연납 후 매각·폐차</text>
+    <text x="90" y="865" font-size="34" fill="#5B6B7C">1년치 미리 냈다가 중도 매각 → 남은 기간분이</text>
+    <text x="90" y="908" font-size="34" fill="#5B6B7C">과오납으로 환급 발생</text>
+
+    <rect x="60" y="950" width="960" height="150" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="1015" font-size="42" font-weight="bold" fill="#1a1a1a">🏠 재산세·주민세 등</text>
+    <text x="90" y="1065" font-size="34" fill="#5B6B7C">과오납 · 이중납부 · 감액경정 등</text>
+  </g>
+
+  <!-- 신청 -->
+  <rect x="60" y="1120" width="960" height="120" rx="18" fill="#E9F5EE" stroke="#1F8A53"/>
+  <text x="90" y="1175" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="bold" fill="#1F8A53">신청</text>
+  <text x="170" y="1175" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">본인인증 후 본인 명의 계좌 입력이 일반적</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 위택스·서울시 ETAX 안내 · blog.naver.com/trip_chocho</text>
+</svg>
