@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="210" fill="#243B6B"/>
+  <rect x="60" y="60" rx="30" ry="30" width="200" height="60" fill="#FFD23F"/>
+  <text x="160" y="102" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="32" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+  <text x="60" y="185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">예금자보호 1억원 상향</text>
+
+  <!-- 상향 표시 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="270" width="960" height="200" rx="24" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="140" y="360" font-size="66" font-weight="bold" fill="#9AA7B5">5천만원</text>
+    <text x="140" y="424" font-size="34" fill="#5B6B7C">기존(2001년 설정)</text>
+    <text x="540" y="400" font-size="90" font-weight="bold" fill="#FFD23F" text-anchor="middle">→</text>
+    <text x="700" y="360" font-size="66" font-weight="bold" fill="#243B6B">1억원</text>
+    <text x="700" y="424" font-size="34" fill="#5B6B7C">2025년 9월 1일부터</text>
+  </g>
+
+  <text x="60" y="540" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a">꼭 알아야 할 기준</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="570" width="960" height="112" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="638" font-size="36" fill="#1a1a1a">'1인당·금융회사별' 원금+이자 합산 1억원까지</text>
+
+    <rect x="60" y="698" width="960" height="112" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="766" font-size="36" fill="#1a1a1a">같은 은행 예·적금은 각각이 아니라 합산 1억원</text>
+
+    <rect x="60" y="826" width="960" height="112" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="95" y="894" font-size="36" fill="#1a1a1a">별도 신청 없이 자동 적용 · 기존 예금도 소급</text>
+  </g>
+
+  <!-- 분산 예치 개념도 -->
+  <rect x="60" y="972" width="960" height="238" rx="24" fill="#EAF0F8" stroke="#D6E0EC"/>
+  <text x="90" y="1030" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#243B6B">분산 예치 = 각 회사마다 1억원씩 별도 보호</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="100" y="1060" width="260" height="120" rx="16" fill="#243B6B"/>
+    <text x="230" y="1120" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">A 금융사</text>
+    <text x="230" y="1160" font-size="30" fill="#FFD23F" text-anchor="middle">1억원 보호</text>
+
+    <rect x="410" y="1060" width="260" height="120" rx="16" fill="#243B6B"/>
+    <text x="540" y="1120" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">B 금융사</text>
+    <text x="540" y="1160" font-size="30" fill="#FFD23F" text-anchor="middle">1억원 보호</text>
+
+    <rect x="720" y="1060" width="260" height="120" rx="16" fill="#243B6B"/>
+    <text x="850" y="1120" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">C 금융사</text>
+    <text x="850" y="1160" font-size="30" fill="#FFD23F" text-anchor="middle">1억원 보호</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">참고: 펀드·증권 CMA·변액보험 등 실적배당형은 보호 제외</text>
+</svg>
