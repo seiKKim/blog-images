@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F0812F"/>
+      <stop offset="1" stop-color="#D9611F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="88" rx="34" ry="34" width="220" height="68" fill="#FFD23F"/>
+  <text x="190" y="134" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="260" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="54" fill="#FFE9CF">2026 여름 에어컨 전기요금</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="400" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="128" fill="#ffffff">이 3가지만</text>
+  <text x="80" y="530" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="128" fill="#FFD23F">챙기세요</text>
+
+  <!-- 핵심 3포인트 박스 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="80" y="600" rx="22" width="920" height="96" fill="#ffffff" opacity="0.16"/>
+    <text x="110" y="662" font-size="50" font-weight="700" fill="#ffffff">① 누진 경계선 </text>
+    <text x="500" y="662" font-size="52" font-weight="800" fill="#FFD23F">450kWh 이하</text>
+
+    <rect x="80" y="712" rx="22" width="920" height="96" fill="#ffffff" opacity="0.16"/>
+    <text x="110" y="774" font-size="50" font-weight="700" fill="#ffffff">② 설정온도 </text>
+    <text x="430" y="774" font-size="52" font-weight="800" fill="#FFD23F">26℃</text>
+    <text x="560" y="774" font-size="42" font-weight="700" fill="#ffffff">(1℃↑ 약 7%↓)</text>
+
+    <rect x="80" y="824" rx="22" width="920" height="96" fill="#ffffff" opacity="0.16"/>
+    <text x="110" y="886" font-size="50" font-weight="700" fill="#ffffff">③ 한전 </text>
+    <text x="330" y="886" font-size="52" font-weight="800" fill="#FFD23F">에너지캐시백</text>
+    <text x="770" y="886" font-size="42" font-weight="700" fill="#ffffff">신청</text>
+  </g>
+
+  <!-- 채널 -->
+  <text x="80" y="1006" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="400"
+        font-size="34" fill="#FFE9CF" opacity="0.95">blog.naver.com/trip_chocho</text>
+</svg>

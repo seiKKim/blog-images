@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="58" fill="#ffffff">인버터형 vs 정속형</text>
+  <text x="60" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="40" fill="#FFE9CF">종류에 따라 절약법이 정반대!</text>
+
+  <!-- 왼쪽: 인버터 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="280" width="460" height="880" rx="22" fill="#ffffff" stroke="#E7D3BF" stroke-width="2"/>
+    <rect x="60" y="280" width="460" height="120" rx="22" fill="#1F8A53"/>
+    <rect x="60" y="360" width="460" height="40" fill="#1F8A53"/>
+    <text x="290" y="360" font-size="46" font-weight="800" fill="#ffffff" text-anchor="middle">인버터형</text>
+    <text x="290" y="470" font-size="40" font-weight="800" fill="#1F8A53" text-anchor="middle">계속 켜두기</text>
+    <text x="290" y="520" font-size="34" font-weight="700" fill="#1F8A53" text-anchor="middle">가 유리</text>
+
+    <text x="100" y="620" font-size="34" font-weight="700" fill="#3a3a3a">압축기 회전수를</text>
+    <text x="100" y="668" font-size="34" font-weight="700" fill="#3a3a3a">조절해 약하게 유지</text>
+    <text x="100" y="756" font-size="34" font-weight="700" fill="#3a3a3a">짧은 외출(1~2시간)</text>
+    <text x="100" y="804" font-size="34" font-weight="700" fill="#3a3a3a">엔 끄지 않는 게 나음</text>
+    <text x="100" y="892" font-size="34" font-weight="700" fill="#3a3a3a">껐다 켜면 오히려</text>
+    <text x="100" y="940" font-size="34" font-weight="700" fill="#3a3a3a">전기를 더 씀</text>
+    <text x="100" y="1050" font-size="32" font-weight="700" fill="#8A6A4A">※ 2011년 이후 출시</text>
+    <text x="100" y="1094" font-size="32" font-weight="700" fill="#8A6A4A">   제품 다수</text>
+  </g>
+
+  <!-- 오른쪽: 정속형 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="560" y="280" width="460" height="880" rx="22" fill="#ffffff" stroke="#E7D3BF" stroke-width="2"/>
+    <rect x="560" y="280" width="460" height="120" rx="22" fill="#E8722C"/>
+    <rect x="560" y="360" width="460" height="40" fill="#E8722C"/>
+    <text x="790" y="360" font-size="46" font-weight="800" fill="#ffffff" text-anchor="middle">정속형(일반)</text>
+    <text x="790" y="470" font-size="40" font-weight="800" fill="#E8722C" text-anchor="middle">껐다 켰다</text>
+    <text x="790" y="520" font-size="34" font-weight="700" fill="#E8722C" text-anchor="middle">가 유리</text>
+
+    <text x="600" y="620" font-size="34" font-weight="700" fill="#3a3a3a">압축기가 켜짐/꺼짐</text>
+    <text x="600" y="668" font-size="34" font-weight="700" fill="#3a3a3a">(ON/OFF)만 반복</text>
+    <text x="600" y="756" font-size="34" font-weight="700" fill="#3a3a3a">강풍으로 빨리 식힌</text>
+    <text x="600" y="804" font-size="34" font-weight="700" fill="#3a3a3a">뒤 끄기</text>
+    <text x="600" y="892" font-size="34" font-weight="700" fill="#3a3a3a">더워지면 재가동,</text>
+    <text x="600" y="940" font-size="34" font-weight="700" fill="#3a3a3a">2~3시간 간격</text>
+    <text x="600" y="1050" font-size="32" font-weight="700" fill="#8A6A4A">※ 총 가동시간</text>
+    <text x="600" y="1094" font-size="32" font-weight="700" fill="#8A6A4A">   관리가 관건</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE2D3"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8A6A4A">"인버터도 껐다 켜야 절약"은 흔한 오해 · 종류를 먼저 확인</text>
+</svg>

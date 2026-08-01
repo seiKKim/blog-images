@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="58" fill="#ffffff">450kWh 경계선의 비밀</text>
+  <text x="60" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="40" fill="#FFE9CF">단 1kWh 차이로 청구액이 점프</text>
+
+  <!-- 두 막대 비교 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 450kWh -->
+    <rect x="130" y="620" width="300" height="360" rx="18" fill="#F0A868"/>
+    <text x="280" y="590" font-size="44" font-weight="800" fill="#1a1a1a" text-anchor="middle">450kWh</text>
+    <text x="280" y="820" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle">약</text>
+    <text x="280" y="890" font-size="56" font-weight="800" fill="#ffffff" text-anchor="middle">85,740원</text>
+
+    <!-- 451kWh -->
+    <rect x="650" y="440" width="300" height="540" rx="18" fill="#D9611F"/>
+    <text x="800" y="410" font-size="44" font-weight="800" fill="#D9611F" text-anchor="middle">451kWh</text>
+    <text x="800" y="700" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle">약</text>
+    <text x="800" y="770" font-size="56" font-weight="800" fill="#FFD23F" text-anchor="middle">92,530원</text>
+  </g>
+
+  <!-- 점프 강조 -->
+  <rect x="130" y="1020" width="820" height="150" rx="20" fill="#FDECDD" stroke="#E8722C" stroke-width="3"/>
+  <text x="540" y="1085" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" font-weight="700" fill="#3a3a3a" text-anchor="middle">단 1kWh 차이인데</text>
+  <text x="540" y="1145" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="52" font-weight="800" fill="#D9611F" text-anchor="middle">약 6,790원 급증!</text>
+
+  <text x="540" y="1235" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="700" fill="#8A6A4A" text-anchor="middle">이유: 기본요금이 1,600원 → 7,300원으로 점프</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE2D3"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8A6A4A">월 사용량 450kWh 이하 관리가 여름 가계부 마지노선</text>
+</svg>

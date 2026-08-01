@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="58" fill="#ffffff">잘못된 절약 상식 O/X</text>
+  <text x="60" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="40" fill="#FFE9CF">이건 오해예요</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1 -->
+    <rect x="60" y="270" width="960" height="200" rx="18" fill="#ffffff" stroke="#E7D3BF"/>
+    <text x="140" y="378" font-size="90" font-weight="800" fill="#E23B3B" text-anchor="middle">X</text>
+    <text x="240" y="345" font-size="40" font-weight="800" fill="#1a1a1a">"제습이 냉방보다 전기 덜 든다"</text>
+    <text x="240" y="410" font-size="34" font-weight="700" fill="#8A6A4A">원리가 같아 전력 차이 거의 없음</text>
+    <text x="240" y="452" font-size="34" font-weight="700" fill="#8A6A4A">제습의 강점은 습도 제거(쾌적함)</text>
+
+    <!-- 2 -->
+    <rect x="60" y="490" width="960" height="200" rx="18" fill="#ffffff" stroke="#E7D3BF"/>
+    <text x="140" y="598" font-size="90" font-weight="800" fill="#E23B3B" text-anchor="middle">X</text>
+    <text x="240" y="565" font-size="40" font-weight="800" fill="#1a1a1a">"인버터도 껐다 켜야 절약"</text>
+    <text x="240" y="630" font-size="34" font-weight="700" fill="#8A6A4A">인버터형은 짧은 외출 시 유지가 유리</text>
+    <text x="240" y="672" font-size="34" font-weight="700" fill="#8A6A4A">껐다 켜기는 정속형에 맞는 방법</text>
+
+    <!-- 3 -->
+    <rect x="60" y="710" width="960" height="200" rx="18" fill="#ffffff" stroke="#E7D3BF"/>
+    <text x="140" y="825" font-size="76" font-weight="800" fill="#E8722C" text-anchor="middle">△</text>
+    <text x="240" y="785" font-size="40" font-weight="800" fill="#1a1a1a">"방문은 무조건 닫아야 절약"</text>
+    <text x="240" y="850" font-size="34" font-weight="700" fill="#8A6A4A">서큘레이터로 공간 넓힐 땐 열어도 OK</text>
+    <text x="240" y="892" font-size="34" font-weight="700" fill="#8A6A4A">냉방 공간이 좁으면 반대 · 상황에 맞게</text>
+
+    <!-- 4 -->
+    <rect x="60" y="930" width="960" height="200" rx="18" fill="#ffffff" stroke="#E7D3BF"/>
+    <text x="140" y="1045" font-size="76" font-weight="800" fill="#E8722C" text-anchor="middle">△</text>
+    <text x="240" y="1005" font-size="40" font-weight="800" fill="#1a1a1a">"에너지 등급만 보면 된다"</text>
+    <text x="240" y="1070" font-size="34" font-weight="700" fill="#8A6A4A">제조년도 따라 같은 성능도 등급 표기 달라</text>
+    <text x="240" y="1112" font-size="34" font-weight="700" fill="#8A6A4A">등급보다 실제 냉방효율 확인이 나음</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE2D3"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8A6A4A">우리 집 기종·평형·사용 패턴에 맞춰 판단하세요</text>
+</svg>

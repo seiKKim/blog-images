@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF4EC"/>
+  <rect width="1080" height="210" fill="#E8722C"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="800"
+        font-size="58" fill="#ffffff">여름철(7~8월) 누진제 3구간</text>
+  <text x="60" y="172" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700"
+        font-size="40" fill="#FFE9CF">주택용 저압 · 2026년 7~8월 기준</text>
+
+  <!-- 표 헤더 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="270" width="960" height="90" rx="14" fill="#D9611F"/>
+    <text x="120" y="328" font-size="38" font-weight="700" fill="#ffffff">사용량 구간</text>
+    <text x="600" y="328" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">기본요금</text>
+    <text x="960" y="328" font-size="38" font-weight="700" fill="#ffffff" text-anchor="end">kWh당</text>
+
+    <!-- 1단계 -->
+    <rect x="60" y="376" width="960" height="150" rx="14" fill="#ffffff" stroke="#E7D3BF"/>
+    <text x="120" y="440" font-size="44" font-weight="800" fill="#1a1a1a">1단계</text>
+    <text x="120" y="492" font-size="36" font-weight="700" fill="#8A6A4A">300kWh 이하</text>
+    <text x="600" y="470" font-size="44" font-weight="700" fill="#1a1a1a" text-anchor="middle">910원</text>
+    <text x="960" y="470" font-size="44" font-weight="800" fill="#E8722C" text-anchor="end">120.0원</text>
+
+    <!-- 2단계 -->
+    <rect x="60" y="542" width="960" height="150" rx="14" fill="#ffffff" stroke="#E7D3BF"/>
+    <text x="120" y="606" font-size="44" font-weight="800" fill="#1a1a1a">2단계</text>
+    <text x="120" y="658" font-size="36" font-weight="700" fill="#8A6A4A">301~450kWh</text>
+    <text x="600" y="636" font-size="44" font-weight="700" fill="#1a1a1a" text-anchor="middle">1,600원</text>
+    <text x="960" y="636" font-size="44" font-weight="800" fill="#E8722C" text-anchor="end">214.6원</text>
+
+    <!-- 3단계 -->
+    <rect x="60" y="708" width="960" height="150" rx="14" fill="#FDECDD" stroke="#E8722C" stroke-width="3"/>
+    <text x="120" y="772" font-size="44" font-weight="800" fill="#D9611F">3단계</text>
+    <text x="120" y="824" font-size="36" font-weight="700" fill="#D9611F">450kWh 초과</text>
+    <text x="600" y="802" font-size="44" font-weight="800" fill="#D9611F" text-anchor="middle">7,300원</text>
+    <text x="960" y="802" font-size="44" font-weight="800" fill="#D9611F" text-anchor="end">307.3원</text>
+  </g>
+
+  <!-- 포인트 박스 -->
+  <rect x="60" y="900" width="960" height="200" rx="18" fill="#ffffff" stroke="#E7D3BF"/>
+  <text x="100" y="972" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="42" font-weight="800" fill="#E8722C">여름엔 구간이 완화돼요</text>
+  <text x="100" y="1030" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="700" fill="#3a3a3a">1단계 상한 200 → 300kWh</text>
+  <text x="100" y="1078" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" font-weight="700" fill="#3a3a3a">2단계 상한 400 → 450kWh</text>
+
+  <text x="60" y="1180" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="700" fill="#8A6A4A">3구간 단가(307.3원)는 1구간(120원)의 약 2.6배</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE2D3"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8A6A4A">기후·연료비조정요금은 분기별 변동 · 정확한 금액은 한전:ON 확인</text>
+</svg>
