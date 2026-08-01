@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#243B6B"/>
+  <text x="60" y="96" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">트래블카드 선택 기준 4가지</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 카드 1 -->
+    <rect x="60" y="200" width="465" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="130" cy="272" r="40" fill="#243B6B"/>
+    <text x="130" y="288" font-size="42" font-weight="bold" fill="#FFD23F" text-anchor="middle">①</text>
+    <text x="196" y="270" font-size="42" font-weight="bold" fill="#1a1a1a">무료환전</text>
+    <text x="196" y="322" font-size="42" font-weight="bold" fill="#1a1a1a">통화 수</text>
+    <text x="90" y="378" font-size="30" fill="#5B6B7C">주요 3종 vs 수십 종 커버</text>
+
+    <!-- 카드 2 -->
+    <rect x="555" y="200" width="465" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="625" cy="272" r="40" fill="#243B6B"/>
+    <text x="625" y="288" font-size="42" font-weight="bold" fill="#FFD23F" text-anchor="middle">②</text>
+    <text x="691" y="270" font-size="42" font-weight="bold" fill="#1a1a1a">해외 ATM</text>
+    <text x="691" y="322" font-size="42" font-weight="bold" fill="#1a1a1a">무료 인출 한도</text>
+    <text x="585" y="378" font-size="30" fill="#5B6B7C">월 500달러 ~ 월 10,000달러</text>
+
+    <!-- 카드 3 -->
+    <rect x="60" y="424" width="465" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="130" cy="496" r="40" fill="#243B6B"/>
+    <text x="130" y="512" font-size="42" font-weight="bold" fill="#FFD23F" text-anchor="middle">③</text>
+    <text x="196" y="494" font-size="42" font-weight="bold" fill="#1a1a1a">국내·부가</text>
+    <text x="196" y="546" font-size="42" font-weight="bold" fill="#1a1a1a">혜택</text>
+    <text x="90" y="602" font-size="30" fill="#5B6B7C">라운지·캐시백·국내 할인</text>
+
+    <!-- 카드 4 -->
+    <rect x="555" y="424" width="465" height="200" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <circle cx="625" cy="496" r="40" fill="#243B6B"/>
+    <text x="625" y="512" font-size="42" font-weight="bold" fill="#FFD23F" text-anchor="middle">④</text>
+    <text x="691" y="494" font-size="42" font-weight="bold" fill="#1a1a1a">재환전</text>
+    <text x="691" y="546" font-size="42" font-weight="bold" fill="#1a1a1a">조건</text>
+    <text x="585" y="602" font-size="30" fill="#5B6B7C">되팔 때 수수료 0원 ~ 약 1%</text>
+  </g>
+
+  <rect x="0" y="660" width="1080" height="60" fill="#E8EEF5"/>
+  <text x="60" y="700" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">내 여행 스타일이 어디에 걸리는지가 카드 선택의 관건</text>
+</svg>

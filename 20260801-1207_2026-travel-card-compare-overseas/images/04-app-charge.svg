@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#243B6B"/>
+  <text x="60" y="96" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#ffffff">앱에서 외화 환전·충전하기</text>
+
+  <!-- 폰 목업 -->
+  <rect x="120" y="180" width="340" height="512" rx="42" fill="#243B6B"/>
+  <rect x="142" y="204" width="296" height="464" rx="24" fill="#ffffff"/>
+  <!-- 상단바 -->
+  <rect x="142" y="204" width="296" height="70" rx="24" fill="#243B6B"/>
+  <rect x="142" y="244" width="296" height="30" fill="#243B6B"/>
+  <text x="290" y="250" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle">외화 충전</text>
+  <!-- 통화 선택 -->
+  <rect x="166" y="298" width="248" height="64" rx="14" fill="#F4F7FB" stroke="#D6E0EC"/>
+  <circle cx="200" cy="330" r="20" fill="#FFD23F"/>
+  <text x="200" y="340" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="22" font-weight="bold" fill="#243B6B" text-anchor="middle">$</text>
+  <text x="234" y="338" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="26" font-weight="bold" fill="#1a1a1a">USD 달러</text>
+  <!-- 금액 -->
+  <text x="166" y="422" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="22" fill="#5B6B7C">충전 금액</text>
+  <text x="414" y="422" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" font-weight="bold" fill="#243B6B" text-anchor="end">$300</text>
+  <line x1="166" y1="440" x2="414" y2="440" stroke="#D6E0EC"/>
+  <text x="166" y="484" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="22" fill="#5B6B7C">환율 우대</text>
+  <text x="166" y="524" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="26" font-weight="bold" fill="#1F8A53">100% · 수수료 0원</text>
+  <!-- 버튼 -->
+  <rect x="166" y="562" width="248" height="64" rx="16" fill="#243B6B"/>
+  <text x="290" y="604" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">충전하기</text>
+
+  <!-- 설명 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <text x="530" y="270" font-size="40" font-weight="bold" fill="#1a1a1a">충전 시점 환율로 확정</text>
+    <rect x="530" y="300" width="470" height="4" fill="#FFD23F"/>
+    <text x="530" y="366" font-size="30" fill="#3a4757">· 환율 낮을 때 미리 충전하면 유리</text>
+    <text x="530" y="424" font-size="30" fill="#3a4757">· 주요 통화는 살 때 100% 우대</text>
+    <text x="530" y="482" font-size="30" fill="#3a4757">· 단, 과충전은 재환전 수수료 위험</text>
+    <text x="530" y="540" font-size="30" fill="#3a4757">  (트래블월렛·하나 약 1%)</text>
+    <rect x="530" y="576" width="470" height="66" rx="14" fill="#FFF6D6" stroke="#FFD23F"/>
+    <text x="556" y="618" font-size="28" font-weight="bold" fill="#8a6d00">재환전 0원 아니면 필요액 위주로</text>
+  </g>
+</svg>

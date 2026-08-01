@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F4F7FB"/>
+  <rect width="1080" height="150" fill="#243B6B"/>
+  <text x="60" y="96" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#ffffff">원화결제(DCC)는 무조건 거절</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <text x="540" y="238" font-size="42" font-weight="bold" fill="#1a1a1a" text-anchor="middle">"원화(KRW)로 결제할까요?"</text>
+
+    <!-- 원화결제 X -->
+    <rect x="60" y="286" width="465" height="330" rx="20" fill="#ffffff" stroke="#E23B3B" stroke-width="3"/>
+    <circle cx="130" cy="356" r="34" fill="#E23B3B"/>
+    <text x="130" y="372" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">X</text>
+    <text x="184" y="370" font-size="40" font-weight="bold" fill="#E23B3B">원화(KRW)</text>
+    <text x="90" y="452" font-size="34" fill="#3a4757">결제금액에</text>
+    <text x="90" y="512" font-size="56" font-weight="bold" fill="#E23B3B">3~8% 추가 수수료</text>
+    <text x="90" y="572" font-size="30" fill="#5B6B7C">영수증 KRW 찍히면 취소·재결제</text>
+
+    <!-- 현지통화 O -->
+    <rect x="555" y="286" width="465" height="330" rx="20" fill="#ffffff" stroke="#1F8A53" stroke-width="3"/>
+    <circle cx="625" cy="356" r="34" fill="#1F8A53"/>
+    <text x="625" y="370" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">O</text>
+    <text x="679" y="370" font-size="40" font-weight="bold" fill="#1F8A53">현지 통화</text>
+    <text x="585" y="452" font-size="34" fill="#3a4757">추가 수수료</text>
+    <text x="585" y="512" font-size="56" font-weight="bold" fill="#1F8A53">없음</text>
+    <text x="585" y="572" font-size="30" fill="#5B6B7C">USD·EUR·JPY 등 현지 통화 선택</text>
+  </g>
+
+  <rect x="0" y="656" width="1080" height="64" fill="#E8EEF5"/>
+  <text x="60" y="698" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">DCC 사전차단 서비스(신한·하나·KB·토스)를 신청해 두면 실수 방지</text>
+</svg>
