@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="125" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">발급·사용 기한 한눈에</text>
+
+  <!-- 발급 카드 -->
+  <rect x="60" y="270" width="960" height="300" rx="24" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="270" width="14" height="300" rx="7" fill="#1B5FA6"/>
+  <text x="110" y="360" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#5B6B7C">발급(신청)</text>
+  <text x="110" y="465" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="92" fill="#1a1a1a">~ 11월 30일</text>
+  <text x="110" y="530" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#5B6B7C">2026.2.2(월) ~ 11.30(월)</text>
+
+  <!-- 사용 카드 (강조) -->
+  <rect x="60" y="610" width="960" height="320" rx="24" fill="#FFF6E6" stroke="#FFD23F" stroke-width="3"/>
+  <rect x="60" y="610" width="14" height="320" rx="7" fill="#E23B3B"/>
+  <text x="110" y="705" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#E23B3B">사용(결제)</text>
+  <text x="110" y="815" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="92" fill="#E23B3B">~ 12월 31일</text>
+  <text x="110" y="882" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="40" fill="#5B6B7C">2026.2.2(월) ~ 12.31(목) 23:59</text>
+
+  <!-- 경고 박스 -->
+  <rect x="60" y="980" width="960" height="220" rx="24" fill="#1B5FA6"/>
+  <text x="110" y="1070" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#FFD23F">12/31 지나면</text>
+  <text x="110" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">잔액 전액 국고 반납 (환불·이월 없음)</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">발급 11.30 · 사용 12.31 마감 | blog.naver.com/trip_chocho</text>
+</svg>

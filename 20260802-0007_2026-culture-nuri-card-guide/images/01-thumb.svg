@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1B5FA6"/>
+  <circle cx="950" cy="180" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="220" height="68" fill="#FFD23F"/>
+  <text x="190" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <!-- 마감 임박 뱃지 -->
+  <rect x="320" y="90" rx="34" ry="34" width="240" height="68" fill="#E23B3B"/>
+  <text x="440" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#ffffff" text-anchor="middle">잔액 소멸 주의</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#E8EEF5">2026 문화누리카드</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="150" fill="#ffffff">1인당 15만원</text>
+  <text x="80" y="640" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="150" fill="#FFD23F">12/31 마감</text>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="740" rx="20" ry="20" width="920" height="180" fill="#ffffff" opacity="0.14"/>
+  <text x="112" y="812" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#ffffff">지나면 잔액 전액 국고 반납</text>
+  <text x="112" y="882" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#FFD23F">지금 온라인으로 알뜰 소진</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1010" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
