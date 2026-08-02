@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1F8A53"/>
+  <circle cx="950" cy="180" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="200" height="68" fill="#FFD23F"/>
+  <text x="180" y="136" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">세금/환급</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="300" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#E8EEF5">8월은 '주민세의 달'</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="440" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="120" fill="#ffffff">2026 주민세</text>
+  <text x="80" y="580" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="120" fill="#ffffff">개인분 납부</text>
+
+  <!-- 마감 강조 박스 -->
+  <rect x="80" y="640" rx="20" ry="20" width="920" height="120" fill="#FFD23F"/>
+  <text x="540" y="720" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="66" fill="#155c38" text-anchor="middle">8월 16일 ~ 8월 31일(월)</text>
+
+  <!-- 디테일 -->
+  <rect x="80" y="800" rx="20" ry="20" width="920" height="140" fill="#ffffff" opacity="0.14"/>
+  <text x="110" y="862" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">세액 지역별 상이 · 서울 6,000원</text>
+  <text x="110" y="916" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#FFD23F">하루만 늦어도 가산금 3%</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1010" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

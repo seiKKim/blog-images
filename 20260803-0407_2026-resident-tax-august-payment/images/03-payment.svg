@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">주민세 납부방법 6가지</text>
+  <text x="60" y="165" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="40" fill="#DFF3E8">고지서 없어도 온라인 조회·납부 OK</text>
+
+  <!-- 행 템플릿 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <!-- 1 -->
+    <rect x="60" y="255" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="105" y="330" font-weight="bold" font-size="46" fill="#1a1a1a">위택스 / 스마트위택스</text>
+    <text x="105" y="378" font-size="34" fill="#5B6B7C">www.wetax.go.kr · 모바일 앱 (00:30~23:30)</text>
+
+    <!-- 2 -->
+    <rect x="60" y="415" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="105" y="490" font-weight="bold" font-size="46" fill="#1a1a1a">서울시 ETAX</text>
+    <text x="105" y="538" font-size="34" fill="#5B6B7C">etax.seoul.go.kr · 서울 전용 (서울 외는 위택스)</text>
+
+    <!-- 3 -->
+    <rect x="60" y="575" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="105" y="650" font-weight="bold" font-size="46" fill="#1a1a1a">인터넷지로</text>
+    <text x="105" y="698" font-size="34" fill="#5B6B7C">www.giro.or.kr</text>
+
+    <!-- 4 -->
+    <rect x="60" y="735" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="105" y="810" font-weight="bold" font-size="46" fill="#1a1a1a">간편결제(페이)</text>
+    <text x="105" y="858" font-size="34" fill="#5B6B7C">카카오·네이버·페이코·토스 '지방세' 메뉴</text>
+
+    <!-- 5 -->
+    <rect x="60" y="895" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="105" y="970" font-weight="bold" font-size="46" fill="#1a1a1a">가상계좌</text>
+    <text x="105" y="1018" font-size="34" fill="#5B6B7C">고지서 기재 계좌 (타행 이체수수료 본인 부담)</text>
+
+    <!-- 6 -->
+    <rect x="60" y="1055" width="960" height="140" rx="18" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="105" y="1130" font-weight="bold" font-size="46" fill="#1a1a1a">ARS 전화</text>
+    <text x="105" y="1178" font-size="34" fill="#5B6B7C">고지서 안내 번호 (지역별 상이)</text>
+  </g>
+
+  <!-- 번호 원 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">
+    <circle cx="940" cy="325" r="40" fill="#1F8A53"/><text x="940" y="340">1</text>
+    <circle cx="940" cy="485" r="40" fill="#1F8A53"/><text x="940" y="500">2</text>
+    <circle cx="940" cy="645" r="40" fill="#1F8A53"/><text x="940" y="660">3</text>
+    <circle cx="940" cy="805" r="40" fill="#1F8A53"/><text x="940" y="820">4</text>
+    <circle cx="940" cy="965" r="40" fill="#1F8A53"/><text x="940" y="980">5</text>
+    <circle cx="940" cy="1125" r="40" fill="#1F8A53"/><text x="940" y="1140">6</text>
+  </g>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#5B6B7C">출처: 위택스(wetax.go.kr) · 서울시 ETAX(etax.seoul.go.kr)</text>
+</svg>

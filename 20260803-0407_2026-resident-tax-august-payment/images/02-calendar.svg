@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="105" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">2026년 8월 납부 달력</text>
+  <text x="60" y="165" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="40" fill="#DFF3E8">주민세 개인분 정기납부 기간</text>
+
+  <!-- 요일 헤더 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="40" text-anchor="middle">
+    <text x="120" y="320" fill="#E23B3B">일</text>
+    <text x="266" y="320" fill="#3a3a3a">월</text>
+    <text x="412" y="320" fill="#3a3a3a">화</text>
+    <text x="558" y="320" fill="#3a3a3a">수</text>
+    <text x="704" y="320" fill="#3a3a3a">목</text>
+    <text x="850" y="320" fill="#3a3a3a">금</text>
+    <text x="996" y="320" fill="#1B5FA6">토</text>
+  </g>
+
+  <!-- 날짜 그리드: 8/1(토) 시작. cell 130x120, x시작 55, gap 16 -->
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="44">
+    <!-- 주1: 1(토) -->
+    <text x="996" y="410" fill="#1B5FA6" text-anchor="middle">1</text>
+    <!-- 주2: 2~8 -->
+    <text x="120" y="530" fill="#E23B3B" text-anchor="middle">2</text>
+    <text x="266" y="530" fill="#3a3a3a" text-anchor="middle">3</text>
+    <text x="412" y="530" fill="#3a3a3a" text-anchor="middle">4</text>
+    <text x="558" y="530" fill="#3a3a3a" text-anchor="middle">5</text>
+    <text x="704" y="530" fill="#3a3a3a" text-anchor="middle">6</text>
+    <text x="850" y="530" fill="#3a3a3a" text-anchor="middle">7</text>
+    <text x="996" y="530" fill="#1B5FA6" text-anchor="middle">8</text>
+    <!-- 주3: 9~15 -->
+    <text x="120" y="650" fill="#E23B3B" text-anchor="middle">9</text>
+    <text x="266" y="650" fill="#3a3a3a" text-anchor="middle">10</text>
+    <text x="412" y="650" fill="#3a3a3a" text-anchor="middle">11</text>
+    <text x="558" y="650" fill="#3a3a3a" text-anchor="middle">12</text>
+    <text x="704" y="650" fill="#3a3a3a" text-anchor="middle">13</text>
+    <text x="850" y="650" fill="#3a3a3a" text-anchor="middle">14</text>
+    <text x="996" y="650" fill="#1B5FA6" text-anchor="middle">15</text>
+  </g>
+
+  <!-- 납부기간 하이라이트 밴드: 16(토)~31(월) -->
+  <!-- 주4 배경: 16~22 전체 -->
+  <rect x="47" y="690" width="986" height="120" rx="16" fill="#1F8A53" opacity="0.15"/>
+  <!-- 주5 배경: 23~29 전체 -->
+  <rect x="47" y="826" width="986" height="120" rx="16" fill="#1F8A53" opacity="0.15"/>
+  <!-- 주6 배경: 30~31 -->
+  <rect x="47" y="962" width="256" height="120" rx="16" fill="#1F8A53" opacity="0.15"/>
+  <!-- 16 시작 강조 원 (일요일, 좌측) -->
+  <circle cx="120" cy="748" r="52" fill="#1F8A53"/>
+  <!-- 31 마감 강조 원 -->
+  <circle cx="266" cy="1020" r="52" fill="#E23B3B"/>
+
+  <g font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="44">
+    <!-- 주4: 16~22 (16은 원 위 흰 글씨로 아래 재출력) -->
+    <text x="266" y="770" fill="#155c38" text-anchor="middle">17</text>
+    <text x="412" y="770" fill="#155c38" text-anchor="middle">18</text>
+    <text x="558" y="770" fill="#155c38" text-anchor="middle">19</text>
+    <text x="704" y="770" fill="#155c38" text-anchor="middle">20</text>
+    <text x="850" y="770" fill="#155c38" text-anchor="middle">21</text>
+    <text x="996" y="770" fill="#1B5FA6" text-anchor="middle">22</text>
+    <!-- 주5: 23~29 -->
+    <text x="120" y="906" fill="#E23B3B" text-anchor="middle">23</text>
+    <text x="266" y="906" fill="#155c38" text-anchor="middle">24</text>
+    <text x="412" y="906" fill="#155c38" text-anchor="middle">25</text>
+    <text x="558" y="906" fill="#155c38" text-anchor="middle">26</text>
+    <text x="704" y="906" fill="#155c38" text-anchor="middle">27</text>
+    <text x="850" y="906" fill="#155c38" text-anchor="middle">28</text>
+    <text x="996" y="906" fill="#155c38" text-anchor="middle">29</text>
+    <!-- 주6: 30~31 -->
+    <text x="120" y="1042" fill="#E23B3B" text-anchor="middle">30</text>
+    <text x="266" y="1040" fill="#ffffff" text-anchor="middle">31</text>
+  </g>
+  <!-- 16 흰 글씨(원 위) -->
+  <text x="120" y="768" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">16</text>
+
+  <!-- 하단 요약 밴드 -->
+  <rect x="60" y="1120" width="960" height="110" rx="18" fill="#1F8A53"/>
+  <text x="540" y="1190" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff" text-anchor="middle">8월 31일(월) 마감 · 연장 없음</text>
+
+  <!-- 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="34" fill="#5B6B7C">출처: 위택스(wetax.go.kr) · 거주지 지자체 고지</text>
+</svg>
