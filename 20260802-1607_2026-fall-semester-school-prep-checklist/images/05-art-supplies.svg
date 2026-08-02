@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF4F6"/>
+  <rect width="1080" height="160" fill="#E0556E"/>
+  <text x="60" y="98" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">색연필 · 크레파스 · 미술 준비물</text>
+
+  <!-- 색 크레파스 아이콘 줄 -->
+  <g transform="translate(70,210)">
+    <rect x="0"   y="0" width="46" height="150" rx="10" fill="#E0556E"/>
+    <rect x="60"  y="0" width="46" height="150" rx="10" fill="#F0A93C"/>
+    <rect x="120" y="0" width="46" height="150" rx="10" fill="#FFD23F"/>
+    <rect x="180" y="0" width="46" height="150" rx="10" fill="#7BC96F"/>
+    <rect x="240" y="0" width="46" height="150" rx="10" fill="#4B8FE0"/>
+    <rect x="300" y="0" width="46" height="150" rx="10" fill="#9B6FD0"/>
+    <g fill="#ffffff" opacity="0.5">
+      <polygon points="0,0 46,0 23,-24"/>
+      <polygon points="60,0 106,0 83,-24"/>
+      <polygon points="120,0 166,0 143,-24"/>
+      <polygon points="180,0 226,0 203,-24"/>
+      <polygon points="240,0 286,0 263,-24"/>
+      <polygon points="300,0 346,0 323,-24"/>
+    </g>
+  </g>
+
+  <!-- 리스트 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="40" fill="#1a1a1a">
+    <text x="520" y="240">· 크레파스 · 색연필</text>
+    <text x="520" y="310">· 사인펜 · 물감</text>
+    <text x="520" y="380">· 가위 · 풀 · 스케치북</text>
+  </g>
+
+  <!-- 주의 띠 -->
+  <rect x="60" y="470" width="960" height="170" rx="20" fill="#FFE3AA"/>
+  <text x="90" y="540" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#8A5A00">학교가 공용으로 제공하기도 해요</text>
+  <text x="90" y="600" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#8A5A00">가정통신문 확인 후 부족한 것만 구입!</text>
+
+  <text x="60" y="692" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#B08894">blog.naver.com/trip_chocho</text>
+</svg>

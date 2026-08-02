@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#FFF4F6"/>
+  <rect width="1080" height="160" fill="#E0556E"/>
+  <text x="60" y="82" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">이름 스티커는 사실상 필수</text>
+  <text x="60" y="134" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#FFD9E1">모든 학용품·개인 물품에 이름 표시</text>
+
+  <!-- 스티커 붙은 물건들 -->
+  <!-- 연필 + 라벨 -->
+  <g transform="translate(90,240)">
+    <rect x="0" y="0" width="40" height="200" fill="#FFC94D"/>
+    <polygon points="0,200 40,200 20,245" fill="#F4A0B0"/>
+    <rect x="-6" y="70" width="52" height="40" rx="6" fill="#ffffff" stroke="#E0556E" stroke-width="3"/>
+    <text x="20" y="98" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="20" fill="#E0556E" text-anchor="middle">이름</text>
+  </g>
+  <!-- 물통 + 라벨 -->
+  <g transform="translate(220,240)">
+    <rect x="0" y="30" width="110" height="220" rx="24" fill="#7EC0F0"/>
+    <rect x="30" y="0" width="50" height="40" rx="10" fill="#4B8FE0"/>
+    <rect x="10" y="110" width="90" height="56" rx="8" fill="#ffffff"/>
+    <text x="55" y="147" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="26" fill="#E0556E" text-anchor="middle">이름</text>
+  </g>
+  <!-- 도시락통 + 라벨 -->
+  <g transform="translate(390,300)">
+    <rect x="0" y="0" width="200" height="150" rx="20" fill="#7BC96F"/>
+    <rect x="0" y="0" width="200" height="34" rx="20" fill="#5aa84f"/>
+    <rect x="45" y="60" width="110" height="56" rx="8" fill="#ffffff"/>
+    <text x="100" y="97" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="28" fill="#E0556E" text-anchor="middle">이름</text>
+  </g>
+
+  <!-- 우측 리스트 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#1a1a1a">
+    <text x="650" y="290">네임 스티커</text>
+    <text x="650" y="345" font-size="30" fill="#666">초소형~대형 사이즈별</text>
+    <text x="650" y="425">의류 라벨 스티커</text>
+    <text x="650" y="480" font-size="30" fill="#666">체육복·모자·우산에 접착</text>
+  </g>
+
+  <!-- 꿀팁 띠 -->
+  <rect x="60" y="530" width="960" height="120" rx="20" fill="#FFE3AA"/>
+  <text x="540" y="605" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#8A5A00" text-anchor="middle">사이즈별로 넉넉히 = 다음 학기도 재사용</text>
+
+  <text x="60" y="692" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#B08894">blog.naver.com/trip_chocho</text>
+</svg>
