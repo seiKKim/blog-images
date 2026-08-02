@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F24B2E"/>
+      <stop offset="0.55" stop-color="#D62A22"/>
+      <stop offset="1" stop-color="#9E1B1B"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFE27A"/>
+      <stop offset="1" stop-color="#FFB020"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+
+  <!-- 태양 장식 -->
+  <circle cx="915" cy="205" r="150" fill="url(#sun)" opacity="0.95"/>
+  <g stroke="#FFD23F" stroke-width="10" stroke-linecap="round" opacity="0.55">
+    <line x1="915" y1="10" x2="915" y2="55"/>
+    <line x1="1075" y1="205" x2="1030" y2="205"/>
+    <line x1="800" y1="90" x2="832" y2="122"/>
+    <line x1="1030" y1="90" x2="998" y2="122"/>
+    <line x1="800" y1="320" x2="832" y2="288"/>
+    <line x1="1030" y1="320" x2="998" y2="288"/>
+  </g>
+  <circle cx="120" cy="1000" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="90" rx="34" ry="34" width="230" height="68" fill="#FFD23F"/>
+  <text x="195" y="136" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#7A1010" text-anchor="middle">오늘의 이슈</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#FFE9B0">2026 늦더위·열대야 전망</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="495" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="96" fill="#ffffff">양산</text>
+  <text x="330" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="170" fill="#FFD23F">42.5℃</text>
+  <text x="80" y="655" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="88" fill="#ffffff">사상 첫 42℃ 돌파</text>
+
+  <!-- 후킹 박스 -->
+  <rect x="80" y="742" rx="24" ry="24" width="920" height="150" fill="#ffffff" opacity="0.16"/>
+  <text x="110" y="812" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="66" fill="#ffffff">"처서 매직" 실화?</text>
+  <text x="110" y="868" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#FFE9B0">8월 폭염·열대야 언제까지 가나</text>
+
+  <!-- 채널 표시 -->
+  <text x="80" y="1015" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#FFE9B0" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

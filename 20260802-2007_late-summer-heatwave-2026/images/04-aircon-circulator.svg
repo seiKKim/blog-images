@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="room" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#EAF3FB"/>
+      <stop offset="1" stop-color="#DCEBF7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#FBF3EE"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#1B5FA6"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">에어컨 + 서큘레이터 병행</text>
+  <text x="60" y="170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#CFE4F7">찬 공기를 방 전체로 순환시키는 법</text>
+
+  <!-- 방 -->
+  <rect x="80" y="270" width="920" height="720" rx="20" fill="url(#room)" stroke="#B9D3EA" stroke-width="3"/>
+
+  <!-- 에어컨 (좌상단, 날개 위로) -->
+  <rect x="120" y="320" width="300" height="110" rx="16" fill="#ffffff" stroke="#9BB9D6" stroke-width="3"/>
+  <rect x="140" y="405" width="260" height="14" rx="7" fill="#7FA6CC"/>
+  <text x="270" y="392" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#1B5FA6" text-anchor="middle">에어컨</text>
+
+  <!-- 풍향 위로 화살표 -->
+  <g stroke="#1B5FA6" stroke-width="8" fill="none" stroke-linecap="round">
+    <path d="M270 405 q 40 -55 90 -55"/>
+    <path d="M360 350 l -22 -6 M360 350 l 4 22"/>
+  </g>
+  <text x="470" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="30" fill="#1B5FA6">풍향은 위로</text>
+
+  <!-- 찬 공기 순환 곡선 (상단 → 우측 → 하단으로 도는 파란 화살표) -->
+  <g stroke="#3E9BE0" stroke-width="10" fill="none" stroke-linecap="round" opacity="0.85">
+    <path d="M420 470 C 640 490, 820 540, 850 690"/>
+    <path d="M850 690 l 20 -22 M850 690 l -24 -10"/>
+    <path d="M840 760 C 650 900, 400 900, 250 800"/>
+    <path d="M250 800 l 4 -26 M250 800 l 26 6"/>
+  </g>
+  <text x="600" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#1B77C0">찬 공기 순환</text>
+
+  <!-- 서큘레이터 (우하단) -->
+  <circle cx="820" cy="820" r="70" fill="#ffffff" stroke="#9BB9D6" stroke-width="4"/>
+  <circle cx="820" cy="820" r="46" fill="#EAF3FB" stroke="#7FA6CC" stroke-width="3"/>
+  <g stroke="#7FA6CC" stroke-width="6" stroke-linecap="round">
+    <line x1="820" y1="820" x2="820" y2="782"/>
+    <line x1="820" y1="820" x2="853" y2="840"/>
+    <line x1="820" y1="820" x2="787" y2="840"/>
+  </g>
+  <rect x="805" y="890" width="30" height="34" fill="#9BB9D6"/>
+  <rect x="775" y="922" width="90" height="16" rx="8" fill="#9BB9D6"/>
+  <text x="820" y="965" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="30" fill="#1B5FA6" text-anchor="middle">서큘레이터</text>
+
+  <!-- 서큘레이터 바람 화살표 (위 방향) -->
+  <g stroke="#F24B2E" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.9">
+    <path d="M820 748 q -60 -110 -180 -150"/>
+    <path d="M640 598 l 26 -2 M640 598 l 8 24"/>
+  </g>
+
+  <!-- 효과 강조 박스 -->
+  <rect x="80" y="1030" width="920" height="150" rx="20" fill="#EAF3FB" stroke="#B9D3EA" stroke-width="2"/>
+  <text x="115" y="1092" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1B5FA6">냉방 효과 최대 20%까지</text>
+  <text x="115" y="1145" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#2B2F36">설정온도 26~28℃ + 순환으로 덜 낮춰도 시원</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE1D9"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#7A6156">참고: 본문 냉방 효율 분석 · 값은 조건에 따라 다를 수 있음</text>
+</svg>

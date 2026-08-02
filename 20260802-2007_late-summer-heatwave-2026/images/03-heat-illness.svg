@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#FBF3EE"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="210" fill="#D62A22"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">온열질환 4종 · 증상과 대처</text>
+  <text x="60" y="170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#FFE9B0">7월 말~8월 초가 가장 많이 발생하는 구간</text>
+
+  <!-- 카드1 열사병 -->
+  <rect x="60" y="255" width="960" height="150" rx="18" fill="#ffffff" stroke="#E7D4CB" stroke-width="2"/>
+  <rect x="60" y="255" width="12" height="150" rx="6" fill="#C21F1F"/>
+  <text x="100" y="315" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#2B2F36">열사병</text>
+  <text x="100" y="368" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#4A4A4A">체온 40℃ 이상 · 의식 저하 · 땀 없음</text>
+  <rect x="770" y="300" width="220" height="60" rx="30" fill="#FBE0DE"/>
+  <text x="880" y="340" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#C21F1F" text-anchor="middle">매우 높음</text>
+
+  <!-- 카드2 열탈진 -->
+  <rect x="60" y="425" width="960" height="150" rx="18" fill="#ffffff" stroke="#E7D4CB" stroke-width="2"/>
+  <rect x="60" y="425" width="12" height="150" rx="6" fill="#E8722C"/>
+  <text x="100" y="485" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#2B2F36">열탈진</text>
+  <text x="100" y="538" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#4A4A4A">심한 발한 · 차가운 피부 · 극심한 피로</text>
+  <rect x="820" y="470" width="170" height="60" rx="30" fill="#FCEBD9"/>
+  <text x="905" y="510" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#C96518" text-anchor="middle">높음</text>
+
+  <!-- 카드3 열경련 -->
+  <rect x="60" y="595" width="960" height="150" rx="18" fill="#ffffff" stroke="#E7D4CB" stroke-width="2"/>
+  <rect x="60" y="595" width="12" height="150" rx="6" fill="#E0A32C"/>
+  <text x="100" y="655" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#2B2F36">열경련</text>
+  <text x="100" y="708" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#4A4A4A">다리·복부 근육 경련</text>
+  <rect x="820" y="640" width="170" height="60" rx="30" fill="#FBF1D6"/>
+  <text x="905" y="680" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#9A7715" text-anchor="middle">중간</text>
+
+  <!-- 카드4 열실신 -->
+  <rect x="60" y="765" width="960" height="150" rx="18" fill="#ffffff" stroke="#E7D4CB" stroke-width="2"/>
+  <rect x="60" y="765" width="12" height="150" rx="6" fill="#E0A32C"/>
+  <text x="100" y="825" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#2B2F36">열실신</text>
+  <text x="100" y="878" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#4A4A4A">갑작스러운 실신 · 어지러움</text>
+  <rect x="820" y="810" width="170" height="60" rx="30" fill="#FBF1D6"/>
+  <text x="905" y="850" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#9A7715" text-anchor="middle">중간</text>
+
+  <!-- 응급대처 순서 -->
+  <rect x="60" y="960" width="960" height="230" rx="20" fill="#2B2F36"/>
+  <text x="95" y="1025" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#FFD23F">의심 증상 시 대처 순서</text>
+  <text x="95" y="1090" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#ffffff">1. 서늘한 곳으로 이동  2. 수분 보충</text>
+  <text x="95" y="1145" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="36" fill="#ffffff">3. 의식 없으면 물 먹이지 말고 즉시 119</text>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE1D9"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#7A6156">출처: 질병관리청 온열질환 응급실감시체계</text>
+</svg>
