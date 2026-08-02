@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#1B5FA6"/>
+  <circle cx="950" cy="180" r="260" fill="#ffffff" opacity="0.08"/>
+  <circle cx="120" cy="980" r="200" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="86" rx="34" ry="34" width="220" height="68" fill="#FFD23F"/>
+  <text x="190" y="132" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">정부지원금</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="258" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#E8EEF5">2026 다자녀 혜택 총정리</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="392" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="104" fill="#ffffff">2자녀부터? </text>
+  <text x="80" y="510" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="104" fill="#FFD23F">3자녀부터?</text>
+
+  <!-- 두 갈래 카드 -->
+  <rect x="80" y="576" rx="24" ry="24" width="440" height="300" fill="#ffffff" opacity="0.14"/>
+  <text x="300" y="646" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#FFD23F" text-anchor="middle">2자녀부터</text>
+  <text x="300" y="716" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#ffffff" text-anchor="middle">주거·자동차</text>
+  <text x="300" y="768" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#ffffff" text-anchor="middle">철도·고속도로</text>
+  <text x="300" y="820" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#ffffff" text-anchor="middle">아이돌봄</text>
+
+  <rect x="560" y="576" rx="24" ry="24" width="440" height="300" fill="#ffffff" opacity="0.14"/>
+  <text x="780" y="646" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff" text-anchor="middle">3자녀부터</text>
+  <text x="780" y="716" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#E8EEF5" text-anchor="middle">전기·도시가스</text>
+  <text x="780" y="768" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#E8EEF5" text-anchor="middle">지역난방</text>
+  <text x="780" y="820" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#E8EEF5" text-anchor="middle">국가장학금</text>
+
+  <!-- 디테일 띠 -->
+  <rect x="80" y="912" rx="20" ry="20" width="920" height="88" fill="#FFD23F"/>
+  <text x="540" y="970" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a" text-anchor="middle">고속도로 통행료 감면 2026 신규 시행</text>
+
+  <text x="80" y="1046" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
