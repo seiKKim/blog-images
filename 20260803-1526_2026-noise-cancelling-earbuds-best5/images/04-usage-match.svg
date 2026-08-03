@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F1EA"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">용도별 추천 매칭</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-normal="normal"
+        font-size="38" fill="#FFE9C7">개학·공부·재택 맞춤 (공부 / 통학 / 운동 / 입문)</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- A 공부 -->
+    <rect x="60" y="250" width="960" height="230" rx="20" fill="#ffffff" stroke="#E6D3C0"/>
+    <rect x="60" y="250" width="960" height="70" rx="20" fill="#FCE9D6"/>
+    <text x="95" y="298" font-size="42" font-weight="bold" fill="#B5601F">A. 공부 / 독서실 / 카페 집중</text>
+    <text x="95" y="380" font-size="38" fill="#1a1a1a">기준: ANC 성능 &gt; 착용감 &gt; 배터리</text>
+    <text x="95" y="440" font-size="38" font-weight="bold" fill="#E8722C">소니 XM6·XM5 / 에어팟 프로 3(아이폰)</text>
+
+    <!-- B 통학 -->
+    <rect x="60" y="510" width="960" height="230" rx="20" fill="#ffffff" stroke="#E6D3C0"/>
+    <rect x="60" y="510" width="960" height="70" rx="20" fill="#FCE9D6"/>
+    <text x="95" y="558" font-size="42" font-weight="bold" fill="#B5601F">B. 통학 / 출퇴근</text>
+    <text x="95" y="640" font-size="38" fill="#1a1a1a">기준: ANC(저음) + 멀티포인트 + 통화</text>
+    <text x="95" y="700" font-size="38" font-weight="bold" fill="#E8722C">버즈3 프로 / 에어팟 프로 3</text>
+
+    <!-- C 운동 -->
+    <rect x="60" y="770" width="960" height="230" rx="20" fill="#ffffff" stroke="#E6D3C0"/>
+    <rect x="60" y="770" width="960" height="70" rx="20" fill="#FCE9D6"/>
+    <text x="95" y="818" font-size="42" font-weight="bold" fill="#B5601F">C. 운동 겸용</text>
+    <text x="95" y="900" font-size="38" fill="#1a1a1a">기준: 방수 + 안정적 착용</text>
+    <text x="95" y="960" font-size="38" font-weight="bold" fill="#E8722C">버즈3 프로·FE(IP57) / 에어팟 프로 3</text>
+
+    <!-- D 입문 -->
+    <rect x="60" y="1030" width="960" height="230" rx="20" fill="#ffffff" stroke="#E6D3C0"/>
+    <rect x="60" y="1030" width="960" height="70" rx="20" fill="#FCE9D6"/>
+    <text x="95" y="1078" font-size="42" font-weight="bold" fill="#B5601F">D. 가성비 입문</text>
+    <text x="95" y="1160" font-size="38" fill="#1a1a1a">기준: 가격 + 기본기(연결·배터리)</text>
+    <text x="95" y="1220" font-size="38" font-weight="bold" fill="#E8722C">QCY 에일리버즈·HT 시리즈(3만원 안팎)</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EBDFD2"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#8A6C50">소니 XM6는 IPX4라 격한 땀 운동엔 상대적으로 아쉬움</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F1EA"/>
+  <rect width="1080" height="200" fill="#E8722C"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">가격대별 추천 BEST 5</text>
+  <text x="60" y="165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="38" fill="#FFE9C7">프리미엄 → 중급 → 가성비 (2026년 8월 초 기준 대략)</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1 애플 -->
+    <rect x="60" y="250" width="960" height="150" rx="18" fill="#ffffff" stroke="#E6D3C0"/>
+    <rect x="60" y="250" width="14" height="150" rx="6" fill="#E8722C"/>
+    <text x="110" y="315" font-size="42" font-weight="bold" fill="#1a1a1a">1. 애플 에어팟 프로 3</text>
+    <text x="110" y="368" font-size="34" fill="#7A6555">프리미엄 · 아이폰 1순위 · IP57</text>
+    <text x="1000" y="345" font-size="44" font-weight="bold" fill="#E8722C" text-anchor="end">정가 369,000원</text>
+
+    <!-- 2 소니 -->
+    <rect x="60" y="420" width="960" height="150" rx="18" fill="#ffffff" stroke="#E6D3C0"/>
+    <rect x="60" y="420" width="14" height="150" rx="6" fill="#E8722C"/>
+    <text x="110" y="485" font-size="42" font-weight="bold" fill="#1a1a1a">2. 소니 WF-1000XM6 / XM5</text>
+    <text x="110" y="538" font-size="34" fill="#7A6555">프리미엄 · 노캔·음질 최우선 · LDAC</text>
+    <text x="1000" y="500" font-size="40" font-weight="bold" fill="#E8722C" text-anchor="end">XM6 40만원대 전망</text>
+    <text x="1000" y="548" font-size="34" fill="#7A6555" text-anchor="end">XM5 22만원대</text>
+
+    <!-- 3 삼성 -->
+    <rect x="60" y="590" width="960" height="150" rx="18" fill="#ffffff" stroke="#E6D3C0"/>
+    <rect x="60" y="590" width="14" height="150" rx="6" fill="#E8722C"/>
+    <text x="110" y="655" font-size="42" font-weight="bold" fill="#1a1a1a">3. 삼성 갤럭시 버즈3 프로</text>
+    <text x="110" y="708" font-size="34" fill="#7A6555">프리미엄 · 갤럭시 1순위 · IP57</text>
+    <text x="1000" y="680" font-size="40" font-weight="bold" fill="#E8722C" text-anchor="end">출시가 219,000원</text>
+    <text x="1000" y="726" font-size="32" fill="#7A6555" text-anchor="end">중고 10~15만원대 시세</text>
+
+    <!-- 4 앤커 -->
+    <rect x="60" y="760" width="960" height="150" rx="18" fill="#ffffff" stroke="#E6D3C0"/>
+    <rect x="60" y="760" width="14" height="150" rx="6" fill="#1F8A53"/>
+    <text x="110" y="825" font-size="42" font-weight="bold" fill="#1a1a1a">4. 앤커 사운드코어 리버티5</text>
+    <text x="110" y="878" font-size="34" fill="#7A6555">중급 · 가성비 본진 · LDAC 지원</text>
+    <text x="1000" y="855" font-size="44" font-weight="bold" fill="#1F8A53" text-anchor="end">10만원대</text>
+
+    <!-- 5 QCY -->
+    <rect x="60" y="930" width="960" height="150" rx="18" fill="#ffffff" stroke="#E6D3C0"/>
+    <rect x="60" y="930" width="14" height="150" rx="6" fill="#1B5FA6"/>
+    <text x="110" y="995" font-size="42" font-weight="bold" fill="#1a1a1a">5. QCY 계열 (에일리버즈 등)</text>
+    <text x="110" y="1048" font-size="34" fill="#7A6555">입문 가성비 · ANC는 보조 수준</text>
+    <text x="1000" y="1025" font-size="44" font-weight="bold" fill="#1B5FA6" text-anchor="end">2~3만원대</text>
+  </g>
+
+  <!-- 안내 박스 -->
+  <rect x="60" y="1110" width="960" height="120" rx="16" fill="#FCE9D6" stroke="#E8C4A0"/>
+  <text x="90" y="1165" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="bold" fill="#B5601F">가격·재고는 수시로 변동 — 구매 전 최신가 확인 필수</text>
+  <text x="90" y="1210" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#8A6C50">2~3만원대 ANC는 완전 차단이 아닌 보조 수준입니다</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EBDFD2"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#8A6C50">가격 기준: 2026년 8월 초 대략 · 프로모션 따라 변동</text>
+</svg>

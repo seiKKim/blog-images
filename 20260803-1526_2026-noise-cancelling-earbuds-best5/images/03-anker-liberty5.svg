@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720">
+  <rect width="1080" height="720" fill="#F7F1EA"/>
+  <rect width="1080" height="150" fill="#E8722C"/>
+  <rect x="60" y="42" rx="30" ry="30" width="240" height="62" fill="#FFD23F"/>
+  <text x="180" y="85" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#1a1a1a" text-anchor="middle">중급 · 가성비</text>
+  <text x="330" y="98" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="52" fill="#ffffff">앤커 사운드코어 리버티5</text>
+
+  <!-- 큰 숫자 강조 -->
+  <text x="60" y="290" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="130" fill="#E8722C">10만원대</text>
+  <text x="60" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#7A6555">LDAC + 하이브리드 ANC 동시 제공</text>
+
+  <!-- 스펙 3칸 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="410" width="300" height="200" rx="18" fill="#ffffff" stroke="#E6D3C0"/>
+    <text x="210" y="475" font-size="34" fill="#7A6555" text-anchor="middle">ANC 실측</text>
+    <text x="210" y="545" font-size="60" font-weight="bold" fill="#1a1a1a" text-anchor="middle">약 -24dB</text>
+
+    <rect x="390" y="410" width="300" height="200" rx="18" fill="#ffffff" stroke="#E6D3C0"/>
+    <text x="540" y="475" font-size="34" fill="#7A6555" text-anchor="middle">배터리(ANC ON)</text>
+    <text x="540" y="545" font-size="60" font-weight="bold" fill="#1a1a1a" text-anchor="middle">약 7시간</text>
+
+    <rect x="720" y="410" width="300" height="200" rx="18" fill="#ffffff" stroke="#E6D3C0"/>
+    <text x="870" y="475" font-size="34" fill="#7A6555" text-anchor="middle">코덱</text>
+    <text x="870" y="545" font-size="60" font-weight="bold" fill="#1a1a1a" text-anchor="middle">LDAC</text>
+  </g>
+
+  <text x="60" y="675" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="33" fill="#B5601F" font-weight="bold">노캔·음질 제대로 쓰고 싶은 안드로이드 가성비 사용자에게</text>
+</svg>

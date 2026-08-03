@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E8722C"/>
+      <stop offset="1" stop-color="#C85A18"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <circle cx="950" cy="170" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="110" cy="1000" r="220" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="86" rx="34" ry="34" width="290" height="68" fill="#FFD23F"/>
+  <text x="225" y="132" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">개학·공부 시즌</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="290" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#FFE9C7">2026년 8월 · 가격대별 총정리</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="430" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#ffffff">노이즈캔슬링</text>
+  <text x="80" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="120" fill="#ffffff">이어폰 <tspan fill="#FFD23F">BEST 5</tspan></text>
+
+  <!-- 3만원대 → 프리미엄 강조 배너 -->
+  <rect x="80" y="640" rx="24" ry="24" width="920" height="150" fill="#ffffff" opacity="0.16"/>
+  <text x="110" y="702" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">3만원대부터 <tspan fill="#FFD23F">프리미엄</tspan>까지</text>
+  <text x="110" y="762" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="42" fill="#FFE9C7">공부·통학·운동 용도별 추천</text>
+
+  <!-- 브랜드 아이콘 5개 표시(도형) -->
+  <g>
+    <circle cx="160" cy="900" r="52" fill="#ffffff"/>
+    <text x="160" y="918" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#C85A18" text-anchor="middle">1</text>
+    <circle cx="290" cy="900" r="52" fill="#ffffff" opacity="0.92"/>
+    <text x="290" y="918" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#C85A18" text-anchor="middle">2</text>
+    <circle cx="420" cy="900" r="52" fill="#ffffff" opacity="0.85"/>
+    <text x="420" y="918" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#C85A18" text-anchor="middle">3</text>
+    <circle cx="550" cy="900" r="52" fill="#ffffff" opacity="0.78"/>
+    <text x="550" y="918" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#C85A18" text-anchor="middle">4</text>
+    <circle cx="680" cy="900" r="52" fill="#ffffff" opacity="0.7"/>
+    <text x="680" y="918" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#C85A18" text-anchor="middle">5</text>
+  </g>
+
+  <text x="80" y="1018" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#FFE9C7" opacity="0.95">내 폰 생태계로 1차 선택 · 이어팁으로 마무리</text>
+</svg>
