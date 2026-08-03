@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="hd5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E2A4E"/>
+      <stop offset="1" stop-color="#164B86"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#EEF5FC"/>
+  <rect width="1080" height="230" fill="url(#hd5)"/>
+  <rect x="60" y="52" rx="26" ry="26" width="180" height="56" fill="#5FE0C8"/>
+  <text x="150" y="90" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#0E2A4E" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">냉감 침구·쿨매트 고르기</text>
+
+  <!-- 제품군 4칸 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 냉감 패드/매트 -->
+    <rect x="60" y="290" width="460" height="300" rx="20" fill="#ffffff" stroke="#D3E2F2"/>
+    <rect x="120" y="360" width="340" height="120" rx="14" fill="#DFF6F0" stroke="#9FE3D4"/>
+    <rect x="120" y="360" width="340" height="120" rx="14" fill="none" stroke="#5FE0C8" stroke-dasharray="10 10"/>
+    <text x="290" y="435" font-size="40" font-weight="bold" fill="#159C7E" text-anchor="middle">냉감 패드·매트</text>
+    <text x="290" y="540" font-size="32" fill="#3A5570" text-anchor="middle">열을 빠르게 분산</text>
+
+    <!-- 쿨매트 냉각젤 -->
+    <rect x="560" y="290" width="460" height="300" rx="20" fill="#ffffff" stroke="#D3E2F2"/>
+    <rect x="620" y="360" width="340" height="120" rx="14" fill="#DDECFA" stroke="#8FB4DC"/>
+    <circle cx="700" cy="420" r="18" fill="#7FD8FF"/>
+    <circle cx="760" cy="420" r="18" fill="#7FD8FF"/>
+    <circle cx="820" cy="420" r="18" fill="#7FD8FF"/>
+    <circle cx="880" cy="420" r="18" fill="#7FD8FF"/>
+    <text x="790" y="540" font-size="32" fill="#3A5570" text-anchor="middle">쿨매트 '냉각젤'</text>
+    <text x="790" y="345" font-size="30" font-weight="bold" fill="#1E5FA8" text-anchor="middle">체온 흡수→방출</text>
+
+    <!-- 냉감 베개/커버 -->
+    <rect x="60" y="620" width="460" height="300" rx="20" fill="#ffffff" stroke="#D3E2F2"/>
+    <rect x="120" y="690" width="340" height="120" rx="60" fill="#EAF3FB" stroke="#B7CEE6"/>
+    <text x="290" y="765" font-size="40" font-weight="bold" fill="#1E5FA8" text-anchor="middle">냉감 베개커버</text>
+    <text x="290" y="870" font-size="32" fill="#3A5570" text-anchor="middle">접촉냉감사 소재</text>
+
+    <!-- 차렵이불/시트 -->
+    <rect x="560" y="620" width="460" height="300" rx="20" fill="#ffffff" stroke="#D3E2F2"/>
+    <path d="M620 700 q 40 -30 80 0 q 40 30 80 0 q 40 -30 80 0 q 40 30 80 0 l 0 100 l -400 0 z"
+          fill="#DFF6F0" stroke="#9FE3D4"/>
+    <text x="790" y="765" font-size="40" font-weight="bold" fill="#159C7E" text-anchor="middle">냉감 차렵이불</text>
+    <text x="790" y="870" font-size="32" fill="#3A5570" text-anchor="middle">PCM·상변화물질</text>
+  </g>
+
+  <!-- 주의 박스 -->
+  <rect x="60" y="960" width="960" height="250" rx="20" fill="#FFF3D9" stroke="#F0D28A"/>
+  <text x="100" y="1030" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#B77A00">⚠ 고를 때 이것만 기억하세요</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5A4A20">
+    <text x="100" y="1100">• 냉감 이불은 체온으로 금방 데워지는 한계</text>
+    <text x="100" y="1160">• 쿨매트는 외부 공기 접촉 전제 → 몸보다 큰 사이즈</text>
+  </g>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCE9F5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: draft 본문(냉감 침구 원리·한계) 기준</text>
+</svg>

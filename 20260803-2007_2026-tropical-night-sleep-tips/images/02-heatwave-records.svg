@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="hd" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E2A4E"/>
+      <stop offset="1" stop-color="#164B86"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#EEF5FC"/>
+  <!-- 상단 헤더 -->
+  <rect width="1080" height="230" fill="url(#hd)"/>
+  <rect x="60" y="52" rx="26" ry="26" width="180" height="56" fill="#5FE0C8"/>
+  <text x="150" y="90" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#0E2A4E" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">2026년 8월 초 폭염·초열대야 기록</text>
+
+  <!-- 카드1 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="290" width="960" height="240" rx="20" fill="#ffffff" stroke="#D3E2F2"/>
+    <rect x="60" y="290" width="14" height="240" rx="7" fill="#E23B3B"/>
+    <text x="104" y="360" font-size="40" font-weight="bold" fill="#0E2A4E">8월 2일 · 경남 양산</text>
+    <text x="104" y="470" font-size="110" font-weight="bold" fill="#E23B3B">42.5℃</text>
+    <text x="560" y="440" font-size="34" fill="#3A5570">관측 사상 첫 낮 최고기온</text>
+    <text x="560" y="490" font-size="34" fill="#3A5570">42℃ 돌파 · 역대 1위</text>
+
+    <!-- 카드2 -->
+    <rect x="60" y="560" width="960" height="240" rx="20" fill="#ffffff" stroke="#D3E2F2"/>
+    <rect x="60" y="560" width="14" height="240" rx="7" fill="#1E5FA8"/>
+    <text x="104" y="630" font-size="40" font-weight="bold" fill="#0E2A4E">8월 1일 · 강릉</text>
+    <text x="104" y="740" font-size="110" font-weight="bold" fill="#1E5FA8">30.2℃</text>
+    <text x="560" y="710" font-size="34" fill="#3A5570">올해 첫 '초열대야'</text>
+    <text x="560" y="760" font-size="34" fill="#3A5570">밤 최저 30℃ 이상</text>
+
+    <!-- 카드3 -->
+    <rect x="60" y="830" width="960" height="240" rx="20" fill="#ffffff" stroke="#D3E2F2"/>
+    <rect x="60" y="830" width="14" height="240" rx="7" fill="#E8722C"/>
+    <text x="104" y="900" font-size="40" font-weight="bold" fill="#0E2A4E">8월 1일 · 부산</text>
+    <text x="104" y="1010" font-size="110" font-weight="bold" fill="#E8722C">38.8℃</text>
+    <text x="560" y="980" font-size="34" fill="#3A5570">1904년 관측 이래</text>
+    <text x="560" y="1030" font-size="34" fill="#3A5570">부산 역대 최고 일최고기온</text>
+  </g>
+
+  <!-- 요약 띠 -->
+  <rect x="60" y="1100" width="960" height="120" rx="20" fill="#0E2A4E"/>
+  <text x="540" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#5FE0C8" text-anchor="middle">열대야 = 밤 최저 25℃ 이상 · 초열대야 = 30℃ 이상</text>
+  <text x="540" y="1200" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#ffffff" text-anchor="middle">8월 최저기온, 평년보다 높을 확률 70%</text>
+
+  <!-- 출처 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCE9F5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 기상청 8월 전망(7/28 발표) 등 · draft 본문 기준</text>
+</svg>

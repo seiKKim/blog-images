@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="hd6" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E2A4E"/>
+      <stop offset="1" stop-color="#164B86"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#EEF5FC"/>
+  <rect width="1080" height="230" fill="url(#hd6)"/>
+  <rect x="60" y="52" rx="26" ry="26" width="180" height="56" fill="#5FE0C8"/>
+  <text x="150" y="90" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#0E2A4E" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">취침 전 숙면 습관 체크리스트</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1 -->
+    <rect x="60" y="290" width="960" height="140" rx="18" fill="#ffffff" stroke="#D3E2F2"/>
+    <circle cx="140" cy="360" r="34" fill="#DFF6F0"/>
+    <text x="140" y="374" font-size="42" font-weight="bold" fill="#159C7E" text-anchor="middle">✓</text>
+    <text x="210" y="350" font-size="42" font-weight="bold" fill="#0E2A4E">카페인·흡연·음주 피하기</text>
+    <text x="210" y="400" font-size="32" fill="#3A5570">커피·녹차·콜라 각성 · 음주는 깊은 잠 방해</text>
+
+    <!-- 2 -->
+    <rect x="60" y="450" width="960" height="140" rx="18" fill="#ffffff" stroke="#D3E2F2"/>
+    <circle cx="140" cy="520" r="34" fill="#DFF6F0"/>
+    <text x="140" y="534" font-size="42" font-weight="bold" fill="#159C7E" text-anchor="middle">✓</text>
+    <text x="210" y="510" font-size="42" font-weight="bold" fill="#0E2A4E">자기 직전 수분 몰아 섭취 금지</text>
+    <text x="210" y="560" font-size="32" fill="#3A5570">수박·물 과다 → 야뇨로 깸 · 저녁 과식도 피하기</text>
+
+    <!-- 3 -->
+    <rect x="60" y="610" width="960" height="140" rx="18" fill="#ffffff" stroke="#D3E2F2"/>
+    <circle cx="140" cy="680" r="34" fill="#DFF6F0"/>
+    <text x="140" y="694" font-size="42" font-weight="bold" fill="#159C7E" text-anchor="middle">✓</text>
+    <text x="210" y="670" font-size="42" font-weight="bold" fill="#0E2A4E">빛·소음 최소화</text>
+    <text x="210" y="720" font-size="32" fill="#3A5570">자기 전 장시간 스마트폰·TV는 각성 유지</text>
+
+    <!-- 4 -->
+    <rect x="60" y="770" width="960" height="140" rx="18" fill="#ffffff" stroke="#D3E2F2"/>
+    <circle cx="140" cy="840" r="34" fill="#DFF6F0"/>
+    <text x="140" y="854" font-size="42" font-weight="bold" fill="#159C7E" text-anchor="middle">✓</text>
+    <text x="210" y="830" font-size="42" font-weight="bold" fill="#0E2A4E">운동은 취침 최소 3시간 전까지</text>
+    <text x="210" y="880" font-size="32" fill="#3A5570">하루 30~40분 · 늦은 운동은 체온↑로 방해</text>
+
+    <!-- 5 -->
+    <rect x="60" y="930" width="960" height="140" rx="18" fill="#ffffff" stroke="#D3E2F2"/>
+    <circle cx="140" cy="1000" r="34" fill="#DFF6F0"/>
+    <text x="140" y="1014" font-size="42" font-weight="bold" fill="#159C7E" text-anchor="middle">✓</text>
+    <text x="210" y="990" font-size="42" font-weight="bold" fill="#0E2A4E">낮잠은 15~20분 이내</text>
+    <text x="210" y="1040" font-size="32" fill="#3A5570">매일 일정한 시간 기상 → 생체시계 유지</text>
+  </g>
+
+  <!-- 꿀팁 띠 -->
+  <rect x="60" y="1100" width="960" height="120" rx="18" fill="#0E2A4E"/>
+  <text x="540" y="1152" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#5FE0C8" text-anchor="middle">20~30분 잠 안 오면 억지로 눕지 말고</text>
+  <text x="540" y="1198" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#ffffff" text-anchor="middle">거실서 대기 → 졸릴 때 다시 침대로</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCE9F5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 서울아산병원 숙면 가이드 등 · draft 본문 기준</text>
+</svg>

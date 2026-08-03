@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="hd3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E2A4E"/>
+      <stop offset="1" stop-color="#164B86"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="#EEF5FC"/>
+  <rect width="1080" height="230" fill="url(#hd3)"/>
+  <rect x="60" y="52" rx="26" ry="26" width="180" height="56" fill="#5FE0C8"/>
+  <text x="150" y="90" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="30" fill="#0E2A4E" text-anchor="middle">생활꿀팁</text>
+  <text x="60" y="185" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">찬물 vs 미지근한 물, 샤워 온도</text>
+
+  <!-- 왼쪽: 찬물 (X) -->
+  <rect x="60" y="290" width="460" height="820" rx="24" fill="#ffffff" stroke="#F0C7C7" stroke-width="3"/>
+  <circle cx="290" cy="410" r="70" fill="#FCE4E4"/>
+  <text x="290" y="440" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="80" fill="#E23B3B" text-anchor="middle">✕</text>
+  <text x="290" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#E23B3B" text-anchor="middle">찬물 샤워</text>
+  <text x="290" y="630" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#3A5570" text-anchor="middle">역효과</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#3A5570">
+    <text x="100" y="730">• 혈관 수축, 열 가둠</text>
+    <text x="100" y="800">• 교감신경 자극 → 심박↑</text>
+    <text x="100" y="870">• 오히려 '흥분 상태'</text>
+    <text x="100" y="940">• 씻기 전보다 체온↑</text>
+  </g>
+  <rect x="100" y="1000" width="380" height="80" rx="16" fill="#FCE4E4"/>
+  <text x="290" y="1052" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#E23B3B" text-anchor="middle">잠이 더 안 온다</text>
+
+  <!-- 오른쪽: 미지근한 물 (O) -->
+  <rect x="560" y="290" width="460" height="820" rx="24" fill="#ffffff" stroke="#9FE3D4" stroke-width="3"/>
+  <circle cx="790" cy="410" r="70" fill="#DFF6F0"/>
+  <text x="790" y="438" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="80" fill="#159C7E" text-anchor="middle">○</text>
+  <text x="790" y="560" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="48" fill="#159C7E" text-anchor="middle">미지근한 물</text>
+  <text x="790" y="630" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#0E2A4E" text-anchor="middle">36~38℃</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#3A5570">
+    <text x="600" y="730">• 취침 1~2시간 전</text>
+    <text x="600" y="800">• 10~15분 가볍게</text>
+    <text x="600" y="870">• 부교감신경 → 이완</text>
+    <text x="600" y="940">• 체온 자연 하강</text>
+  </g>
+  <rect x="600" y="1000" width="380" height="80" rx="16" fill="#DFF6F0"/>
+  <text x="790" y="1052" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#159C7E" text-anchor="middle">잠들기 좋은 상태</text>
+
+  <!-- 꿀팁 띠 -->
+  <rect x="60" y="1150" width="960" height="90" rx="18" fill="#0E2A4E"/>
+  <text x="540" y="1207" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#5FE0C8" text-anchor="middle">자기 직전엔 발을 시원한 물로! 손발 열 발산으로 체온↓</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#DCE9F5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: draft 본문(심부체온 원리) 기준</text>
+</svg>

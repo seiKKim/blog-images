@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E2A4E"/>
+      <stop offset="1" stop-color="#164B86"/>
+    </linearGradient>
+    <linearGradient id="mint" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5FE0C8"/>
+      <stop offset="1" stop-color="#7FE8FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <!-- 달 -->
+  <circle cx="900" cy="200" r="120" fill="#FFF6D6" opacity="0.92"/>
+  <circle cx="855" cy="175" r="120" fill="#164B86"/>
+  <!-- 별 -->
+  <circle cx="250" cy="150" r="5" fill="#ffffff" opacity="0.9"/>
+  <circle cx="430" cy="110" r="4" fill="#ffffff" opacity="0.8"/>
+  <circle cx="640" cy="130" r="6" fill="#ffffff" opacity="0.85"/>
+  <circle cx="150" cy="300" r="4" fill="#ffffff" opacity="0.7"/>
+  <circle cx="990" cy="430" r="4" fill="#ffffff" opacity="0.7"/>
+  <!-- 장식 원 -->
+  <circle cx="120" cy="980" r="220" fill="#5FE0C8" opacity="0.08"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="64" y="80" rx="34" ry="34" width="220" height="68" fill="url(#mint)"/>
+  <text x="174" y="126" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#0E2A4E" text-anchor="middle">생활꿀팁</text>
+
+  <!-- 서브 카피 -->
+  <text x="64" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="54" fill="#BFE3FF">밤 30℃ 초열대야, 잠 못 드는 밤</text>
+
+  <!-- 메인 카피 -->
+  <text x="64" y="470" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="132" fill="#ffffff">열대야</text>
+  <text x="64" y="612" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="132" fill="#5FE0C8">꿀잠 자는 법</text>
+
+  <!-- 온도계 카드 -->
+  <rect x="64" y="690" rx="24" ry="24" width="640" height="150" fill="#ffffff" opacity="0.12"/>
+  <text x="96" y="762" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#ffffff">침실 </text>
+  <text x="215" y="762" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="66" fill="#FFD23F">24~26℃</text>
+  <text x="96" y="820" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#BFE3FF">습도 50~60% · 미지근한 물 샤워</text>
+
+  <!-- 온도계 아이콘 -->
+  <g transform="translate(870,650)">
+    <rect x="0" y="0" rx="24" ry="24" width="48" height="230" fill="#ffffff" opacity="0.85"/>
+    <rect x="14" y="20" width="20" height="150" rx="10" fill="#DCE9F5"/>
+    <rect x="14" y="90" width="20" height="80" rx="10" fill="#5FE0C8"/>
+    <circle cx="24" cy="250" r="42" fill="#5FE0C8"/>
+    <rect x="14" y="150" width="20" height="100" fill="#5FE0C8"/>
+  </g>
+
+  <!-- 후킹 띠 -->
+  <rect x="64" y="878" rx="18" ry="18" width="500" height="72" fill="#5FE0C8"/>
+  <text x="90" y="926" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#0E2A4E">찬물 샤워는 오히려 독?</text>
+
+  <!-- 채널 -->
+  <text x="64" y="1020" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#BFE3FF" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
