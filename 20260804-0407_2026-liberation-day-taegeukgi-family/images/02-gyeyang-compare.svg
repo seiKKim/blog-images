@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F1F3"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="128" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">태극기 게양법 비교</text>
+
+  <!-- 왼쪽: 경축일 -->
+  <rect x="60" y="260" width="450" height="820" rx="24" fill="#ffffff" stroke="#E6D3D8" stroke-width="2"/>
+  <rect x="60" y="260" width="450" height="90" rx="24" fill="#C60C30"/>
+  <rect x="60" y="310" width="450" height="40" fill="#C60C30"/>
+  <text x="285" y="320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#ffffff" text-anchor="middle">경축일 · 광복절</text>
+
+  <!-- 정상 게양 그림 -->
+  <g transform="translate(285,600)">
+    <rect x="-4" y="-200" width="8" height="400" rx="4" fill="#7A5230"/>
+    <circle cx="0" cy="-208" r="14" fill="#FFB43F"/>
+    <!-- 깃면: 깃봉에 붙어 맨 위 -->
+    <rect x="4" y="-190" width="230" height="153" fill="#ffffff" stroke="#DDD" stroke-width="2"/>
+    <circle cx="119" cy="-113.5" r="38" fill="#C60C30"/>
+    <path d="M119,-151.5 A19,19 0 0,1 119,-113.5 A19,19 0 0,0 119,-75.5 A38,38 0 0,1 119,-151.5 Z" fill="#003478"/>
+    <text x="0" y="250" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+          font-size="40" fill="#C60C30" text-anchor="middle">맨 위까지 게양</text>
+  </g>
+  <text x="285" y="1000" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#333" text-anchor="middle">깃봉과 깃면을</text>
+  <text x="285" y="1045" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#333" text-anchor="middle">떼지 않고 맨 위까지</text>
+
+  <!-- 오른쪽: 조의를 표하는 날 -->
+  <rect x="570" y="260" width="450" height="820" rx="24" fill="#ffffff" stroke="#E6D3D8" stroke-width="2"/>
+  <rect x="570" y="260" width="450" height="90" rx="24" fill="#5B6B7C"/>
+  <rect x="570" y="310" width="450" height="40" fill="#5B6B7C"/>
+  <text x="795" y="320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#ffffff" text-anchor="middle">조의일 · 현충일</text>
+
+  <!-- 조기 게양 그림 -->
+  <g transform="translate(795,600)">
+    <rect x="-4" y="-200" width="8" height="400" rx="4" fill="#7A5230"/>
+    <circle cx="0" cy="-208" r="14" fill="#B8B8B8"/>
+    <!-- 깃면: 깃면 너비만큼 내려 -->
+    <rect x="4" y="-37" width="230" height="153" fill="#ffffff" stroke="#DDD" stroke-width="2"/>
+    <circle cx="119" cy="39.5" r="38" fill="#C60C30"/>
+    <path d="M119,1.5 A19,19 0 0,1 119,39.5 A19,19 0 0,0 119,77.5 A38,38 0 0,1 119,1.5 Z" fill="#003478"/>
+    <text x="0" y="250" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+          font-size="40" fill="#5B6B7C" text-anchor="middle">조기(반기) 게양</text>
+  </g>
+  <text x="795" y="1000" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#333" text-anchor="middle">깃면 너비만큼</text>
+  <text x="795" y="1045" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#333" text-anchor="middle">내려서 게양</text>
+
+  <!-- 강조 문구 -->
+  <rect x="60" y="1120" width="960" height="100" rx="18" fill="#FFF3D6" stroke="#FFD23F" stroke-width="2"/>
+  <text x="540" y="1183" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#B8860B" text-anchor="middle">광복절은 조기 아님! 맨 위까지 답니다</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE3E7"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#7A5B65">대한민국국기법 · 국기 게양 방법 기준</text>
+</svg>

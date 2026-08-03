@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F1F3"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="128" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">서울 도심 하루 동선</text>
+
+  <!-- 지도 배경 판 -->
+  <rect x="60" y="260" width="960" height="820" rx="24" fill="#EAF1E8"/>
+  <!-- 강 표현 -->
+  <path d="M60,960 Q400,910 720,970 T1020,940 L1020,1080 L60,1080 Z" fill="#CFE0EC" opacity="0.7"/>
+  <text x="150" y="1050" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#7B93A6">한강</text>
+
+  <!-- 연결선 -->
+  <path d="M260,420 L560,560 L400,830" fill="none" stroke="#E0556E" stroke-width="8" stroke-dasharray="4 18" stroke-linecap="round"/>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 1. 광화문 -->
+    <circle cx="260" cy="420" r="42" fill="#E0556E"/>
+    <text x="260" y="436" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">1</text>
+    <rect x="320" y="378" width="440" height="84" rx="16" fill="#ffffff" stroke="#E6D3D8" stroke-width="2"/>
+    <text x="345" y="415" font-weight="bold" font-size="38" fill="#1a1a1a">광화문</text>
+    <text x="345" y="450" font-size="30" fill="#5B6B7C">대한민국역사박물관</text>
+
+    <!-- 2. 남산 -->
+    <circle cx="560" cy="560" r="42" fill="#003478"/>
+    <text x="560" y="576" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">2</text>
+    <rect x="620" y="518" width="400" height="84" rx="16" fill="#ffffff" stroke="#E6D3D8" stroke-width="2"/>
+    <text x="645" y="555" font-weight="bold" font-size="38" fill="#1a1a1a">남산</text>
+    <text x="645" y="590" font-size="30" fill="#5B6B7C">안중근의사기념관</text>
+
+    <!-- 3. 용산 -->
+    <circle cx="400" cy="830" r="42" fill="#C60C30"/>
+    <text x="400" y="846" font-weight="bold" font-size="46" fill="#ffffff" text-anchor="middle">3</text>
+    <rect x="460" y="788" width="540" height="84" rx="16" fill="#ffffff" stroke="#E6D3D8" stroke-width="2"/>
+    <text x="485" y="825" font-weight="bold" font-size="38" fill="#1a1a1a">용산</text>
+    <text x="485" y="860" font-size="30" fill="#5B6B7C">백범김구기념관 · 국립중앙박물관</text>
+  </g>
+
+  <!-- 순서 요약 -->
+  <rect x="60" y="1120" width="960" height="100" rx="18" fill="#FFF3D6" stroke="#FFD23F" stroke-width="2"/>
+  <text x="540" y="1182" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#B8860B" text-anchor="middle">광화문 → 남산 → 용산 · 대부분 무료</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE3E7"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#7A5B65">위치는 이해를 돕기 위한 개략도 · 실제 위치와 다를 수 있음</text>
+</svg>

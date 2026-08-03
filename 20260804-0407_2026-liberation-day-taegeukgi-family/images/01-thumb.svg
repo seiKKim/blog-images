@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E0556E"/>
+      <stop offset="1" stop-color="#C93E58"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <circle cx="960" cy="170" r="270" fill="#ffffff" opacity="0.08"/>
+  <circle cx="110" cy="990" r="210" fill="#ffffff" opacity="0.06"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="86" rx="34" ry="34" width="220" height="68" fill="#FFD23F"/>
+  <text x="190" y="132" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">시즌·나들이</text>
+
+  <!-- 태극기 (깃대 세트, 정상 게양) -->
+  <g transform="translate(720,300)">
+    <!-- 깃대 -->
+    <rect x="-8" y="-30" width="10" height="470" rx="5" fill="#7A5230"/>
+    <circle cx="-3" cy="-40" r="18" fill="#FFD23F"/>
+    <!-- 깃면 배경 -->
+    <rect x="2" y="0" width="290" height="193" fill="#ffffff" stroke="#E4E4E4" stroke-width="2"/>
+    <!-- 태극 문양 -->
+    <g transform="translate(147,96.5)">
+      <clipPath id="tj"><circle cx="0" cy="0" r="48"/></clipPath>
+      <g clip-path="url(#tj)">
+        <rect x="-48" y="-48" width="96" height="96" fill="#C60C30"/>
+        <path d="M0,-48 A24,24 0 0,1 0,0 A24,24 0 0,0 0,48 A48,48 0 0,1 0,-48 Z" fill="#003478"/>
+        <path d="M0,48 A24,24 0 0,1 0,0 A24,24 0 0,0 0,-48 A48,48 0 0,0 0,48 Z" fill="#003478"/>
+      </g>
+      <!-- 4괘 (간략) -->
+      <g fill="#111" transform="rotate(33.69)">
+        <g transform="translate(-84,0)"><rect x="-22" y="-4" width="44" height="8"/><rect x="-22" y="-16" width="44" height="8"/><rect x="-22" y="8" width="44" height="8"/></g>
+        <g transform="translate(84,0)"><rect x="-22" y="-16" width="44" height="8"/><rect x="-22" y="8" width="44" height="8"/><rect x="-22" y="-4" width="19" height="8"/><rect x="3" y="-4" width="19" height="8"/></g>
+      </g>
+      <g fill="#111" transform="rotate(-33.69)">
+        <g transform="translate(-84,0)"><rect x="-22" y="-16" width="44" height="8"/><rect x="-22" y="-4" width="19" height="8"/><rect x="3" y="-4" width="19" height="8"/><rect x="-22" y="8" width="19" height="8"/><rect x="3" y="8" width="19" height="8"/></g>
+        <g transform="translate(84,0)"><rect x="-22" y="-16" width="19" height="8"/><rect x="3" y="-16" width="19" height="8"/><rect x="-22" y="-4" width="19" height="8"/><rect x="3" y="-4" width="19" height="8"/><rect x="-22" y="8" width="19" height="8"/><rect x="3" y="8" width="19" height="8"/></g>
+      </g>
+    </g>
+  </g>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="330" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#FFEEDF">2026 광복절 · 제81주년</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="150" fill="#ffffff">태극기</text>
+  <text x="80" y="670" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="150" fill="#FFD23F">다는 법</text>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="770" rx="24" ry="24" width="920" height="180" fill="#ffffff" opacity="0.16"/>
+  <text x="112" y="842" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#ffffff">8/15~8/17 · 사흘 연휴</text>
+  <text x="112" y="912" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="46" fill="#FFD23F">깃봉에 붙여 07:00~18:00 게양</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1024" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#FFEEDF" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>

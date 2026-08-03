@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F7F1F3"/>
+  <rect width="1080" height="200" fill="#E0556E"/>
+  <text x="60" y="128" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">연휴 가족 나들이 코스</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 독립기념관 -->
+    <rect x="60" y="270" width="960" height="230" rx="20" fill="#ffffff" stroke="#E6D3D8" stroke-width="2"/>
+    <rect x="60" y="270" width="14" height="230" rx="7" fill="#C60C30"/>
+    <text x="110" y="345" font-weight="bold" font-size="46" fill="#1a1a1a">독립기념관</text>
+    <rect x="500" y="308" width="150" height="52" rx="26" fill="#E6F4EA"/>
+    <text x="575" y="344" font-weight="bold" font-size="34" fill="#1F8A53" text-anchor="middle">무료</text>
+    <text x="110" y="405" font-size="36" fill="#5B6B7C">충남 천안 · 09:30~18:00 (3~10월)</text>
+    <text x="110" y="460" font-size="36" fill="#5B6B7C">휴관 월요일(공휴일이면 정상) · 041-560-0114</text>
+
+    <!-- 서대문형무소역사관 -->
+    <rect x="60" y="530" width="960" height="230" rx="20" fill="#ffffff" stroke="#E6D3D8" stroke-width="2"/>
+    <rect x="60" y="530" width="14" height="230" rx="7" fill="#003478"/>
+    <text x="110" y="605" font-weight="bold" font-size="46" fill="#1a1a1a">서대문형무소역사관</text>
+    <rect x="640" y="568" width="160" height="52" rx="26" fill="#FCE7EC"/>
+    <text x="720" y="604" font-weight="bold" font-size="34" fill="#C93E58" text-anchor="middle">유료</text>
+    <text x="110" y="665" font-size="36" fill="#5B6B7C">서울 서대문 · 09:30~18:00</text>
+    <text x="110" y="720" font-size="35" fill="#5B6B7C">일반 3,000 / 청소년·군인 1,500 / 어린이 1,000원</text>
+
+    <!-- 대한민국역사박물관 -->
+    <rect x="60" y="790" width="960" height="230" rx="20" fill="#ffffff" stroke="#E6D3D8" stroke-width="2"/>
+    <rect x="60" y="790" width="14" height="230" rx="7" fill="#E0556E"/>
+    <text x="110" y="865" font-weight="bold" font-size="46" fill="#1a1a1a">대한민국역사박물관</text>
+    <rect x="640" y="828" width="150" height="52" rx="26" fill="#E6F4EA"/>
+    <text x="715" y="864" font-weight="bold" font-size="34" fill="#1F8A53" text-anchor="middle">무료</text>
+    <text x="110" y="925" font-size="36" fill="#5B6B7C">서울 광화문 · 평일 10:00~18:00</text>
+    <text x="110" y="980" font-size="36" fill="#5B6B7C">수·토 10:00~21:00 야간개장 · 02-3703-9200</text>
+  </g>
+
+  <rect x="60" y="1060" width="960" height="150" rx="18" fill="#FFF3D6" stroke="#FFD23F" stroke-width="2"/>
+  <text x="540" y="1120" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#B8860B" text-anchor="middle">광복절 당일 특별운영·무료 여부는 유동적!</text>
+  <text x="540" y="1175" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#B8860B" text-anchor="middle">방문 전 각 기관 공식 홈페이지·전화로 재확인</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#EFE3E7"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#7A5B65">각 기관·서울시 공식 자료 기준</text>
+</svg>
