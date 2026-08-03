@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">예금자보호 1억원 분산예치</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#FFD23F">2025-09-01 시행 · 5,000만원 → 1억원 상향</text>
+
+  <!-- 목돈 -->
+  <rect x="340" y="260" width="400" height="130" rx="20" fill="#243B6B"/>
+  <text x="540" y="320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#ffffff" text-anchor="middle">1억원 초과</text>
+  <text x="540" y="368" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#E8EEF5" text-anchor="middle">목돈</text>
+
+  <!-- 화살표 -->
+  <polyline points="540,390 540,440" fill="none" stroke="#5B6B7C" stroke-width="6"/>
+  <polygon points="540,455 528,435 552,435" fill="#5B6B7C"/>
+  <text x="600" y="430" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#E23B3B">쪼개서 예치</text>
+
+  <!-- 3개 금융회사 박스 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="70" y="490" width="290" height="330" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="215" y="560" font-weight="bold" font-size="36" fill="#243B6B" text-anchor="middle">A 금융회사</text>
+    <text x="215" y="650" font-weight="bold" font-size="52" fill="#243B6B" text-anchor="middle">1억원</text>
+    <rect x="110" y="700" width="210" height="60" rx="30" fill="#E8F3EC"/>
+    <text x="215" y="740" font-weight="bold" font-size="30" fill="#1F8A53" text-anchor="middle">보호 O</text>
+
+    <rect x="395" y="490" width="290" height="330" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="540" y="560" font-weight="bold" font-size="36" fill="#243B6B" text-anchor="middle">B 금융회사</text>
+    <text x="540" y="650" font-weight="bold" font-size="52" fill="#243B6B" text-anchor="middle">1억원</text>
+    <rect x="435" y="700" width="210" height="60" rx="30" fill="#E8F3EC"/>
+    <text x="540" y="740" font-weight="bold" font-size="30" fill="#1F8A53" text-anchor="middle">보호 O</text>
+
+    <rect x="720" y="490" width="290" height="330" rx="18" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+    <text x="865" y="560" font-weight="bold" font-size="36" fill="#243B6B" text-anchor="middle">C 금융회사</text>
+    <text x="865" y="650" font-weight="bold" font-size="52" fill="#243B6B" text-anchor="middle">1억원</text>
+    <rect x="760" y="700" width="210" height="60" rx="30" fill="#E8F3EC"/>
+    <text x="865" y="740" font-weight="bold" font-size="30" fill="#1F8A53" text-anchor="middle">보호 O</text>
+  </g>
+
+  <!-- 설명 박스 -->
+  <rect x="60" y="870" width="960" height="320" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="90" y="935" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#243B6B">핵심 원칙</text>
+  <text x="90" y="995" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#333">• 1개 금융회사당 원금+소정이자 합산 1인당 1억원</text>
+  <text x="90" y="1048" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#333">• 은행·저축은행·상호금융(신협·농협 등) 동시 상향</text>
+  <text x="90" y="1101" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#333">• 별도 신청 불필요 · 기존 예금도 1억까지 소급 보호</text>
+  <text x="90" y="1154" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#E23B3B">• 펀드·ELS 등 투자상품은 보호 대상 아님</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 예금자보호한도 상향(2025-09-01 시행) · 본문 기준</text>
+</svg>

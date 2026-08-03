@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#243B6B"/>
+  <text x="60" y="112" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">2026년 8월 정기예금 금리</text>
+  <text x="60" y="168" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="36" fill="#FFD23F">12개월 · 한 비교 매체 집계 예시</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 행1 -->
+    <rect x="60" y="270" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="330" font-weight="bold" font-size="42" fill="#243B6B">시중은행 최고</text>
+    <text x="100" y="388" font-size="34" fill="#5B6B7C">신한은행 '쏠편한 정기예금'</text>
+    <text x="1000" y="360" font-weight="bold" font-size="66" fill="#243B6B" text-anchor="end">연 4.05%</text>
+
+    <!-- 행2 -->
+    <rect x="60" y="440" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="500" font-weight="bold" font-size="42" fill="#243B6B">지역은행 최고</text>
+    <text x="100" y="558" font-size="34" fill="#5B6B7C">Sh수협은행 '헤이(Hey)정기예금'</text>
+    <text x="1000" y="530" font-weight="bold" font-size="66" fill="#E23B3B" text-anchor="end">연 4.20%</text>
+
+    <!-- 행3 -->
+    <rect x="60" y="610" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="670" font-weight="bold" font-size="42" fill="#243B6B">인터넷은행 최고</text>
+    <text x="100" y="728" font-size="34" fill="#5B6B7C">토스뱅크 '먼저 이자 받는 정기예금'</text>
+    <text x="1000" y="700" font-weight="bold" font-size="66" fill="#243B6B" text-anchor="end">연 3.50%</text>
+
+    <!-- 행4 저축은행 -->
+    <rect x="60" y="780" width="960" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="100" y="840" font-weight="bold" font-size="42" fill="#243B6B">저축은행 12개월</text>
+    <text x="100" y="898" font-size="34" fill="#5B6B7C">조사 기준 · 변동 잦음</text>
+    <text x="1000" y="870" font-weight="bold" font-size="60" fill="#243B6B" text-anchor="end">최고 약 3.3%대</text>
+  </g>
+
+  <!-- 주의 박스 -->
+  <rect x="60" y="960" width="960" height="230" rx="16" fill="#FFF6E0" stroke="#F0D48A"/>
+  <text x="90" y="1020" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#B77A00">가입 전 재확인 필수</text>
+  <text x="90" y="1075" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="33" fill="#7A5A10">• 최고금리는 우대조건 충족 시 값 — 기본/우대 구분</text>
+  <text x="90" y="1122" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="33" fill="#7A5A10">• 특판은 한도 소진 시 조기 마감 · 매일 변동</text>
+  <text x="90" y="1169" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="33" fill="#7A5A10">• 대략 3%대 중반 ~ 4%대 초반 구간</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 은행연합회 소비자포털 · 금감원 파인에서 그날 금리 확인</text>
+</svg>

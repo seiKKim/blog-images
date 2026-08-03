@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#243B6B"/>
+  <circle cx="950" cy="170" r="280" fill="#ffffff" opacity="0.07"/>
+  <circle cx="110" cy="990" r="220" fill="#ffffff" opacity="0.05"/>
+
+  <!-- 카테고리 뱃지 -->
+  <rect x="80" y="88" rx="34" ry="34" width="230" height="68" fill="#FFD23F"/>
+  <text x="195" y="134" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1a1a1a" text-anchor="middle">금융·재테크</text>
+
+  <!-- 서브 카피 -->
+  <text x="80" y="300" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#E8EEF5">2026년 8월 정기예금</text>
+
+  <!-- 메인 카피 -->
+  <text x="80" y="440" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="128" fill="#ffffff">기준금리 다시</text>
+  <text x="80" y="580" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="150" fill="#FFD23F">2.75%</text>
+  <text x="470" y="580" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="96" fill="#ffffff">반등</text>
+
+  <!-- 미니 상승 그래프 아이콘 -->
+  <polyline points="690,485 770,445 830,470 905,385 975,335" fill="none" stroke="#FFD23F" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="975,335 945,333 967,305" fill="#FFD23F"/>
+
+  <!-- 디테일 박스 -->
+  <rect x="80" y="700" rx="22" ry="22" width="920" height="230" fill="#ffffff" opacity="0.13"/>
+  <text x="112" y="778" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="50" fill="#ffffff">예금 최고 연 4%대 · 파킹·절세 총정리</text>
+  <text x="112" y="852" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="50" fill="#FFD23F">예금자보호 1억 · 만기 분산 전략</text>
+  <text x="112" y="912" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#E8EEF5">※ 금리는 가입 시점 공식 공시에서 재확인</text>
+
+  <!-- 채널 -->
+  <text x="80" y="1015" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#E8EEF5" opacity="0.9">blog.naver.com/trip_chocho</text>
+</svg>
