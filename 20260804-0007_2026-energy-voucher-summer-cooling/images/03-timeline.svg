@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">신청·사용기간 타임라인</text>
+  <text x="60" y="160" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#E8EEF5">2026 에너지바우처</text>
+
+  <!-- 신청기간 -->
+  <rect x="60" y="270" width="960" height="180" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="270" width="14" height="180" rx="7" fill="#1B5FA6"/>
+  <text x="110" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">신청 기간</text>
+  <text x="110" y="415" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="52" fill="#1B5FA6">2026.6.15 ~ 12.31</text>
+
+  <!-- 여름 사용기간 -->
+  <rect x="60" y="490" width="960" height="240" rx="20" fill="#FFF4E0" stroke="#E8722C" stroke-width="2"/>
+  <rect x="60" y="490" width="14" height="240" rx="7" fill="#E8722C"/>
+  <circle cx="960" cy="540" r="30" fill="#E8722C"/>
+  <text x="960" y="553" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="30" fill="#ffffff" text-anchor="middle">여름</text>
+  <text x="110" y="565" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">여름(하절기·냉방) 사용</text>
+  <text x="110" y="635" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="52" fill="#C85A15">2026.7.1 ~ 9.30</text>
+  <text x="110" y="695" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#C85A15">전기요금 자동 차감만 가능</text>
+
+  <!-- 겨울 사용기간 -->
+  <rect x="60" y="770" width="960" height="280" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="770" width="14" height="280" rx="7" fill="#243B6B"/>
+  <circle cx="960" cy="820" r="30" fill="#243B6B"/>
+  <text x="960" y="833" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="30" fill="#ffffff" text-anchor="middle">겨울</text>
+  <text x="110" y="845" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">겨울(동절기·난방) 사용</text>
+  <text x="110" y="915" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#38424E">가상카드 2026.10.1 ~ 2027.5.31</text>
+  <text x="110" y="975" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#38424E">실물카드 2026.10.3 ~ 2027.5.31</text>
+  <text x="110" y="1025" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">여름에 안 쓴 잔액은 겨울로 자동 이월</text>
+
+  <!-- 현재 위치 강조 -->
+  <rect x="60" y="1100" width="960" height="120" rx="16" fill="#1B5FA6"/>
+  <text x="90" y="1150" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="38" fill="#FFD23F">📌 지금은 8월 — 여름 사용기간 한복판!</text>
+  <text x="90" y="1195" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#ffffff">냉방 혜택 받으려면 지금 신청·사용하세요</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 에너지바우처(energyv.or.kr) 안내 정리</text>
+</svg>

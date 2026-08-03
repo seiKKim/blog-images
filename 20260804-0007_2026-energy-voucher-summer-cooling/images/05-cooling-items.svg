@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">상황별 여름 냉방용품</text>
+  <text x="60" y="160" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#E8EEF5">전기 사용량을 줄여 바우처 아껴 쓰기</text>
+
+  <!-- 카드 1: 저전력 냉방 -->
+  <rect x="60" y="260" width="960" height="300" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="260" width="14" height="300" rx="7" fill="#1B5FA6"/>
+  <text x="110" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1B5FA6">저전력 냉방</text>
+  <text x="110" y="425" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">에어서큘레이터 · DC 선풍기</text>
+  <text x="110" y="500" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">에어컨 없이도 체감온도를</text>
+  <text x="110" y="545" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">낮추고 싶을 때</text>
+
+  <!-- 카드 2: 좁은 공간용 -->
+  <rect x="60" y="590" width="960" height="300" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="590" width="14" height="300" rx="7" fill="#E8722C"/>
+  <text x="110" y="675" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#E8722C">좁은 공간용</text>
+  <text x="110" y="755" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">창문형 · 1등급 인버터 에어컨</text>
+  <text x="110" y="830" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">원룸 · 1~2인 가구에 적합</text>
+
+  <!-- 카드 3: 취약계층 여름나기 -->
+  <rect x="60" y="920" width="960" height="300" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <rect x="60" y="920" width="14" height="300" rx="7" fill="#E0556E"/>
+  <text x="110" y="1005" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#E0556E">취약계층 여름나기</text>
+  <text x="110" y="1085" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="42" fill="#1a1a1a">냉감 매트 · 쿨링 시트</text>
+  <text x="110" y="1160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" fill="#5B6B7C">노인 가구 온열질환 예방</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">※ 모델·용량·시기에 따라 가격·소비전력 상이</text>
+</svg>

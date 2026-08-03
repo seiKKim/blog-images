@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1B5FA6"/>
+  <text x="60" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">신청 대상, 두 조건 모두 충족</text>
+  <text x="60" y="160" font-family="Noto Sans KR, Malgun Gothic, sans-serif"
+        font-size="34" fill="#E8EEF5">소득기준 + 세대원 특성기준</text>
+
+  <!-- 조건 1 -->
+  <rect x="60" y="250" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="130" cy="330" r="36" fill="#1B5FA6"/>
+  <text x="130" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="200" y="345" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">소득기준</text>
+  <text x="100" y="425" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="38" fill="#38424E">생계·의료·주거·교육급여 수급자</text>
+
+  <!-- + 표시 -->
+  <text x="540" y="540" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="70" fill="#1B5FA6" text-anchor="middle">+</text>
+
+  <!-- 조건 2 -->
+  <rect x="60" y="580" width="960" height="500" rx="20" fill="#ffffff" stroke="#D6E0EC" stroke-width="2"/>
+  <circle cx="130" cy="660" r="36" fill="#1B5FA6"/>
+  <text x="130" y="675" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="44" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="200" y="675" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="46" fill="#1a1a1a">세대원 특성기준</text>
+  <text x="100" y="730" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">세대 안에 아래 중 하나 이상 해당</text>
+
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="37" fill="#38424E">
+    <text x="120" y="810">✓ 노인 (1961.12.31. 이전 출생)</text>
+    <text x="120" y="870">✓ 영유아 (2019.01.01. 이후 출생 7세 이하)</text>
+    <text x="120" y="930">✓ 장애인 · 임산부(분만 후 6개월 미만)</text>
+    <text x="120" y="990">✓ 중증·희귀·중증난치질환자</text>
+    <text x="120" y="1050">✓ 한부모가족 · 소년소녀가정 · 다자녀세대</text>
+  </g>
+
+  <!-- 주의 박스 -->
+  <rect x="60" y="1120" width="960" height="110" rx="16" fill="#FFF4E0" stroke="#E8722C" stroke-width="2"/>
+  <text x="90" y="1170" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="34" fill="#C85A15">⚠ 소득기준만 되고 특성기준이 안 되면</text>
+  <text x="90" y="1210" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#C85A15">대상이 아닙니다. 두 조건 모두 확인!</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 에너지바우처(energyv.or.kr) 안내 정리</text>
+</svg>
