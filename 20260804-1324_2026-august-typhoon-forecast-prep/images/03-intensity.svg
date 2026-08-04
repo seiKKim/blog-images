@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="60" y="58" width="10" height="84" fill="#E23B3B"/>
+  <text x="90" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">태풍 강도 등급 1~5</text>
+  <text x="90" y="160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#B9C4D0">2026년부터 약/중/강 폐지 → 숫자 체계</text>
+
+  <!-- 표 헤더 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="250" width="960" height="80" rx="12" fill="#2B2F36"/>
+    <text x="150" y="303" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">강도</text>
+    <text x="530" y="303" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">최대풍속(10분 평균)</text>
+    <text x="900" y="303" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">참고 시속</text>
+  </g>
+
+  <!-- 행들 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <!-- 강도1 -->
+    <rect x="60" y="340" width="960" height="104" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="340" width="180" height="104" rx="12" fill="#FCE8B4"/>
+    <text x="150" y="405" font-size="46" font-weight="bold" fill="#8A6D00" text-anchor="middle">1</text>
+    <text x="530" y="405" font-size="40" fill="#1a1a1a" text-anchor="middle">17~25 m/s</text>
+    <text x="900" y="405" font-size="36" fill="#5B6B7C" text-anchor="middle">61~90 km/h</text>
+
+    <!-- 강도2 -->
+    <rect x="60" y="454" width="960" height="104" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="454" width="180" height="104" rx="12" fill="#F8CE8C"/>
+    <text x="150" y="519" font-size="46" font-weight="bold" fill="#8A5200" text-anchor="middle">2</text>
+    <text x="530" y="519" font-size="40" fill="#1a1a1a" text-anchor="middle">25~33 m/s</text>
+    <text x="900" y="519" font-size="36" fill="#5B6B7C" text-anchor="middle">90~119 km/h</text>
+
+    <!-- 강도3 -->
+    <rect x="60" y="568" width="960" height="104" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="568" width="180" height="104" rx="12" fill="#F3A85C"/>
+    <text x="150" y="633" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="530" y="633" font-size="40" fill="#1a1a1a" text-anchor="middle">33~44 m/s</text>
+    <text x="900" y="633" font-size="36" fill="#5B6B7C" text-anchor="middle">119~158 km/h</text>
+
+    <!-- 강도4 -->
+    <rect x="60" y="682" width="960" height="104" rx="12" fill="#ffffff" stroke="#D6E0EC"/>
+    <rect x="60" y="682" width="180" height="104" rx="12" fill="#E8722C"/>
+    <text x="150" y="747" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="530" y="747" font-size="40" fill="#1a1a1a" text-anchor="middle">44~54 m/s</text>
+    <text x="900" y="747" font-size="36" fill="#5B6B7C" text-anchor="middle">158~194 km/h</text>
+
+    <!-- 강도5 (강조) -->
+    <rect x="60" y="796" width="960" height="118" rx="12" fill="#E23B3B"/>
+    <rect x="60" y="796" width="180" height="118" rx="12" fill="#B22222"/>
+    <text x="150" y="870" font-size="56" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+    <text x="530" y="870" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">54 m/s 이상</text>
+    <text x="895" y="870" font-size="34" font-weight="bold" fill="#FFD23F" text-anchor="middle">194 km/h 이상</text>
+  </g>
+  <text x="1000" y="962" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" font-weight="bold" fill="#B22222" text-anchor="end">'돌핀'이 바로 강도 5 (초강력)</text>
+
+  <!-- 크기(강풍반경) 비교 -->
+  <text x="60" y="1050" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold" font-size="40" fill="#2B2F36">크기 기준 (강풍반경 15m/s 이상)</text>
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#2B2F36" text-anchor="middle">
+    <circle cx="180" cy="1160" r="46" fill="#B9C4D0"/>
+    <text x="180" y="1240" font-weight="bold">소형</text>
+    <text x="180" y="1276" font-size="26" fill="#5B6B7C">300km 미만</text>
+
+    <circle cx="420" cy="1160" r="66" fill="#8FA3B8"/>
+    <text x="420" y="1240" font-weight="bold">중형</text>
+    <text x="420" y="1276" font-size="26" fill="#5B6B7C">300~500km</text>
+
+    <circle cx="670" cy="1160" r="86" fill="#5B6B7C"/>
+    <text x="670" y="1240" font-weight="bold" fill="#2B2F36">대형</text>
+    <text x="670" y="1276" font-size="26" fill="#5B6B7C">500~800km</text>
+
+    <circle cx="920" cy="1160" r="106" fill="#2B2F36"/>
+    <text x="920" y="1240" font-weight="bold">초대형</text>
+    <text x="920" y="1276" font-size="26" fill="#5B6B7C">800km 이상</text>
+  </g>
+</svg>

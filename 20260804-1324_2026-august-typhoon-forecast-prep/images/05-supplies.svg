@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="60" y="58" width="10" height="84" fill="#E23B3B"/>
+  <text x="90" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="56" fill="#ffffff">태풍 대비 비상용품</text>
+  <text x="90" y="160" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="32" fill="#B9C4D0">미리 챙겨두면 안심되는 체크리스트</text>
+
+  <!-- 아이콘 그리드 6개 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif" text-anchor="middle">
+    <!-- 손전등 -->
+    <rect x="60" y="260" width="465" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <g transform="translate(292,360)">
+      <rect x="-40" y="-14" width="60" height="46" rx="6" fill="#2B2F36"/>
+      <path d="M20,-24 l40,-16 v76 l-40,-16 z" fill="#FFD23F"/>
+      <circle cx="-10" cy="9" r="8" fill="#FFD23F"/>
+    </g>
+    <text x="292" y="470" font-size="38" font-weight="bold" fill="#2B2F36">손전등·배터리</text>
+    <text x="292" y="516" font-size="30" fill="#5B6B7C">랜턴·양초 포함</text>
+
+    <!-- 구급함 -->
+    <rect x="555" y="260" width="465" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <g transform="translate(787,355)">
+      <rect x="-52" y="-36" width="104" height="76" rx="10" fill="#E23B3B"/>
+      <rect x="-14" y="-18" width="28" height="40" fill="#ffffff"/>
+      <rect x="-28" y="-4" width="56" height="12" fill="#ffffff"/>
+    </g>
+    <text x="787" y="470" font-size="38" font-weight="bold" fill="#2B2F36">구급함·응급약</text>
+    <text x="787" y="516" font-size="30" fill="#5B6B7C">상비의약품</text>
+
+    <!-- 식수/식량 -->
+    <rect x="60" y="580" width="465" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <g transform="translate(292,675)">
+      <path d="M-18,-40 h36 v10 l-8,10 v56 a10,10 0 0 1 -10,10 h0 a10,10 0 0 1 -10,-10 v-56 l-8,-10 z" fill="#4B7FB5"/>
+      <rect x="-26" y="-6" width="52" height="34" rx="6" fill="#2E5C8A"/>
+    </g>
+    <text x="292" y="790" font-size="38" font-weight="bold" fill="#2B2F36">식수·비상식량</text>
+    <text x="292" y="836" font-size="30" fill="#5B6B7C">욕조 물 받기·라디오</text>
+
+    <!-- 보조배터리 -->
+    <rect x="555" y="580" width="465" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <g transform="translate(787,670)">
+      <rect x="-42" y="-30" width="84" height="60" rx="10" fill="#2B2F36"/>
+      <rect x="42" y="-10" width="8" height="20" rx="2" fill="#2B2F36"/>
+      <rect x="-30" y="-18" width="42" height="36" rx="4" fill="#FFD23F"/>
+      <path d="M-2,-14 l-12,20 h10 l-4,14 l14,-22 h-10 z" fill="#2B2F36"/>
+    </g>
+    <text x="787" y="790" font-size="38" font-weight="bold" fill="#2B2F36">휴대폰 보조배터리</text>
+    <text x="787" y="836" font-size="30" fill="#5B6B7C">정전 대비</text>
+
+    <!-- 우의/방수 -->
+    <rect x="60" y="900" width="465" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <g transform="translate(292,995)">
+      <path d="M0,-40 l40,20 v56 h-80 v-56 z" fill="#1F8A53"/>
+      <path d="M0,-40 v66" stroke="#166B40" stroke-width="4"/>
+      <rect x="-14" y="-46" width="28" height="14" rx="7" fill="#166B40"/>
+    </g>
+    <text x="292" y="1110" font-size="38" font-weight="bold" fill="#2B2F36">우의·중요서류</text>
+    <text x="292" y="1156" font-size="30" fill="#5B6B7C">방수의류·현금</text>
+
+    <!-- 물막이판 -->
+    <rect x="555" y="900" width="465" height="290" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+    <g transform="translate(787,995)">
+      <rect x="-56" y="-10" width="112" height="28" rx="4" fill="#8A6D3B"/>
+      <rect x="-56" y="18" width="112" height="14" rx="4" fill="#6E5530"/>
+      <path d="M-64,40 q 20,-16 40,0 q 20,-16 40,0 q 20,-16 40,0" fill="none" stroke="#4B7FB5" stroke-width="7"/>
+    </g>
+    <text x="787" y="1110" font-size="38" font-weight="bold" fill="#2B2F36">물막이판·모래주머니</text>
+    <text x="787" y="1156" font-size="30" fill="#5B6B7C">침수 대비</text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 국민재난안전포털 행동요령 · 본문 정리</text>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+
+  <!-- 상단 색띠 + 제목 -->
+  <rect width="1080" height="200" fill="#2B2F36"/>
+  <rect x="60" y="70" width="10" height="60" fill="#E23B3B"/>
+  <text x="90" y="118" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">열돔(이중 고기압) 구조</text>
+
+  <!-- 하늘/땅 배경 -->
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#DCE7F2"/>
+      <stop offset="100%" stop-color="#F6EAD4"/>
+    </linearGradient>
+  </defs>
+  <rect x="60" y="250" width="960" height="760" rx="20" fill="url(#sky)" stroke="#D6E0EC"/>
+
+  <!-- 상층 고기압 (뚜껑) -->
+  <path d="M110,430 Q 540,300 970,430" fill="none" stroke="#E23B3B" stroke-width="14" stroke-linecap="round"/>
+  <rect x="360" y="330" rx="16" width="360" height="66" fill="#E23B3B"/>
+  <text x="540" y="376" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">상층 고기압 (뚜껑)</text>
+
+  <!-- 하층 고기압 (북태평양) -->
+  <path d="M110,620 Q 540,500 970,620" fill="none" stroke="#E8722C" stroke-width="14" stroke-linecap="round"/>
+  <rect x="330" y="530" rx="16" width="420" height="66" fill="#E8722C"/>
+  <text x="540" y="576" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="38" fill="#ffffff" text-anchor="middle">하층 북태평양고기압</text>
+
+  <!-- 갇힌 열기 화살표 -->
+  <g stroke="#E23B3B" stroke-width="9" stroke-linecap="round" fill="none">
+    <path d="M420,900 L420,690"/>
+    <path d="M540,900 L540,690"/>
+    <path d="M660,900 L660,690"/>
+  </g>
+  <g fill="#E23B3B">
+    <path d="M420,678 l-16,26 h32 z"/>
+    <path d="M540,678 l-16,26 h32 z"/>
+    <path d="M660,678 l-16,26 h32 z"/>
+  </g>
+  <text x="540" y="960" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#B22222" text-anchor="middle">뜨거운 공기가 빠져나가지 못하고 축적</text>
+
+  <!-- 지면 -->
+  <rect x="60" y="960" width="960" height="50" rx="0" fill="#C9A56B"/>
+
+  <!-- 핵심 수치 카드 -->
+  <g font-family="Noto Sans KR, Malgun Gothic, sans-serif">
+    <rect x="60" y="1050" width="465" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="90" y="1108" font-size="34" fill="#5B6B7C">양산 최고기온</text>
+    <text x="90" y="1170" font-size="60" font-weight="bold" fill="#E23B3B">40.3℃</text>
+
+    <rect x="555" y="1050" width="465" height="150" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+    <text x="585" y="1108" font-size="34" fill="#5B6B7C">올여름 열대야일수</text>
+    <text x="585" y="1170" font-size="60" font-weight="bold" fill="#E23B3B">8.8일 <tspan font-size="34" fill="#5B6B7C">역대 1위</tspan></text>
+  </g>
+
+  <!-- 하단 출처 띠 -->
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="32" fill="#5B6B7C">출처: 기상청(weather.go.kr) · 본문 정리</text>
+</svg>
