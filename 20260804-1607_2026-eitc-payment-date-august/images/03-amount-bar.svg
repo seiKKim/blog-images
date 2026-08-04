@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#F4F7FB"/>
+  <rect width="1080" height="180" fill="#1F8A53"/>
+  <text x="60" y="115" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#ffffff">가구 유형별 최대 지급액</text>
+
+  <!-- 기준선 -->
+  <line x1="120" y1="860" x2="960" y2="860" stroke="#C4D2E0" stroke-width="6"/>
+
+  <!-- 막대: 단독 165 (스케일 330만=560px) -->
+  <!-- 단독 165 -> 280px, top=860-280=580 -->
+  <rect x="180" y="580" width="180" height="280" rx="14" fill="#7FB89A"/>
+  <text x="270" y="545" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#1F8A53" text-anchor="middle">165만</text>
+  <text x="270" y="920" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a" text-anchor="middle">단독가구</text>
+
+  <!-- 홑벌이 285 -> 484px, top=860-484=376 -->
+  <rect x="450" y="376" width="180" height="484" rx="14" fill="#3FA372"/>
+  <text x="540" y="341" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="52" fill="#1F8A53" text-anchor="middle">285만</text>
+  <text x="540" y="920" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a" text-anchor="middle">홑벌이가구</text>
+
+  <!-- 맞벌이 330 -> 560px, top=860-560=300 -->
+  <rect x="720" y="300" width="180" height="560" rx="14" fill="#1F8A53"/>
+  <text x="810" y="265" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="58" fill="#1F8A53" text-anchor="middle">330만</text>
+  <text x="810" y="920" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a" text-anchor="middle">맞벌이가구</text>
+
+  <!-- 라벨 단위 -->
+  <text x="60" y="235" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#5B6B7C">단위: 원 (근로장려금 최대 지급액)</text>
+
+  <!-- 하단 안내 -->
+  <text x="540" y="1000" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#5B6B7C" text-anchor="middle">최소 3만 원부터 · 실제 지급액은 소득구간에 따라 달라짐</text>
+
+  <rect x="0" y="1030" width="1080" height="50" fill="#E8EEF5"/>
+  <text x="60" y="1064" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="30" fill="#5B6B7C">출처: 국세청 안내 기준</text>
+</svg>

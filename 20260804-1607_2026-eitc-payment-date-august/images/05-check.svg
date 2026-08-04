@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#F4F7FB"/>
+  <rect width="1080" height="200" fill="#1F8A53"/>
+  <text x="60" y="125" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="60" fill="#ffffff">지급액·심사 진행상황 조회</text>
+
+  <!-- 경로 안내 박스 -->
+  <rect x="60" y="250" width="960" height="230" rx="20" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="320" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1F8A53">홈택스(PC) 조회 경로</text>
+  <text x="100" y="380" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a">로그인 → 장려금·연말정산·기부금</text>
+  <text x="100" y="428" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="34" fill="#1a1a1a">→ 근로·자녀장려금 → 심사진행상황 조회</text>
+
+  <!-- 조회 채널 리스트 -->
+  <rect x="60" y="520" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="590" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a">손택스(모바일 앱)</text>
+  <text x="1000" y="590" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1F8A53" text-anchor="end">근로·자녀장려금 메뉴</text>
+
+  <rect x="60" y="650" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="720" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a">ARS 전화</text>
+  <text x="1000" y="720" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1F8A53" text-anchor="end">1544-9944</text>
+
+  <rect x="60" y="780" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="850" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a">국민비서 구삐</text>
+  <text x="1000" y="850" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="36" fill="#1F8A53" text-anchor="end">지급 안내 알림</text>
+
+  <rect x="60" y="910" width="960" height="110" rx="16" fill="#ffffff" stroke="#D6E0EC"/>
+  <text x="100" y="980" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="40" fill="#1a1a1a">상담센터</text>
+  <text x="1000" y="980" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="44" fill="#1F8A53" text-anchor="end">1566-3636</text>
+
+  <!-- 강조 박스 -->
+  <rect x="60" y="1060" width="960" height="150" rx="20" fill="#FFF6D6" stroke="#FFD23F" stroke-width="4"/>
+  <text x="540" y="1125" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="bold"
+        font-size="42" fill="#1a1a1a" text-anchor="middle">지급일 전 결정금액·계좌 미리 확인</text>
+  <text x="540" y="1173" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="normal"
+        font-size="34" fill="#5B6B7C" text-anchor="middle">본인 명의 계좌로 8월 27일 입금 예정</text>
+
+  <rect x="0" y="1270" width="1080" height="80" fill="#E8EEF5"/>
+  <text x="60" y="1322" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="34" fill="#5B6B7C">출처: 국세청 홈택스 안내 기준</text>
+</svg>
